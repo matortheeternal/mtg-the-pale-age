@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Masao, Legendary Sailor
+  manaCost:
+    __type: ManaCost
+    symbols: U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Masao%2C%20Legendary%20Sailor.jpg
+    width: 700
+    height: 964
+    cropWidth: 653
+    cropHeight: 461
+    xOffset: 22
+    yOffset: 251
+  superType: Legendary Creature
+  subType: "Human "
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0078"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |+
+    ~ can't be blocked.
+
+    Whenever ~ becomes the target of a spell or ability, draw a card.
+
+
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Masao, Legendary Sailor

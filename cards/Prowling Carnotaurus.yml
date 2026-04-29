@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Prowling Carnotaurus
+  manaCost:
+    __type: ManaCost
+    symbols: 3R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Prowling%20Carnotaurus.jpg
+    width: 1399
+    height: 1103
+    cropWidth: 1399
+    cropHeight: 1008
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Dinosaur
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Andrzej Sych
+  autoCollectorNumber: "0166"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
+    comes into play with three +1/+1 counters on it)
+  flavorText: There's nothing quite as terrifying as a Carnotaurus that's caught
+    on to your scent.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Prowling Carnotaurus

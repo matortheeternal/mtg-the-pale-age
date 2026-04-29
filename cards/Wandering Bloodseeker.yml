@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Wandering Bloodseeker
+  manaCost:
+    __type: ManaCost
+    symbols: 1RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Wandering%20Bloodseeker.jpg
+    width: 1654
+    height: 1980
+    cropWidth: 1654
+    cropHeight: 1167
+    xOffset: 0
+    yOffset: 406
+  superType: Creature
+  subType: Human Berserker
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Atramentum
+  autoCollectorNumber: "0243"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+
+    Remove a +1/+1 counter from ~: Deal 1 damage to any target. Activate only as
+    a sorcery.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Wandering Bloodseeker

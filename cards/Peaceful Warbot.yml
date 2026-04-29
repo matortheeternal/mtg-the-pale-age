@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Peaceful Warbot
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Peaceful%20Warbot.jpg
+    width: 1200
+    height: 1562
+    cropWidth: 1200
+    cropHeight: 904
+    xOffset: 0
+    yOffset: 332
+  superType: Artifact Creature
+  subType: Robot
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "6"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0199"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Defender
+
+
+    Reach
+
+
+    {6}: ~  gets +6/+0 and can attack as though it didn't have defender until
+    end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Peaceful Warbot

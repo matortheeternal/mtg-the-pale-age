@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Experimental Mutation
+  manaCost:
+    __type: ManaCost
+    symbols: GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Experimental%20Mutation.jpg
+    width: 900
+    height: 1100
+    cropWidth: 876
+    cropHeight: 618
+    xOffset: 15
+    yOffset: 54
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Bernard Dumaine
+  autoCollectorNumber: "0220"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Choose one:
+
+    - Put two +1/+1 counters on target creature.
+
+    - Move any number of counters from target creature onto another target
+    creature with the same controller.
+
+    - Return target nonland permanent to its owner's hand.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Experimental Mutation

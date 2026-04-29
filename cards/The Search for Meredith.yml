@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Search for Meredith
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Search%20for%20Meredith.jpg
+    width: 1200
+    height: 1896
+    cropWidth: 672
+    cropHeight: 1896
+    xOffset: 213
+    yOffset: 0
+  superType: Enchantment
+  subType: Saga
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0050"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  rulesText: >-
+    I - Mill 4 cards.
+
+
+    II - Archive. (Exile an instant or sorcery card from your graveyard. You may
+    cast a copy of it on a later turn.)
+
+
+    III - Return target creature card from your graveyard to your hand. Creature
+    spells you cast cost {X} less to cast this turn, where X is the number of
+    cards you own in exile.
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: The Search for Meredith

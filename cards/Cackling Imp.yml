@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Cackling Imp
+  manaCost:
+    __type: ManaCost
+    symbols: R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Cackling%20Imp.jpg
+    width: 1024
+    height: 1024
+    cropWidth: 1024
+    cropHeight: 812
+    xOffset: 0
+    yOffset: 76
+  superType: Creature
+  subType: Imp
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Duncan Kay
+  autoCollectorNumber: "0145"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+    When ~ enters, tap target permanent you control and put a stun counter on
+    it.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cackling Imp

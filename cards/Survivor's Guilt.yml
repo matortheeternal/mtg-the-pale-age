@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Survivor's Guilt
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Survivor's%20Guilt.jpg
+    width: 640
+    height: 640
+    cropWidth: 640
+    cropHeight: 452
+    xOffset: 0
+    yOffset: 94
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Éric Lacombe
+  autoCollectorNumber: "0124"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Target creature you control gains deathtouch and undying until end of
+    turn. (When a creature with undying dies, if it had no +1/+1 counters on it,
+    return it to the battlefield under its owner’s control with a +1/+1 counter
+    on it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: could also be named something involving Remorse
+tags: []
+baseName: Survivor's Guilt

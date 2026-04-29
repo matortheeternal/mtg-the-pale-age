@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Orcish Investigator
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Orcish%20Investigator.jpg
+    width: 1200
+    height: 1854
+    cropWidth: 1200
+    cropHeight: 1010
+    xOffset: 0
+    yOffset: 161
+  superType: Creature
+  subType: Orc Detective
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0164"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    When ~ enters, investigate. (Create a Clue token. It’s an artifact with
+    “{2}, Sacrifice this token: Draw a card.”)
+
+
+    Whenever you sacrifice an artifact, ~ deals 1 damage to each player.
+  flavorText: His methods are uncouth at best, but the results are undeniable.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Orcish Investigator

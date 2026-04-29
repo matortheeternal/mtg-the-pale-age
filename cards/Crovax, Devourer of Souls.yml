@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Crovax, Devourer of Souls
+  manaCost:
+    __type: ManaCost
+    symbols: XB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Crovax%2C%20Devourer%20of%20Souls.jpg
+    width: 2872
+    height: 3431
+    cropWidth: 2872
+    cropHeight: 2027
+    xOffset: 0
+    yOffset: 702
+  superType: Legendary Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: "0096"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    When ~ enters, suppress X. (To suppress X, look at the top X cards of target
+    player's library and choose one. Put that card on top of their library and
+    the rest into their graveyard.)
+
+
+    Whenever a creature is put into an opponent's graveyard from anywhere, exile
+    it, then put a +1/+1 counter on @.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "16.5"
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Crovax, Devourer of Souls

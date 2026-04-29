@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Magnificent Multitasker
+  manaCost:
+    __type: ManaCost
+    symbols: 1RW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Magnificent%20Multitasker.jpg
+    width: 1200
+    height: 1540
+    cropWidth: 1200
+    cropHeight: 911
+    xOffset: 0
+    yOffset: 175
+  superType: Artifact Creature
+  subType: Robot
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Marcelo Gonzalez
+  autoCollectorNumber: "0230"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Whenever this creature becomes tapped, untap it. This ability
+    triggers only once each turn.
+  flavorText: Very few robots survived the apocalypse.  Those that did were . . .
+    unique, to say the least.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Magnificent Multitasker

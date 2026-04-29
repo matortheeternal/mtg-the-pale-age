@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ember Invocation
+  manaCost:
+    __type: ManaCost
+    symbols: RW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ember%20Invocation.jpg
+    width: 1920
+    height: 1855
+    cropWidth: 1420
+    cropHeight: 1002
+    xOffset: 159
+    yOffset: 538
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0218"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Choose one:
+    - Target vehicle becomes crewed until end of turn.
+    - ~ deals 2 damage to any target and you gain 2 life.
+    - Target creature gets +2/+0 and gains first strike until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ember Invocation

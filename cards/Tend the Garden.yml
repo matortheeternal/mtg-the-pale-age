@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Tend the Garden
+  manaCost:
+    __type: ManaCost
+    symbols: 3GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Tend%20the%20Garden.jpg
+    width: 1920
+    height: 2656
+    cropWidth: 1920
+    cropHeight: 2401
+    xOffset: 0
+    yOffset: 167
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0241"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Vanishing 2 (This enchantment enters with two time counters on it. At the
+    beginning of your upkeep, remove a time counter from it. When the last is
+    removed, sacrifice it.)
+
+
+    You cannot lose life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Tend the Garden

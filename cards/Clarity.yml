@@ -1,0 +1,79 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Clarity
+  manaCost:
+    __type: ManaCost
+    symbols: 4U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Clarity.jpg
+    width: 900
+    height: 900
+    cropWidth: 900
+    cropHeight: 635
+    xOffset: 0
+    yOffset: 150
+  superType: Creature
+  subType: Octopus Spirit
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Justin Estcourt
+  autoCollectorNumber: "0061"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Curious (Whenever this creature deals damage to a player, draw a card.)
+
+
+    When ~ dies, creatures your opponents control lose all abilities and become
+    2/2 blue Fish creatures until end of turn.
+
+
+    {2}, Sacrifice ~: Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: >-
+  other options considered:
+
+  - When ~ dies, creatures you control get +0/+4 and gain ward {2} until end of
+  turn.
+    - non-interactive, boring, doesn't have a real game impact I think.
+  - When ~ dies, your opponents cannot cast spells until the start of your next
+  turn.
+
+  - When ~ dies, counter all activated and triggered abilities your opponents
+  control.
+    - too niche, and has weird stack ordering interactions when it dies during combat due to APNAP.
+tags: []
+baseName: Clarity

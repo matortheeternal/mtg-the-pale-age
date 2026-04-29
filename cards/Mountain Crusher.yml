@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mountain Crusher
+  manaCost:
+    __type: ManaCost
+    symbols: 4RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mountain%20Crusher.jpg
+    width: 921
+    height: 1226
+    cropWidth: 921
+    cropHeight: 723
+    xOffset: 0
+    yOffset: 53
+  superType: Artifact Creature
+  subType: Golem
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "8"
+  showPT: true
+  rarity: common
+  illustrator: Anthony Nuegarede
+  autoCollectorNumber: "0162"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Trample
+    Whenever ~ enters or attacks, sacrifice a mountain.
+  flavorText: |-
+    "They call it the mountain crusher."
+    "A little on the nose isn't it?"
+    "I'd worry more about the feet."
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Mountain Crusher

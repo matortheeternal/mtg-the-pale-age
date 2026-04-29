@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Embrace the Void
+  manaCost:
+    __type: ManaCost
+    symbols: BW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Embrace%20the%20Void.jpg
+    width: 735
+    height: 729
+    cropWidth: 735
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 105
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Sarah Winter
+  autoCollectorNumber: "0219"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Choose one:
+    - Destroy target creature with mana value 4 or less.
+    - Target player loses 3 life and you gain 3 life.
+    - Target creature gets +1/+0 and gains undying until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Embrace the Void

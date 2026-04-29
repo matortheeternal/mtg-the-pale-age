@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Dune Priest
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dune%20Priest.jpg
+    width: 1354
+    height: 1834
+    cropWidth: 1354
+    cropHeight: 1694
+    xOffset: 0
+    yOffset: 89
+  superType: Creature
+  subType: Human Monk
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0017"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    When ~ leaves the battlefield, each player mills 2 cards.
+  flavorText: The dune priests are a fearsome lot. My friend got in a scuffle with
+    one awhile back, and they broke both his arms, so I would keep your
+    distance.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Dune Priest

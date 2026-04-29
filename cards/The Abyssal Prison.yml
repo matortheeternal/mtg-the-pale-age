@@ -1,0 +1,58 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Abyssal Prison
+  manaCost:
+    __type: ManaCost
+    symbols: 1B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Abyssal%20Prison.jpg
+    width: 736
+    height: 1042
+    cropWidth: 369
+    cropHeight: 1042
+    xOffset: 277
+    yOffset: 0
+  superType: Enchantment
+  subType: Saga
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0127"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: ""
+  rulesText: >-
+    I - Each player discards a card.
+
+    II - Each player sacrifices a creature.
+
+    III - Exile each player's graveyard. You may cast creature spells from among
+    cards exiled this way.
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: The Abyssal Prison

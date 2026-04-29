@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Banquet of Flesh
+  manaCost:
+    __type: ManaCost
+    symbols: XXB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Banquet%20of%20Flesh.jpg
+    width: 728
+    height: 1008
+    cropWidth: 607
+    cropHeight: 428
+    xOffset: 61
+    yOffset: 247
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Akira Hiramoto
+  autoCollectorNumber: "0094"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Each player sacrifices X creatures. For each creature sacrificed this
+    way, create a food token.
+  flavorText: In a daze, Danny looked down at his plate. He came to realize that
+    what had looked like sausages, was actually the entrails of his now former
+    party.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Banquet of Flesh

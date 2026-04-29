@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mana Void
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mana%20Void.jpg
+    width: 960
+    height: 1280
+    cropWidth: 919
+    cropHeight: 1150
+    xOffset: 20
+    yOffset: 130
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0077"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Devoid (This card has no color.)
+
+    Counter target noncreature spell, triggered ability, or activated ability.
+
+    Tap and put a stun counter on up to two target noncreature permanents.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Mana Void

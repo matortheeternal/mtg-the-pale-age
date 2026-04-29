@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Galleon
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Galleon.jpg
+    width: 3840
+    height: 1733
+    cropWidth: 1567
+    cropHeight: 1106
+    xOffset: 349
+    yOffset: 352
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0072"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Trailblaze - Whenever you mount or crew, create a pigment token. This
+    ability triggers only once each turn.  (A pigment token is an artifact with
+    "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
+
+
+    Crew 2
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Galleon

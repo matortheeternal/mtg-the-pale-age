@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Gelatinous Researcher
+  manaCost:
+    __type: ManaCost
+    symbols: 1UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Gelatinous%20Researcher.jpg
+    width: 1920
+    height: 2458
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 23
+  superType: Creature
+  subType: Weird
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0073"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {U}, {T}: Move a counter from target creature onto ~.
+
+
+    Remove a counter from ~: Create a pigment token.  Activate this ability only
+    once each turn. (A pigment token is an artifact with "{T}: Add one mana of
+    any color. Spend this mana only to activate abilities.")
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Gelatinous Researcher

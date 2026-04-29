@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Specter of Doubt
+  manaCost:
+    __type: ManaCost
+    symbols: 1BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Specter%20of%20Doubt.jpg
+    width: 1860
+    height: 2310
+    cropWidth: 1847
+    cropHeight: 2310
+    xOffset: 7
+    yOffset: 0
+  superType: Creature
+  subType: Specter
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0122"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+    Flying, undying (When this creature dies, if it had no +1/+1 counters on it,
+    return it to the battlefield under its owner’s control with a +1/+1 counter
+    on it.)
+
+    When ~ dies, target player creates a 1/1 colorless Spirit creature token
+    with "At the end of your turn, sacrifice this token and lose 2 life."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Specter of Doubt

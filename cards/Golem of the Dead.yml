@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Golem of the Dead
+  manaCost:
+    __type: ManaCost
+    symbols: 3BBB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Golem%20of%20the%20Dead.jpg
+    width: 1920
+    height: 1920
+    cropWidth: 1763
+    cropHeight: 1244
+    xOffset: 77
+    yOffset: 171
+  superType: Creature
+  subType: Zombie Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "6"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0105"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Menace
+
+    Deathtouch
+
+    Whenever a creature dealt damage by ~ this turn dies, put a +1/+1 counter on
+    ~.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Golem of the Dead

@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Electric Inspiration
+  manaCost:
+    __type: ManaCost
+    symbols: UR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Electric%20Inspiration.jpg
+    width: 1920
+    height: 1383
+    cropWidth: 1551
+    cropHeight: 1117
+    xOffset: 184
+    yOffset: 118
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0217"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Choose one:
+
+    - Target player creates a pigment token. (It's an artifact with "{T}: Add
+    one mana of any color. Spend this mana only to activate abilities.")
+
+    - Destroy target artifact.
+
+    - Draw two cards, then discard a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Electric Inspiration

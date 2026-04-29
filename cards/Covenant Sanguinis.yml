@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Covenant Sanguinis
+  manaCost:
+    __type: ManaCost
+    symbols: 2B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Covenant%20Sanguinis.jpg
+    width: 640
+    height: 640
+    cropWidth: 640
+    cropHeight: 452
+    xOffset: 0
+    yOffset: 47
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: confusosaurus
+  autoCollectorNumber: "0095"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Target player draws two cards and loses two life.
+
+
+    Flashback—Sacrifice two creatures. (You may cast this card from your
+    graveyard for its flashback cost. Then exile it.)
+  flavorText: A blood pact is sacrosanct. Inviolable, even in death.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Covenant Sanguinis

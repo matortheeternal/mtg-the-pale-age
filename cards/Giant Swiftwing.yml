@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Giant Swiftwing
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Giant%20Swiftwing.jpg
+    width: 736
+    height: 1053
+    cropWidth: 736
+    cropHeight: 780
+    xOffset: 0
+    yOffset: 132
+  superType: Creature
+  subType: Bird
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0075"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+    When ~ enters, look at the top four cards of your library. You may put an
+    instant or sorcery from among those cards into your graveyard, then put the
+    rest back in any order.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Giant Swiftwing

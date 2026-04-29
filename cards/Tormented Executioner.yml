@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Tormented Executioner
+  manaCost:
+    __type: ManaCost
+    symbols: 3BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Tormented%20Executioner.jpg
+    width: 2718
+    height: 1883
+    cropWidth: 2668
+    cropHeight: 1883
+    xOffset: 25
+    yOffset: 0
+  superType: Creature
+  subType: Demon Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0134"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Whenever a creature is put into a player's graveyard from anywhere, each
+    player loses 1 life.
+
+
+    {T}: Target player mills cards equal to ~'s power.
+
+
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Tormented Executioner

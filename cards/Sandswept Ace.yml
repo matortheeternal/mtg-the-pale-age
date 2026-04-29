@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sandswept Ace
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Sandswept%20Ace.jpg
+    width: 1200
+    height: 849
+    cropWidth: 1200
+    cropHeight: 847
+    xOffset: 0
+    yOffset: 1
+  superType: Creature
+  subType: Human Pilot
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Izabela Arsovska-Braukmann
+  autoCollectorNumber: "0037"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    This creature saddles Mounts and crews Vehicles as if its power were 2
+    greater.
+
+
+    Trailblaze - Whenever you crew or saddle for the first time each turn,
+    target Vehicle or Mount gets +2/+2 until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Sandswept Ace

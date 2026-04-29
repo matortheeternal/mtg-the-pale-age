@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Martial Execution
+  manaCost:
+    __type: ManaCost
+    symbols: 2WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Martial%20Execution.jpg
+    width: 1920
+    height: 1332
+    cropWidth: 1543
+    cropHeight: 1089
+    xOffset: 89
+    yOffset: 122
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0030"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ~ deals 9 damage to target attacking or blocking creature.
+  flavorText: “Die.”
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Martial Execution

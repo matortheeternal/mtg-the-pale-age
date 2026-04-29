@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Rot, Spoil, and Fester
+  manaCost:
+    __type: ManaCost
+    symbols: BG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Rot%2C%20Spoil%2C%20and%20Fester.jpg
+    width: 1920
+    height: 2400
+    cropWidth: 1920
+    cropHeight: 1635
+    xOffset: 0
+    yOffset: 375
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Antonis Kalavrezos
+  autoCollectorNumber: "0238"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Choose one:
+
+    - Mill three cards, then you may return a creature card from your graveyard
+    to your hand.
+
+    - Proliferate, then draw a card.
+
+    - Target player sacrifices a creature. Create a food token.
+  flavorText: null
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Rot, Spoil, and Fester

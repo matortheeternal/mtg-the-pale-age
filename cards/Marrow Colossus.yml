@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Marrow Colossus
+  manaCost:
+    __type: ManaCost
+    symbols: 3BR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Marrow%20Colossus.jpg
+    width: 600
+    height: 776
+    cropWidth: 600
+    cropHeight: 423
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Zombie Giant
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0231"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Spectacle {1}{B}{R} (You may cast this spell for its spectacle cost rather
+    than its mana cost if an opponent lost life this turn.)
+
+
+    Trample
+  flavorText: The colossus slammed its arm into the ground, bones snapping and
+    hissing as the smell of boiling marrow billowed.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Marrow Colossus

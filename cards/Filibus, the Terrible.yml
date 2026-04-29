@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Filibus, the Terrible
+  manaCost:
+    __type: ManaCost
+    symbols: 4UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Filibus%2C%20the%20Terrible.jpg
+    width: 1290
+    height: 1097
+    cropWidth: 1241
+    cropHeight: 875
+    xOffset: 24
+    yOffset: 36
+  superType: Legendary Creature
+  subType: Djinn
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: uncommon
+  illustrator: Matthew Cartwright
+  autoCollectorNumber: "0069"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: As long as you control a creature, whenever a player casts a spell,
+    counter that spell unless that player puts a +1/+1 counter on a creature you
+    control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Filibus, the Terrible

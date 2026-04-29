@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Staff of the Stars
+  manaCost:
+    __type: ManaCost
+    symbols: U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Staff%20of%20the%20Stars.jpg
+    width: 1920
+    height: 2294
+    cropWidth: 1622
+    cropHeight: 1145
+    xOffset: 294
+    yOffset: 659
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0086"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Equipped creature gets +1/+0 and has curious. (Whenever it deals damage to a
+    player, draw a card.)
+
+
+    Equip {2}
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Staff of the Stars

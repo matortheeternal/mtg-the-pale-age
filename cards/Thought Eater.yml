@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Thought Eater
+  manaCost:
+    __type: ManaCost
+    symbols: 5U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Thought%20Eater.jpg
+    width: 736
+    height: 552
+    cropWidth: 736
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 16
+  superType: Creature
+  subType: Illusion
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0090"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
+    target player's library. Choose one. Put that card back on top of their
+    library and the rest into that player's graveyard.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Thought Eater

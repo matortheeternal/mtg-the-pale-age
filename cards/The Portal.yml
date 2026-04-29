@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Portal
+  manaCost:
+    __type: ManaCost
+    symbols: 2U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Portal.jpg
+    width: 695
+    height: 960
+    cropWidth: 324
+    cropHeight: 915
+    xOffset: 185
+    yOffset: 21
+  superType: Enchantment
+  subType: Saga
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0089"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  rulesText: >-
+    I - Return a creature or artifact you control to its owner's hand.
+
+
+    II - You may reveal an artifact or creature card from your hand.  If you do,
+    create a token copy of it.
+
+
+    III - Search your library for a card, put that card into your hand, then
+    shuffle.
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: The Portal

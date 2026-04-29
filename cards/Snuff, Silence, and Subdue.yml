@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Snuff, Silence, and Subdue
+  manaCost:
+    __type: ManaCost
+    symbols: UB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Snuff%2C%20Silence%2C%20and%20Subdue.jpg
+    width: 1920
+    height: 2652
+    cropWidth: 1920
+    cropHeight: 1510
+    xOffset: 0
+    yOffset: 401
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Leo Rose
+  autoCollectorNumber: "0240"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Choose one:
+
+    - Target creature gets -3/-3 until end of turn.
+
+    - Counter target noncreature spell.
+
+    - Suppress 2. (To suppress 2, look at the top two cards of target player's
+    library and choose one. Put that card on top of their library and the rest
+    into their graveyard.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Snuff, Silence, and Subdue

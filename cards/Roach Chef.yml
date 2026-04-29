@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Roach Chef
+  manaCost:
+    __type: ManaCost
+    symbols: 1BG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Roach%20Chef.jpg
+    width: 736
+    height: 1308
+    cropWidth: 736
+    cropHeight: 1143
+    xOffset: 0
+    yOffset: 65
+  superType: Creature
+  subType: Insect
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0237"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    When ~ dies, create two food tokens.
+  flavorText: "\"Nothing he makes is edible, but I haven't the heart to tell him.\""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Roach Chef

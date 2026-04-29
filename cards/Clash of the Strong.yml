@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Clash of the Strong
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Clash%20of%20the%20Strong.jpg
+    width: 900
+    height: 1101
+    cropWidth: 900
+    cropHeight: 635
+    xOffset: 0
+    yOffset: 106
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Abelardo
+  autoCollectorNumber: "0184"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Choose one —
+
+    - Target creature you control fights target creature you don't control.
+    (Each deals damage equal to its power to the other.)
+
+    - Target creature you control gets +3/+3 and gains trample until end of
+    turn.
+  flavorText: null
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Clash of the Strong

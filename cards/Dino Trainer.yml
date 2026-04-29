@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Dino Trainer
+  manaCost:
+    __type: ManaCost
+    symbols: 1GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dino%20Trainer.jpg
+    width: 640
+    height: 562
+    cropWidth: 640
+    cropHeight: 452
+    xOffset: 0
+    yOffset: 36
+  superType: Creature
+  subType: Human Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Shaun Keenan
+  autoCollectorNumber: "0214"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: When ~ enters, create a 2/2 green Dinosaur creature token.
+  flavorText: '"To train a dinosaur, you must be strong, diligent, and careful
+    about where you put your appendages."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Dino Trainer

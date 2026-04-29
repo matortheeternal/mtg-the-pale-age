@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Magical Lasso
+  manaCost:
+    __type: ManaCost
+    symbols: WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Magical%20Lasso.jpg
+    width: 1920
+    height: 1261
+    cropWidth: 1501
+    cropHeight: 1060
+    xOffset: 209
+    yOffset: 93
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0229"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Choose one:
+
+    - Attach target equipment or aura to target creature you control.
+
+    - Tap target permanent and put a stun counter on it.
+
+    - Archive. (To archive, exile an instant or sorcery card from your
+    graveyard. You may cast it on a later turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Magical Lasso

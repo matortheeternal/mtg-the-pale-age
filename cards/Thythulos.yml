@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Thythulos
+  manaCost:
+    __type: ManaCost
+    symbols: 4BBB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Thythulos.jpg
+    width: 1170
+    height: 2007
+    cropWidth: 1170
+    cropHeight: 1621
+    xOffset: 0
+    yOffset: 386
+  superType: Legendary Creature
+  subType: Elder Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "7"
+  toughness: "9"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0132"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Ward—Discard two cards.
+
+
+    Lifelink
+
+
+    Whenever you lose life, each player mills cards equal to the amount of life
+    you lost.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Thythulos

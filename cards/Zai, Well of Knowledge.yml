@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Zai, Well of Knowledge
+  manaCost:
+    __type: ManaCost
+    symbols: 6WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Zai%2C%20Well%20of%20Knowledge.jpg
+    width: 1071
+    height: 1071
+    cropWidth: 1071
+    cropHeight: 875
+    xOffset: 0
+    yOffset: 102
+  superType: Legendary Creature
+  subType: Avatar
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "7"
+  showPT: true
+  rarity: mythic
+  illustrator: ""
+  autoCollectorNumber: "0244"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Ward—Discard a noncreature card.
+
+
+    ~ costs {1} less to cast for each noncreature card you own in exile.
+
+
+    Whenever you cast a noncreature spell, copy it.  You may choose new targets
+    for the copy.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Zai, Well of Knowledge

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Passion
+  manaCost:
+    __type: ManaCost
+    symbols: 4R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Passion.jpg
+    width: 575
+    height: 898
+    cropWidth: 575
+    cropHeight: 533
+    xOffset: 0
+    yOffset: 119
+  superType: Creature
+  subType: Elemental Spirit
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Nicolas Delort
+  autoCollectorNumber: "0165"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Haste
+
+
+    When ~ dies, untap all creatures you control. If it's your combat phase,
+    there is an additional combat phase after this phase.
+
+
+    {2}, Sacrifice ~: Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Passion

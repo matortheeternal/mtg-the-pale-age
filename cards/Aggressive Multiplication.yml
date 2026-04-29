@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Aggressive Multiplication
+  manaCost:
+    __type: ManaCost
+    symbols: XGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Aggressive%20Multiplication.jpg
+    width: 702
+    height: 965
+    cropWidth: 702
+    cropHeight: 875
+    xOffset: 0
+    yOffset: 90
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Tapwing
+  autoCollectorNumber: "0179"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Create X 2/2 green Dinosaur creature tokens. They gain haste until end of
+    turn.
+  flavorText: >-
+    "Raptors are challenging. Left unchecked, they will multiply and fight for
+    every scrap of food for miles in every direction."
+
+    —<i>Making a Home after Disaster, vol. II</i>
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Aggressive Multiplication

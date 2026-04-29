@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Return from Darkness
+  manaCost:
+    __type: ManaCost
+    symbols: 4B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Return%20from%20Darkness.jpg
+    width: 1199
+    height: 1707
+    cropWidth: 1199
+    cropHeight: 846
+    xOffset: 0
+    yOffset: 430
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: denungeherrholm
+  autoCollectorNumber: "0117"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Return target creature card from your graveyard to the battlefield
+    with two +1/+1 counters on it.
+  flavorText: "From the darkness it emerged: stronger, and a whole lot angrier
+    than before."
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Return from Darkness

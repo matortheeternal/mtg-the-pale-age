@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bearer of Hope
+  manaCost:
+    __type: ManaCost
+    symbols: WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bearer%20of%20Hope.jpg
+    width: 2872
+    height: 3431
+    cropWidth: 2743
+    cropHeight: 3431
+    xOffset: 129
+    yOffset: 0
+  superType: Creature
+  subType: Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0006"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    Flying
+
+    Swarm - Whenever one or more tokens you control enter, you gain 2 life.
+  flavorText: “A youthful angel, bearing a massive blade of flame, came to me in
+    the night.”
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Bearer of Hope

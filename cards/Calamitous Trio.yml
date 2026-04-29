@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Calamitous Trio
+  manaCost:
+    __type: ManaCost
+    symbols: 5R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Calamitous%20Trio.jpg
+    width: 2132
+    height: 2741
+    cropWidth: 2132
+    cropHeight: 2667
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Giant
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: Rochaku
+  autoCollectorNumber: "0146"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    As an additional cost to cast ~, sacrifice an artifact or discard a card.
+
+    When ~ enters, if an opponent was dealt damage this turn you may create two
+    4/4 red Giant creature tokens.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Calamitous Trio

@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Endless Explosion
+  manaCost:
+    __type: ManaCost
+    symbols: 4RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Endless%20Explosion.jpg
+    width: 1920
+    height: 2000
+    cropWidth: 1630
+    cropHeight: 1150
+    xOffset: 257
+    yOffset: 48
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0150"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    ~ deals 4 damage to each creature.
+
+    Whenever one or more creatures die this turn, ~ deals 4 damage to each
+    creature.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Endless Explosion

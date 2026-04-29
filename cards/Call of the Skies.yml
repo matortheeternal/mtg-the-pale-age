@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Call of the Skies
+  manaCost:
+    __type: ManaCost
+    symbols: U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Call%20of%20the%20Skies.jpg
+    width: 2425
+    height: 2425
+    cropWidth: 2425
+    cropHeight: 1711
+    xOffset: 0
+    yOffset: 357
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0059"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Create a 1/1 blue Bird creature token with flying. If you cast this spell
+    from anywhere other than your hand, create three of those tokens instead.
+
+
+    Flashback {4}{U}{U}
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Call of the Skies

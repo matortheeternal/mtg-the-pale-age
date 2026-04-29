@@ -1,0 +1,76 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Gg'kah, The Calamity
+  manaCost:
+    __type: ManaCost
+    symbols: 3RGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Gg'kah%2C%20The%20Calamity.jpg
+    width: 674
+    height: 1035
+    cropWidth: 674
+    cropHeight: 940
+    xOffset: 0
+    yOffset: 95
+  superType: Legendary Creature
+  subType: Wurm Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: mythic
+  illustrator: ""
+  autoCollectorNumber: "0224"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
+    enters with a +1/+1 counter on it.)
+
+
+    Trample
+
+
+    Whenever a creature an opponent controls dies, put a +1/+1 counter on ~.
+
+
+    {R/G}, Remove a +1/+1 counter from @: @ deals 1 damage to each creature and
+    each player.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Gg'kah, The Calamity

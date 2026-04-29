@@ -1,0 +1,76 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Gryn, the Immortal
+  manaCost:
+    __type: ManaCost
+    symbols: 6BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Gryn%2C%20the%20Immortal.jpg
+    width: 1920
+    height: 1978
+    cropWidth: 1588
+    cropHeight: 1121
+    xOffset: 222
+    yOffset: 236
+  superType: Creature
+  subType: Zombie Dragon
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0106"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Delve (Each card you exile from your graveyard while casting this spell pays
+    for {1}. )
+
+
+    Flying, deathtouch
+
+
+    Indestructible
+
+
+    Whenever ~ is dealt damage, you lose that much life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: >-
+  v1: Sacrifice a permanent: Tap or untap ~. Any player may activate this
+  ability.
+
+
+  v2: Whenever ~ is dealt damage, sacrifice that many permanents.
+tags: []
+baseName: Gryn, the Immortal

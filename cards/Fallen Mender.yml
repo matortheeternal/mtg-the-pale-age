@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Fallen Mender
+  manaCost:
+    __type: ManaCost
+    symbols: 1WB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Fallen%20Mender.jpg
+    width: 797
+    height: 1067
+    cropWidth: 797
+    cropHeight: 562
+    xOffset: 0
+    yOffset: 146
+  superType: Creature
+  subType: Spirit Cleric
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: "0222"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
+
+    Lifelink
+  flavorText: The healers of the empire were cursed. Cursed so their magic could
+    only heal themselves. Forced to watch their people die.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Fallen Mender

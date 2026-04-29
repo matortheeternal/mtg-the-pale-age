@@ -1,0 +1,76 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Mothership
+  manaCost:
+    __type: ManaCost
+    symbols: 10W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Mothership.jpg
+    width: 640
+    height: 640
+    cropWidth: 640
+    cropHeight: 619
+    xOffset: 0
+    yOffset: 21
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "10"
+  toughness: "10"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0047"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Each creature or vehicle you tap while casting this spell pays for {1} or
+    one mana of that card's color.
+
+
+    Flying
+
+
+    Whenever ~ attacks, create two 2/2 white Construct artifact creature tokens
+    with flying tapped and attacking.
+
+
+    Trailblaze - Whenever you crew or saddle, creatures you control get +1/+1
+    until end of turn.
+
+
+    Crew 10
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Mothership

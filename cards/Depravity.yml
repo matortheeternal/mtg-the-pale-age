@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Depravity
+  manaCost:
+    __type: ManaCost
+    symbols: 4B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Depravity.jpg
+    width: 736
+    height: 1079
+    cropWidth: 736
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 427
+  superType: Creature
+  subType: Demon Spirit
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Unknown
+  autoCollectorNumber: "0098"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Lifelink
+
+    When ~ dies, creatures your opponents control get -2/-2 until end of turn.
+
+    {2}, Sacrifice ~: Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Depravity

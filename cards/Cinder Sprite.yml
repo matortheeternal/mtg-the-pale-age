@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Cinder Sprite
+  manaCost:
+    __type: ManaCost
+    symbols: R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Cinder%20Sprite.jpg
+    width: 1200
+    height: 1871
+    cropWidth: 1200
+    cropHeight: 1403
+    xOffset: 0
+    yOffset: 468
+  superType: Creature
+  subType: Elemental
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0147"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    When ~ enters the battlefield, it deals 1 damage to target player.
+
+
+    Spectacle {0} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cinder Sprite

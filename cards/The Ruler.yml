@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Ruler
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Ruler.jpg
+    width: 736
+    height: 1308
+    cropWidth: 736
+    cropHeight: 992
+    xOffset: 0
+    yOffset: 316
+  superType: Legendary Creature
+  subType: Human Noble
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0049"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    When ~ enters and at the beginning of your upkeep, mill two cards.
+
+
+    {2}{W}: Return target creature card with mana value 2 or less from your
+    graveyard to the battlefield. This ability costs {2} less to activate if you
+    own four or more cards in exile.
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Ruler

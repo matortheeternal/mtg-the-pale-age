@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Pass into Eternity
+  manaCost:
+    __type: ManaCost
+    symbols: 2BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pass%20into%20Eternity.jpg
+    width: 2391
+    height: 1666
+    cropWidth: 2361
+    cropHeight: 1666
+    xOffset: 15
+    yOffset: 0
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: "0112"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Vanishing 3 (This enchantment enters with three time counters on it. At the
+    beginning of your upkeep, remove a time counter from it. When the last is
+    removed, sacrifice it.)
+
+
+    Whenever a time counter is removed from ~, each player mills 10 cards, then
+    draws a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Pass into Eternity

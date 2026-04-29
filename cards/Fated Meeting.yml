@@ -1,0 +1,59 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Fated Meeting
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Fated%20Meeting.jpg
+    width: 1200
+    height: 928
+    cropWidth: 361
+    cropHeight: 928
+    xOffset: 606
+    yOffset: 0
+  superType: Enchantment
+  subType: Saga
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0188"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  rulesText: >
+    I - Look at the top four cards of your library. You may reveal a creature
+    card from among them and put it into your hand. Put the rest on the bottom
+    in a random order.
+
+    II - Add {G}{G}. Spend this mana only to cast creature spells.
+
+    III - Creatures you control become saddled and get +2/+2 until end of turn.
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Fated Meeting

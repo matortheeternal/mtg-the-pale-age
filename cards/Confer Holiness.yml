@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Confer Holiness
+  manaCost:
+    __type: ManaCost
+    symbols: 3WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Confer%20Holiness.jpg
+    width: 1079
+    height: 1074
+    cropWidth: 859
+    cropHeight: 1074
+    xOffset: 110
+    yOffset: 0
+  superType: Enchantment
+  subType: Aura
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Nocturnal
+  autoCollectorNumber: "0013"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Enchant nontoken creature
+
+
+    Enchanted creature is a 5/5 white Angel with flying, first strike, and
+    lifelink. (It loses all other colors and all other creature types.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: disabled
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Confer Holiness

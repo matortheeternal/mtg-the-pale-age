@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Village Swine
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Village%20Swine.jpg
+    width: 1770
+    height: 615
+    cropWidth: 872
+    cropHeight: 615
+    xOffset: 449
+    yOffset: 0
+  superType: Creature
+  subType: Boar
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Sandra Delgado
+  autoCollectorNumber: "0208"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    {2}{G}, {T}: Create a token copy of ~.
+
+    When you sacrifice ~, gain 1 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Village Swine

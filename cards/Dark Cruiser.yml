@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Dark Cruiser
+  manaCost:
+    __type: ManaCost
+    symbols: BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dark%20Cruiser.jpg
+    width: 736
+    height: 1104
+    cropWidth: 736
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 403
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0097"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Menace
+
+
+    Pay 3 life: ~ becomes crewed until end of turn.
+
+
+    Crew 2 (Tap any number of creatures you control with total power 2 or more:
+    This Vehicle becomes an artifact creature until end of turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Dark Cruiser

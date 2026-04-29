@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Somber Philosopher
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Somber%20Philosopher.jpg
+    width: 736
+    height: 977
+    cropWidth: 736
+    cropHeight: 921
+    xOffset: 0
+    yOffset: 56
+  superType: Creature
+  subType: Human Cleric
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Charles Émile Jacque
+  autoCollectorNumber: "0121"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    Whenever another creature dies, you may gain 1 life.
+
+    {4}{B}, Sacrifice ~: Target opponent sacrifices a creature.
+  flavorText: '"What meaning is there to an empty world?"'
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Somber Philosopher

@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Assemble the Gang
+  manaCost:
+    __type: ManaCost
+    symbols: 2R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Assemble%20the%20Gang.jpg
+    width: 1080
+    height: 760
+    cropWidth: 1080
+    cropHeight: 760
+    xOffset: 0
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Tsutomu Takahashi
+  autoCollectorNumber: "0141"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Up to one target vehicle you control becomes crewed. Creatures you
+    control get +2/+0 until end of turn.
+  flavorText: '"Horraaa!" The bikers peeled across the desert, like a streak of
+    ink on a canvas.  Whooping and yelling—peacocks in heat.'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Assemble the Gang

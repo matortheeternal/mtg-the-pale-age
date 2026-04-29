@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Fallen Prince
+  manaCost:
+    __type: ManaCost
+    symbols: 1B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Fallen%20Prince.jpg
+    width: 1148
+    height: 2048
+    cropWidth: 1148
+    cropHeight: 1699
+    xOffset: 0
+    yOffset: 118
+  superType: Creature
+  subType: Human Noble
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0101"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    When this creature enters, choose one —
+
+    - Mill three cards.
+
+    - Each opponent loses 2 life.
+
+    - Return target creature card with mana value 2 or less from your graveyard
+    to the battlefield tapped.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "17.5"
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Fallen Prince

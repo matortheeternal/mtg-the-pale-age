@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Desert Assault Vehicle
+  manaCost:
+    __type: ManaCost
+    symbols: 3WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Desert%20Assault%20Vehicle.jpg
+    width: 1200
+    height: 971
+    cropWidth: 1004
+    cropHeight: 709
+    xOffset: 90
+    yOffset: 92
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "5"
+  showPT: true
+  rarity: uncommon
+  illustrator: Christian Bravery
+  autoCollectorNumber: "0015"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    First strike
+
+
+    Trailblaze - Whenever you crew or saddle for the first time each turn, draw
+    a card.
+
+
+    Crew 4 (Tap any number of creatures you control with total power 4 or more:
+    This Vehicle becomes an artifact creature until end of turn.)
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Desert Assault Vehicle

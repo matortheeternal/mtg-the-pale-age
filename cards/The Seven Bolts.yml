@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Seven Bolts
+  manaCost:
+    __type: ManaCost
+    symbols: 4RRR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Seven%20Bolts.jpg
+    width: 1920
+    height: 1421
+    cropWidth: 1675
+    cropHeight: 1182
+    xOffset: 122
+    yOffset: 107
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0173"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "~ deals 3 damage to each of up to seven different targets. If a
+    creature would die this way, exile it instead, then create a pigment token.
+    (It's an artifact with \"{T}: Add one mana of any color. Spend this mana
+    only to activate abilities.\")"
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Seven Bolts

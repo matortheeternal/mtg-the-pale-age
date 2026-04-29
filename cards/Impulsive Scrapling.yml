@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Impulsive Scrapling
+  manaCost:
+    __type: ManaCost
+    symbols: R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Impulsive%20Scrapling.jpg
+    width: 1200
+    height: 1200
+    cropWidth: 1200
+    cropHeight: 847
+    xOffset: 0
+    yOffset: 113
+  superType: Artifact Creature
+  subType: Homunculus
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0158"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Haste
+
+    {1}{R}: ~ gets +2/+0 until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Impulsive Scrapling

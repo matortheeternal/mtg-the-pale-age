@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Tarbosaurus Alpha
+  manaCost:
+    __type: ManaCost
+    symbols: 5G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Tarbosaurus%20Alpha.jpg
+    width: 484
+    height: 570
+    cropWidth: 484
+    cropHeight: 342
+    xOffset: 0
+    yOffset: 188
+  superType: Creature
+  subType: Dinosaur
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Fabio Pastori
+  autoCollectorNumber: "0204"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Whenever ~ enters or attacks, create a 2/2 green Dinosaur creature token.
+  flavorText: Raptors have a strange relationship with larger carnivores. They
+    like to be close, so they can scavenge meat from the hunt, but not too
+    close, lest they become a snack themselves.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Tarbosaurus Alpha

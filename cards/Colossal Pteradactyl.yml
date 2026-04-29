@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Colossal Pteradactyl
+  manaCost:
+    __type: ManaCost
+    symbols: 5W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Colossal%20Pteradactyl.jpg
+    width: 1200
+    height: 1727
+    cropWidth: 1200
+    cropHeight: 1230
+    xOffset: 0
+    yOffset: 118
+  superType: Creature
+  subType: Dinosaur Mount
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0012"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    Trailblaze - Whenever you crew or saddle for the first time each turn,
+    target creature you control gets +1/+1 and gains flying until end of turn.
+
+
+    Saddle 3 (Tap any number of other creatures you control with total power 3
+    or more: This Mount becomes saddled until end of turn. Saddle only as a
+    sorcery.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Colossal Pteradactyl

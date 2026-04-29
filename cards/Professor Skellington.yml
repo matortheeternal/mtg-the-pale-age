@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Professor Skellington
+  manaCost:
+    __type: ManaCost
+    symbols: 1UB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Professor%20Skellington.jpg
+    width: 2572
+    height: 3738
+    cropWidth: 2572
+    cropHeight: 3695
+    xOffset: 0
+    yOffset: 43
+  superType: Creature
+  subType: Skeleton Advisor
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Andrei Riabovitchev
+  autoCollectorNumber: "0235"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    When ~ dies, each player mills four cards.
+
+    {2}{B}: Return ~ from your graveyard to the battlefield tapped.
+  flavorText: The professor of Political Theory at the university was an odd
+    fellow. I'm not sure if he was even alive.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Professor Skellington

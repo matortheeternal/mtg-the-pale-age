@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Armored Hybrid
+  manaCost:
+    __type: ManaCost
+    symbols: 1GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Armored%20Hybrid.jpg
+    width: 2862
+    height: 3770
+    cropWidth: 2862
+    cropHeight: 2315
+    xOffset: 0
+    yOffset: 938
+  superType: Creature
+  subType: Mutant Crab Dryad
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0210"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    ~ enters with a defender counter on it.
+
+
+    ~ enters with two +1/+1 counters on it.
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Armored Hybrid

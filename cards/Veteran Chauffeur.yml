@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Veteran Chauffeur
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Veteran%20Chauffeur.jpg
+    width: 3500
+    height: 3500
+    cropWidth: 3500
+    cropHeight: 2470
+    xOffset: 0
+    yOffset: 515
+  superType: Creature
+  subType: Human Pilot
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Richard Anderson
+  autoCollectorNumber: "0053"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Sacrifice ~: Artifacts and creatures you control gain indestructible until
+    end of turn.
+
+
+    This creature saddles Mounts and crews Vehicles as though its power were 2
+    greater.
+  flavorText: “I've driven this route a thousand times. You will be safe with me,
+    I promise.”
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Veteran Chauffeur

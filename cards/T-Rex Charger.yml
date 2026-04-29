@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: T-Rex Charger
+  manaCost:
+    __type: ManaCost
+    symbols: 3R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/T-Rex%20Charger.jpg
+    width: 3500
+    height: 3500
+    cropWidth: 3500
+    cropHeight: 2470
+    xOffset: 0
+    yOffset: 515
+  superType: Creature
+  subType: Dinosaur Mount
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Richard Anderson
+  autoCollectorNumber: "0170"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Trailblaze - Whenever you crew or saddle for the first time each turn,
+    target creature you control gets +1/+0 and gains trample until end of turn.
+
+
+    Saddle 1 (Tap any number of other creatures you control with total power 3
+    or more: This Mount becomes saddled until end of turn. Saddle only as a
+    sorcery.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: T-Rex Charger

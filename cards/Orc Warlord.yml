@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Orc Warlord
+  manaCost:
+    __type: ManaCost
+    symbols: 1RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Orc%20Warlord.jpg
+    width: 1000
+    height: 1333
+    cropWidth: 884
+    cropHeight: 624
+    xOffset: 60
+    yOffset: 354
+  superType: Creature
+  subType: Orc Barbarian
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Kael Ngu
+  autoCollectorNumber: "0163"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 1 (If an opponent was dealt damage this turn, ~ enters with a
+    +1/+1 counter on it.)
+
+
+    {1}, Remove a counter from ~: Target creature you control gets +2/+0 and
+    gains menace until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Orc Warlord

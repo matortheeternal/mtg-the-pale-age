@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Abaddon, Fist of Suns
+  manaCost:
+    __type: ManaCost
+    symbols: RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Abaddon%2C%20Fist%20of%20Suns.jpg
+    width: 1920
+    height: 2269
+    cropWidth: 1470
+    cropHeight: 1037
+    xOffset: 225
+    yOffset: 374
+  superType: Legendary Creature
+  subType: Human Wizard
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0137"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: When ~ enters, deal 3 damage to target creature an opponent controls.
+    You may pay {R}{R} to deal 6 damage to that creature instead.
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Abaddon, Fist of Suns

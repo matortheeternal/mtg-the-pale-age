@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Brine Muncher
+  manaCost:
+    __type: ManaCost
+    symbols: 1UR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Brine%20Muncher.jpg
+    width: 1920
+    height: 1947
+    cropWidth: 1518
+    cropHeight: 1214
+    xOffset: 188
+    yOffset: 376
+  superType: Creature
+  subType: Beast
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0211"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{U}{R}: ~ gets +1/+1 until end of turn. If mana from a pigment was
+    spent to activate this ability, it gets +2/+2 until end of turn instead."
+  flavorText: >-
+    After supplying the subject with 10 gallons of pigment, it has reached a new
+    record size. It’s still dumb as a rock, but now it could eat an entire city
+    in a single bite.
+
+    <i>—Experiment log, day 23</i>
+  chopTop: "3"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Brine Muncher

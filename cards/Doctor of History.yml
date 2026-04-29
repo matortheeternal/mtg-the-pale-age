@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Doctor of History
+  manaCost:
+    __type: ManaCost
+    symbols: 2WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Doctor%20of%20History.jpg
+    width: 800
+    height: 743
+    cropWidth: 739
+    cropHeight: 565
+    xOffset: 33
+    yOffset: 89
+  superType: Creature
+  subType: Bird Cleric
+  flagLeft: ""
+  flagRight: ""
+  power: "*"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: James Todd
+  autoCollectorNumber: "0216"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying, lifelink
+
+
+    ~'s power is equal to the number cards you own in exile.
+
+
+    {1}{W/U}, {T}: Archive. (Exile a noncreature card from your graveyard. You
+    may play a copy of it on a later turn.)
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Doctor of History

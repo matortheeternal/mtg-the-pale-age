@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Walking Castle
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Walking%20Castle.jpg
+    width: 540
+    height: 960
+    cropWidth: 540
+    cropHeight: 819
+    xOffset: 0
+    yOffset: 85
+  superType: Artifact Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0246"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {T}: Add {C}.
+
+
+    {3}: ~ becomes a 2/6 colorless Construct creature with defender until end of
+    turn. It's still a land.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Walking Castle

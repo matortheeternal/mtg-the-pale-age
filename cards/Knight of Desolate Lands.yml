@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Knight of Desolate Lands
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Knight%20of%20Desolate%20Lands.jpg
+    width: 1080
+    height: 725
+    cropWidth: 1027
+    cropHeight: 725
+    xOffset: 53
+    yOffset: 0
+  superType: Creature
+  subType: Human Knight
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0028"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Trailblaze - Whenever you crew or saddle for the first time each turn,
+    target creature you control gains first strike until end of turn.
+  flavorText: He wanders with nothing but his blade and his trusty steed. He no
+    longer knows his purpose, and yet he remains.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: playtest first strike on opponent's turn
+tags: []
+baseName: Knight of Desolate Lands

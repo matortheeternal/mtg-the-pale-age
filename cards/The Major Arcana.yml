@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Major Arcana
+  manaCost:
+    __type: ManaCost
+    symbols: 5WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Major%20Arcana.jpg
+    width: 1945
+    height: 2600
+    cropWidth: 1945
+    cropHeight: 1372
+    xOffset: 0
+    yOffset: 24
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Yuriy Mazurkin
+  autoCollectorNumber: "0046"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, until end of turn if a creature would deal damage to you, you
+    gain that much life instead.
+
+
+    At the beginning of your upkeep, if you have 40 or more life, you win the
+    game.
+  flavorText: |-
+    The angel descended, and light burst forth.
+    The evil was defeated, the deed was done.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Major Arcana

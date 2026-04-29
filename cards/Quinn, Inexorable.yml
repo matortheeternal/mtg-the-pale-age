@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Quinn, Inexorable
+  manaCost:
+    __type: ManaCost
+    symbols: 3WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Quinn%2C%20Inexorable.jpg
+    width: 1500
+    height: 1907
+    cropWidth: 1500
+    cropHeight: 1876
+    xOffset: 0
+    yOffset: 31
+  superType: Legendary Creature
+  subType: Human Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Eduardo Aragao
+  autoCollectorNumber: "0036"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    Vigilance, first strike
+
+    When @ enters, you may attach target equipment you control to her.
+
+    Exhaust  — {5}, {T}: Destroy target nonland permanent.
+  flavorText: Quinn strode along the ocean floor, hair unfurled, the explosion
+    bright and violent behind her.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Quinn, Inexorable

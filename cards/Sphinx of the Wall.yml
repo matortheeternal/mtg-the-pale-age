@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sphinx of the Wall
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Sphinx%20of%20the%20Wall.jpg
+    width: 1561
+    height: 1200
+    cropWidth: 1561
+    cropHeight: 1200
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Sphinx
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "6"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0084"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Defender
+
+    Flying
+
+
+    Sacrifice an artifact: ~ may attack this turn as though it didn't have
+    defender.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Sphinx of the Wall

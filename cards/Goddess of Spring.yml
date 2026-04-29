@@ -1,0 +1,75 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Goddess of Spring
+  manaCost:
+    __type: ManaCost
+    symbols: 4GGW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Goddess%20of%20Spring.jpg
+    width: 564
+    height: 789
+    cropWidth: 564
+    cropHeight: 705
+    xOffset: 0
+    yOffset: 17
+  superType: Legendary Creature
+  subType: God
+  flagLeft: ""
+  flagRight: ""
+  power: "*"
+  toughness: "*"
+  showPT: true
+  rarity: mythic
+  illustrator: ""
+  autoCollectorNumber: "0225"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Vigilance, lifelink, reach
+
+
+    ~'s power and toughness are equal to the number of creatures you control.
+
+
+    If an effect would create one or more tokens under your control, it creates
+    twice that many of those tokens instead.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Goddess of Spring

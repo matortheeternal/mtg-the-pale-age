@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Monolith of Memory
+  manaCost:
+    __type: ManaCost
+    symbols: 1GGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Monolith%20of%20Memory.jpg
+    width: 1920
+    height: 1154
+    cropWidth: 1399
+    cropHeight: 988
+    xOffset: 260
+    yOffset: 77
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0194"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {1}{G}, Remove a +1/+1 counter from a creature you control: Target creature
+    gains curious until end of turn. (Whenever a creature with curious deals
+    damage to a player, draw a card.)
+
+
+    {T}: Add {G}{G}{G}. Spend this mana only to cast creature spells.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Monolith of Memory

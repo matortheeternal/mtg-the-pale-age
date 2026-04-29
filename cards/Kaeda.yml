@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Kaeda
+  manaCost:
+    __type: ManaCost
+    symbols: "7"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Kaeda.jpg
+    width: 736
+    height: 736
+    cropWidth: 736
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 89
+  superType: Legendary Planeswalker
+  subType: Kaeda
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: ""
+  autoCollectorNumber: "0001"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    You have protection from colorless.
+
+
+    +1: Put a devoid counter on target permanent. Permanents with devoid
+    counters on them have no color.
+
+
+    -3: Target colorless creature you control gets +5/+5 and gains
+    indestructible until end of turn.
+
+
+    -9: You get an emblem with "Colorless permanents you control have
+    indestructible."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Kaeda

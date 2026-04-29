@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Agonizing Burn
+  manaCost:
+    __type: ManaCost
+    symbols: 2BR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Agonizing%20Burn.jpg
+    width: 1504
+    height: 1920
+    cropWidth: 1341
+    cropHeight: 946
+    xOffset: 83
+    yOffset: 225
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0209"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+
+
+    ~ deals 3 damage to target player. Then, if that player's life total is 10
+    or less, they discard a card at random.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Agonizing Burn

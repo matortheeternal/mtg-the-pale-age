@@ -1,0 +1,59 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Pristine Prism
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pristine%20Prism.jpg
+    width: 888
+    height: 888
+    cropWidth: 888
+    cropHeight: 745
+    xOffset: 0
+    yOffset: 65
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Andrew Fairclough
+  autoCollectorNumber: "0245"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    When ~ enters or leaves the battlefield, scry 1, then gain 1 life.
+
+    {1}, {T}: Add one mana of any color.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Pristine Prism

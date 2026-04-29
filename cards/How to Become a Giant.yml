@@ -1,0 +1,55 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: How to Become a Giant
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/How%20to%20Become%20a%20Giant.jpg
+    width: 1080
+    height: 1440
+    cropWidth: 486
+    cropHeight: 1373
+    xOffset: 342
+    yOffset: 43
+  superType: Enchantment
+  subType: Saga
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: "乱铁 "
+  autoCollectorNumber: "0157"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: ""
+  rulesText: |-
+    I - Sacrifice an artifact or enchantment.
+    II - ~ deals 3 damage to any target.
+    III - Create a 4/4 red Giant creature token. It gains haste.
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: How to Become a Giant

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Giant Artificer
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Giant%20Artificer.jpg
+    width: 1920
+    height: 1397
+    cropWidth: 1816
+    cropHeight: 1281
+    xOffset: 52
+    yOffset: 43
+  superType: Creature
+  subType: Giant Artificer
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0022"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: When ~ enters, you may return target artifact card from your
+    graveyard to your hand.
+  flavorText: His workshop was a warehouse within which there was an entire town,
+    carefully built and maintained. It seems even giants can have hobbies.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: "- want players to intentionally choose cards that create board stalls
+  rather than stall being incidental to the cards they want"
+tags: []
+baseName: Giant Artificer

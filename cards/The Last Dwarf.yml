@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Last Dwarf
+  manaCost:
+    __type: ManaCost
+    symbols: 2R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Last%20Dwarf.jpg
+    width: 1920
+    height: 1920
+    cropWidth: 1920
+    cropHeight: 1565
+    xOffset: 0
+    yOffset: 202
+  superType: Creature
+  subType: Dwarf Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: Valentina Bianconi
+  autoCollectorNumber: "0171"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Dual Wield - At the beginning of combat on your turn, you may pay
+    {R}{R}. If you do, target creature you control gains double strike until end
+    of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Last Dwarf

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Frenzied Giant
+  manaCost:
+    __type: ManaCost
+    symbols: 4R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Frenzied%20Giant.jpg
+    width: 778
+    height: 1102
+    cropWidth: 778
+    cropHeight: 549
+    xOffset: 0
+    yOffset: 153
+  superType: Creature
+  subType: Giant
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Petar Meseldzija
+  autoCollectorNumber: "0154"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Haste
+
+
+    {R}: Another target creature gains haste until end of turn.
+
+
+    Spectacle {2}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Frenzied Giant

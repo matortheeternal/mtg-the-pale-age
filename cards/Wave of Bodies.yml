@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Wave of Bodies
+  manaCost:
+    __type: ManaCost
+    symbols: BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Wave%20of%20Bodies.jpg
+    width: 1080
+    height: 1345
+    cropWidth: 1080
+    cropHeight: 762
+    xOffset: 0
+    yOffset: 291
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Corran Brownlee
+  autoCollectorNumber: "0136"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    As an aditional cost to cast ~ you may sacrifice any number of creatures.
+
+
+    Creatures your opponents control get -X/-X until end of turn, where X is the
+    number of creatures that have died this turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Wave of Bodies

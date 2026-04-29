@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Branching Horror
+  manaCost:
+    __type: ManaCost
+    symbols: 6GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Branching%20Horror.jpg
+    width: 710
+    height: 1026
+    cropWidth: 710
+    cropHeight: 944
+    xOffset: 0
+    yOffset: 82
+  superType: Creature
+  subType: Dryad Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "6"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0182"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    Reach
+
+    When ~ dies, create two 4/3 green Horror creature tokens with reach.
+  flavorText: >-
+    "I saw it. The thing in the woods. It was a tree with a maw of a hundred
+    needle-sharp teeth.  It ate an entire flock of crows. It was horrible."
+
+    —Village lumberjack
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Branching Horror

@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bearer of the Unholy
+  manaCost:
+    __type: ManaCost
+    symbols: 1WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bearer%20of%20the%20Unholy.jpg
+    width: 1920
+    height: 2117
+    cropWidth: 1340
+    cropHeight: 946
+    xOffset: 294
+    yOffset: 639
+  superType: Creature
+  subType: Human Cleric
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0007"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |+
+    Flash
+
+    First strike, lifelink, vigilance
+
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Bearer of the Unholy

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Act of Intimidation
+  manaCost:
+    __type: ManaCost
+    symbols: 3R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Act%20of%20Intimidation.jpg
+    width: 1920
+    height: 1407
+    cropWidth: 1603
+    cropHeight: 1131
+    xOffset: 146
+    yOffset: 122
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0138"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Gain control of target creature an opponent controls until end of
+    turn. Untap that creature. It gains haste until end of turn. If that
+    creature has power 4 or greater, target creature an opponent controls can't
+    block this turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Act of Intimidation

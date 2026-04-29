@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Abyss Dweller
+  manaCost:
+    __type: ManaCost
+    symbols: 2UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Abyss%20Dweller.jpg
+    width: 564
+    height: 776
+    cropWidth: 564
+    cropHeight: 447
+    xOffset: 0
+    yOffset: 128
+  superType: Creature
+  subType: Whale
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0055"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    At the beginning of each end step, if a creature died this turn, each player
+    mills 3 cards.
+
+
+    Exile a card from your graveyard: Untap ~.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Abyss Dweller

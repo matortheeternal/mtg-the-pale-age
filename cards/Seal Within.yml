@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Seal Within
+  manaCost:
+    __type: ManaCost
+    symbols: XW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Seal%20Within.jpg
+    width: 700
+    height: 700
+    cropWidth: 700
+    cropHeight: 494
+    xOffset: 0
+    yOffset: 116
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Brian Luong
+  autoCollectorNumber: "0039"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Split second (As long as this spell is on the stack, players can’t cast
+    spells or activate abilities that aren’t mana abilities.)
+
+
+    Exile up to X target cards from graveyards. Put a number of +1/+1 counters
+    on target creature equal to the number of cards exiled this way.
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Seal Within

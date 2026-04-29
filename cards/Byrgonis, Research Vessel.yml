@@ -1,0 +1,75 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Byrgonis, Research Vessel
+  manaCost:
+    __type: ManaCost
+    symbols: 3WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Byrgonis%2C%20Research%20Vessel.jpg
+    width: 736
+    height: 1382
+    cropWidth: 736
+    cropHeight: 1197
+    xOffset: 0
+    yOffset: 143
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "8"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0212"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    Trailblaze - Whenever you crew or saddle, draw three cards, then discard a
+    card. This ability triggers only once each turn.
+
+
+    {5}: Archive.
+
+
+    Crew 6
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Byrgonis, Research Vessel

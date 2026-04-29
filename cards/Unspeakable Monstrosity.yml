@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Unspeakable Monstrosity
+  manaCost:
+    __type: ManaCost
+    symbols: 4GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Unspeakable%20Monstrosity.jpg
+    width: 736
+    height: 736
+    cropWidth: 736
+    cropHeight: 622
+    xOffset: 0
+    yOffset: 25
+  superType: Creature
+  subType: Fractal Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "0"
+  showPT: true
+  rarity: uncommon
+  illustrator: AI :(
+  autoCollectorNumber: "0242"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    ~ enters with six counters on it chosen from among +1/+1 counters, flying
+    counters, trample counters, and curious counters. (Whenever a creature with
+    curious deals damage to a player, draw a card.)
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Unspeakable Monstrosity

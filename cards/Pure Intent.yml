@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Pure Intent
+  manaCost:
+    __type: ManaCost
+    symbols: GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pure%20Intent.jpg
+    width: 1200
+    height: 1676
+    cropWidth: 1200
+    cropHeight: 847
+    xOffset: 0
+    yOffset: 269
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Riyu008
+  autoCollectorNumber: "0236"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Choose one:
+    - Create a 2/2 green Dinosaur creature token.
+    - Destroy target artifact or enchantment.
+    - Target creature gets +2/+2 and gains lifelink until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Pure Intent

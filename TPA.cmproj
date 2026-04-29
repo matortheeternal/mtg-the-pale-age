@@ -1,0 +1,328 @@
+title: The Pale Age
+author: ""
+description: ""
+illustrator: ""
+legalText: ""
+setCode: TPA
+language: EN
+collectorNumberFormat:
+  id: four
+  name: "0001"
+rarityOrder:
+  id: before
+  name: Before Collector Number
+symbol: |-
+  <svg class="set-icon" viewBox="0 0 100 100" width="24" height="24" role="img">
+      <defs>
+          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%"/>
+              <stop offset="45%"/>
+              <stop offset="55%"/>
+              <stop offset="100%"/>
+          </linearGradient>
+      </defs>
+
+      <rect
+          class="outer"
+          x="0"
+          y="0"
+          width="100"
+          height="100"
+          rx="4"
+          ry="4"
+          fill="url(#grad)"
+      />
+  </svg>
+skeleton:
+  White:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Blue:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Black:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Red:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Green:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Multicolor:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Artifact:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Land:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+version: 1
+defaultBackImage: games/magic/assets/back.png
+export:
+  CardImagesExporter: {}
+cards:
+  - The Mothership
+  - Hot Air Baloons
+  - The Ferryman
+  - Peaceful Warbot
+  - Peculiar Encounter
+  - Glowing Revival
+  - Fields of Gold
+  - Divine Intervention
+  - Zai, Well of Knowledge
+  - Deepwood Druid
+  - Confer Holiness
+  - Adept Falconer
+  - Verdant Gift
+  - Ivar and Signe, Huntsworn
+  - Goddess of Spring
+  - Float
+  - Fallen Prince
+  - The Ruler
+  - Overexposure
+  - Death's Grasp
+  - The Dark Commander
+  - Backwater Banshee
+  - Traveler's Bane
+  - Thought Eater
+  - Impulsive Scrapling
+  - Renewal of the Flesh
+  - Mountain Crusher
+  - Dune Priest
+  - Filibus, the Terrible
+  - Great Northern Owl
+  - Jungle Tiger
+  - Broken Robot
+  - Naga chick and her faerie sidekick
+  - Old Man Mushroom
+  - Waterspout
+  - Ocean Researcher
+  - Call of Destiny
+  - Knight of Desolate Lands
+  - Cinder Sprite
+  - Marrow Colossus
+  - Mistress of Flames
+  - Firebender guy
+  - Heavy Crawler
+  - Explore the Backcountry
+  - Burdened Bladebearer
+  - Walking Castle
+  - Aggressive Multiplication
+  - Scrabbling Ogre
+  - Abyss Dweller
+  - Spindle Swimmer
+  - Giant Swiftwing
+  - Sea Witch
+  - Byrgonis, Research Vessel
+  - Brine Muncher
+  - Spell Knot
+  - Giant Artificer
+  - Naia, River Queen
+  - Tears of the King
+  - Act of Intimidation
+  - Disciple of the Deep
+  - Lunar Adherent
+  - Galleon
+  - How to Become a Giant
+  - blank
+  - Masao, Legendary Sailor
+  - Fish Construct
+  - The Search for Meredith
+  - The Portal
+  - The Abyssal Prison
+  - Monolith of Memory
+  - Wizard's Cottage
+  - Maintenance Shaft
+  - Airship Workshop
+  - Giant Vampire Bat
+  - Dark Cruiser
+  - Torment
+  - Gg'kah, The Calamity
+  - Thythulos
+  - Rot Hauler
+  - Divine Duality
+  - Pain Channeler
+  - Gryn, the Immortal
+  - Cosmorium
+  - Abduction Angel
+  - Scholarly Apparition
+  - Poise
+  - Break Wings
+  - Call of the Skies
+  - Homestead Guardian
+  - Hooded Wanderer
+  - Industrial Blimp
+  - Pious Horror
+  - Abaddon, Fist of Suns
+  - Offer Salvation
+  - Marrow Guardian
+  - Skyleaper
+  - Sphinx of the Wall
+  - Make a Stand
+  - Benevolence
+  - Somber Soldier
+  - Encounter Oblivion
+  - Announce Disaster
+  - The Mind Wrangler
+  - Gelatinous Researcher
+  - Spirit Summoning
+  - Coastal Sanctuary
+  - Gargantuan Feardrinker
+  - Branching Horror
+  - Unspeakable Monstrosity
+  - Tendril Beast
+  - Bearer of the Unholy
+  - Fall from Grace
+  - Fated Meeting
+  - Clash of the Strong
+  - Devour the Weak
+  - Colossal Pteradactyl
+  - Access the Undergrowth
+  - Falroth Beastmaster
+  - Tend the Garden
+  - Behold with Awe
+  - The Cloud Eater
+  - Skull Corruptor
+  - Skittering Deathbot
+  - Armored Hybrid
+  - One with History
+  - Queen of Misery
+  - The Mad King
+  - Orc Warlord
+  - Skeletal Screecher
+  - Golem of the Dead
+  - Orcish Investigator
+  - Agonizing Burn
+  - Standard Mk3 Airship
+  - Nurturing Satyr
+  - Fortifying Moth
+  - Bearer of Hope
+  - Escape Disaster
+  - Challenge Divinity
+  - Sandswept Ace
+  - Solemn Act
+  - Martial Execution
+  - Attract Arrows
+  - The Major Arcana
+  - The Tiger Moth
+  - Veteran Chauffeur
+  - Cloud Skimmer
+  - Quinn, Inexorable
+  - Passion
+  - Clarity
+  - Depravity
+  - Prickly Pack-Dino
+  - Nurture
+  - Assassin's Skitterbot
+  - Hungry Spinosaurus
+  - Masked Troll
+  - Village Swine
+  - Ghost Bass
+  - Cackling Imp
+  - Prowling Carnotaurus
+  - Endless Explosion
+  - Bloodprint
+  - Endless Slaughter
+  - The Last Dwarf
+  - Violent Betrayal
+  - Ferocious Leap
+  - Very Angry Giant
+  - Consistent Burn
+  - The Seven Bolts
+  - Giant's Watch
+  - T-Rex Charger
+  - Calamitous Trio
+  - Well-Mannered Whelp
+  - Monowheel
+  - Assault Chopper
+  - Burn Alive
+  - Tempt with Annihilation
+  - Specter of Doubt
+  - Tormented Executioner
+  - Master of Agonies
+  - Angel of Obliteration
+  - The Hollow Throne
+  - Ghost Blade
+  - Crovax, Devourer of Souls
+  - Pass into Eternity
+  - Psychic Agony
+  - Horrify
+  - Somber Philosopher
+  - Wave of Bodies
+  - Swamp
+  - Vengeful Execution
+  - The Very Hungry Horror
+  - Kaeda
+  - Spined Altisaur
+  - The Reader
+  - Seal Within
+  - Angel of Contemplation
+  - Hero's Helm
+  - Mythic Bomb Creature
+  - Mythic Bomb Spell
+  - Retreat of the Third Moon
+  - Ancient Whale
+  - Seaborn Hustler
+  - Falling Thoughts
+  - Mana Void
+  - Ruminate
+  - Eternal Sleep
+  - Cyberoptic Camouflage
+  - Cephalopodization
+  - Raptor Ambush
+  - Train Pilots
+  - Electrophorus
+  - Village Baker
+  - Staff of the Stars
+  - Disassociate
+  - Insatiable Hunger
+  - Return from Darkness
+  - Banquet of Flesh
+  - Covenant Sanguinis
+  - Survivor's Guilt
+  - Conjure Chroma
+  - Dino Trainer
+  - Professor Skellington
+  - Wandering Bloodseeker
+  - Fallen Mender
+  - Roach Chef
+  - Magnificent Multitasker
+  - Knowledge Warden
+  - Doctor of History
+  - Mycoturtle
+  - Tarbosaurus Alpha
+  - Desert Assault Vehicle
+  - Frenzied Giant
+  - Spider Tank
+  - Assemble the Gang
+  - Sabotage Their Systems
+  - Pristine Prism
+  - CW12 - 5MV Creature
+  - Magical Lasso
+  - Embrace the Void
+  - Ember Invocation
+  - Pure Intent
+  - Snuff, Silence, and Subdue
+  - Electric Inspiration
+  - Experimental Mutation
+  - Immolation
+  - Rot, Spoil, and Fester
+  - Ferocious Invocation

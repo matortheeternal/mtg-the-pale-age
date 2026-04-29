@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Tiger Moth
+  manaCost:
+    __type: ManaCost
+    symbols: 4WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Tiger%20Moth.jpg
+    width: 1920
+    height: 1065
+    cropWidth: 1509
+    cropHeight: 1065
+    xOffset: 0
+    yOffset: 0
+  superType: Legendary Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "6"
+  showPT: true
+  rarity: rare
+  illustrator: Bernard Chan
+  autoCollectorNumber: "0051"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying, vigilance
+
+
+    Trailblaze - Whenever you crew or mount, create a food token. This ability
+    triggers only once each turn.
+
+
+    {2}, Sacrifice an artifact: Draw a card.
+
+
+    Crew 4 (Tap any number of creatures you control with total power 4 or more:
+    This Vehicle becomes an artifact creature until end of turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Tiger Moth

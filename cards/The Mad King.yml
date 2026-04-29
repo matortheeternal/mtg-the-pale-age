@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Mad King
+  manaCost:
+    __type: ManaCost
+    symbols: 3R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Mad%20King.jpg
+    width: 984
+    height: 1749
+    cropWidth: 984
+    cropHeight: 901
+    xOffset: 0
+    yOffset: 451
+  superType: Legendary Creature
+  subType: Human Noble
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0172"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Haste
+
+
+    Whenever ~ attacks, exile the top three cards of your library. You may play
+    those cards on your next turn.
+
+
+    Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Mad King

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Gargantuan Feardrinker
+  manaCost:
+    __type: ManaCost
+    symbols: 5BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Gargantuan%20Feardrinker.jpg
+    width: 550
+    height: 778
+    cropWidth: 550
+    cropHeight: 388
+    xOffset: 0
+    yOffset: 325
+  superType: Creature
+  subType: Nightmare
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "6"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0102"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Trample
+
+    Whenever another creature dies, put a +1/+1 counter on ~.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Gargantuan Feardrinker

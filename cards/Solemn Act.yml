@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Solemn Act
+  manaCost:
+    __type: ManaCost
+    symbols: 9W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Solemn%20Act.jpg
+    width: 1920
+    height: 2185
+    cropWidth: 1539
+    cropHeight: 1086
+    xOffset: 183
+    yOffset: 679
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0041"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    This spell costs {1} less to cast for each token on the battlefield.
+
+    Choose target nonland permanent. Exile all other nonland permanents.
+  flavorText: |-
+    On this sea, at this moment,
+    I am the loneliest man in the world. 
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Solemn Act

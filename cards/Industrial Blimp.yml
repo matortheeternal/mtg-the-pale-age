@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Industrial Blimp
+  manaCost:
+    __type: ManaCost
+    symbols: 2RRR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Industrial%20Blimp.jpg
+    width: 736
+    height: 735
+    cropWidth: 736
+    cropHeight: 557
+    xOffset: 0
+    yOffset: 67
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "9"
+  toughness: "9"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0159"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    Trailblaze - Whenever you crew or saddle for the first time each turn, exile
+    the top two cards of your library. You may play them until the end of your
+    next turn.
+
+
+    Crew 6
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Industrial Blimp

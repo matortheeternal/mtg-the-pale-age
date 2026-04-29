@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Mind Wrangler
+  manaCost:
+    __type: ManaCost
+    symbols: 6U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Mind%20Wrangler.jpg
+    width: 1036
+    height: 1067
+    cropWidth: 1036
+    cropHeight: 731
+    xOffset: 0
+    yOffset: 104
+  superType: Creature
+  subType: Octopus Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0088"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    {3}{U}{U}{U}{U}, {T}: Gain control of target creature an opponent controls
+    for as long as you control ~.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Mind Wrangler

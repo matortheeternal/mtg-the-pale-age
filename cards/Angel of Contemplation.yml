@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Angel of Contemplation
+  manaCost:
+    __type: ManaCost
+    symbols: 4W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Angel%20of%20Contemplation.jpg
+    width: 771
+    height: 1280
+    cropWidth: 752
+    cropHeight: 531
+    xOffset: 9
+    yOffset: 428
+  superType: Creature
+  subType: Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "7"
+  showPT: true
+  rarity: rare
+  illustrator: Gino De' Bini
+  autoCollectorNumber: "0003"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Vigilance, flying, lifelink, first strike, defender
+
+
+    Tap another untapped creature you control: Until end of turn, target
+    creature loses a keyword ability of your choice or assigns combat damage
+    equal to its toughness rather than its power.
+  flavorText: '"While we were fighting to survive, do you know what the angels
+    were doing? With all their divinity and wisdom?  They watched."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Angel of Contemplation

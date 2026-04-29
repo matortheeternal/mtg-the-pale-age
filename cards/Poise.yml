@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Poise
+  manaCost:
+    __type: ManaCost
+    symbols: 4G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Poise.jpg
+    width: 2000
+    height: 1047
+    cropWidth: 1484
+    cropHeight: 1047
+    xOffset: 258
+    yOffset: 0
+  superType: Creature
+  subType: Slug Spirit
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Massimiliano Haematinon Nigro
+  autoCollectorNumber: "0201"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Vigilance
+
+
+    When ~ dies, distribute four +1/+1 counters among any number of target
+    creatures you control.
+
+
+    {2}, Sacrifice ~: Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Poise

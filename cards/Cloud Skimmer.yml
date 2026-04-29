@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Cloud Skimmer
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Cloud%20Skimmer.jpg
+    width: 2112
+    height: 2513
+    cropWidth: 2112
+    cropHeight: 1491
+    xOffset: 0
+    yOffset: 804
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: Konstantin Vavilov
+  autoCollectorNumber: "0011"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Flying
+
+
+    Trailblaze - Whenever you crew or saddle, scry 1.
+
+
+    Crew 1 (Tap any number of creatures you control with total power 2 or more:
+    This Vehicle becomes an artifact creature until end of turn.)
+  flavorText: "\"A little to the left. Yes, good, we're coming upon it now.  Great work.\""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cloud Skimmer

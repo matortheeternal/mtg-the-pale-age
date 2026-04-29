@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Challenge Divinity
+  manaCost:
+    __type: ManaCost
+    symbols: WWW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Challenge%20Divinity.jpg
+    width: 1424
+    height: 1424
+    cropWidth: 1139
+    cropHeight: 1424
+    xOffset: 102
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Geirrod van Dyke
+  autoCollectorNumber: "0010"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+    Creatures you control get +2/+0 and gain first strike and indestructible
+    until end of turn.
+  flavorText: At the summit the warrior stood before the gods, and the gods trembled.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Challenge Divinity

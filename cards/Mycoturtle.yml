@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mycoturtle
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mycoturtle.jpg
+    width: 736
+    height: 748
+    cropWidth: 736
+    cropHeight: 578
+    xOffset: 0
+    yOffset: 116
+  superType: Creature
+  subType: Fungus Turtle
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Megan Marie Gray
+  autoCollectorNumber: "0195"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+
+    {G}, Remove a +1/+1 counter from ~: Create a tapped Forest land token.
+    Activate only as a sorcery.
+  flavorText: Stories tell of a lumbering tortoise, oft to visit battlefields.
+    Spreading seeds and spores to turn the field of corpses into a copse of
+    trees.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Mycoturtle

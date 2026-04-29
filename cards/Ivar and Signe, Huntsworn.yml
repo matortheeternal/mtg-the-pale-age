@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ivar and Signe, Huntsworn
+  manaCost:
+    __type: ManaCost
+    symbols: RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ivar%20and%20Signe%2C%20Huntsworn.jpg
+    width: 726
+    height: 1024
+    cropWidth: 726
+    cropHeight: 855
+    xOffset: 0
+    yOffset: 169
+  superType: Legendary Creature
+  subType: Human Barbarian
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Lewis LaRosa
+  autoCollectorNumber: "0227"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Whenever a creature you control deals combat damage, put a +1/+1 counter on
+    it.
+
+
+    Remove a +1/+1 counter from @: Target creature you control gets +2/+0 and
+    gains haste until end of turn. Activate only as a sorcery.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ivar and Signe, Huntsworn

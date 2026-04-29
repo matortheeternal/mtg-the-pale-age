@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Benevolence
+  manaCost:
+    __type: ManaCost
+    symbols: 4W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Benevolence.jpg
+    width: 3840
+    height: 1733
+    cropWidth: 1830
+    cropHeight: 1292
+    xOffset: 1530
+    yOffset: 282
+  superType: Creature
+  subType: Dragon Spirit
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Hue Teo
+  autoCollectorNumber: "0008"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Flying
+
+    When ~ dies, put a flying counter on each creature you control.
+
+    {2}, Sacrifice ~: Draw a card.
+  flavorText: "\"Don't you see?  This is a gift!  Should we not use the gifts we
+    are given?\""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "18"
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: Originally this guy had Flying, but I removed it because the flying
+  density at common in white was too high (6 cards, 33% of all commons).
+tags: []
+baseName: Benevolence

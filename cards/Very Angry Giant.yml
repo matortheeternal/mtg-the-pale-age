@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Very Angry Giant
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Very%20Angry%20Giant.jpg
+    width: 3600
+    height: 3600
+    cropWidth: 3600
+    cropHeight: 2541
+    xOffset: 0
+    yOffset: 530
+  superType: Creature
+  subType: Giant
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Mathias Osland
+  autoCollectorNumber: "0175"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
+    enters with a +1/+1 counter on it.)
+
+
+    At the beginning of your upkeep, each player may discard a card. ~ deals 1
+    damage to each player who did not discard a card this way.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Very Angry Giant

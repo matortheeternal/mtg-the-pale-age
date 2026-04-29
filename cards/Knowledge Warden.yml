@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Knowledge Warden
+  manaCost:
+    __type: ManaCost
+    symbols: 1WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Knowledge%20Warden.jpg
+    width: 1920
+    height: 1644
+    cropWidth: 1720
+    cropHeight: 1214
+    xOffset: 100
+    yOffset: 145
+  superType: Creature
+  subType: Human Wizard
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0228"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, tap up to two target creatures. If you own four or more cards
+    in exile, put a stun counter on each of them.
+  flavorText: The wardens are a group of wizards entrusted with guarding our most
+    ancient and powerful secrets.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Knowledge Warden

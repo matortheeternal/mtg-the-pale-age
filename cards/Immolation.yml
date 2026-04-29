@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Immolation
+  manaCost:
+    __type: ManaCost
+    symbols: RB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Immolation.jpg
+    width: 1860
+    height: 2310
+    cropWidth: 1860
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 314
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: "0226"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Choose one:
+    - ~ deals 1 damage to each creature and each player.
+    - Target player exiles a card from their hand.
+    - Target creature gets +2/+0 and gains haste until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Immolation

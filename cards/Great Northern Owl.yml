@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Great Northern Owl
+  manaCost:
+    __type: ManaCost
+    symbols: WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Great%20Northern%20Owl.jpg
+    width: 2416
+    height: 3440
+    cropWidth: 2416
+    cropHeight: 1705
+    xOffset: 0
+    yOffset: 587
+  superType: Creature
+  subType: Bird Mount
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0024"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    Trailblaze - Whenever you saddle or crew for the first time each turn,
+    target creature you control gains vigilance until end of turn.
+
+
+    Saddle 1 (Tap any number of other creatures you control with total power 1
+    or more: This Mount becomes saddled until end of turn. Saddle only as a
+    sorcery.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Great Northern Owl
