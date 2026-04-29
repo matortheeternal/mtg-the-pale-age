@@ -77,7 +77,15 @@ skeleton:
 version: 1
 defaultBackImage: games/magic/assets/back.png
 export:
-  CardImagesExporter: {}
+  CardImagesExporter:
+    imageType:
+      id: jpg
+      name: JPG
+    quality: "0.92"
+    scale: "2"
+    bleed: "0"
+  TTSExporter:
+    basePath: https://codeberg.org/mator/mtg-the-pale-age/raw/branch/master/output/CardImagesExporter
 cards:
   - The Mothership
   - Hot Air Baloons
