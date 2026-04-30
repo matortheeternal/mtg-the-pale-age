@@ -85,7 +85,7 @@ export:
     scale: "2"
     bleed: "0"
   TTSExporter:
-    basePath: https://codeberg.org/mator/mtg-the-pale-age/raw/branch/master/output/CardImagesExporter
+    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/output/CardImagesExporter
 cards:
   - The Mothership
   - Hot Air Baloons
@@ -119,7 +119,6 @@ cards:
   - Great Northern Owl
   - Jungle Tiger
   - Broken Robot
-  - Naga chick and her faerie sidekick
   - Old Man Mushroom
   - Waterspout
   - Ocean Researcher
@@ -334,3 +333,7 @@ cards:
   - Immolation
   - Rot, Spoil, and Fester
   - Ferocious Invocation
+  - Forest
+  - Island
+  - Mountain
+  - Plains
