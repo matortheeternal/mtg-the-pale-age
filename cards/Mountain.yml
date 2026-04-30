@@ -1,0 +1,51 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: r
+      name: red
+      sources:
+        override: true
+  colorOverride:
+    - r
+  name: Mountain
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mountain.jpg
+    width: 1920
+    height: 2365
+    cropWidth: 1722
+    cropHeight: 2365
+    xOffset: 99
+    yOffset: 0
+  superType: Basic Land
+  subType: Mountain
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Tanner Staheli
+  autoCollectorNumber: "0164"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+    tall: false
+notes: ""
+tags: []
+baseName: Mountain

@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Forest
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Forest.jpg
+    width: 1920
+    height: 1779
+    cropWidth: 1163
+    cropHeight: 1596
+    xOffset: 379
+    yOffset: 61
+  superType: Basic Land
+  subType: Forest
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0192"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Forest

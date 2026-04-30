@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: u
+      name: blue
+      sources:
+        override: true
+  colorOverride:
+    - u
+  name: Island
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Island.jpg
+    width: 1440
+    height: 1440
+    cropWidth: 1049
+    cropHeight: 1440
+    xOffset: 81
+    yOffset: 0
+  superType: Basic Land
+  subType: Island
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Abhinav Kumar
+  autoCollectorNumber: "0077"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Island

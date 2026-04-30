@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
+  colorOverride:
+    - w
+  name: Plains
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Plains.jpg
+    width: 1920
+    height: 1405
+    cropWidth: 648
+    cropHeight: 890
+    xOffset: 1068
+    yOffset: 435
+  superType: Basic Land
+  subType: Plains
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0036"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Plains
