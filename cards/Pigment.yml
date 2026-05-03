@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Pigment
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pigment.jpg
+    width: 600
+    height: 809
+    cropWidth: 589
+    cropHeight: 809
+    xOffset: 5
+    yOffset: 0
+  superType: Token Artifact
+  subType: Pigment
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Nico Delort
+  autoCollectorNumber: "0250"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{T}: Add one mana of any color. Spend this mana only to activate abilities."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Pigment

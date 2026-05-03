@@ -28,14 +28,16 @@ front:
   showPT: true
   rarity: common
   illustrator: Sandra Delgado
-  autoCollectorNumber: "0208"
+  autoCollectorNumber: "0215"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    {2}{G}, {T}: Create a token copy of ~.
+  rulesText: >-
+    {2}{G}, {T}: Create a green 0/1 Boar creature token with "When you sacrifice
+    this token, gain 1 life."
+
 
     When you sacrifice ~, gain 1 life.
   flavorText: null

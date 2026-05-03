@@ -19,7 +19,7 @@ front:
     cropHeight: 385
     xOffset: 0
     yOffset: 150
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Xiong Yan
-  autoCollectorNumber: "0144"
+  autoCollectorNumber: "0149"
   collectorNumber: ""
   setCode: ""
   language: ""

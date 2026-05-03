@@ -1,0 +1,51 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
+  colorOverride:
+    - w
+  name: Pilot
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pilot.jpg
+    width: 798
+    height: 1200
+    cropWidth: 798
+    cropHeight: 1096
+    xOffset: 0
+    yOffset: 0
+  superType: Token Creature
+  subType: Pilot
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Mateja Petkovic
+  autoCollectorNumber: "0035"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: This token saddles Mounts and crews Vehicles as though its power were
+    2 greater.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Pilot

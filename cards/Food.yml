@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Food
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Food.jpg
+    width: 736
+    height: 1103
+    cropWidth: 736
+    cropHeight: 1011
+    xOffset: 0
+    yOffset: 0
+  superType: Token Artifact
+  subType: Food
+  power: "1"
+  toughness: "1"
+  showPT: false
+  rarity: common
+  illustrator: Mira Illustrations
+  autoCollectorNumber: "0037"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{T}, Sacrifice this token: Gain 2 life."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Food

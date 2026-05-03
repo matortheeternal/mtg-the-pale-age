@@ -19,7 +19,7 @@ front:
     cropHeight: 1482
     xOffset: 0
     yOffset: 0
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Isaac Ornelas Gama
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: "0182"
   collectorNumber: ""
   setCode: ""
   language: ""

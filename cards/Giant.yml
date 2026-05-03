@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: r
+      name: red
+      sources:
+        override: true
+  colorOverride:
+    - r
+  name: Giant
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Giant.jpg
+    width: 850
+    height: 1200
+    cropWidth: 850
+    cropHeight: 1167
+    xOffset: 0
+    yOffset: 16
+  superType: Token Creature
+  subType: Giant
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Kevin Macio
+  autoCollectorNumber: "0001"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Giant

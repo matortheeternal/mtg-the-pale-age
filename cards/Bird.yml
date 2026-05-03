@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: u
+      name: blue
+      sources:
+        override: true
+  colorOverride:
+    - u
+  name: Bird
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bird.jpg
+    width: 953
+    height: 1308
+    cropWidth: 754
+    cropHeight: 1036
+    xOffset: 132
+    yOffset: 0
+  superType: Token Creature
+  subType: Bird
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Dugald Stewart Walker
+  autoCollectorNumber: "0061"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Flying
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Bird

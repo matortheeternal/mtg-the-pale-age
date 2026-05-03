@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Dinosaur
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dinosaur.jpg
+    width: 1080
+    height: 1350
+    cropWidth: 983
+    cropHeight: 1350
+    xOffset: 48
+    yOffset: 0
+  superType: Token Creature
+  subType: Dinosaur
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Brian Serway
+  autoCollectorNumber: "0001"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Dinosaur
