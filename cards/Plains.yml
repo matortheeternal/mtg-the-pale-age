@@ -15,15 +15,15 @@ front:
     height: 1405
     cropWidth: 648
     cropHeight: 890
-    xOffset: 1068
-    yOffset: 435
+    xOffset: 1216
+    yOffset: 486
   superType: Basic Land
   subType: Plains
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: A.Shipwright
   autoCollectorNumber: "0036"
   collectorNumber: ""
   setCode: ""

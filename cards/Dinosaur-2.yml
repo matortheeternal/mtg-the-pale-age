@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Dinosaur
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dinosaur-2.jpg
+    width: 736
+    height: 1038
+    cropWidth: 736
+    cropHeight: 1011
+    xOffset: 0
+    yOffset: 14
+  superType: Token Creature
+  subType: Dinosaur
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Vinícius Rodrigo
+  autoCollectorNumber: "0194"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Dinosaur-2

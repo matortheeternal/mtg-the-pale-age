@@ -86,6 +86,8 @@ export:
     bleed: "0"
   TTSExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/output/CardImagesExporter
+  WebExporter:
+    Test: ""
 cards:
   - The Mothership
   - Hot Air Baloons
@@ -337,3 +339,13 @@ cards:
   - Island
   - Mountain
   - Plains
+  - Pigment
+  - Pilot
+  - Bird
+  - Spirit
+  - Dinosaur
+  - Dinosaur-2
+  - Giant
+  - Food
+  - Forest-2
+  - Clue

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: "0059"
+  autoCollectorNumber: "0063"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,10 +36,10 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Create a 1/1 blue Bird creature token with flying. If you cast this spell
-    from anywhere other than your hand, create three of those tokens instead.
+    from anywhere other than your hand, create two of those tokens instead.
 
 
-    Flashback {4}{U}{U}
+    Flashback {2}{U}{U}
   flavorText: null
   chopTop: "2"
   chopBottom: ""

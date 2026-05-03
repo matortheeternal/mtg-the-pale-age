@@ -1,0 +1,49 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Forest
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Forest-2.jpg
+    width: 640
+    height: 948
+    cropWidth: 640
+    cropHeight: 879
+    xOffset: 0
+    yOffset: 35
+  superType: Token Basic Land
+  subType: Forest
+  power: "1"
+  toughness: "1"
+  showPT: false
+  rarity: common
+  illustrator: Joel Pernas
+  autoCollectorNumber: "0254"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{T}: Add {G}."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Forest-2

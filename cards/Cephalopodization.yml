@@ -19,8 +19,8 @@ front:
     cropHeight: 1319
     xOffset: 25
     yOffset: 0
-  superType: Sorcery
-  subType: ""
+  superType: Enchantment
+  subType: Aura
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -28,14 +28,18 @@ front:
   showPT: ""
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: "0060"
+  autoCollectorNumber: "0064"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Target noncreature artifact becomes a blue Octopus creature with base
-    power and toughness 3/3 in addition to its other types.
+  rulesText: >-
+    Enchant artifact
+
+
+    Enchanted artifact is a blue Octopus creature with base power and toughness
+    3/3 in addition to its other types.
   flavorText: null
   chopTop: ""
   chopBottom: ""

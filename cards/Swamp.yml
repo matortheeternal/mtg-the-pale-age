@@ -11,20 +11,20 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Swamp.jpg
-    width: 1920
-    height: 1801
-    cropWidth: 1188
-    cropHeight: 1631
-    xOffset: 366
-    yOffset: 51
+    width: 725
+    height: 1102
+    cropWidth: 725
+    cropHeight: 995
+    xOffset: 0
+    yOffset: 13
   superType: Basic Land
   subType: Swamp
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0125"
+  illustrator: M. Grant Kellermeyer
+  autoCollectorNumber: "0130"
   collectorNumber: ""
   setCode: ""
   language: ""

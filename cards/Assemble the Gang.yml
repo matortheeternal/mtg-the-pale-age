@@ -19,7 +19,7 @@ front:
     cropHeight: 760
     xOffset: 0
     yOffset: 0
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Takahashi
-  autoCollectorNumber: "0141"
+  autoCollectorNumber: "0146"
   collectorNumber: ""
   setCode: ""
   language: ""

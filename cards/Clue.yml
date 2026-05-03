@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Clue
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Clue.jpg
+    width: 893
+    height: 1191
+    cropWidth: 867
+    cropHeight: 1191
+    xOffset: 13
+    yOffset: 0
+  superType: Token Artifact
+  subType: Clue
+  power: "1"
+  toughness: "1"
+  showPT: false
+  rarity: common
+  illustrator: n_artisian
+  autoCollectorNumber: "0255"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{T}, Sacrifice this token: Gain 2 life."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Clue

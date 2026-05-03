@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Spirit
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Spirit.jpg
+    width: 797
+    height: 1066
+    cropWidth: 797
+    cropHeight: 1066
+    xOffset: 0
+    yOffset: 0
+  superType: Token Creature
+  subType: Spirit
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: "0036"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: At the end of your turn, sacrifice this token and lose 2 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Spirit

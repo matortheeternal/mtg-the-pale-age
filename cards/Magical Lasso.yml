@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0229"
+  autoCollectorNumber: "0235"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -46,7 +46,7 @@ front:
     - Tap target permanent and put a stun counter on it.
 
     - Archive. (To archive, exile an instant or sorcery card from your
-    graveyard. You may cast it on a later turn.)
+    graveyard. You may cast a copy of it on a later turn.)
   flavorText: null
   chopTop: ""
   chopBottom: ""
