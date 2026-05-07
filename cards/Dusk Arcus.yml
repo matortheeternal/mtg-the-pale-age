@@ -1,49 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
-      sources:
-        normal: true
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
-  name: Immolation
+  name: Dusk Arcus
   manaCost:
     __type: ManaCost
-    symbols: RB
+    symbols: 3WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Immolation.jpg
-    width: 1860
-    height: 2310
-    cropWidth: 1860
-    cropHeight: 1355
+    imageUrl: /project/cards/Dusk%20Arcus.jpg
+    width: 1024
+    height: 1560
+    cropWidth: 1024
+    cropHeight: 723
     xOffset: 0
-    yOffset: 314
-  superType: Instant
-  subType: ""
+    yOffset: 161
+  superType: Creature
+  subType: Giant Spirit Archer
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: uncommon
-  illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0237"
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0015"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    Choose one:
-    - ~ deals 1 damage to each creature and each player.
-    - Target player exiles a card from their hand.
-    - Target creature gets +2/+0 and gains haste until end of turn.
-  flavorText: null
+  rulesText: >-
+    Reach
+
+
+    {1}{W}, {T}: ~ deals X damage to target attacking or blocking creature,
+    where X is the number of creatures you control.
+  flavorText: ""
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -65,4 +62,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Immolation
+baseName: Dusk Arcus
