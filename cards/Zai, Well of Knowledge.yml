@@ -32,21 +32,18 @@ front:
   showPT: true
   rarity: mythic
   illustrator: ""
-  autoCollectorNumber: "0244"
+  autoCollectorNumber: "0254"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     Ward—Discard a noncreature card.
-
 
     ~ costs {1} less to cast for each noncreature card you own in exile.
 
-
-    Whenever you cast a noncreature spell, copy it.  You may choose new targets
-    for the copy.
+    Whenever you cast or copy a noncreature spell, draw a card.
   flavorText: null
   chopTop: ""
   chopBottom: ""
