@@ -20,9 +20,9 @@ front:
     width: 2572
     height: 3738
     cropWidth: 2572
-    cropHeight: 3695
+    cropHeight: 2033
     xOffset: 0
-    yOffset: 43
+    yOffset: 58
   superType: Creature
   subType: Skeleton Advisor
   flagLeft: ""
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0235"
+  autoCollectorNumber: "0245"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,7 +48,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Professor Skellington
+imageExports:
+  front: Professor Skellington.jpg
