@@ -349,3 +349,4 @@ cards:
   - Food
   - Forest-2
   - Clue
+imageExportPath: dist/images/
