@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sacrificial Lamb
+  manaCost:
+    __type: ManaCost
+    symbols: 1BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/REPLACE%20ART%20Hooded%20Wanderer.jpg
+    width: 800
+    height: 1112
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 116
+  superType: Creature
+  subType: Sheep Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "0"
+  showPT: true
+  rarity: common
+  illustrator: Sara Baun
+  autoCollectorNumber: "0131"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Sacrificial Lamb

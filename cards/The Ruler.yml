@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Ruler.jpg
-    width: 736
-    height: 1308
-    cropWidth: 736
-    cropHeight: 992
-    xOffset: 0
-    yOffset: 316
+    width: 1124
+    height: 1280
+    cropWidth: 798
+    cropHeight: 998
+    xOffset: 42
+    yOffset: 282
   superType: Legendary Creature
   subType: Human Noble
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: "4"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0049"
+  illustrator: Gustave Doré
+  autoCollectorNumber: "0050"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,12 +38,12 @@ front:
     Devoid (This card has no color.)
 
 
-    When ~ enters and at the beginning of your upkeep, mill two cards.
+    When ~ enters and at the beginning of your upkeep, exile a card from a
+    graveyard.
 
 
-    {2}{W}: Return target creature card with mana value 2 or less from your
-    graveyard to the battlefield. This ability costs {2} less to activate if you
-    own four or more cards in exile.
+    {1}{W}: Put a creature card you own in exile with mana value 2 or less on
+    the battlefield.
   flavorText: ""
   chopTop: ""
   chopBottom: ""

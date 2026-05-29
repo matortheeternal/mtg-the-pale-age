@@ -30,16 +30,19 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0228"
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0219"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+
+    Choose one or more —
 
     - Target player creates a pigment token. (It's an artifact with "{T}: Add
     one mana of any color. Spend this mana only to activate abilities.")

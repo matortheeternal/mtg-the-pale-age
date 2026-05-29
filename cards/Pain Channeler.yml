@@ -23,12 +23,12 @@ front:
   subType: Horror
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "0"
+  toughness: "4"
   showPT: true
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0111"
+  rarity: uncommon
+  illustrator: Kevin Kupari
+  autoCollectorNumber: "0120"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     Whenever ~ is dealt damage, each player loses that much life.
 
-    {T}: ~ deals 1 damage to itself.
+    {T}: ~ deals 2 damage to itself.
   flavorText: null
   chopTop: ""
   chopBottom: ""

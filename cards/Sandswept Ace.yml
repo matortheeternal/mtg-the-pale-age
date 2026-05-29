@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Izabela Arsovska-Braukmann
-  autoCollectorNumber: "0037"
+  autoCollectorNumber: "0038"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
 
     Trailblaze - Whenever you crew or saddle for the first time each turn,
-    target Vehicle or Mount gets +2/+2 until end of turn.
+    target Vehicle or Mount gets +1/+1 until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

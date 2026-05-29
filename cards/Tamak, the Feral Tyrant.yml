@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Tamak, the Feral Tyrant
+  manaCost:
+    __type: ManaCost
+    symbols: 3GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Tamak%2C%20the%20Feral%20Tyrant.jpg
+    width: 1080
+    height: 1350
+    cropWidth: 1080
+    cropHeight: 762
+    xOffset: 0
+    yOffset: 307
+  superType: Legendary Creature
+  subType: Fox God
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Rabab Elghamry
+  autoCollectorNumber: "0078"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Consume 2 (As this creature enters, you may sacrifice any number of
+    creatures or Foods. It enters with two times that many +1/+1 counters on
+    it.)
+
+
+    Ward {3}
+
+
+    Whenever one or more counters are put on another creature, put that many
+    +1/+1 counters on @.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Tamak, the Feral Tyrant

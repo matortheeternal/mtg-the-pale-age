@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bone Bow
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bone%20Bow.jpg
+    width: 1920
+    height: 1250
+    cropWidth: 1386
+    cropHeight: 978
+    xOffset: 139
+    yOffset: 109
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0195"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Equipped creature has reach.
+
+
+    Whenever equipped creature dies, put a +1/+1 counter on ~.
+
+
+    Transfuse (Whenever a creature enters, you may move a counter from this
+    artifact onto it.)
+
+
+    Equip {1}
+  flavorText: null
+  chopTop: "5"
+  chopBottom: "5"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Bone Bow

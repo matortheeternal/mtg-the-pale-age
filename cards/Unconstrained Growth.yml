@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Unconstrained Growth
+  manaCost:
+    __type: ManaCost
+    symbols: XXG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Unconstrained%20Growth.jpg
+    width: 1920
+    height: 2136
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 334
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0081"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    This spell costs {1} less to cast for each basic land you control.
+    Create X tapped Forest land tokens.
+  flavorText: |-
+    The shattered sky is his leaves,
+    and the mountain ranges, his roots. 
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Unconstrained Growth

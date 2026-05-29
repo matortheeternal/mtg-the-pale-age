@@ -1,19 +1,19 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: b
+      name: black
       sources:
         normal: true
-    - char: g
-      name: green
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   name: Gg'kah, The Calamity
   manaCost:
     __type: ManaCost
-    symbols: 3RGG
+    symbols: 3RBB
   artImage:
     __type: image
     imageUrl: /project/cards/Gg'kah%2C%20The%20Calamity.jpg
@@ -31,25 +31,21 @@ front:
   toughness: "4"
   showPT: true
   rarity: mythic
-  illustrator: ""
-  autoCollectorNumber: "0224"
+  illustrator: Sui Ishida
+  autoCollectorNumber: "0225"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
-    enters with a +1/+1 counter on it.)
-
-
     Trample
 
 
     Whenever a creature an opponent controls dies, put a +1/+1 counter on ~.
 
 
-    {R/G}, Remove a +1/+1 counter from @: @ deals 1 damage to each creature and
+    {R/B}, Remove a +1/+1 counter from @: @ deals 1 damage to each creature and
     each player.
   flavorText: null
   chopTop: ""

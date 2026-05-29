@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Essence Extractor
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Essence%20Extractor.jpg
+    width: 640
+    height: 640
+    cropWidth: 640
+    cropHeight: 483
+    xOffset: 0
+    yOffset: 141
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: dirtyiron18
+  autoCollectorNumber: "0313"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Colored spells cost {1} more to cast.
+
+
+    Sacrifice a colored permanent: Create two pigment tokens. Any player may
+    activate this ability. (Pigment tokens are artifacts with "{1}, {T},
+    Sacrifice this token: Add two mana of any one color.")
+  flavorText: '"He went into the cube, and out of the cube came a dark fluid,
+    thick as paint."'
+  chopTop: "5"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Essence Extractor

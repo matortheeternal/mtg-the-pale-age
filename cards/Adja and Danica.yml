@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Adja and Danica
+  manaCost:
+    __type: ManaCost
+    symbols: RW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Adja%20and%20Danica.jpg
+    width: 2275
+    height: 1440
+    cropWidth: 1793
+    cropHeight: 1266
+    xOffset: 241
+    yOffset: 80
+  superType: Legendary Creature
+  subType: Human Artificer Pilot
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Jan Wessbecher
+  autoCollectorNumber: "0237"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Haste, vigilance
+
+    {2}, {T}: Target vehicle becomes crewed and gets +1/+1 until end of turn.
+    {T}: Prevent the next 2 damage that would be dealt to target vehicle.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Adja and Danica

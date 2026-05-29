@@ -30,16 +30,19 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: Bernard Dumaine
-  autoCollectorNumber: "0231"
+  autoCollectorNumber: "0222"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+
+    Choose one or more —
 
     - Put two +1/+1 counters on target creature.
 

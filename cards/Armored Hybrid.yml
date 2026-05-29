@@ -28,11 +28,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "0"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0210"
+  illustrator: Ryan Van Dongen
+  autoCollectorNumber: "0214"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     ~ enters with a defender counter on it.
 
 
-    ~ enters with two +1/+1 counters on it.
+    ~ enters with a +1/+1 counter on it.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from

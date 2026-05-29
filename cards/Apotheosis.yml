@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Apotheosis
+  manaCost:
+    __type: ManaCost
+    symbols: 3WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Apotheosis.jpg
+    width: 906
+    height: 1134
+    cropWidth: 891
+    cropHeight: 1114
+    xOffset: 8
+    yOffset: 0
+  superType: Enchantment
+  subType: Aura
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Gustave Dore
+  autoCollectorNumber: "0005"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Enchant nontoken creature
+
+
+    Enchanted creature is a white Angel with base power and toughness 5/5, and
+    has flying, first strike, and lifelink. (It loses all other colors and all
+    other creature types.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: disabled
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Apotheosis

@@ -20,14 +20,14 @@ front:
     xOffset: 0
     yOffset: 268
   superType: Creature
-  subType: Skeleton Insect
+  subType: Giant Skeleton
   flagLeft: ""
   flagRight: ""
   power: "0"
   toughness: "3"
   showPT: true
   rarity: common
-  illustrator: ""
+  illustrator: George Brad
   autoCollectorNumber: "0029"
   collectorNumber: ""
   setCode: ""

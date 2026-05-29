@@ -12,23 +12,23 @@ front:
     symbols: 2UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Abyss%20Dweller.jpg
-    width: 564
-    height: 776
-    cropWidth: 564
-    cropHeight: 447
+    imageUrl: /project/cards/REPLACE%20ART%20Abyss%20Dweller.jpg
+    width: 800
+    height: 1147
+    cropWidth: 800
+    cropHeight: 565
     xOffset: 0
-    yOffset: 128
+    yOffset: 291
   superType: Creature
-  subType: Whale
+  subType: Horror
   flagLeft: ""
   flagRight: ""
   power: "3"
   toughness: "4"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0055"
+  illustrator: David Michale Wright
+  autoCollectorNumber: "0056"
   collectorNumber: ""
   setCode: ""
   language: ""

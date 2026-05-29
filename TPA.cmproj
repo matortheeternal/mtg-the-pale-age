@@ -11,28 +11,41 @@ collectorNumberFormat:
 rarityOrder:
   id: before
   name: Before Collector Number
-symbol: |-
-  <svg class="set-icon" viewBox="0 0 100 100" width="24" height="24" role="img">
+symbol: >+
+  <svg class="set-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100
+  100">
       <defs>
           <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%"/>
-              <stop offset="45%"/>
-              <stop offset="55%"/>
-              <stop offset="100%"/>
+              <stop class="g1" offset="0%" stop-color="black" />
+              <stop class="g2" offset="45%" stop-color="black" />
+              <stop class="g3" offset="55%" stop-color="black" />
+              <stop class="g4" offset="100%" stop-color="black" />
           </linearGradient>
+          <path id="layer-5" d="M 77.3859 55.3942 C 77.3859 36.9465 65.0784 21.9917 49.8963 21.9917 C 34.7142 21.9917 22.4066 36.9465 22.4066 55.3942 C 22.4066 73.8419 34.7142 88.7967 49.8963 88.7967 C 65.0784 88.7967 77.3859 73.8419 77.3859 55.3942 Z" />
+          <path id="layer-4" d="M 13.278 11.6183 L 88.7967 11.6183 L 88.7967 27.8008 L 13.278 27.8008 L 13.278 11.6183 Z" />
+          <path id="layer-3" d="M 65.7676 59.1286 C 65.7676 47.4413 58.7547 37.9668 50.1037 37.9668 C 41.4528 37.9668 34.4398 47.4413 34.4398 59.1286 C 34.4398 70.816 41.4528 80.2905 50.1037 80.2905 C 58.7547 80.2905 65.7676 70.816 65.7676 59.1286 Z" />
+          <path id="layer-2" d="M 36.722 84.4398 L 63.4855 84.4398 L 63.4855 94.1909 L 36.722 94.1909 L 36.722 84.4398 Z" />
+          <path id="layer-1" d="M 52.5887 5.8833 L 57.72 27.6687 L 67.5494 6.417 L 69.6095 28.6561 L 82.3174 5.7054 L 75.2413 46.0114 L 48.3335 35.4167 L 24.1791 42.4532 L 16.8527 6.0612 L 32.5643 25.8095 L 36.3765 6.0612 L 43.7029 27.3128 L 52.5887 5.8833 Z" />
+          <mask id="group-1">
+              <use href="#layer-5" fill="white" />
+              <use href="#layer-4" fill="black" />
+              <use href="#layer-3" fill="black" />
+              <use href="#layer-2" fill="white" />
+              <use href="#layer-1" fill="white" />
+          </mask>
+          <filter id="outline-filter" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
+              <feMorphology operator="dilate" radius="3" in="SourceAlpha" result="expanded"/>
+              <feFlood class="outline" flood-color="white" result="outline-color"/>
+              <feComposite operator="in" in="outline-color" in2="expanded" result="outline-full"/>
+              <feComposite operator="out" in="outline-full" in2="SourceAlpha" result="outline"/>
+              <feComposite operator="over" in="outline" in2="SourceGraphic"/>
+          </filter>
       </defs>
-
-      <rect
-          class="outer"
-          x="0"
-          y="0"
-          width="100"
-          height="100"
-          rx="4"
-          ry="4"
-          fill="url(#grad)"
-      />
+      <g filter="url(#outline-filter)">
+          <rect height="100" width="100" mask="url(#group-1)" fill="url(#grad)" />
+      </g>
   </svg>
+
 skeleton:
   White:
     mythic: []
@@ -96,10 +109,10 @@ cards:
   - Peculiar Encounter
   - Glowing Revival
   - Fields of Gold
-  - Divine Intervention
+  - REPLACE ART Divine Intervention
   - Zai, Well of Knowledge
   - Deepwood Druid
-  - Confer Holiness
+  - Apotheosis
   - Adept Falconer
   - Verdant Gift
   - Ivar and Signe, Huntsworn
@@ -107,14 +120,13 @@ cards:
   - Float
   - Fallen Prince
   - The Ruler
-  - Overexposure
-  - Death's Grasp
+  - REPLACE ART Overexposure
   - The Dark Commander
   - Backwater Banshee
   - Traveler's Bane
   - Thought Eater
   - Impulsive Scrapling
-  - Renewal of the Flesh
+  - REPLACE ART Renewal of the Flesh
   - Mountain Crusher
   - Dune Priest
   - Filibus, the Terrible
@@ -130,14 +142,14 @@ cards:
   - Marrow Colossus
   - Mistress of Flames
   - Firebender guy
-  - Heavy Crawler
-  - Explore the Backcountry
+  - REPLACE ART Heavy Crawler
+  - Path to Paradise
   - Burdened Bladebearer
-  - Walking Castle
+  - REPLACE ART Walking Castle
   - Aggressive Multiplication
   - Scrabbling Ogre
   - Abyss Dweller
-  - Spindle Swimmer
+  - REPLACE ART Spindle Swimmer
   - Giant Swiftwing
   - Sea Witch
   - Byrgonis, Research Vessel
@@ -151,38 +163,36 @@ cards:
   - Lunar Adherent
   - Galleon
   - How to Become a Giant
-  - blank
+  - Merfolk Tidetuner
   - Masao, Legendary Sailor
   - Fish Construct
   - The Search for Meredith
   - The Portal
   - The Abyssal Prison
   - Monolith of Memory
-  - Wizard's Cottage
   - Maintenance Shaft
   - Airship Workshop
   - Giant Vampire Bat
   - Dark Cruiser
   - Torment
   - Gg'kah, The Calamity
-  - Thythulos
+  - REPLACE ART Thythulos
   - Rot Hauler
   - Divine Duality
   - Pain Channeler
   - Gryn, the Immortal
-  - Cosmorium
   - Abduction Angel
   - Scholarly Apparition
   - Poise
   - Break Wings
   - Call of the Skies
   - Homestead Guardian
-  - Hooded Wanderer
-  - Industrial Blimp
+  - Sacrificial Lamb
+  - REPLACE ART Industrial Blimp
   - Pious Horror
   - Abaddon, Fist of Suns
   - Offer Salvation
-  - Marrow Guardian
+  - Skeletal Guardian
   - Skyleaper
   - Sphinx of the Wall
   - Make a Stand
@@ -190,14 +200,14 @@ cards:
   - Somber Soldier
   - Encounter Oblivion
   - Announce Disaster
-  - The Mind Wrangler
+  - REPLACE ART The Mind Wrangler
   - Gelatinous Researcher
   - Spirit Summoning
   - Coastal Sanctuary
   - Gargantuan Feardrinker
   - Branching Horror
-  - Unspeakable Monstrosity
-  - Tendril Beast
+  - REPLACE ART Unspeakable Monstrosity
+  - Vine Chimera
   - Bearer of the Unholy
   - Fall from Grace
   - Fated Meeting
@@ -209,15 +219,15 @@ cards:
   - Tend the Garden
   - Behold with Awe
   - The Cloud Eater
-  - Skull Corruptor
+  - Sinew Slicer
   - Skittering Deathbot
   - Armored Hybrid
   - One with History
   - Queen of Misery
-  - The Mad King
+  - REPLACE ART The Mad King
   - Orc Warlord
   - Skeletal Screecher
-  - Golem of the Dead
+  - Lord of Rot
   - Orcish Investigator
   - Agonizing Burn
   - Standard Mk3 Airship
@@ -237,7 +247,7 @@ cards:
   - Quinn, Inexorable
   - Passion
   - Clarity
-  - Depravity
+  - REPLACE ART Depravity
   - Prickly Pack-Dino
   - Nurture
   - Assassin's Skitterbot
@@ -249,7 +259,7 @@ cards:
   - Prowling Carnotaurus
   - Endless Explosion
   - Bloodprint
-  - Endless Slaughter
+  - Call to Slaughter
   - The Last Dwarf
   - Violent Betrayal
   - Ferocious Leap
@@ -306,7 +316,7 @@ cards:
   - Return from Darkness
   - Banquet of Flesh
   - Covenant Sanguinis
-  - Survivor's Guilt
+  - Remorseless
   - Conjure Chroma
   - Dino Trainer
   - Professor Skellington
@@ -344,9 +354,72 @@ cards:
   - Bird
   - Spirit
   - Dinosaur
-  - Dinosaur-2
   - Giant
   - Food
   - Forest-2
   - Clue
+  - Sword-Shaped City
+  - Eerie Sphere
+  - Essence Extractor
+  - Engine of Endless Ruin
+  - Population Regulator
+  - Panopticon
+  - Ugr, Northern Sanctum
+  - Harvester
+  - Advanced Transport Gargoyle
+  - Lunar Manta
+  - Writhing Form
+  - Eyes of the Peacock
+  - Bend Reality
+  - Asset, Lord of Knowledge
+  - Access Infinity
+  - The Hollow Throne-2
+  - Bone Bow
+  - The Lone Forest
+  - Spirit of the Forest
+  - Bleak Survivalist
+  - The Old Green Guardian
+  - Mythic Gateway
+  - Tamak, the Feral Tyrant
+  - Unconstrained Growth
+  - Greener Pastures
+  - Go with the Flow
+  - Forgotten Tributary
+  - Sphinx of the Steppe
+  - Spiritual Onslaught
+  - Tomi, Enlightened Archivist
+  - Unstoppable Force
+  - Kevala, Archdemon Apostate
+  - Sky Port City
+  - Adja and Danica
+  - Quiet Undergrowth
+  - Reproduce
+  - Hildi, Princess of the Wind
+  - Drown in Delusion
+  - Looming Towers
+  - Abyssal Gaze
+  - Usurp Identity
+  - Devourer of Dreams
+  - The One at the End
+  - Bubbling Springs
+  - Pyzzix, the Absurd
+  - Abundant Paradise
+  - The Amalgamation
+  - Rabid Shadow
+  - Mountain Catacombs
+  - Wendigo
+  - Undead Moose
+  - Turn into a Tree
+  - Toxic Jungle
+  - Pluck
+  - Birth from Flesh
+  - Roxanne, Queen of Feld
+  - Kikuki, Infinite Torment
+  - Verdant Hills
+  - The Beast in the Woods
+  - Ynga, Ferocious Warrioress
+  - Awakened Continent
+  - Stories of the Old Days
+  - Omnus
+  - Mad Bonemuncher
 imageExportPath: dist/images/

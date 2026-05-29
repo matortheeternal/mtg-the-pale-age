@@ -31,17 +31,19 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0215"
+  illustrator: Dmitri Burnou
+  autoCollectorNumber: "0217"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
+  rulesText: >
     Enchant player
 
-    Whenever a creature enchanted player controls dies, you gain 2 life.
+
+    Whenever a creature enchanted player controls dies, they lose 1 life and you
+    gain 1 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

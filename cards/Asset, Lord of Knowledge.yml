@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Asset, Lord of Knowledge
+  manaCost:
+    __type: ManaCost
+    symbols: UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Asset%2C%20Lord%20of%20Knowledge.jpg
+    width: 2569
+    height: 3720
+    cropWidth: 2303
+    cropHeight: 2172
+    xOffset: 136
+    yOffset: 433
+  superType: Legendary Artifact Creature
+  subType: Robot
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Andrei Riabovitchev
+  autoCollectorNumber: "0020"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    When ~ enters and whenever you cast a spell from exile, draw a card.
+
+
+    {4}: Archive. (Exile an instant or sorcery card from your graveyard. You may
+    cast it on a later turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Asset, Lord of Knowledge

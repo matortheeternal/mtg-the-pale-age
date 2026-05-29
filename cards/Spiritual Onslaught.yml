@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Spiritual Onslaught
+  manaCost:
+    __type: ManaCost
+    symbols: 3WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Spiritual%20Onslaught.jpg
+    width: 2328
+    height: 1830
+    cropWidth: 2328
+    cropHeight: 1643
+    xOffset: 0
+    yOffset: 93
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Yuriy Mazurkin
+  autoCollectorNumber: "0285"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Return each nonland permanent to its owner's hand. Then each player
+    creates X 1/1 colorless Spirit creature tokens with "At the end of your
+    turn, sacrifice this token and lose 2 life.", where X is the number of
+    nontoken permanents that were returned to their hand this way.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Spiritual Onslaught

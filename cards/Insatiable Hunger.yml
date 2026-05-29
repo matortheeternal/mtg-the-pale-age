@@ -9,7 +9,7 @@ front:
   name: Insatiable Hunger
   manaCost:
     __type: ManaCost
-    symbols: 2B
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/Insatiable%20Hunger.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: mariart
-  autoCollectorNumber: "0109"
+  autoCollectorNumber: "0111"
   collectorNumber: ""
   setCode: ""
   language: ""

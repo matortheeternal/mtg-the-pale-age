@@ -27,8 +27,8 @@ front:
   toughness: "2"
   showPT: true
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0107"
+  illustrator: Unknown
+  autoCollectorNumber: "0109"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,7 @@ front:
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    When ~ dies, each player creates a 1/1 colorless Spirit creature token with
-    "At the end of your turn, sacrifice this token and lose 2 life."
+    When ~ enters, if it was not cast it enters with two +1/+1 counters on it.
   flavorText: null
   chopTop: ""
   chopBottom: ""

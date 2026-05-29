@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ynga, Ferocious Warrioress
+  manaCost:
+    __type: ManaCost
+    symbols: GR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ynga%2C%20Ferocious%20Warrioress.jpg
+    width: 1654
+    height: 1980
+    cropWidth: 1216
+    cropHeight: 1521
+    xOffset: 344
+    yOffset: 459
+  superType: Legendary Creature
+  subType: Human Barbarian
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Atramentum
+  autoCollectorNumber: "0306"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+    Whenever a creature you control deals combat damage to an opponent, put a
+    +1/+1 counter on it.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ynga, Ferocious Warrioress

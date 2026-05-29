@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Ugr, Northern Sanctum
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ugr%2C%20Northern%20Sanctum.jpg
+    width: 3000
+    height: 2400
+    cropWidth: 3000
+    cropHeight: 2117
+    xOffset: 0
+    yOffset: 141
+  superType: Legendary Snow Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Manuel Javier Noreña Castaño
+  autoCollectorNumber: "0321"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {T}: Add {C}.
+
+    Whenever you cast a colorless spell, put a journey counter on @.
+
+    {4}, {T}, Remove a journey counter from @: Exile target creature. Return it
+    to the battlefield at the beginning of the next end step.
+  flavorText: “The northern lands are quiet, cold, peaceful. While there I almost
+    forgot that the world had ended.”
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ugr, Northern Sanctum

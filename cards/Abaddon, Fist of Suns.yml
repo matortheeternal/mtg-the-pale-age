@@ -27,15 +27,19 @@ front:
   toughness: "2"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0137"
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0139"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ enters, deal 3 damage to target creature an opponent controls.
-    You may pay {R}{R} to deal 6 damage to that creature instead.
+  rulesText: >-
+    Kicker {R}{R}
+
+
+    When ~ enters, it deals 3 damage to target creature an opponent controls. If
+    the kicker cost was paid, it deals 6 damage to that creature instead.
   flavorText: ""
   chopTop: ""
   chopBottom: ""

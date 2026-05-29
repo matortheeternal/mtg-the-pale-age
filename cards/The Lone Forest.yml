@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Lone Forest
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Lone%20Forest.jpg
+    width: 1920
+    height: 1363
+    cropWidth: 1657
+    cropHeight: 1169
+    xOffset: 132
+    yOffset: 132
+  superType: Creature
+  subType: Elemental
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: A Shipwright
+  autoCollectorNumber: "0079"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    {1}, {T}: Create a tapped Forest land token.
+    When ~ dies, sacrifice all Forest land tokens you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The Lone Forest

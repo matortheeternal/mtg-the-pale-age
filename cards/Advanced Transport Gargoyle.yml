@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Advanced Transport Gargoyle
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Advanced%20Transport%20Gargoyle.jpg
+    width: 2003
+    height: 2003
+    cropWidth: 2003
+    cropHeight: 1414
+    xOffset: 0
+    yOffset: 141
+  superType: Artifact Creature
+  subType: Gargoyle
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "7"
+  showPT: true
+  rarity: uncommon
+  illustrator: Massimiliano Haematinon Nigro
+  autoCollectorNumber: "0019"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    Defender
+
+
+    Trailblaze - Whenever you crew or saddle, ~ can attack this turn as though
+    it didn't have defender.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Advanced Transport Gargoyle

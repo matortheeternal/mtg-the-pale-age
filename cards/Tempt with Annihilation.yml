@@ -9,7 +9,7 @@ front:
   name: Tempt with Annihilation
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: XB
   artImage:
     __type: image
     imageUrl: /project/cards/Tempt%20with%20Annihilation.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0126"
+  autoCollectorNumber: "0138"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,11 @@ front:
     Devoid (This card has no color.)
 
 
-    <i>Tempting offer</i> — Sacrifice a permanent, then draw a card. Each
-    opponent may sacrifice a permanent, then draw a card. For each opponent that
-    does, you may sacrifice a permanent, then draw a card.
+    As an additional cost to cast this spell, sacrifice X permanents.
+
+
+    <i>Tempting offer</i> — Draw X cards. Each opponent may sacrifice X
+    permanents, to draw X cards. For each opponent that does, you draw X cards.
   flavorText: null
   chopTop: ""
   chopBottom: ""

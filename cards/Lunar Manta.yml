@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Lunar Manta
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Lunar%20Manta.jpg
+    width: 3840
+    height: 5431
+    cropWidth: 3840
+    cropHeight: 4802
+    xOffset: 0
+    yOffset: 629
+  superType: Creature
+  subType: Fish
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Sevan Selvadjian
+  autoCollectorNumber: "0028"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Flying
+
+
+    Whenever you cast a colorless spell, put a +1/+1 counter on ~. This ability
+    triggers only once each turn.
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "16.5"
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Lunar Manta

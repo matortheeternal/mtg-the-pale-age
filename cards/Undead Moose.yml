@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Undead Moose
+  manaCost:
+    __type: ManaCost
+    symbols: 1GB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Undead%20Moose.jpg
+    width: 1250
+    height: 977
+    cropWidth: 1250
+    cropHeight: 882
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Zombie Elk
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Rob Sachetto
+  autoCollectorNumber: "0138"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
+
+    When ~ dies, create a food token.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Undead Moose

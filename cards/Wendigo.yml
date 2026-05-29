@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Wendigo
+  manaCost:
+    __type: ManaCost
+    symbols: 2GB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Wendigo.jpg
+    width: 1200
+    height: 1638
+    cropWidth: 1200
+    cropHeight: 1501
+    xOffset: 0
+    yOffset: 137
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Hege
+  autoCollectorNumber: "0296"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+
+    Consume (As this creature enters, you may sacrifice any number of creatures
+    or Foods. It enters with that many +1/+1 counters on it.)
+
+
+    When ~ enters, each opponent loses X life and you gain X life, where X is
+    its power.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Wendigo

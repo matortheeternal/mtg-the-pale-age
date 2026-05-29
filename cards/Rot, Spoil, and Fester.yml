@@ -30,16 +30,19 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: Antonis Kalavrezos
-  autoCollectorNumber: "0248"
+  autoCollectorNumber: "0239"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+
+    Choose one or more —
 
     - Mill three cards, then you may return a creature card from your graveyard
     to your hand.

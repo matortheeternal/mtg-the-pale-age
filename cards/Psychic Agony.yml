@@ -9,7 +9,7 @@ front:
   name: Psychic Agony
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/Psychic%20Agony.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Marcus Gabriel Fors
-  autoCollectorNumber: "0113"
+  autoCollectorNumber: "0121"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,6 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Devoid (This card has no color.)
+
 
     Target player reveals their hand. You choose a nonland card from it. That
     player discards that card. Then, each player loses 2 life.

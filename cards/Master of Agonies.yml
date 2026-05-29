@@ -28,18 +28,20 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0110"
+  autoCollectorNumber: "0119"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
+  rulesText: >+
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    {1}, {T}, Sacrifice a creature: Each player loses 2 life.
+    {1}, {T}, Sacrifice a creature: Target player loses 2 life.
+
+
   flavorText: null
   chopTop: ""
   chopBottom: ""

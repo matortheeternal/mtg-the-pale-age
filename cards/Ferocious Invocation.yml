@@ -17,12 +17,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Ferocious%20Invocation.jpg
-    width: 735
-    height: 1234
-    cropWidth: 735
-    cropHeight: 519
+    width: 1067
+    height: 800
+    cropWidth: 1067
+    cropHeight: 753
     xOffset: 0
-    yOffset: 271
+    yOffset: 24
   superType: Instant
   subType: ""
   flagLeft: ""
@@ -30,21 +30,24 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0234"
+  rarity: rare
+  illustrator: Chay Ruby
+  autoCollectorNumber: "0224"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
-    - ~ deals 2 damage to target player.
 
-    - Put target land card from a graveyard onto the battlefield under your
-    control.
+    Choose one or more —
+
+    - ~ deals 2 damage to any target.
+
+    - Target creature you control gets +2/+0 and gains trample until end of
+    turn.
 
     - Target creature you control fights target creature an opponent controls.
   flavorText: null

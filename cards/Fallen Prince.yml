@@ -16,7 +16,7 @@ front:
     width: 1148
     height: 2048
     cropWidth: 1148
-    cropHeight: 1699
+    cropHeight: 1705
     xOffset: 0
     yOffset: 118
   superType: Creature
@@ -27,8 +27,8 @@ front:
   toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0101"
+  illustrator: ChatGPT
+  autoCollectorNumber: "0110"
   collectorNumber: ""
   setCode: ""
   language: ""

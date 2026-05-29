@@ -9,12 +9,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Kaeda.jpg
-    width: 736
-    height: 736
-    cropWidth: 736
-    cropHeight: 519
+    width: 1016
+    height: 1422
+    cropWidth: 1016
+    cropHeight: 717
     xOffset: 0
-    yOffset: 89
+    yOffset: 322
   superType: Legendary Planeswalker
   subType: Kaeda
   flagLeft: ""
@@ -23,7 +23,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: mythic
-  illustrator: ""
+  illustrator: Sumi Kurai
   autoCollectorNumber: "0001"
   collectorNumber: ""
   setCode: ""

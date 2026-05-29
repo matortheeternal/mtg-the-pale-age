@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bend Reality
+  manaCost:
+    __type: ManaCost
+    symbols: 8UUU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bend%20Reality.jpg
+    width: 1920
+    height: 1449
+    cropWidth: 1716
+    cropHeight: 1211
+    xOffset: 108
+    yOffset: 105
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0021"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    This spell costs {2} less to cast for each effect on the stack.
+
+    You may reorder the stack and change the targets of any number of spells or
+    abilities.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Bend Reality

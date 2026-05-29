@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Engine of Endless Ruin
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Engine%20of%20Endless%20Ruin.jpg
+    width: 600
+    height: 936
+    cropWidth: 600
+    cropHeight: 526
+    xOffset: 0
+    yOffset: 167
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: George Munteanu
+  autoCollectorNumber: "0312"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    All lands have "{T}, Sacrifice this land: Add {C}{C}{C}."
+
+
+    {1}: Return a land card from your graveyard to your hand. Any player may
+    activate this ability.
+  flavorText: '"When we unlocked the technology to regrow entire worlds, we began
+    to destroy them just as quickly."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Engine of Endless Ruin

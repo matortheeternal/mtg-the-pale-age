@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Population Regulator
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Population%20Regulator.jpg
+    width: 1920
+    height: 1920
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 283
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Rachel Carpentier
+  autoCollectorNumber: "0317"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {3}: Create a token copy of target creature, then gain 1 life. Any player
+    may activate this ability.
+
+
+    At the end of each player's turn, that player loses life equal to the number
+    of creatures they control.
+  flavorText: '"Population Regulator to Sector 4b: you are operating outside of
+    permitted parameters, prepare for immediate regulatory action."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Population Regulator

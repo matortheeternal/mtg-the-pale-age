@@ -30,16 +30,18 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: Riyu008
-  autoCollectorNumber: "0246"
+  autoCollectorNumber: "0237"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+    Choose one or more —
     - Create a 2/2 green Dinosaur creature token.
     - Destroy target artifact or enchantment.
     - Target creature gets +2/+2 and gains lifelink until end of turn.

@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Kevala, Archdemon Apostate
+  manaCost:
+    __type: ManaCost
+    symbols: BW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Kevala%2C%20Archdemon%20Apostate.jpg
+    width: 1152
+    height: 1440
+    cropWidth: 1023
+    cropHeight: 1279
+    xOffset: 65
+    yOffset: 151
+  superType: Legendary Creature
+  subType: Demon Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: mythic
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0256"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+    Deathtouch, undying (When this creature dies, if it had no +1/+1 counters on
+    it, return it to the battlefield under its owner’s control with a +1/+1
+    counter on it.)
+
+    If a player would gain life, they lose that much life instead.
+
+    When @ enters, put a lifelink counter on target creature.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Kevala, Archdemon Apostate

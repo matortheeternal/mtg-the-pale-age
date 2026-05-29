@@ -12,13 +12,13 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Very%20Hungry%20Horror.jpg
-    width: 736
-    height: 1104
-    cropWidth: 736
-    cropHeight: 1049
+    imageUrl: /project/cards/REPLACE%20ART%20The%20Very%20Hungry%20Horror.jpg
+    width: 900
+    height: 1238
+    cropWidth: 900
+    cropHeight: 1126
     xOffset: 0
-    yOffset: 55
+    yOffset: 112
   superType: Creature
   subType: Horror
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: "1"
   showPT: true
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0131"
+  illustrator: Abelardo
+  autoCollectorNumber: "0127"
   collectorNumber: ""
   setCode: ""
   language: ""
