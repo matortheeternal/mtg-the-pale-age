@@ -30,23 +30,26 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0240"
+  autoCollectorNumber: "0230"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+
+    Choose one or more —
 
     - Attach target equipment or aura to target creature you control.
 
     - Tap target permanent and put a stun counter on it.
 
-    - Archive. (To archive, exile an instant or sorcery card from your
-    graveyard. You may cast a copy of it on a later turn.)
+    - Archive. (Exile a noncreature card from your graveyard. You may cast a
+    copy of it on a later turn.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

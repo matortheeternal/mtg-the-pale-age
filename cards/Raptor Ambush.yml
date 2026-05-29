@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: "0203"
+  autoCollectorNumber: "0226"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,11 +36,10 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Create a 2/2 green Dinosaur creature token. If you cast this spell from
-    anywhere other than your hand, create a 4/4 green Dinosaur creature token
-    instead.
+    anywhere other than your hand, put two +1/+1 counters on it.
 
 
-    Flashback {3}{G}{G}{G} (You may cast this card from your graveyard for its
+    Flashback {2}{G}{G} (You may cast this card from your graveyard for its
     flashback cost. Then exile it.)
   flavorText: ""
   chopTop: ""

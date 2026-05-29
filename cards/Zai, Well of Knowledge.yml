@@ -13,7 +13,7 @@ front:
   name: Zai, Well of Knowledge
   manaCost:
     __type: ManaCost
-    symbols: 6WU
+    symbols: 5WU
   artImage:
     __type: image
     imageUrl: /project/cards/Zai%2C%20Well%20of%20Knowledge.jpg
@@ -31,17 +31,17 @@ front:
   toughness: "7"
   showPT: true
   rarity: mythic
-  illustrator: ""
-  autoCollectorNumber: "0254"
+  illustrator: Nico Delort
+  autoCollectorNumber: "0247"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Ward—Discard a noncreature card.
-
     ~ costs {1} less to cast for each noncreature card you own in exile.
+
+    Ward—Discard a noncreature card.
 
     Whenever you cast or copy a noncreature spell, draw a card.
   flavorText: null

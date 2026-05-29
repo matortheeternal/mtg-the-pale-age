@@ -27,14 +27,22 @@ front:
   toughness: ""
   showPT: ""
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0062"
+  illustrator: Nico Delort
+  autoCollectorNumber: "0063"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{T}: Add {U}."
+  rulesText: >-
+    ~ enters tapped.
+
+
+    {T}: Add {U}.
+
+
+    {2}{U}, {T}, Sacrifice ~: Each player shuffles their graveyard into their
+    library and draws a card.
   flavorText: null
   chopTop: ""
   chopBottom: ""

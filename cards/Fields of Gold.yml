@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Fields%20of%20Gold.jpg
-    width: 723
-    height: 960
-    cropWidth: 723
-    cropHeight: 637
+    width: 1440
+    height: 1799
+    cropWidth: 1440
+    cropHeight: 1016
     xOffset: 0
-    yOffset: 180
+    yOffset: 742
   superType: Enchantment
   subType: ""
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0020"
+  autoCollectorNumber: "0019"
   collectorNumber: ""
   setCode: ""
   language: ""

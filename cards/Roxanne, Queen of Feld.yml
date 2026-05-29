@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Roxanne, Queen of Feld
+  manaCost:
+    __type: ManaCost
+    symbols: BG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Roxanne%2C%20Queen%20of%20Feld.jpg
+    width: 1920
+    height: 2560
+    cropWidth: 1690
+    cropHeight: 2401
+    xOffset: 0
+    yOffset: 159
+  superType: Legendary Creature
+  subType: Human Rogue
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0126"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+    Whenever you sacrifice a permanent, draw a card and put a +1/+1 counter on
+    @.
+
+    {1}, Sacrifice a permanent: Put target permanent from your graveyard on top
+    of your library.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Roxanne, Queen of Feld

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: "0243"
+  autoCollectorNumber: "0298"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,8 +43,7 @@ front:
     enters with two +1/+1 counters on it.)
 
 
-    Remove a +1/+1 counter from ~: Deal 1 damage to any target. Activate only as
-    a sorcery.
+    Remove a +1/+1 counter from ~: Deal 1 damage to any target.
   flavorText: null
   chopTop: ""
   chopBottom: ""

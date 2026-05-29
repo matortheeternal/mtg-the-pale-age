@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mythic Gateway
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mythic%20Gateway.jpg
+    width: 1920
+    height: 1571
+    cropWidth: 1723
+    cropHeight: 1216
+    xOffset: 100
+    yOffset: 162
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0074"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Once during each player's turn, that player may put a creature card
+    from their hand onto the battlefield tapped.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Mythic Gateway

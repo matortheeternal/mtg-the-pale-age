@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0222"
+  autoCollectorNumber: "0223"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,7 +45,7 @@ front:
 
     Lifelink
   flavorText: The healers of the empire were cursed. Cursed so their magic could
-    only heal themselves. Forced to watch their people die.
+    only heal themselves. Cursed to watch their people die.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

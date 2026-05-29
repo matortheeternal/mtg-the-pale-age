@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Panopticon
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Panopticon.jpg
+    width: 479
+    height: 750
+    cropWidth: 479
+    cropHeight: 469
+    xOffset: 0
+    yOffset: 266
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Paul Callé
+  autoCollectorNumber: "0314"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Players play with their hands revealed.
+
+
+    {5}: Each player discards their hand and draws 5 cards. Any player may
+    activate this ability.
+  flavorText: "\"So we decided that everyone should have the ability to see
+    everyone else all the time. No more crime, no more secrets, no more lies.
+    Perfect, isn't it?\""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Panopticon

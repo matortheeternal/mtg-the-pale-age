@@ -27,15 +27,15 @@ front:
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0187"
+  illustrator: Rochaku
+  autoCollectorNumber: "0189"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, create a 2/2 green Cat creature token.
+    When ~ enters, create a 2/2 green Dinosaur creature token.
 
 
     {2}{G}: Put a reach counter on target creature you control. This ability

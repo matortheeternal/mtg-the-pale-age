@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Kikuki, Infinite Torment
+  manaCost:
+    __type: ManaCost
+    symbols: 6GB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Kikuki%2C%20Infinite%20Torment.jpg
+    width: 736
+    height: 1300
+    cropWidth: 736
+    cropHeight: 1300
+    xOffset: 0
+    yOffset: 0
+  superType: Legendary Creature
+  subType: Insect
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "8"
+  showPT: true
+  rarity: mythic
+  illustrator: Abelardo
+  autoCollectorNumber: "0105"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >+
+    Devoid (This card has no color.)
+
+
+    Trample, deathtouch
+
+
+    At the end of your turn, sacrifice a nontoken creature. Create X 1/1 black
+    Insect creature tokens, where X is the sacrificed creature's power.
+
+
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Kikuki, Infinite Torment

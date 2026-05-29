@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Sea%20Witch.jpg
-    width: 1000
-    height: 1334
-    cropWidth: 1000
-    cropHeight: 884
+    width: 736
+    height: 974
+    cropWidth: 736
+    cropHeight: 519
     xOffset: 0
-    yOffset: 116
+    yOffset: 54
   superType: Creature
   subType: Human Warlock
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: "2"
   showPT: true
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0081"
+  illustrator: Tp-h
+  autoCollectorNumber: "0083"
   collectorNumber: ""
   setCode: ""
   language: ""

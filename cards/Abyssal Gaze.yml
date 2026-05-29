@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+  colorOverride: []
+  name: Abyssal Gaze
+  manaCost:
+    __type: ManaCost
+    symbols: 2U/B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Abyssal%20Gaze.jpg
+    width: 736
+    height: 1104
+    cropWidth: 611
+    cropHeight: 764
+    xOffset: 64
+    yOffset: 340
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Tatiana Tsiguleva
+  autoCollectorNumber: "0085"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Target player reveals their hand. You choose a nonland card from it. That
+    player discards that card.
+
+
+    Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Abyssal Gaze

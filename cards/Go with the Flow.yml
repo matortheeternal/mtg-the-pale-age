@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        hybrid: true
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+  colorOverride: []
+  name: Go with the Flow
+  manaCost:
+    __type: ManaCost
+    symbols: U/W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Go%20with%20the%20Flow.jpg
+    width: 1920
+    height: 1920
+    cropWidth: 1535
+    cropHeight: 1920
+    xOffset: 192
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Valentina Bianconi
+  autoCollectorNumber: "0252"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Choose one or more:
+    - Target creature becomes saddled. Draw a card.
+    - Target vehicle becomes crewed. Draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Go with the Flow

@@ -1,0 +1,77 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Devourer of Dreams
+  manaCost:
+    __type: ManaCost
+    symbols: UB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Devourer%20of%20Dreams.jpg
+    width: 3000
+    height: 3000
+    cropWidth: 2123
+    cropHeight: 2655
+    xOffset: 99
+    yOffset: 345
+  superType: Legendary Creature
+  subType: Nightmare
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Maks Trofimov
+  autoCollectorNumber: "0092"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+
+    Menace
+
+
+    When ~ enters or dies, suppress 3. (To suppress 3, look at the top three
+    cards of target player's library and choose one. Put that card on top of
+    their library and the rest into their graveyard.)
+
+
+    Escape—{2}{U}{B}, Exile three other cards from your graveyard. (You may cast
+    this card from your graveyard for its escape cost.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Devourer of Dreams

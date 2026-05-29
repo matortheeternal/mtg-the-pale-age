@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Erke Lee
-  autoCollectorNumber: "0140"
+  autoCollectorNumber: "0150"
   collectorNumber: ""
   setCode: ""
   language: ""

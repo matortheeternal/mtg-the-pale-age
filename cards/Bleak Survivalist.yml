@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bleak Survivalist
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bleak%20Survivalist.jpg
+    width: 1920
+    height: 2560
+    cropWidth: 1457
+    cropHeight: 2137
+    xOffset: 93
+    yOffset: 423
+  superType: Creature
+  subType: Human Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Vladimir Matyukin
+  autoCollectorNumber: "0066"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+    Whenever a creature an opponent controls dies, create a food token.
+    {T}, Sacrifice a food: Put two +1/+1 counters on target creature.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Bleak Survivalist

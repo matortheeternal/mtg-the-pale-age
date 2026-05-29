@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Andrzej Sych
-  autoCollectorNumber: "0166"
+  autoCollectorNumber: "0176"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >
     Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
-    comes into play with three +1/+1 counters on it)
+    enters with three +1/+1 counters on it)
   flavorText: There's nothing quite as terrifying as a Carnotaurus that's caught
     on to your scent.
   chopTop: ""

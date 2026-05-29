@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Mothership.jpg
-    width: 640
-    height: 640
-    cropWidth: 640
-    cropHeight: 619
+    width: 1200
+    height: 856
+    cropWidth: 1200
+    cropHeight: 847
     xOffset: 0
-    yOffset: 21
+    yOffset: 0
   superType: Artifact
   subType: Vehicle
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: "10"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0047"
+  illustrator: Nico Delort
+  autoCollectorNumber: "0048"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,12 +42,8 @@ front:
     Flying
 
 
-    Whenever ~ attacks, create two 2/2 white Construct artifact creature tokens
-    with flying tapped and attacking.
-
-
-    Trailblaze - Whenever you crew or saddle, creatures you control get +1/+1
-    until end of turn.
+    Whenever ~ attacks, create three 2/2 white Construct artifact creature
+    tokens with flying tapped and attacking.
 
 
     Crew 10

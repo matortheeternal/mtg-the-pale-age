@@ -27,15 +27,15 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0123"
+  illustrator: Nadide Öçba
+  autoCollectorNumber: "0136"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Target player creates two 1/1 colorless Spirit creature token with "At the
+    Target player creates two 1/1 colorless Spirit creature tokens with "At the
     end of your turn, sacrifice this creature and lose 2 life."
 
 

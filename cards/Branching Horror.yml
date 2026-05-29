@@ -27,8 +27,8 @@ front:
   toughness: "6"
   showPT: true
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: "0182"
+  illustrator: Jaehyeon Lee
+  autoCollectorNumber: "0185"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
     Reach
 
-    When ~ dies, create two 4/3 green Horror creature tokens with reach.
+    When ~ dies, create two 4/3 green Dryad Horror creature tokens with reach.
   flavorText: >-
     "I saw it. The thing in the woods. It was a tree with a maw of a hundred
     needle-sharp teeth.  It ate an entire flock of crows. It was horrible."

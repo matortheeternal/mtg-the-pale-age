@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0180"
+  autoCollectorNumber: "0192"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,8 +37,8 @@ front:
   rulesText: >
     ~ enters with a deathtouch counter on it.
 
-    Transfuse (Whenever another creature comes into play you may move a counter
-    from this creature onto it.)
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

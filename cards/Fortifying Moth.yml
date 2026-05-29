@@ -34,10 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >-
     Flying
 
-    Creature tokens you control get +0/+1.
+
+    Whenever you attack or block with one or more creatures, another target
+    creature you control gets +1/+1 until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

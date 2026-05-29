@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sphinx of the Steppe
+  manaCost:
+    __type: ManaCost
+    symbols: 3WU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Sphinx%20of%20the%20Steppe.jpg
+    width: 3840
+    height: 4518
+    cropWidth: 2751
+    cropHeight: 3441
+    xOffset: 544
+    yOffset: 1077
+  superType: Creature
+  subType: Sphinx
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Anna Rodman
+  autoCollectorNumber: "0129"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+
+    Flying
+
+
+    Whenever ~ enters or attacks, mill two cards, then archive. (To archive,
+    exile an instant or sorcery card from your graveyard. You may cast it on a
+    later turn.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Sphinx of the Steppe

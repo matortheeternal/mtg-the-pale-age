@@ -1,0 +1,79 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: The One at the End
+  manaCost:
+    __type: ManaCost
+    symbols: 10UUUB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20One%20at%20the%20End.jpg
+    width: 1920
+    height: 2268
+    cropWidth: 1382
+    cropHeight: 1729
+    xOffset: 257
+    yOffset: 269
+  superType: Legendary Creature
+  subType: Avatar
+  flagLeft: ""
+  flagRight: ""
+  power: "10"
+  toughness: "10"
+  showPT: true
+  rarity: mythic
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0134"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Delve (Each card you exile from your graveyard while casting this spell pays
+    for {1} .)
+
+
+    You may cast ~ from exile.
+
+
+    ~ can't be blocked.
+
+
+    If a creature would deal combat damage to a player, that player mills that
+    many cards instead.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: The One at the End

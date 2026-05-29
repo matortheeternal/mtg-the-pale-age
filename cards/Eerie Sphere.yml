@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Eerie Sphere
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Eerie%20Sphere.jpg
+    width: 479
+    height: 750
+    cropWidth: 479
+    cropHeight: 467
+    xOffset: 0
+    yOffset: 268
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0311"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    If a creature would die, exile it under ~ instead.
+
+
+    {2}: Put a creature card exiled with ~ onto the battlefield under your
+    control. Any player may activate this ability. Activate only as a sorcery.
+  flavorText: "Some thought the sphere a blessing, others a curse. One thing was
+    certain: its arrival changed everything."
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Eerie Sphere

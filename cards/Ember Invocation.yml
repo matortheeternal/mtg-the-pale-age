@@ -30,19 +30,21 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0229"
+  autoCollectorNumber: "0220"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+    Choose one or more —
     - Target vehicle becomes crewed until end of turn.
     - ~ deals 2 damage to any target and you gain 2 life.
-    - Target creature gets +2/+0 and gains first strike until end of turn.
+    - Target creature gets +1/+1 and gains first strike until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

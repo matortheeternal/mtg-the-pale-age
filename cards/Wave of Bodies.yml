@@ -9,7 +9,7 @@ front:
   name: Wave of Bodies
   manaCost:
     __type: ManaCost
-    symbols: BB
+    symbols: 1BB
   artImage:
     __type: image
     imageUrl: /project/cards/Wave%20of%20Bodies.jpg
@@ -28,18 +28,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Corran Brownlee
-  autoCollectorNumber: "0136"
+  autoCollectorNumber: "0147"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    As an aditional cost to cast ~ you may sacrifice any number of creatures.
-
-
-    Creatures your opponents control get -X/-X until end of turn, where X is the
-    number of creatures that have died this turn.
+  rulesText: Each player sacrifices all creatures they control, then draws a card
+    for each creature they sacrificed this way.
   flavorText: null
   chopTop: ""
   chopBottom: ""

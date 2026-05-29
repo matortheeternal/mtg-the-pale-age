@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Hildi, Princess of the Wind
+  manaCost:
+    __type: ManaCost
+    symbols: GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Hildi%2C%20Princess%20of%20the%20Wind.jpg
+    width: 1427
+    height: 1427
+    cropWidth: 920
+    cropHeight: 1036
+    xOffset: 271
+    yOffset: 264
+  superType: Legendary Creature
+  subType: Human Noble
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Geirrod van Dyke
+  autoCollectorNumber: "0102"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+    Swarm - Whenever one or more tokens you control enter, target creature you
+    control gains flying until end of turn.
+
+    Whenever @ becomes tapped, create a 2/2 white Dinosaur creature token with
+    flying.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Hildi, Princess of the Wind

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kevin Long
-  autoCollectorNumber: "0169"
+  autoCollectorNumber: "0182"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
-    comes into play with two +1/+1 counters on it)
+    enters with two +1/+1 counters on it)
 
 
     Reach

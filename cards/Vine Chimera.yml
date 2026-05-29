@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Vine Chimera
+  manaCost:
+    __type: ManaCost
+    symbols: 3G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Vine%20Chimera.jpg
+    width: 1527
+    height: 2160
+    cropWidth: 1420
+    cropHeight: 1002
+    xOffset: 50
+    yOffset: 214
+  superType: Creature
+  subType: Plant Chimera
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Becky Cloonan
+  autoCollectorNumber: "0230"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Transfuse (As this enters, you may sacrifice any number of creatures
+    and/or Foods. It enters with a +1/+1 counter on it for each permanent
+    sacrificed this way and each counter those permanents had.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Vine Chimera

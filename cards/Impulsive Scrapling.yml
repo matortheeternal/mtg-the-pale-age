@@ -27,8 +27,8 @@ front:
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0158"
+  illustrator: René Holm
+  autoCollectorNumber: "0159"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,9 @@ front:
     Haste
 
     {1}{R}: ~ gets +2/+0 until end of turn.
-  flavorText: null
+  flavorText: |-
+    "This little guy?  Surely he's harmless."
+    —Karth, last words
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

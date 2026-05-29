@@ -30,16 +30,18 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0237"
+  autoCollectorNumber: "0227"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Choose one:
+    Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+
+    Choose one or more —
     - ~ deals 1 damage to each creature and each player.
     - Target player exiles a card from their hand.
     - Target creature gets +2/+0 and gains haste until end of turn.

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Greener Pastures
+  manaCost:
+    __type: ManaCost
+    symbols: 4GGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Greener%20Pastures.jpg
+    width: 1920
+    height: 1307
+    cropWidth: 1852
+    cropHeight: 1307
+    xOffset: 34
+    yOffset: 0
+  superType: World Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0071"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Permanents and spells you control are green.
+
+    Whenever you tap a land for mana, add an additional {G}{G}.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Greener Pastures

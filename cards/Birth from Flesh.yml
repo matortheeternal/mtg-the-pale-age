@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+    - char: g
+      name: green
+      sources:
+        hybrid: true
+  colorOverride: []
+  name: Birth from Flesh
+  manaCost:
+    __type: ManaCost
+    symbols: 1G/B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Birth%20from%20Flesh.jpg
+    width: 509
+    height: 715
+    cropWidth: 509
+    cropHeight: 359
+    xOffset: 0
+    yOffset: 178
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Yuri Shashiki
+  autoCollectorNumber: "0236"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    As an additional cost to cast this spell, sacrifice a creature.
+
+
+    Create X 1/1 black Insect creature tokens, where X is the sacrificed
+    creature's power.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Birth from Flesh

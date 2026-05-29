@@ -25,8 +25,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0127"
+  illustrator: Tsutomu Nihei
+  autoCollectorNumber: "0129"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,6 +41,10 @@ front:
     III - Exile each player's graveyard. You may cast creature spells from among
     cards exiled this way.
   flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
   artSize: normal
   crownStyle: auto
   nyxStyle: auto
@@ -49,10 +53,6 @@ front:
   ubStyle: auto
   hybridStyle: []
   hybridBlendStyle: grey
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
 notes: ""
 tags: []
 baseName: The Abyssal Prison

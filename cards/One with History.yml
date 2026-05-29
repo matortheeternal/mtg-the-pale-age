@@ -13,7 +13,7 @@ front:
   name: One with History
   manaCost:
     __type: ManaCost
-    symbols: WU
+    symbols: 1WU
   artImage:
     __type: image
     imageUrl: /project/cards/One%20with%20History.jpg
@@ -31,7 +31,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
+  illustrator: Abelardo
   autoCollectorNumber: "0234"
   collectorNumber: ""
   setCode: ""

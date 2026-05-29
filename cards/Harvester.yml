@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Harvester
+  manaCost:
+    __type: ManaCost
+    symbols: 6UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Harvester.jpg
+    width: 1400
+    height: 2100
+    cropWidth: 1400
+    cropHeight: 1944
+    xOffset: 0
+    yOffset: 34
+  superType: Artifact Creature
+  subType: Dreadnought
+  flagLeft: ""
+  flagRight: ""
+  power: "9"
+  toughness: "9"
+  showPT: true
+  rarity: uncommon
+  illustrator: Alejandro Mendez
+  autoCollectorNumber: "0026"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    When ~ enters, tap all creatures your opponents control.
+
+    Whenever ~ attacks, defending player mills cards equal to its power.
+
+    Whenever ~ blocks, it gains indestructible until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "18.8"
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Harvester
