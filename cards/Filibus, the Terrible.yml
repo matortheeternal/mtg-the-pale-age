@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0069"
+  autoCollectorNumber: "0075"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,9 @@ front:
   rulesText: As long as you control a creature, whenever a player casts a spell,
     counter that spell unless that player puts a +1/+1 counter on a creature you
     control.
-  flavorText: null
+  flavorText: Filibus was rather fond of trinkets. And if you did not offer one as
+    tribute while passing through his territory, you would find a fate most
+    terrible indeed.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

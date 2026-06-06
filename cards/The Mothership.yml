@@ -9,7 +9,7 @@ front:
   name: The Mothership
   manaCost:
     __type: ManaCost
-    symbols: 10W
+    symbols: 7W
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Mothership.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0048"
+  autoCollectorNumber: "0051"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -46,7 +46,7 @@ front:
     tokens with flying tapped and attacking.
 
 
-    Crew 10
+    Crew 8
   flavorText: null
   chopTop: "2"
   chopBottom: ""
@@ -70,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: The Mothership
+imageExports:
+  front: The Mothership.jpg

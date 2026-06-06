@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Aram Papazyan
-  autoCollectorNumber: "0189"
+  autoCollectorNumber: "0205"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
 
     Consume (As this enters, you may sacrifice any number of creatures and/or
-    Foods. It enters with a +1/+1 counter on it for each permanent sacrificed
+    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
     this way and each counter those permanents had.)
 
 

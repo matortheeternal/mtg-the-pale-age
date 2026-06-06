@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Christian Bravery
-  autoCollectorNumber: "0015"
+  autoCollectorNumber: "0017"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     a card.
 
 
-    Crew 4 (Tap any number of creatures you control with total power 4 or more:
+    Crew 3 (Tap any number of creatures you control with total power 3 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: ""
   chopTop: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Desert Assault Vehicle
+imageExports:
+  front: Desert Assault Vehicle.jpg

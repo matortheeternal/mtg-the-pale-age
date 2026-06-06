@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Teleporting Inventor
+  manaCost:
+    __type: ManaCost
+    symbols: 2U
+  artImage:
+    __type: image
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Human Artificer
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: "0098"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, draw a card.
+
+
+    {U}{U}: Return ~ to its owner's hand. You may activate this ability while ~
+    is in exile.
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Teleporting Inventor

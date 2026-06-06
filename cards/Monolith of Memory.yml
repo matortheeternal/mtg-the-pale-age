@@ -9,7 +9,7 @@ front:
   name: Monolith of Memory
   manaCost:
     __type: ManaCost
-    symbols: 1GGG
+    symbols: 2GG
   artImage:
     __type: image
     imageUrl: /project/cards/Monolith%20of%20Memory.jpg
@@ -28,19 +28,19 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: "0216"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    {1}{G}, Remove a +1/+1 counter from a creature you control: Target creature
-    gains curious until end of turn. (Whenever a creature with curious deals
-    damage to a player, draw a card.)
+    {1}{G}, Remove a counter from a creature you control: Target creature gains
+    curious until end of turn. (Whenever a creature with curious deals damage to
+    a player, draw a card.)
 
 
-    {T}: Add {G}{G}{G}. Spend this mana only to cast creature spells.
+    {T}: Add {G}{G}. Spend this mana only to cast creature spells.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Nibble
+  manaCost:
+    __type: ManaCost
+    symbols: 3B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Nibble-2.jpg
+    width: 750
+    height: 750
+    cropWidth: 750
+    cropHeight: 554
+    xOffset: 0
+    yOffset: 161
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: uncommon
+  illustrator: Milda
+  autoCollectorNumber: "0125"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    As an additional cost to cast this spell, sacrifice any number of creatures
+    and tokens.
+
+
+    Target player draws X cards and loses X life, where X is the number of
+    permanents sacrificed this way.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Nibble-2

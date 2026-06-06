@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Spiritual Onslaught
+  manaCost:
+    __type: ManaCost
+    symbols: 2WB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Spiritual%20Onslaught-2.jpg
+    width: 1080
+    height: 1350
+    cropWidth: 1080
+    cropHeight: 762
+    xOffset: 0
+    yOffset: 485
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Nicola Mel
+  autoCollectorNumber: "0293"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Target player creates four 1/1 colorless Spirit creature tokens with "At the
+    end of your turn, sacrifice this creature and lose 2 life."
+  flavorText: The spirits of the damned roam these lands. Take care not to let
+    them find ye.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Spiritual Onslaught-2

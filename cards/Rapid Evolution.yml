@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Rapid Evolution
+  manaCost:
+    __type: ManaCost
+    symbols: 1GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Rapid%20Evolution.jpg
+    width: 1920
+    height: 1896
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 271
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: uncommon
+  illustrator: Libby Schaffer
+  autoCollectorNumber: "0291"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {1}{G}{U}: Give target nonland permanent another counter of each kind
+    already on it. Activate this ability only as a sorcery.
+
+
+    {G/U}, Sacrifice this enchantment: Proliferate.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Rapid Evolution

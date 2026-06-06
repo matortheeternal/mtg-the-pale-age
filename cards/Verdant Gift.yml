@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Dan Hillier
-  autoCollectorNumber: "0206"
+  autoCollectorNumber: "0237"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,12 +39,11 @@ front:
 
     Enchanted permanent has "{T}: Add {G}{G}{G}."
   flavorText: >-
-    "The gift is a reminder of all the wonders that can be found beyond the
-    roots and rivers, the monsters and mysteries, deep within the peace and
-    silence at the edge of memory. Perhaps there is still some hope for this
-    broken world."
+    "The gift is a reminder of the peace that can be found beyond the monsters
+    and mysteries, deep within the silence at the edge of memory. Perhaps there
+    is hope for this broken world."
 
-    —<i>Unnamed Druidic Journal</i>
+    —Unnamed Druidic Journal
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

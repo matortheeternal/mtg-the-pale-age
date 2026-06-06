@@ -9,35 +9,32 @@ front:
   name: ""
   manaCost:
     __type: ManaCost
-    symbols: UU
+    symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
-    width: 950
-    height: 1267
-    cropWidth: 950
-    cropHeight: 670
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
-    yOffset: 203
+    yOffset: 0
   superType: Creature
-  subType: Merfolk
+  subType: Human Artificer
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "1"
+  toughness: "1"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0054"
+  autoCollectorNumber: "0090"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    {U}{U}, Remove a counter from a creature you control: Draw a card.
-
-    {U}{U}: Put a +1/+1 counter on target creature you control.
+  rulesText: Flash
   flavorText: null
   chopTop: ""
   chopBottom: ""

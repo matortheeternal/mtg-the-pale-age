@@ -9,32 +9,35 @@ front:
   name: Mythic Bomb Creature
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 4WW
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    imageUrl: /project/cards/Mythic%20Bomb%20Creature.jpg
+    width: 1920
+    height: 2458
+    cropWidth: 1920
+    cropHeight: 1355
     xOffset: 0
-    yOffset: 0
+    yOffset: 48
   superType: Legendary Creature
-  subType: ""
+  subType: Giant Angel
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
-  showPT: ""
+  showPT: true
   rarity: mythic
   illustrator: ""
-  autoCollectorNumber: "0031"
+  autoCollectorNumber: "0033"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: |+
+    You may cast spells as though they had flash.
+
+
   flavorText: null
   chopTop: ""
   chopBottom: ""

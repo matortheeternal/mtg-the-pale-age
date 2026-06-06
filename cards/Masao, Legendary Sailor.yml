@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0079"
+  autoCollectorNumber: "0087"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
     Whenever ~ becomes the target of a spell or ability, draw a card.
 
 
-  flavorText: null
+  flavorText: Masao fought the sea day and night for weeks. Then, he won.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

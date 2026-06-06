@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Diplodocus
+  manaCost:
+    __type: ManaCost
+    symbols: 4G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Diplodocus.jpg
+    width: 1536
+    height: 927
+    cropWidth: 1265
+    cropHeight: 927
+    xOffset: 11
+    yOffset: 0
+  superType: Creature
+  subType: Dinosaur
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "8"
+  showPT: true
+  rarity: uncommon
+  illustrator: Natee
+  autoCollectorNumber: "0203"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Reach, trample
+
+
+    Swarm - Whenever one or more tokens you control enter, target creature gets
+    +2/+2 until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Diplodocus

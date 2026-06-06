@@ -28,14 +28,18 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Axel Sauerwald
-  autoCollectorNumber: "0077"
+  autoCollectorNumber: "0086"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: No more than two creatures can attack each combat.
-  flavorText: null
+  flavorText: >-
+    "I find the maintenance shafts to be comforting. They feel so far away from
+    where any person ought to be."
+
+    —Corin, mechanic
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

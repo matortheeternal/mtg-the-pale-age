@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0020"
+  autoCollectorNumber: "0062"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     When ~ enters and whenever you cast a spell from exile, draw a card.
 
 
-    {4}: Archive. (Exile an instant or sorcery card from your graveyard. You may
-    cast it on a later turn.)
+    {1}{U}{U}{U}: Archive. (Exile an instant or sorcery card from your
+    graveyard. You may cast it on a later turn.)
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Asset, Lord of Knowledge
+imageExports:
+  front: Asset, Lord of Knowledge.jpg

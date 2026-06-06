@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Nyxie, the Nurturer
+  manaCost:
+    __type: ManaCost
+    symbols: 5BBWW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank.jpg
+    width: 2200
+    height: 1513
+    cropWidth: 2144
+    cropHeight: 1513
+    xOffset: 0
+    yOffset: 0
+  superType: Legendary Creature
+  subType: Dragon Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "7"
+  toughness: "7"
+  showPT: true
+  rarity: mythic
+  illustrator: Abelardo
+  autoCollectorNumber: "0268"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying, vigilance, lifelink
+
+
+    ~ costs {1} less to cast for each creature that died this turn.
+
+
+    At the beginning of each player's end step, you may return target creature
+    card with mana value X or less from that player's graveyard to the
+    battlefield under your control, where X is the amount of life you gained
+    this turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Nyxie, the Nurturer

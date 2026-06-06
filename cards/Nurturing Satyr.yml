@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mathias Osland
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: "0214"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,8 +36,6 @@ front:
   showFooterOverrides: false
   rulesText: |-
     Devoid (This card has no color.)
-
-    Ward {1}
 
     Swarm - Whenever one or more tokens you control enter, add {G}.
   flavorText: null

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0232"
+  autoCollectorNumber: "0278"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,7 +45,7 @@ front:
 
     Trample
   flavorText: The colossus slammed its arm into the ground, bones snapping and
-    hissing as the smell of boiling marrow billowed.
+    hissing. The stench of boiling marrow ripe upon the air.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

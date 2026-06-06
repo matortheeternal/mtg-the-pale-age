@@ -1,0 +1,76 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Shima, Devourer of Dreams
+  manaCost:
+    __type: ManaCost
+    symbols: 1UB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Devourer%20of%20Dreams.jpg
+    width: 3000
+    height: 3000
+    cropWidth: 2123
+    cropHeight: 2655
+    xOffset: 99
+    yOffset: 345
+  superType: Legendary Creature
+  subType: Nightmare
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Maks Trofimov
+  autoCollectorNumber: "0252"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Devoid (This card has no color.)
+
+
+    Menace
+
+
+    When ~ enters, suppress X, where X is the number of creature cards in all
+    graveyards. (To suppress X, look at the top X cards of target player's
+    library and choose one. Put that card on top of their library and the rest
+    into their graveyard.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Shima, Devourer of Dreams
+imageExports:
+  front: Devourer of Dreams.jpg

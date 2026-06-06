@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Yudho
-  autoCollectorNumber: "0092"
+  autoCollectorNumber: "0100"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,8 +40,9 @@ front:
 
     When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
     target player's library. Choose one. Put that card back on top of their
-    library and the rest into that player's graveyard.)
-  flavorText: null
+    library and exile the rest.)
+  flavorText: Have you ever wondered what thoughts taste like? No? Surely they
+    must be delectable.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -19,7 +19,7 @@ front:
     cropHeight: 1247
     xOffset: 68
     yOffset: 353
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: "0196"
+  autoCollectorNumber: "0223"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,8 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
-    Put two +1/+1 counters on target creature you control. You may put a land
+
+    Put two +1/+1 counters on target permanent you control. You may put a land
     card from your hand onto the battlefield tapped.
   flavorText: >-
     "I offer comfort and kindness to the small and weak. I think having

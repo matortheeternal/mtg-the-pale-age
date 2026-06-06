@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0071"
+  autoCollectorNumber: "0076"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
     Target creature gains flying and defender until end of turn.
 
     Draw a card.
-  flavorText: null
+  flavorText: Sometimes, gravity gets tired of holding you down.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Float
+imageExports:
+  front: Float.jpg

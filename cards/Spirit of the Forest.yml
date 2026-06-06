@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "4"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: Peter709
-  autoCollectorNumber: "0077"
+  autoCollectorNumber: "0226"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Devoid
 
 
-    When ~ dies, create an X/X black Horror creature token, where X is the
-    number of counters on it.
+    When ~ dies, create an X/X black Horror creature token, where X is its
+    power.
 
 
     Undying (When this creature dies, if it had no +1/+1 counters on it, return

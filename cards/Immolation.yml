@@ -13,7 +13,7 @@ front:
   name: Immolation
   manaCost:
     __type: ManaCost
-    symbols: RB
+    symbols: BR
   artImage:
     __type: image
     imageUrl: /project/cards/Immolation.jpg
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0227"
+  autoCollectorNumber: "0261"
   collectorNumber: ""
   setCode: ""
   language: ""

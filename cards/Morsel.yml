@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Morsel
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Morsel.jpg
+    width: 1107
+    height: 1431
+    cropWidth: 916
+    cropHeight: 1257
+    xOffset: 68
+    yOffset: 174
+  superType: Token Artifact
+  subType: Morsel
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: common
+  illustrator: pawlovearts
+  autoCollectorNumber: "0008"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: When this token leaves the battlefield, gain 1 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Morsel

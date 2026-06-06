@@ -1,10 +1,6 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
-      sources:
-        normal: true
     - char: u
       name: blue
       sources:
@@ -13,7 +9,7 @@ front:
   name: Sphinx of the Steppe
   manaCost:
     __type: ManaCost
-    symbols: 3WU
+    symbols: 3UU
   artImage:
     __type: image
     imageUrl: /project/cards/Sphinx%20of%20the%20Steppe.jpg
@@ -30,9 +26,9 @@ front:
   power: "4"
   toughness: "4"
   showPT: true
-  rarity: rare
+  rarity: uncommon
   illustrator: Anna Rodman
-  autoCollectorNumber: "0129"
+  autoCollectorNumber: "0285"
   collectorNumber: ""
   setCode: ""
   language: ""

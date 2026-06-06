@@ -46,47 +46,6 @@ symbol: >+
       </g>
   </svg>
 
-skeleton:
-  White:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Blue:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Black:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Red:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Green:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Multicolor:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Artifact:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
-  Land:
-    mythic: []
-    rare: []
-    uncommon: []
-    common: []
 version: 1
 defaultBackImage: games/magic/assets/back.png
 export:
@@ -98,18 +57,18 @@ export:
     scale: "2"
     bleed: "0"
   TTSExporter:
-    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/output/CardImagesExporter
+    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/images
   WebExporter:
     Test: ""
+    test: ""
 cards:
   - The Mothership
   - Hot Air Baloons
   - The Ferryman
-  - Peaceful Warbot
   - Peculiar Encounter
   - Glowing Revival
   - Fields of Gold
-  - REPLACE ART Divine Intervention
+  - Cataclysmic Wake
   - Zai, Well of Knowledge
   - Deepwood Druid
   - Apotheosis
@@ -126,7 +85,7 @@ cards:
   - Traveler's Bane
   - Thought Eater
   - Impulsive Scrapling
-  - REPLACE ART Renewal of the Flesh
+  - Bury the Masses
   - Mountain Crusher
   - Dune Priest
   - Filibus, the Terrible
@@ -141,7 +100,6 @@ cards:
   - Cinder Sprite
   - Marrow Colossus
   - Mistress of Flames
-  - Firebender guy
   - REPLACE ART Heavy Crawler
   - Path to Paradise
   - Burdened Bladebearer
@@ -149,10 +107,9 @@ cards:
   - Aggressive Multiplication
   - Scrabbling Ogre
   - Abyss Dweller
-  - REPLACE ART Spindle Swimmer
+  - Teleporting Inventor
   - Giant Swiftwing
   - Sea Witch
-  - Byrgonis, Research Vessel
   - Brine Muncher
   - Spell Knot
   - Giant Artificer
@@ -176,7 +133,7 @@ cards:
   - Dark Cruiser
   - Torment
   - Gg'kah, The Calamity
-  - REPLACE ART Thythulos
+  - Eater of Nights
   - Rot Hauler
   - Divine Duality
   - Pain Channeler
@@ -200,13 +157,12 @@ cards:
   - Somber Soldier
   - Encounter Oblivion
   - Announce Disaster
-  - REPLACE ART The Mind Wrangler
   - Gelatinous Researcher
   - Spirit Summoning
   - Coastal Sanctuary
   - Gargantuan Feardrinker
   - Branching Horror
-  - REPLACE ART Unspeakable Monstrosity
+  - Unspeakable Monstrosity
   - Vine Chimera
   - Bearer of the Unholy
   - Fall from Grace
@@ -215,16 +171,16 @@ cards:
   - Devour the Weak
   - Colossal Pteradactyl
   - Access the Undergrowth
-  - Falroth Beastmaster
+  - Falroth Ranger
   - Tend the Garden
   - Behold with Awe
-  - The Cloud Eater
-  - Sinew Slicer
+  - Cloud Eater
+  - Sinew Spawn
   - Skittering Deathbot
   - Armored Hybrid
   - One with History
   - Queen of Misery
-  - REPLACE ART The Mad King
+  - The Mad King
   - Orc Warlord
   - Skeletal Screecher
   - Lord of Rot
@@ -248,7 +204,6 @@ cards:
   - Passion
   - Clarity
   - REPLACE ART Depravity
-  - Prickly Pack-Dino
   - Nurture
   - Assassin's Skitterbot
   - Hungry Spinosaurus
@@ -278,7 +233,6 @@ cards:
   - Tormented Executioner
   - Master of Agonies
   - Angel of Obliteration
-  - The Hollow Throne
   - Ghost Blade
   - Crovax, Devourer of Souls
   - Pass into Eternity
@@ -295,8 +249,8 @@ cards:
   - Seal Within
   - Angel of Contemplation
   - Hero's Helm
-  - Mythic Bomb Creature
-  - Mythic Bomb Spell
+  - Firmament Sovereign
+  - Exaltation
   - Retreat of the Third Moon
   - Ancient Whale
   - Seaborn Hustler
@@ -355,10 +309,10 @@ cards:
   - Spirit
   - Dinosaur
   - Giant
-  - Food
+  - Morsel
   - Forest-2
   - Clue
-  - Sword-Shaped City
+  - Greatsword City
   - Eerie Sphere
   - Essence Extractor
   - Engine of Endless Ruin
@@ -373,8 +327,8 @@ cards:
   - Bend Reality
   - Asset, Lord of Knowledge
   - Access Infinity
-  - The Hollow Throne-2
-  - Bone Bow
+  - The Hollow Throne
+  - Giant Slaying Sword
   - The Lone Forest
   - Spirit of the Forest
   - Bleak Survivalist
@@ -389,7 +343,7 @@ cards:
   - Spiritual Onslaught
   - Tomi, Enlightened Archivist
   - Unstoppable Force
-  - Kevala, Archdemon Apostate
+  - Warden of Death
   - Sky Port City
   - Adja and Danica
   - Quiet Undergrowth
@@ -399,13 +353,13 @@ cards:
   - Looming Towers
   - Abyssal Gaze
   - Usurp Identity
-  - Devourer of Dreams
+  - Shima, Devourer of Dreams
   - The One at the End
   - Bubbling Springs
   - Pyzzix, the Absurd
   - Abundant Paradise
   - The Amalgamation
-  - Rabid Shadow
+  - Hounded by Death
   - Mountain Catacombs
   - Wendigo
   - Undead Moose
@@ -417,9 +371,76 @@ cards:
   - Kikuki, Infinite Torment
   - Verdant Hills
   - The Beast in the Woods
-  - Ynga, Ferocious Warrioress
   - Awakened Continent
   - Stories of the Old Days
   - Omnus
   - Mad Bonemuncher
+  - Kevala, Archdemon Apostate
+  - Spiritual Onslaught-2
+  - The Guest
+  - Grace of the Hunt
+  - Unrivaled Violence
+  - Squeeze
+  - Ylexa, Blood Enjoyer
+  - Infernal Impulse
+  - Explosive Evolution
+  - Sizzle Splitter
+  - Colorsight
+  - Color Eruption
+  - Nyxie, the Nurturer
+  - Liege of the Mists
+  - Diplodocus
+  - Ravenous Greatwolf
+  - Greatwurm of the Depths
+  - Biogenic Regurgitator
+  - Nibble
+  - Pact of Enlightenment
+  - The Integrator
+  - Morwen, The Gladiator
+  - Empty the Underworld
+  - blank
+  - Mr. Cosmos
+  - Bloodstained Axe
+  - The Unholy
+skeleton:
+  White:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Blue:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Black:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Red:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Green:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Multicolor:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Artifact:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
+  Land:
+    mythic: []
+    rare: []
+    uncommon: []
+    common: []
 imageExportPath: dist/images/

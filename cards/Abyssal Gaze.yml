@@ -4,16 +4,16 @@ front:
     - char: u
       name: blue
       sources:
-        hybrid: true
+        normal: true
     - char: b
       name: black
       sources:
-        hybrid: true
+        normal: true
   colorOverride: []
   name: Abyssal Gaze
   manaCost:
     __type: ManaCost
-    symbols: 2U/B
+    symbols: 2UB
   artImage:
     __type: image
     imageUrl: /project/cards/Abyssal%20Gaze.jpg
@@ -30,20 +30,21 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: common
   illustrator: Tatiana Tsiguleva
-  autoCollectorNumber: "0085"
+  autoCollectorNumber: "0236"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Target player reveals their hand. You choose a nonland card from it. That
-    player discards that card.
+    Devoid (This card has no color.)
 
 
-    Draw a card.
+    Target player reveals their hand. Suppress 2. (To suppress 2, look at the
+    top two cards of target player's library and choose one. Put that card on
+    top of their library and exile the rest.)
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -67,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Abyssal Gaze
+imageExports:
+  front: Abyssal Gaze.jpg

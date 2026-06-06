@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Kevin Kupari
-  autoCollectorNumber: "0120"
+  autoCollectorNumber: "0125"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Whenever ~ is dealt damage, each player loses that much life.
 
     {T}: ~ deals 2 damage to itself.
-  flavorText: null
+  flavorText: ""
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

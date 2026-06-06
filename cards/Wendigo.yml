@@ -13,7 +13,7 @@ front:
   name: Wendigo
   manaCost:
     __type: ManaCost
-    symbols: 2GB
+    symbols: 2BG
   artImage:
     __type: image
     imageUrl: /project/cards/Wendigo.jpg
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Hege
-  autoCollectorNumber: "0296"
+  autoCollectorNumber: "0318"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,13 +42,14 @@ front:
     Devoid (This card has no color.)
 
 
-    Consume (As this creature enters, you may sacrifice any number of creatures
-    or Foods. It enters with that many +1/+1 counters on it.)
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
+    this way and each counter those permanents had.)
 
 
     When ~ enters, each opponent loses X life and you gain X life, where X is
     its power.
-  flavorText: null
+  flavorText: From hunger and isolation, to madness.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -71,3 +72,5 @@ front:
 notes: ""
 tags: []
 baseName: Wendigo
+imageExports:
+  front: Wendigo.jpg

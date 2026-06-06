@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0126"
+  autoCollectorNumber: "0295"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,11 +41,12 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
-    Whenever you sacrifice a permanent, draw a card and put a +1/+1 counter on
-    @.
 
-    {1}, Sacrifice a permanent: Put target permanent from your graveyard on top
-    of your library.
+    Whenever you sacrifice one or more permanents, you may pay 2 life. If you
+    do, draw a card and put a +1/+1 counter on @.
+
+
+    At the beginning of your end step, create a Morsel token.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -69,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Roxanne, Queen of Feld
+imageExports:
+  front: Roxanne, Queen of Feld.jpg

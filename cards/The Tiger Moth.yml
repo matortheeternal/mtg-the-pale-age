@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Bernard Chan
-  autoCollectorNumber: "0051"
+  autoCollectorNumber: "0055"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Flying, vigilance
 
 
-    Trailblaze - Whenever you crew or mount, create a food token. This ability
-    triggers only once each turn.
+    Trailblaze - Whenever you crew or mount, create two Morsel tokens. This
+    ability triggers only once each turn.
 
 
     {2}, Sacrifice an artifact: Draw a card.

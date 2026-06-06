@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: James Carter Beard
-  autoCollectorNumber: "0079"
+  autoCollectorNumber: "0089"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: Of the sea, to study thee.
   chopTop: "2"
   chopBottom: ""
   maxFontSize: ""

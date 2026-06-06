@@ -32,16 +32,18 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0234"
+  autoCollectorNumber: "0284"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    You gain 2 life, draw a card, then archive. (Exile a noncreature card from
-    your graveyard. You may play a copy of it on a later turn.)
-  flavorText: null
+    Archive up to two noncreature cards. (To archive, exile a noncreature card
+    from your graveyard. You may play it on a later turn. If it would be put
+    into a graveyard, exile it instead.)
+  flavorText: '"Now that I see the past through many eyes I truly understand what
+    it means to be."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -64,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: One with History
+imageExports:
+  front: One with History.jpg

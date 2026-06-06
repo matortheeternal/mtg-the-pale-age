@@ -16,13 +16,13 @@ front:
     symbols: 4GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Unspeakable%20Monstrosity.jpg
-    width: 736
-    height: 736
-    cropWidth: 736
-    cropHeight: 622
+    imageUrl: /project/cards/REPLACE%20ART%20Unspeakable%20Monstrosity.jpg
+    width: 1500
+    height: 2114
+    cropWidth: 1500
+    cropHeight: 1199
     xOffset: 0
-    yOffset: 25
+    yOffset: 45
   superType: Creature
   subType: Fractal Horror
   flagLeft: ""
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Midjourney
-  autoCollectorNumber: "0238"
+  autoCollectorNumber: "0279"
   collectorNumber: ""
   setCode: ""
   language: ""

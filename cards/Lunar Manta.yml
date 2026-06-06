@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Sevan Selvadjian
-  autoCollectorNumber: "0028"
+  autoCollectorNumber: "0085"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,8 +41,7 @@ front:
     Flying
 
 
-    Whenever you cast a colorless spell, put a +1/+1 counter on ~. This ability
-    triggers only once each turn.
+    Whenever you cast a colorless spell, put a +1/+1 counter on ~.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
@@ -70,3 +69,5 @@ front:
 notes: ""
 tags: []
 baseName: Lunar Manta
+imageExports:
+  front: Lunar Manta.jpg

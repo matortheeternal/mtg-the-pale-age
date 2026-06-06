@@ -16,40 +16,35 @@ front:
     symbols: UR
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Mr.%20Cosmos.jpg
+    width: 1920
+    height: 2713
+    cropWidth: 1920
+    cropHeight: 1355
     xOffset: 0
-    yOffset: 0
+    yOffset: 114
   superType: Legendary Creature
   subType: Elemental
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "3"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0268"
+  illustrator: Dmitri Burkov
+  autoCollectorNumber: ""
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    Devoid (This card has no color.)
-
-    Activated abilities cost {1} less to activate.
-
-    {2}{U/R}, Discard a card: Draw two cards.
+  rulesText: ""
   flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

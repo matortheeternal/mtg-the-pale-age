@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brian Luong
-  autoCollectorNumber: "0039"
+  autoCollectorNumber: "0041"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
 
     Exile up to X target cards from graveyards. Put a number of +1/+1 counters
-    on target creature equal to the number of cards exiled this way.
+    on target permanent equal to the number of cards exiled this way.
   flavorText: null
   chopTop: "2"
   chopBottom: ""

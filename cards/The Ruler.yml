@@ -23,12 +23,12 @@ front:
   subType: Human Noble
   flagLeft: ""
   flagRight: ""
-  power: "4"
+  power: "3"
   toughness: "4"
   showPT: true
   rarity: rare
   illustrator: Gustave Doré
-  autoCollectorNumber: "0050"
+  autoCollectorNumber: "0052"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     graveyard.
 
 
-    {1}{W}: Put a creature card you own in exile with mana value 2 or less on
+    {2}{W}: Put a creature card you own in exile with mana value 2 or less on to
     the battlefield.
   flavorText: ""
   chopTop: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: The Ruler
+imageExports:
+  front: The Ruler.jpg

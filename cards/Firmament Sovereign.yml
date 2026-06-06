@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Firmament Sovereign
+  manaCost:
+    __type: ManaCost
+    symbols: 5WWW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mythic%20Bomb%20Creature.jpg
+    width: 1920
+    height: 2458
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 48
+  superType: Creature
+  subType: Giant Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "9"
+  toughness: "6"
+  showPT: true
+  rarity: mythic
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0033"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash, vigilance
+
+
+    You may cast spells as though they had flash.
+
+
+    When ~ enters, target creature loses all abilities and has base power and
+    toughness 1/1.
+  flavorText: null
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Firmament Sovereign

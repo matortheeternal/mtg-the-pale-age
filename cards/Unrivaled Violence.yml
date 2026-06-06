@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Unrivaled Violence
+  manaCost:
+    __type: ManaCost
+    symbols: 3RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Unrivaled%20Violence.jpg
+    width: 800
+    height: 1333
+    cropWidth: 800
+    cropHeight: 1214
+    xOffset: 0
+    yOffset: 119
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: common
+  illustrator: Michal Ivan
+  autoCollectorNumber: "0311"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Put a +1/+1 counter on each creature you control. Creatures you control gain
+    menace until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Unrivaled Violence
+imageExports:
+  front: Unrivaled Violence.jpg

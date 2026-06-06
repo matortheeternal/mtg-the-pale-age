@@ -23,16 +23,16 @@ front:
     cropHeight: 1197
     xOffset: 0
     yOffset: 143
-  superType: Artifact
+  superType: Legendary Artifact
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "8"
+  toughness: "5"
   showPT: true
-  rarity: rare
+  rarity: mythic
   illustrator: Nicolas Bouvier
-  autoCollectorNumber: "0215"
+  autoCollectorNumber: "0011"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,8 +42,8 @@ front:
     Flying
 
 
-    Trailblaze - Whenever you crew or saddle, draw three cards, then discard a
-    card. This ability triggers only once each turn.
+    Trailblaze - Whenever you crew or saddle for the first time each turn, draw
+    three cards, then discard a card. This ability triggers only once each turn.
 
 
     {5}: Archive.
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Byrgonis, Research Vessel
+imageExports:
+  front: Byrgonis, Research Vessel.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Lewis LaRosa
-  autoCollectorNumber: "0227"
+  autoCollectorNumber: "0273"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,8 +42,8 @@ front:
     Devoid (This card has no color.)
 
 
-    Whenever a creature you control deals combat damage, put a +1/+1 counter on
-    it.
+    Whenever a creature you control deals combat damage to a player, put a +1/+1
+    counter on it.
 
 
     Remove a +1/+1 counter from @: Target creature you control gets +2/+0 and
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: Ivar and Signe, Huntsworn
+imageExports:
+  front: Ivar and Signe, Huntsworn.jpg

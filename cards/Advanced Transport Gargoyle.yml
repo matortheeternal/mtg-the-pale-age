@@ -9,7 +9,7 @@ front:
   name: Advanced Transport Gargoyle
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2U
   artImage:
     __type: image
     imageUrl: /project/cards/Advanced%20Transport%20Gargoyle.jpg
@@ -23,26 +23,23 @@ front:
   subType: Gargoyle
   flagLeft: ""
   flagRight: ""
-  power: "5"
-  toughness: "7"
+  power: "4"
+  toughness: "6"
   showPT: true
   rarity: uncommon
   illustrator: Massimiliano Haematinon Nigro
-  autoCollectorNumber: "0019"
+  autoCollectorNumber: "0061"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     Flying
-
 
     Defender
 
-
-    Trailblaze - Whenever you crew or saddle, ~ can attack this turn as though
-    it didn't have defender.
+    {U}{U}{U}{U}: ~ loses defender until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 41
   superType: Creature
-  subType: Horror
+  subType: Skeleton
   flagLeft: ""
   flagRight: ""
   power: "4"
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sam Araya
-  autoCollectorNumber: "0120"
+  autoCollectorNumber: "0118"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Mad Bonemuncher
+imageExports:
+  front: Mad Bonemuncher.jpg

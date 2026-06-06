@@ -28,16 +28,16 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0102"
+  autoCollectorNumber: "0104"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    Whenever ~ attacks, suppress 2. (To suppress 2, look at the top two cards of
-    target player's library and choose one. Put that card on top of their
-    library and the rest into their graveyard.)
+    When ~ leaves the battlefield, suppress 2. (To suppress 2, look at the top
+    two cards of target player's library and choose one. Put that card on top of
+    their library and exile the rest.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

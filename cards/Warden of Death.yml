@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Warden of Death
+  manaCost:
+    __type: ManaCost
+    symbols: 2BW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Warden%20of%20Death.jpg
+    width: 3840
+    height: 2484
+    cropWidth: 3121
+    cropHeight: 2202
+    xOffset: 360
+    yOffset: 134
+  superType: Creature
+  subType: Zombie Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: dustbot
+  autoCollectorNumber: "0300"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Flying
+
+    Whenever a creature dies, each opponent loses 1 life and you gain 1 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Warden of Death

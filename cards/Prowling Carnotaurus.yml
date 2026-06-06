@@ -9,7 +9,7 @@ front:
   name: Prowling Carnotaurus
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 4R
   artImage:
     __type: image
     imageUrl: /project/cards/Prowling%20Carnotaurus.jpg
@@ -23,22 +23,22 @@ front:
   subType: Dinosaur
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "4"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Andrzej Sych
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: "0180"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
-    enters with three +1/+1 counters on it)
-  flavorText: There's nothing quite as terrifying as a Carnotaurus that's caught
-    on to your scent.
+    Bloodthirst 4 (If an opponent was dealt damage this turn, this creature
+    enters with four +1/+1 counters on it)
+  flavorText: There's nothing quite as terrifying as a Carnotaurus that's
+    caught  your scent.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Prowling Carnotaurus
+imageExports:
+  front: Prowling Carnotaurus.jpg

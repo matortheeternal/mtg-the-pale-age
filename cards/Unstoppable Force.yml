@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0139"
+  autoCollectorNumber: "0307"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ can't be countered.
-    Target creature loses indestructible. Destroy it. It can't be regenerated.
+
+    Target creature loses all abilities. Destroy it. It can't be regenerated.
   flavorText: "\"Nah, I'd win.\""
   chopTop: ""
   chopBottom: ""

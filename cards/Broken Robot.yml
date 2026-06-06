@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0059"
+  autoCollectorNumber: "0063"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,10 @@ front:
     When ~ enters, discard a card.
 
     When ~ leaves the battlefield, draw three cards.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
+  flavorText: Investigating the failures of the past may seem fruitless at first,
+    but the persistent may be rewarded with great knowledge.
+  chopTop: "2"
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
   frame: auto
@@ -61,3 +62,5 @@ front:
 notes: ""
 tags: []
 baseName: Broken Robot
+imageExports:
+  front: Broken Robot.jpg

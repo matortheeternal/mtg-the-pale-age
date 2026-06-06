@@ -35,7 +35,7 @@ front:
 
 
     +1: Put a devoid counter on target permanent. Permanents with devoid
-    counters on them have no color.
+    counters on them are colorless.
 
 
     -3: Target colorless creature you control gets +5/+5 and gains
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Kaeda
+imageExports:
+  front: Kaeda.jpg

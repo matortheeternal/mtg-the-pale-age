@@ -13,7 +13,7 @@ front:
   name: Naia, River Queen
   manaCost:
     __type: ManaCost
-    symbols: GU
+    symbols: 1GU
   artImage:
     __type: image
     imageUrl: /project/cards/Naia%2C%20River%20Queen.jpg
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Ekaterine Ejibia
-  autoCollectorNumber: "0233"
+  autoCollectorNumber: "0282"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,15 +42,14 @@ front:
     Devoid (This card has no color.)
 
 
-    Whenever you move a counter to a creature you control, you may put a counter
-    of that type on another target creature you control.
+    Whenever @ enters or attacks, put a flying, curious, or +1/+1 counter on it.
 
 
-    Transfuse (Whenever another creature enters, you may move a counter from
+    Transfuse  (Whenever another creature enters, you may move a counter from
     this creature onto it.)
   flavorText: null
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "5"
   maxFontSize: ""
   centerText: never
   frame: devoid
@@ -71,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Naia, River Queen
+imageExports:
+  front: Naia, River Queen.jpg

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Richard Anderson
-  autoCollectorNumber: "0028"
+  autoCollectorNumber: "0031"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Trailblaze - Whenever you crew or saddle for the first time each turn,
     target creature you control gains first strike until end of turn.
   flavorText: He wanders with nothing but his blade and his trusty steed. He no
-    longer knows his purpose, and yet he remains.
+    longer has a purpose, and yet he roams.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

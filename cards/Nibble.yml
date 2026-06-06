@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Nibble
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Nibble.jpg
+    width: 800
+    height: 1165
+    cropWidth: 800
+    cropHeight: 671
+    xOffset: 0
+    yOffset: 440
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: uncommon
+  illustrator: Paperobott
+  autoCollectorNumber: "0123"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Remove all counters from target creature. For each counter removed
+    this way, create a Morsel token.
+  flavorText: The hands take everything from you. Your hat, your eyes, even your heart.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Nibble

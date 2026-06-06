@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Dinosaur Master
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Falroth%20Beastmaster.jpg
+    width: 1920
+    height: 927
+    cropWidth: 1314
+    cropHeight: 927
+    xOffset: 290
+    yOffset: 0
+  superType: Creature
+  subType: Human Shaman
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Rochaku
+  autoCollectorNumber: "0204"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    When ~ enters, create a 2/2 green Dinosaur creature token.
+
+
+    {2}{G}: Put a reach counter on target creature you control. This ability
+    costs {2} less to activate if it targets a creature token.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Dinosaur Master

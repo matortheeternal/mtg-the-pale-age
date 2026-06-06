@@ -12,11 +12,11 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    imageUrl: /project/cards/Mythic%20Bomb%20Spell.jpg
+    width: 600
+    height: 743
+    cropWidth: 594
+    cropHeight: 743
     xOffset: 0
     yOffset: 0
   superType: Sorcery
@@ -27,20 +27,20 @@ front:
   toughness: ""
   showPT: ""
   rarity: mythic
-  illustrator: ""
-  autoCollectorNumber: "0032"
+  illustrator: Gustave Dore
+  autoCollectorNumber: "0033"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Devoid (This card has no color.)
   flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

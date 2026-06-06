@@ -13,7 +13,7 @@ front:
   name: Kikuki, Infinite Torment
   manaCost:
     __type: ManaCost
-    symbols: 6GB
+    symbols: 6BG
   artImage:
     __type: image
     imageUrl: /project/cards/Kikuki%2C%20Infinite%20Torment.jpg
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0105"
+  autoCollectorNumber: "0264"
   collectorNumber: ""
   setCode: ""
   language: ""

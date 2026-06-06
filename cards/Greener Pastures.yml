@@ -28,16 +28,18 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0071"
+  autoCollectorNumber: "0207"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
+  rulesText: |-
     Permanents and spells you control are green.
 
     Whenever you tap a land for mana, add an additional {G}{G}.
+
+    Whenever a land enters under your control, draw a card.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -12,13 +12,13 @@ front:
     symbols: UU
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
+    imageUrl: /project/cards/Merfolk%20Tidetuner.jpg
     width: 950
     height: 1267
     cropWidth: 950
     cropHeight: 670
     xOffset: 0
-    yOffset: 203
+    yOffset: 260
   superType: Creature
   subType: Merfolk
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: "0080"
+  autoCollectorNumber: "0088"
   collectorNumber: ""
   setCode: ""
   language: ""

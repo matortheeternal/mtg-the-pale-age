@@ -4,12 +4,13 @@ front:
     - char: r
       name: red
       sources:
-        normal: true
-  colorOverride: []
+        override: true
+  colorOverride:
+    - r
   name: Impulsive Scrapling
   manaCost:
     __type: ManaCost
-    symbols: R
+    symbols: "0"
   artImage:
     __type: image
     imageUrl: /project/cards/Impulsive%20Scrapling.jpg
@@ -28,7 +29,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: René Holm
-  autoCollectorNumber: "0159"
+  autoCollectorNumber: "0171"
   collectorNumber: ""
   setCode: ""
   language: ""

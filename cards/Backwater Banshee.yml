@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Xavier Ortiz
-  autoCollectorNumber: "0122"
+  autoCollectorNumber: "0104"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Entity does not defend itself and attacks without pattern. Termination
     results in acute memory loss among nearby personnel.
 
-    —<i>Incident Report X1-B</i>
+    —Incident Report X1-B
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

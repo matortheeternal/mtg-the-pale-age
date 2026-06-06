@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0058"
+  autoCollectorNumber: "0059"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: >
     You have no maximum hand size.
 
-    {0}: Reveal the top card of your library. Add {C} or one mana of any of that
+    {1}: Reveal the top card of your library. Add {C} or one mana of any of that
     card's colors to your mana pool, then draw it. Activate only as a sorcery.
   flavorText: null
   chopTop: ""
