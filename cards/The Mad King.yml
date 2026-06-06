@@ -13,29 +13,29 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Mad%20King.jpg
-    width: 984
-    height: 1749
-    cropWidth: 984
-    cropHeight: 901
+    width: 2007
+    height: 2160
+    cropWidth: 2007
+    cropHeight: 1416
     xOffset: 0
-    yOffset: 451
+    yOffset: 203
   superType: Legendary Creature
-  subType: Human Noble
+  subType: Goblin Noble
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0172"
+  illustrator: AI
+  autoCollectorNumber: "0182"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Haste
+    Haste, menace
 
 
     Whenever ~ attacks, exile the top three cards of your library. You may play

@@ -13,7 +13,7 @@ front:
   name: Pluck
   manaCost:
     __type: ManaCost
-    symbols: 4GB
+    symbols: 3BG
   artImage:
     __type: image
     imageUrl: /project/cards/Pluck.jpg
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: "0117"
+  autoCollectorNumber: "0275"
   collectorNumber: ""
   setCode: ""
   language: ""

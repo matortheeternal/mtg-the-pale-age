@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Liege of the Mists
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Liege%20of%20the%20Mists.jpg
+    width: 800
+    height: 1075
+    cropWidth: 800
+    cropHeight: 674
+    xOffset: 0
+    yOffset: 190
+  superType: Creature
+  subType: Elemental
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Richard Ingersoll
+  autoCollectorNumber: "0212"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, prevent all combat damage that would be dealt this turn.
+
+
+    {G}, Remove a counter from ~: Prevent all damage that would be dealt to ~
+    this turn.
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Liege of the Mists

@@ -9,7 +9,7 @@ front:
   name: Spider Tank
   manaCost:
     __type: ManaCost
-    symbols: 3RR
+    symbols: 3R
   artImage:
     __type: image
     imageUrl: /project/cards/Spider%20Tank.jpg
@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "6"
+  toughness: "5"
   showPT: true
   rarity: common
   illustrator: Kevin Long
-  autoCollectorNumber: "0182"
+  autoCollectorNumber: "0186"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Spider Tank
+imageExports:
+  front: Spider Tank.jpg

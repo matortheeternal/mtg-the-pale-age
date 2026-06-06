@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Clara Scintilla
-  autoCollectorNumber: "0075"
+  autoCollectorNumber: "0081"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,6 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Flying
+
 
     When ~ enters, look at the top four cards of your library. You may put an
     instant or sorcery from among those cards into your graveyard, then put the

@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Thythulos.jpg
-    width: 1170
-    height: 2007
-    cropWidth: 1170
-    cropHeight: 1621
-    xOffset: 0
-    yOffset: 386
+    width: 1920
+    height: 1292
+    cropWidth: 1831
+    cropHeight: 1292
+    xOffset: 44
+    yOffset: 0
   superType: Legendary Creature
   subType: Elder Horror
   flagLeft: ""
@@ -27,17 +27,14 @@ front:
   toughness: "9"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0132"
+  illustrator: AI
+  autoCollectorNumber: "0149"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Devoid (This card has no color.)
-
-
     Ward—Discard two cards.
 
 
@@ -47,11 +44,7 @@ front:
     Whenever you lose life, each player mills cards equal to the amount of life
     you lost.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -66,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Thythulos

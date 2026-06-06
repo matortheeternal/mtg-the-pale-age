@@ -28,20 +28,18 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: AI
-  autoCollectorNumber: "0082"
+  autoCollectorNumber: "0091"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     Flash
 
-    Flying
+    ~ enters with a flying counter on it.
 
-
-    Sacrifice an artifact: Put a +1/+1 counter on ~. Activate this ability only
-    once each turn.
+    Sacrifice an artifact: Put a +1/+1 counter on ~.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -13,7 +13,7 @@ front:
   name: Ferocious Invocation
   manaCost:
     __type: ManaCost
-    symbols: GR
+    symbols: RG
   artImage:
     __type: image
     imageUrl: /project/cards/Ferocious%20Invocation.jpg
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Chay Ruby
-  autoCollectorNumber: "0224"
+  autoCollectorNumber: "0254"
   collectorNumber: ""
   setCode: ""
   language: ""

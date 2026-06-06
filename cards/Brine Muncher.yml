@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0211"
+  autoCollectorNumber: "0247"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,10 +42,9 @@ front:
     spent to activate this ability, it gets +2/+2 until end of turn instead."
   flavorText: >-
     After supplying the subject with 10 gallons of pigment, it has reached a new
-    record size. It’s still dumb as a rock, but now it could eat an entire city
-    in a single bite.
+    record size. Now it could eat an entire city in a single bite.
 
-    <i>—Experiment log, day 23</i>
+    —Experiment log, day 23
   chopTop: "3"
   chopBottom: "2"
   maxFontSize: ""

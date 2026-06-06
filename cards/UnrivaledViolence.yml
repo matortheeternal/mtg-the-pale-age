@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: UnrivaledViolence
+  manaCost:
+    __type: ManaCost
+    symbols: 3RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Unrivalable%20Violence.jpg
+    width: 900
+    height: 1235
+    cropWidth: 900
+    cropHeight: 1126
+    xOffset: 0
+    yOffset: 109
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: common
+  illustrator: Abelardo
+  autoCollectorNumber: "0303"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    Creatures can't block this turn.
+
+    Put a +1/+1 counter on each creature you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: UnrivaledViolence

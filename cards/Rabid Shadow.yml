@@ -27,23 +27,24 @@ front:
   subType: Horror
   flagLeft: ""
   flagRight: ""
-  power: "0"
-  toughness: "0"
+  power: "1"
+  toughness: "1"
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0122"
+  autoCollectorNumber: "0276"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Consume 2 (As this creature enters, you may sacrifice any number of
-    creatures or Foods. It enters with twice that many +1/+1 counters on it.)
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
+    this way and each counter those permanents had.)
 
-    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
-    enters with two +1/+1 counters on it.)
+    Bloodthirst (If an opponent was dealt damage this turn, this creature enters
+    with a +1/+1 counter on it.)
 
     Trample
   flavorText: null
@@ -69,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Rabid Shadow
+imageExports:
+  front: Rabid Shadow.jpg

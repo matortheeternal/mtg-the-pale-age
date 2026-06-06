@@ -28,14 +28,15 @@ front:
   showPT: true
   rarity: common
   illustrator: Tp-h
-  autoCollectorNumber: "0083"
+  autoCollectorNumber: "0091"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: When ~ leaves the battlefield, return target creature to its owner's hand.
-  flavorText: null
+  flavorText: '"The tides are mine to command. Should I find you unwelcome, I will
+    have them take you far away."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0228"
+  autoCollectorNumber: "0264"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,8 +44,8 @@ front:
 
     When ~ enters, tap up to two target creatures. If you own four or more cards
     in exile, put a stun counter on each of them.
-  flavorText: The wardens are a group of wizards entrusted with guarding our most
-    ancient and powerful secrets.
+  flavorText: The wardens are a group of wizards entrusted with guarding the most
+    ancient and powerful of secrets.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

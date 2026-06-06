@@ -13,7 +13,7 @@ front:
   name: Hildi, Princess of the Wind
   manaCost:
     __type: ManaCost
-    symbols: GW
+    symbols: 1GW
   artImage:
     __type: image
     imageUrl: /project/cards/Hildi%2C%20Princess%20of%20the%20Wind.jpg
@@ -27,12 +27,12 @@ front:
   subType: Human Noble
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "3"
   showPT: true
   rarity: rare
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0102"
+  autoCollectorNumber: "0269"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,11 +41,12 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
+
     Swarm - Whenever one or more tokens you control enter, target creature you
     control gains flying until end of turn.
 
-    Whenever @ becomes tapped, create a 2/2 white Dinosaur creature token with
-    flying.
+
+    Whenever @ becomes tapped, create a 2/2 green Dinosaur creature token.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -69,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Hildi, Princess of the Wind
+imageExports:
+  front: Hildi, Princess of the Wind.jpg

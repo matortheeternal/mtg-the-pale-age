@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0019"
+  autoCollectorNumber: "0021"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,9 @@ front:
 
     {4}, Sacrifice a land: Shuffle ~ into its owner's library. Any player may
     activate this ability.
-  flavorText: null
+  flavorText: |-
+    "Where are we, if not paradise?"
+    —Lost explorer
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

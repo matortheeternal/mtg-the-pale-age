@@ -26,16 +26,16 @@ front:
   power: "0"
   toughness: "2"
   showPT: true
-  rarity: uncommon
+  rarity: rare
   illustrator: A Shipwright
-  autoCollectorNumber: "0079"
+  autoCollectorNumber: "0229"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    {1}, {T}: Create a tapped Forest land token.
+    {2}, {T}: Create a Forest land token.
     When ~ dies, sacrifice all Forest land tokens you control.
   flavorText: null
   chopTop: ""

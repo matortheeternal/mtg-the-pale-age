@@ -9,7 +9,7 @@ front:
   name: Mountain Crusher
   manaCost:
     __type: ManaCost
-    symbols: 4RR
+    symbols: 2RR
   artImage:
     __type: image
     imageUrl: /project/cards/Mountain%20Crusher.jpg
@@ -23,12 +23,12 @@ front:
   subType: Golem
   flagLeft: ""
   flagRight: ""
-  power: "8"
-  toughness: "8"
+  power: "6"
+  toughness: "6"
   showPT: true
   rarity: common
   illustrator: Anthony Nuegarede
-  autoCollectorNumber: "0162"
+  autoCollectorNumber: "0172"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Mountain Crusher
+imageExports:
+  front: Mountain Crusher.jpg

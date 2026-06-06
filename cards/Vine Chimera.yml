@@ -20,7 +20,7 @@ front:
     xOffset: 50
     yOffset: 214
   superType: Creature
-  subType: Plant Chimera
+  subType: Plant Chimera Mount
   flagLeft: ""
   flagRight: ""
   power: "4"
@@ -34,9 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Transfuse (As this enters, you may sacrifice any number of creatures
-    and/or Foods. It enters with a +1/+1 counter on it for each permanent
-    sacrificed this way and each counter those permanents had.)
+  rulesText: >
+    Trailblaze - Whenever you saddle or crew for the first time each turn, put a
+    +1/+1 counter on ~.
+
+
+    Saddle 2 (Tap any number of other creatures you control with total power 2
+    or more: This Mount becomes saddled until end of turn. Saddle only as a
+    sorcery.)
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -60,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: Vine Chimera
+imageExports:
+  front: Vine Chimera.jpg

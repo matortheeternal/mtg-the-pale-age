@@ -4,16 +4,16 @@ front:
     - char: w
       name: white
       sources:
-        hybrid: true
+        normal: true
     - char: u
       name: blue
       sources:
-        hybrid: true
+        normal: true
   colorOverride: []
   name: Go with the Flow
   manaCost:
     __type: ManaCost
-    symbols: U/W
+    symbols: 2WU
   artImage:
     __type: image
     imageUrl: /project/cards/Go%20with%20the%20Flow.jpg
@@ -32,17 +32,15 @@ front:
   showPT: ""
   rarity: common
   illustrator: Valentina Bianconi
-  autoCollectorNumber: "0252"
+  autoCollectorNumber: "0257"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    Choose one or more:
-    - Target creature becomes saddled. Draw a card.
-    - Target vehicle becomes crewed. Draw a card.
-  flavorText: null
+  rulesText: Gain four life, mill three cards, draw two cards, then discard a card.
+  flavorText: No need to panic, just lean back and let the current take us where
+    it will. There's no use doing much else anyways.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -65,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Go with the Flow
+imageExports:
+  front: Go with the Flow.jpg

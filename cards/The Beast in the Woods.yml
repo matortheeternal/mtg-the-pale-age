@@ -13,7 +13,7 @@ front:
   name: The Beast in the Woods
   manaCost:
     __type: ManaCost
-    symbols: 3GGR
+    symbols: 2RG
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Beast%20in%20the%20Woods.jpg
@@ -23,16 +23,16 @@ front:
     cropHeight: 747
     xOffset: 0
     yOffset: 85
-  superType: Legendary Creature
+  superType: Creature
   subType: Beast
   flagLeft: ""
   flagRight: ""
   power: "3"
   toughness: "2"
   showPT: true
-  rarity: rare
+  rarity: uncommon
   illustrator: James Groeling
-  autoCollectorNumber: "0133"
+  autoCollectorNumber: "0293"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,12 +42,12 @@ front:
     Trample, haste
 
 
-    Bloodthirst 6 (If an opponent was dealt damage this turn, this creature
+    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
     enters with six +1/+1 counters on it.)
 
 
     Whenever ~ attacks, remove a +1/+1 counter from it. When you do you may
-    discard a card, then draw a card.
+    return a land from your graveyard to the battlefield tapped.
   flavorText: null
   chopTop: ""
   chopBottom: ""

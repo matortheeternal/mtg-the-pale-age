@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Biogenic Regurgitator
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Regurgitator.jpg
+    width: 1035
+    height: 800
+    cropWidth: 1035
+    cropHeight: 730
+    xOffset: 0
+    yOffset: 59
+  superType: Creature
+  subType: Ooze Horse
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Nathan Reidt
+  autoCollectorNumber: "0200"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Consume (Sacrifice any number of creatures and/or Morsels as this enters.
+    Put a +1/+1 counter on this for each sacrificed and each counter those
+    permanents had.)
+
+
+    {1}, Remove a +1/+1 counter from ~: Put a +1/+1 counter on each other
+    creature you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Biogenic Regurgitator
+imageExports:
+  front: Biogenic Regurgitator.jpg

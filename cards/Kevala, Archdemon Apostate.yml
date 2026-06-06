@@ -30,9 +30,9 @@ front:
   power: "1"
   toughness: "2"
   showPT: true
-  rarity: mythic
+  rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0256"
+  autoCollectorNumber: "0275"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,11 +41,13 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
-    Deathtouch, undying (When this creature dies, if it had no +1/+1 counters on
-    it, return it to the battlefield under its owner’s control with a +1/+1
-    counter on it.)
+
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
 
     If a player would gain life, they lose that much life instead.
+
 
     When @ enters, put a lifelink counter on target creature.
   flavorText: null
@@ -71,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Kevala, Archdemon Apostate
+imageExports:
+  front: Kevala, Archdemon Apostate.jpg

@@ -13,7 +13,7 @@ front:
   name: Gg'kah, The Calamity
   manaCost:
     __type: ManaCost
-    symbols: 3RBB
+    symbols: 3BBR
   artImage:
     __type: image
     imageUrl: /project/cards/Gg'kah%2C%20The%20Calamity.jpg
@@ -27,26 +27,29 @@ front:
   subType: Wurm Horror
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "4"
+  power: "6"
+  toughness: "6"
   showPT: true
   rarity: mythic
   illustrator: Sui Ishida
-  autoCollectorNumber: "0225"
+  autoCollectorNumber: "0256"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
+    Spectacle {1}{B}{B}{R} (You may cast this spell for its spectacle cost
+    rather than its mana cost if an opponent lost life this turn.)
+
+
     Trample
 
 
-    Whenever a creature an opponent controls dies, put a +1/+1 counter on ~.
+    Whenever a creature an opponent controls dies, put a +1/+1 counter on @.
 
 
-    {R/B}, Remove a +1/+1 counter from @: @ deals 1 damage to each creature and
-    each player.
+    {B}{R}: @ deals 1 damage to each creature and each player.
   flavorText: null
   chopTop: ""
   chopBottom: ""

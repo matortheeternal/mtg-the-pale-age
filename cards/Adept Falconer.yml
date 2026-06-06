@@ -9,7 +9,7 @@ front:
   name: Adept Falconer
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: 1U
   artImage:
     __type: image
     imageUrl: /project/cards/Adept%20Falconer.jpg
@@ -23,20 +23,20 @@ front:
   subType: Human Wizard
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: common
   illustrator: Marta Sokołowska
-  autoCollectorNumber: "0056"
+  autoCollectorNumber: "0059"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Whenever one or more cards are exiled from your graveyard, create a
-    1/1 blue Bird creature token with flying.
-  flavorText: null
+  rulesText: When ~ enters, if you own a card in exile, create a 1/1 blue Bird
+    creature token with flying.
+  flavorText: The falconers of the towers of mist know many forgotten histories.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -59,3 +59,5 @@ front:
 notes: ""
 tags: []
 baseName: Adept Falconer
+imageExports:
+  front: Adept Falconer.jpg

@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Exaltation
+  manaCost:
+    __type: ManaCost
+    symbols: 2WWW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mythic%20Bomb%20Spell.jpg
+    width: 600
+    height: 743
+    cropWidth: 493
+    cropHeight: 617
+    xOffset: 49
+    yOffset: 123
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Gustave Dore
+  autoCollectorNumber: "0033"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Exile all permanents you control. Gain life equal to the number of
+    permanents exiled this way. At the beginning of the next end step, return
+    those cards to the battlefield under their owners’ control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Exaltation

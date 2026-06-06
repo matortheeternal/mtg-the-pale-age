@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Lazy Litch
-  autoCollectorNumber: "0122"
+  autoCollectorNumber: "0137"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,8 @@ front:
     Deathtouch
 
     When ~ is sacrificed, target player loses 2 life.
-  flavorText: null
+  flavorText: It shivered and shook with each step, the rot sprouting and dancing
+    along its legs. Is this weakness is just an act?
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

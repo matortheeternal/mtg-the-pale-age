@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Greatwurm of the Depths
+  manaCost:
+    __type: ManaCost
+    symbols: 6GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Prowling%20Greatwolf-2.jpg
+    width: 446
+    height: 657
+    cropWidth: 446
+    cropHeight: 350
+    xOffset: 0
+    yOffset: 151
+  superType: Creature
+  subType: Wurm
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "8"
+  showPT: true
+  rarity: uncommon
+  illustrator: Michael Brack
+  autoCollectorNumber: "0208"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
+    this way and each counter those permanents had.)
+
+
+    Trample, ward {2}
+
+
+    {2}{G}{G}, Reveal ~ from your hand: Put a +1/+1 counter on target creature
+    you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Greatwurm of the Depths

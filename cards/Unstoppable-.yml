@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: "Unstoppable "
+  manaCost:
+    __type: ManaCost
+    symbols: 2RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank.jpg
+    width: 948
+    height: 1198
+    cropWidth: 948
+    cropHeight: 669
+    xOffset: 0
+    yOffset: 236
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: true
+  rarity: common
+  illustrator: Gustave Dore
+  autoCollectorNumber: "0303"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    Creatures can't block this turn.
+
+    Put a +1/+1 counter on each creature you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Unstoppable-

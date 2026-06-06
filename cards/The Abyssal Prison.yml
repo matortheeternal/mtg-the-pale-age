@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0129"
+  autoCollectorNumber: "0143"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
 
     II - Each player sacrifices a creature.
 
-    III - Exile each player's graveyard. You may cast creature spells from among
-    cards exiled this way.
+    III - Exile each player's graveyard. Until end of turn, you may cast
+    creature spells from among cards exiled this way.
   flavorText: null
   chopTop: ""
   chopBottom: ""

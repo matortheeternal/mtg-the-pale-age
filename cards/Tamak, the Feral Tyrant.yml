@@ -28,16 +28,16 @@ front:
   showPT: true
   rarity: rare
   illustrator: Rabab Elghamry
-  autoCollectorNumber: "0078"
+  autoCollectorNumber: "0222"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    Consume 2 (As this creature enters, you may sacrifice any number of
-    creatures or Foods. It enters with two times that many +1/+1 counters on
-    it.)
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
+    this way and each counter those permanents had.)
 
 
     Ward {3}
@@ -46,8 +46,8 @@ front:
     Whenever one or more counters are put on another creature, put that many
     +1/+1 counters on @.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "1"
+  chopBottom: "1"
   maxFontSize: ""
   centerText: never
   frame: auto
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Tamak, the Feral Tyrant
+imageExports:
+  front: Tamak, the Feral Tyrant.jpg

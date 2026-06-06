@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: "0064"
+  autoCollectorNumber: "0065"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Enchant artifact
 
 
-    Enchanted artifact is a blue Octopus creature with base power and toughness
-    3/3 in addition to its other types.
+    Enchanted artifact loses all abilities and is a blue Octopus creature with
+    base power and toughness 3/3.
   flavorText: null
   chopTop: ""
   chopBottom: ""

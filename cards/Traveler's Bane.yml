@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Bogdan Rezunenko
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: "0190"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
 
     At the beginning of each end step, if an opponent lost life this turn, you
     may discard a card. If you do, draw a card.
-  flavorText: null
+  flavorText: One head will threaten you while the other cries and apologizes,
+    begging for you to be its one and only friend.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

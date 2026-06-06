@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Giant Slaying Sword
+  manaCost:
+    __type: ManaCost
+    symbols: 3W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bone%20Bow.jpg
+    width: 1920
+    height: 2273
+    cropWidth: 1877
+    cropHeight: 1325
+    xOffset: 37
+    yOffset: 542
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: A Shiipwright
+  autoCollectorNumber: "0210"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    When ~ enters, destroy target creature with power 4 or greater.
+
+    Equipped creature gets +4/+4 and has reach.
+
+    Equip {3}
+  flavorText: null
+  chopTop: "5"
+  chopBottom: "5"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Giant Slaying Sword

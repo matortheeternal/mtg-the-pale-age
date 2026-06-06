@@ -9,7 +9,7 @@ front:
   name: Ancient Whale
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: 3U
   artImage:
     __type: image
     imageUrl: /project/cards/Ancient%20Whale.jpg
@@ -23,12 +23,12 @@ front:
   subType: Whale
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Dave Wachter
-  autoCollectorNumber: "0057"
+  autoCollectorNumber: "0062"
   collectorNumber: ""
   setCode: ""
   language: ""

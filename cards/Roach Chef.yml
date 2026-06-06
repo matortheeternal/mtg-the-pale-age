@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Thomas Ott
-  autoCollectorNumber: "0238"
+  autoCollectorNumber: "0287"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: |-
     Devoid (This card has no color.)
 
-    When ~ dies, create two food tokens.
+    When ~ dies, create two Morsel tokens.
   flavorText: "\"Nothing he makes is edible, but I haven't the heart to tell him.\""
   chopTop: ""
   chopBottom: ""

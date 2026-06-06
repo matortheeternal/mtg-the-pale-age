@@ -34,8 +34,9 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ enters, archive. (Exile a noncreature card from your
-    graveyard. You may play a copy of it on a later turn.)
+  rulesText: When ~ enters, archive a noncreature card. (Exile a noncreature card
+    from your graveyard. You may play it on a later turn. If it would be put
+    into a graveyard, exile it instead.)
   flavorText: He's quite bothersome, but no matter what we do, we can't seem to
     get rid of him.
   chopTop: ""
@@ -60,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Scholarly Apparition
+imageExports:
+  front: Scholarly Apparition.jpg

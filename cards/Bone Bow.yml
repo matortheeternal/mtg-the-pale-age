@@ -14,11 +14,11 @@ front:
     __type: image
     imageUrl: /project/cards/Bone%20Bow.jpg
     width: 1920
-    height: 1250
-    cropWidth: 1386
-    cropHeight: 978
-    xOffset: 139
-    yOffset: 109
+    height: 2273
+    cropWidth: 1877
+    cropHeight: 1325
+    xOffset: 37
+    yOffset: 542
   superType: Artifact
   subType: Equipment
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0195"
+  autoCollectorNumber: "0198"
   collectorNumber: ""
   setCode: ""
   language: ""

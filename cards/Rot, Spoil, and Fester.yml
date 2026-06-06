@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Antonis Kalavrezos
-  autoCollectorNumber: "0239"
+  autoCollectorNumber: "0288"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -49,7 +49,7 @@ front:
 
     - Proliferate, then draw a card.
 
-    - Target player sacrifices a creature. Create a food token.
+    - Target player sacrifices a creature. Create a Morsel token.
   flavorText: null
   chopTop: "1"
   chopBottom: ""

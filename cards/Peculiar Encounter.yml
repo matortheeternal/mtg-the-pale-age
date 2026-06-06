@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Christian Williams
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: "0225"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Destroy target artifact or enchantment.
 
     Cycling {G} ({G}, Discard this card: Draw a card.)
-  flavorText: The skeletal giant crouched down in front of the trembling warrior,
-    and reached forward a finger. The warrior's blade, once sharp and gleaming,
-    crumbled to ash.
+  flavorText: The skeletal giant crouched down before the trembling warrior and
+    reached forward a finger of bone. The warrior's blade, once sharp and
+    gleaming, crumbled to ash.
   chopTop: ""
   chopBottom: ""
   maxFontSize: "18"

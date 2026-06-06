@@ -9,7 +9,7 @@ front:
   name: Waterspout
   manaCost:
     __type: ManaCost
-    symbols: 3UU
+    symbols: 2UU
   artImage:
     __type: image
     imageUrl: /project/cards/Waterspout.jpg
@@ -28,17 +28,17 @@ front:
   showPT: ""
   rarity: common
   illustrator: Chen Gang
-  autoCollectorNumber: "0093"
+  autoCollectorNumber: "0100"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Return up to two target nonland permanents to their owners' hands.
+    Put target nonland permanent on the bottom of its owner's library.
 
     Cycling {U} ({U}, Discard this card: Draw a card.)
-  flavorText: null
+  flavorText: Your water magic has improved substantially. Color me impressed.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Waterspout
+imageExports:
+  front: Waterspout.jpg

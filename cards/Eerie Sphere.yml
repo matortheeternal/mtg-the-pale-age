@@ -9,12 +9,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Eerie%20Sphere.jpg
-    width: 479
-    height: 750
-    cropWidth: 479
-    cropHeight: 467
-    xOffset: 0
-    yOffset: 268
+    width: 1920
+    height: 2335
+    cropWidth: 1611
+    cropHeight: 1137
+    xOffset: 154
+    yOffset: 708
   superType: Artifact
   subType: ""
   flagLeft: ""
@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0311"
+  autoCollectorNumber: "0303"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: Eerie Sphere
+imageExports:
+  front: Eerie Sphere.jpg

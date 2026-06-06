@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0077"
+  autoCollectorNumber: "0085"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
     Counter target noncreature spell, triggered ability, or activated ability.
 
-    Tap and put a stun counter on up to two target noncreature permanents.
+    Create two pigment tokens.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Mana Void
+imageExports:
+  front: Mana Void.jpg

@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Grace of the Hunt
+  manaCost:
+    __type: ManaCost
+    symbols: 1RG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Grace%20of%20the%20Hunt.jpg
+    width: 1748
+    height: 2480
+    cropWidth: 1748
+    cropHeight: 1234
+    xOffset: 0
+    yOffset: 239
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: uncommon
+  illustrator: Constelar
+  autoCollectorNumber: "0259"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Creature spells you control have bloodthirst. (They enter with an additional
+    +1/+1 counter on them if an opponent was dealt damage this turn.)
+
+
+    Whenever a creature you control attacks, you may remove a +1/+1 counter from
+    it. If you do, draw a card.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Grace of the Hunt

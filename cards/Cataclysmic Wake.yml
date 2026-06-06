@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Cataclysmic Wake
+  manaCost:
+    __type: ManaCost
+    symbols: 2WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Cataclysmic%20Wake.jpg
+    width: 600
+    height: 900
+    cropWidth: 600
+    cropHeight: 423
+    xOffset: 0
+    yOffset: 391
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Rovina Cai
+  autoCollectorNumber: "0037"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: <board wipe?>
+  flavorText: The gods have a peculiar, perhaps even perverse sense of justice.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cataclysmic Wake

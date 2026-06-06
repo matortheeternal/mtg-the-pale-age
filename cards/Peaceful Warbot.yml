@@ -9,7 +9,7 @@ front:
   name: Peaceful Warbot
   manaCost:
     __type: ManaCost
-    symbols: 2GG
+    symbols: 3G
   artImage:
     __type: image
     imageUrl: /project/cards/Peaceful%20Warbot.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Riff Reb's
-  autoCollectorNumber: "0203"
+  autoCollectorNumber: "0219"
   collectorNumber: ""
   setCode: ""
   language: ""

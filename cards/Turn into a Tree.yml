@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0137"
+  autoCollectorNumber: "0304"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,7 +44,8 @@ front:
     Enchant permanent
 
     Enchanted permanent is a basic Forest. It loses all other card types.
-  flavorText: null
+  flavorText: The protectors of the forest make good use of all the biomass made
+    available to them. Even that of their adversaries.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

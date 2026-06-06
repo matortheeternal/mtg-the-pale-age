@@ -9,7 +9,7 @@ front:
   name: Banquet of Flesh
   manaCost:
     __type: ManaCost
-    symbols: XXB
+    symbols: XBB
   artImage:
     __type: image
     imageUrl: /project/cards/Banquet%20of%20Flesh.jpg
@@ -28,19 +28,21 @@ front:
   showPT: ""
   rarity: common
   illustrator: Akira Hiramoto
-  autoCollectorNumber: "0094"
+  autoCollectorNumber: "0107"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Each player sacrifices X creatures. For each creature sacrificed this
-    way, create a food token.
+  rulesText: |-
+    As an additional cost to cast ~, sacrifice X creatures.
+
+    Each opponent sacrifices X creatures. Create X Morsel tokens.
   flavorText: In a daze, Danny looked down at his plate. He came to realize that
-    what had looked like sausages, was actually the entrails of his now former
+    what had looked like sausages was actually the entrails of his now former
     party.
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "1"
+  chopBottom: "1"
   maxFontSize: ""
   centerText: never
   frame: auto

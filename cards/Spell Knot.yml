@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0085"
+  autoCollectorNumber: "0093"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     This spell costs {1} less to cast for each card you own in exile.
 
     Counter target spell unless its controller pays {X}.
-  flavorText: null
+  flavorText: '"Whatever magic you have brought here, it is not nearly enough."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

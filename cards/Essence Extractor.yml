@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: "0313"
+  autoCollectorNumber: "0305"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -35,8 +35,8 @@ front:
 
 
     Sacrifice a colored permanent: Create two pigment tokens. Any player may
-    activate this ability. (Pigment tokens are artifacts with "{1}, {T},
-    Sacrifice this token: Add two mana of any one color.")
+    activate this ability. (Pigment tokens are artifacts with "{T}: Add one mana
+    of any color. Spend this mana only to activate abilities.")
   flavorText: '"He went into the cube, and out of the cube came a dark fluid,
     thick as paint."'
   chopTop: "5"
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Essence Extractor
+imageExports:
+  front: Essence Extractor.jpg

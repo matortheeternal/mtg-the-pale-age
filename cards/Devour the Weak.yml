@@ -9,7 +9,7 @@ front:
   name: Devour the Weak
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: 2G
   artImage:
     __type: image
     imageUrl: /project/cards/Devour%20the%20Weak.jpg
@@ -28,14 +28,15 @@ front:
   showPT: ""
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0186"
+  autoCollectorNumber: "0200"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Put a +1/+1 counter on target creature you control. It deals damage
-    equal to its power to target creature an opponent controls.
+  rulesText: Choose two target creatures with different powers. Destroy the
+    creature with lesser power, and put a +1/+1 counter on the creature with
+    greater power.
   flavorText: After the apocalypse, humanity was no longer at the top of the food chain.
   chopTop: ""
   chopBottom: ""

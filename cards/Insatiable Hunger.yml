@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: mariart
-  autoCollectorNumber: "0111"
+  autoCollectorNumber: "0120"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,8 +41,8 @@ front:
     Enchanted creature has menace.
 
 
-    Sacrifice a creature: Enchanted creature gets +1/+1 until end of turn.
-    Create a food token.
+    {1}, Sacrifice a creature: Enchanted creature gets +1/+1 until end of turn.
+    Create a Morsel token.
   flavorText: null
   chopTop: ""
   chopBottom: ""

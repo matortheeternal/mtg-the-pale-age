@@ -14,18 +14,18 @@ front:
     yOffset: 0
   superType: Token Artifact
   subType: Food
-  power: "1"
-  toughness: "1"
+  power: ""
+  toughness: ""
   showPT: false
   rarity: common
   illustrator: Mira Illustrations
-  autoCollectorNumber: "0037"
+  autoCollectorNumber: "0008"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{T}, Sacrifice this token: Gain 2 life."
+  rulesText: "{T}, Sacrifice this token: Gain 1 life."
   flavorText: null
   chopTop: ""
   chopBottom: ""

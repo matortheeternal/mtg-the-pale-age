@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Isac Galvão
-  autoCollectorNumber: "0070"
+  autoCollectorNumber: "0076"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     ~ enters with a +1/+1 counter on it.
 
 
-    {2}: Put a +1/+1 counter on ~.
+    {3}: Put a +1/+1 counter on ~.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Fish Construct
+imageExports:
+  front: Fish Construct.jpg

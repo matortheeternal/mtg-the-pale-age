@@ -9,7 +9,7 @@ front:
   name: Sphinx of the Wall
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2U
   artImage:
     __type: image
     imageUrl: /project/cards/Sphinx%20of%20the%20Wall.jpg
@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "6"
+  toughness: "5"
   showPT: true
   rarity: common
   illustrator: Rick Troula
-  autoCollectorNumber: "0086"
+  autoCollectorNumber: "0098"
   collectorNumber: ""
   setCode: ""
   language: ""

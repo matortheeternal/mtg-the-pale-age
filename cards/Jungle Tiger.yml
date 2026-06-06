@@ -9,7 +9,7 @@ front:
   name: Jungle Tiger
   manaCost:
     __type: ManaCost
-    symbols: 2G
+    symbols: 1G
   artImage:
     __type: image
     imageUrl: /project/cards/Jungle%20Tiger.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tu Bui
-  autoCollectorNumber: "0190"
+  autoCollectorNumber: "0206"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Reach
 
     Vigilance
-  flavorText: null
+  flavorText: The cats of the jungle have thrived remarkably well in spite of disaster.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Jungle Tiger
+imageExports:
+  front: Jungle Tiger.jpg

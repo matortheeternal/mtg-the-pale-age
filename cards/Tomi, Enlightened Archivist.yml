@@ -23,32 +23,29 @@ front:
     cropHeight: 1200
     xOffset: 0
     yOffset: 93
-  superType: Creature
-  subType: Human Wizard
+  superType: Legendary Creature
+  subType: Human Artificer
   flagLeft: ""
   flagRight: ""
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: mythic
+  rarity: rare
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0135"
+  autoCollectorNumber: "0308"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1
-    until end of turn.)
+    When ~ enters, archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
 
 
-    Whenever you cast a spell from exile, scry 1, then draw a card.
-
-
-    {2}, Discard a card: Archive. Activate this ability only once each turn. (To
-    archive, exile an instant or sorcery card from your graveyard. You may cast
-    it on a later turn.)
+    Whenever you cast a spell from anywhere other than your hand, create a 1/1
+    blue Bird creature token with flying.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -72,3 +69,5 @@ front:
 notes: ""
 tags: []
 baseName: Tomi, Enlightened Archivist
+imageExports:
+  front: Tomi, Enlightened Archivist.jpg

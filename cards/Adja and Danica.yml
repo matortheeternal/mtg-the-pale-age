@@ -32,17 +32,18 @@ front:
   showPT: true
   rarity: rare
   illustrator: Jan Wessbecher
-  autoCollectorNumber: "0237"
+  autoCollectorNumber: "0244"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >
     Haste, vigilance
 
-    {2}, {T}: Target vehicle becomes crewed and gets +1/+1 until end of turn.
-    {T}: Prevent the next 2 damage that would be dealt to target vehicle.
+
+    {T}: Target vehicle becomes crewed and gets +1/+1 and gains haste until end
+    of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -66,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Adja and Danica
+imageExports:
+  front: Adja and Danica.jpg

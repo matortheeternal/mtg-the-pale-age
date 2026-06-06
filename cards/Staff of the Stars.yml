@@ -9,7 +9,7 @@ front:
   name: Staff of the Stars
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: 1U
   artImage:
     __type: image
     imageUrl: /project/cards/Staff%20of%20the%20Stars.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0086"
+  autoCollectorNumber: "0097"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
     player, draw a card.)
 
 
-    Equip {2}
+    Equip {1}
   flavorText: null
   chopTop: ""
   chopBottom: ""

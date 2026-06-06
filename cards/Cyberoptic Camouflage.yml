@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0064"
+  autoCollectorNumber: "0068"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |+
     Flash
 
-    Enchant Creature
+    Enchant creature
 
     When ~ enters, enchanted creature gains hexproof until end of turn.
 
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Cyberoptic Camouflage
+imageExports:
+  front: Cyberoptic Camouflage.jpg
