@@ -28,17 +28,23 @@ front:
   showPT: ""
   rarity: common
   illustrator: Isaac Ornelas Gama
-  autoCollectorNumber: "0182"
+  autoCollectorNumber: "0196"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Choose target creature an opponent controls. Each creature you
-    control deals damage to it equal to their power.
-  flavorText: "\"My ma always told me to be careful of the company ya keep. She
-    was right, y'know.\""
-  chopTop: ""
+  rulesText: >
+    Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+
+
+    Choose target creature an opponent controls. Each other creature that player
+    controls deals damage to it equal to their power. Create an Ichor token.
+    (It's an artifact with "{T}: Add one mana of any color. Spend this mana only
+    on abilities.")
+  flavorText: null
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

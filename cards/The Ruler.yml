@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Gustave Doré
-  autoCollectorNumber: "0052"
+  autoCollectorNumber: "0053"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     graveyard.
 
 
-    {2}{W}: Put a creature card you own in exile with mana value 2 or less on to
+    {2}{W}: Put a creature card you own in exile with mana value 2 or less onto
     the battlefield.
   flavorText: ""
   chopTop: ""

@@ -1,0 +1,57 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: ""
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-3.jpg
+    width: 800
+    height: 1016
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 334
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Ryan Pola
+  autoCollectorNumber: "0343"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "{T}, Sacrifice ~: Search your library for a basic land card, put it
+    onto the battlefield with a stun counter on it, then shuffle."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: blank-3

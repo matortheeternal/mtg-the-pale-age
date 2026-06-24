@@ -28,15 +28,15 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Paperobott
-  autoCollectorNumber: "0123"
+  autoCollectorNumber: "0128"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Remove all counters from target creature. For each counter removed
-    this way, create a Morsel token.
-  flavorText: The hands take everything from you. Your hat, your eyes, even your heart.
+  rulesText: Remove all counters from target creature. Create X Morsel tokens,
+    where X is the number of counters removed this way.
+  flavorText: The hands take everything from you. Your hair, your eyes, even your heart.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -28,13 +28,14 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Rovina Cai
-  autoCollectorNumber: "0037"
+  autoCollectorNumber: "0012"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: <board wipe?>
+  rulesText: Target creature an opponent controls gains indestructible until end
+    of turn. Destroy all artifacts, creatures, and enchantments.
   flavorText: The gods have a peculiar, perhaps even perverse sense of justice.
   chopTop: ""
   chopBottom: ""

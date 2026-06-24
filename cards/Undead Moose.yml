@@ -26,9 +26,9 @@ front:
   power: "2"
   toughness: "1"
   showPT: true
-  rarity: uncommon
+  rarity: common
   illustrator: Rob Sachetto
-  autoCollectorNumber: "0230"
+  autoCollectorNumber: "0246"
   collectorNumber: ""
   setCode: ""
   language: ""

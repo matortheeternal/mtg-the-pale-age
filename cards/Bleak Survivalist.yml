@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: "0209"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,8 +36,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     Devoid (This card has no color.)
+
     Whenever a creature an opponent controls dies, create a Morsel token.
-    {T}, Sacrifice a Morsel: Put two +1/+1 counters on target creature.
+
+    {1}, {T}, Sacrifice a Morsel: Put two +1/+1 counters on target creature.
   flavorText: null
   chopTop: ""
   chopBottom: ""

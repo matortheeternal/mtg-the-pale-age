@@ -28,16 +28,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Christian Williams
-  autoCollectorNumber: "0225"
+  autoCollectorNumber: "0232"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Destroy target artifact or enchantment.
-
-    Cycling {G} ({G}, Discard this card: Draw a card.)
+    Choose one:
+    - Destroy target artifact or enchantment.
+    - Put a +1/+1 counter on target creature.
   flavorText: The skeletal giant crouched down before the trembling warrior and
     reached forward a finger of bone. The warrior's blade, once sharp and
     gleaming, crumbled to ash.

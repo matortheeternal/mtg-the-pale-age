@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Richard Anderson
-  autoCollectorNumber: "0170"
+  autoCollectorNumber: "0190"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Trailblaze - Whenever you crew or saddle for the first time each turn,
-    target creature you control gets +1/+0 and gains trample until end of turn.
+    target creature you control gets +1/+0 and gains haste until end of turn.
 
 
     Saddle 1 (Tap any number of other creatures you control with total power 3

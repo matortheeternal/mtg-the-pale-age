@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: "0157"
+  autoCollectorNumber: "0176"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -34,9 +34,9 @@ front:
   showFooterOverrides: false
   preText: ""
   rulesText: |-
-    I - Sacrifice an artifact or enchantment.
-    II - ~ deals 3 damage to any target.
-    III - Create a 4/4 red Giant creature token. It gains haste.
+    I - Discard a card or sacrifice a nonland permanent.
+    II - ~ deals 4 damage to any target.
+    III - Create a 4/4 colorless Giant creature token. It gains haste.
   flavorText: null
   artSize: normal
   crownStyle: auto

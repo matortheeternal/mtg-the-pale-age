@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tanner Stahelli
-  autoCollectorNumber: "0141"
+  autoCollectorNumber: "0320"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: |-
     ~ enters tapped.
     {T}, Pay 1 life: Add {G} or {R}.
-    {2}, {T}: Scry 1.
+    {3}, {T}: Scry 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

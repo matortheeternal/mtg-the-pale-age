@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Karmic Debt
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Karmic%20Debt.jpg
+    width: 800
+    height: 1080
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 45
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: James Lipnickas
+  autoCollectorNumber: "0032"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Artifacts and creatures your opponents control enter with a stun
+    counter on them.
+  flavorText: All debts shall be paid in full.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Karmic Debt

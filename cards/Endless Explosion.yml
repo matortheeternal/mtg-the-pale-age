@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0150"
+  autoCollectorNumber: "0167"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,6 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     ~ deals 4 damage to each creature.
+
 
     Whenever one or more creatures die this turn, ~ deals 4 damage to each
     creature.

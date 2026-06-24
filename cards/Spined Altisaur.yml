@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: "0043"
+  autoCollectorNumber: "0046"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
 
     {3}{W}, {T}: ~ gets +4/+0 until end of turn. This ability costs {3} less to
-    activate if you own four or more cards in exile.
+    activate if you own three or more cards in exile.
   flavorText: null
   chopTop: ""
   chopBottom: ""

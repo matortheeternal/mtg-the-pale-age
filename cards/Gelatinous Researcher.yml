@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 23
   superType: Creature
-  subType: Weird
+  subType: Ooze Scientist
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: "0073"
+  autoCollectorNumber: "0080"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     {U}, {T}: Move a counter from target creature onto ~.
 
 
-    Remove a counter from ~: Create a pigment token.  Activate this ability only
-    once each turn. (A pigment token is an artifact with "{T}: Add one mana of
+    Remove a counter from ~: Create an Ichor token.  Activate this ability only
+    once each turn. (An Ichor token is an artifact with "{T}: Add one mana of
     any color. Spend this mana only to activate abilities.")
   flavorText: null
   chopTop: ""

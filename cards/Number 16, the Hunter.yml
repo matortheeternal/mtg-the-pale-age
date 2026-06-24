@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Number 16, the Hunter
+  manaCost:
+    __type: ManaCost
+    symbols: 1RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/XVI%2C%20the%20Hunter.jpg
+    width: 1080
+    height: 1332
+    cropWidth: 1080
+    cropHeight: 831
+    xOffset: 0
+    yOffset: 396
+  superType: Legendary Creature
+  subType: Vampire Berserker
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Samuel Araya
+  autoCollectorNumber: "0185"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+
+    First strike
+
+
+    Remove a counter from @: Target creature an opponent controls can't block
+    this turn.
+  flavorText: null
+  chopTop: "2"
+  chopBottom: "1"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Number 16, the Hunter

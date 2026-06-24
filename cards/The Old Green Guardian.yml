@@ -9,7 +9,7 @@ front:
   name: The Old Green Guardian
   manaCost:
     __type: ManaCost
-    symbols: 1GGG
+    symbols: 3G
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Old%20Green%20Guardian.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Duncan Kay
-  autoCollectorNumber: "0080"
+  autoCollectorNumber: "0244"
   collectorNumber: ""
   setCode: ""
   language: ""

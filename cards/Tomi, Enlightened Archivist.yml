@@ -32,20 +32,20 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0308"
+  autoCollectorNumber: "0317"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, archive a noncreature card. (Exile a noncreature card from
-    your graveyard. You may play it on a later turn. If it would be put into a
-    graveyard, exile it instead.)
+    When ~ enters or leaves the battlefield, archive a noncreature card. (Exile
+    a noncreature card from your graveyard. You may play it on a later turn. If
+    it would be put into a graveyard, exile it instead.)
 
 
     Whenever you cast a spell from anywhere other than your hand, create a 1/1
-    blue Bird creature token with flying.
+    blue Bird creature token with flying and gain 1 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Hakai, the Primeval
+  manaCost:
+    __type: ManaCost
+    symbols: 10R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Hakai%2C%20the%20Primeval.jpg
+    width: 1920
+    height: 2237
+    cropWidth: 1574
+    cropHeight: 1969
+    xOffset: 173
+    yOffset: 268
+  superType: Legendary Creature
+  subType: Giant God Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "8"
+  showPT: true
+  rarity: mythic
+  illustrator: David Lee
+  autoCollectorNumber: "0177"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    ~ costs {2} less to cast for each creature you control with power 4 or
+    greater.
+
+
+    Haste
+
+
+    Whenever @ attacks, attacking creatures get +4/+0 and gain trample until end
+    of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "16.1"
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Hakai, the Primeval

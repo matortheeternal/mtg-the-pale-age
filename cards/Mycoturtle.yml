@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Megan Marie Gray
-  autoCollectorNumber: "0195"
+  autoCollectorNumber: "0229"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,9 +41,8 @@ front:
 
     {G}, Remove a +1/+1 counter from ~: Create a tapped Forest land token.
     Activate only as a sorcery.
-  flavorText: Stories tell of a lumbering tortoise, oft to visit battlefields.
-    Spreading seeds and spores to turn the field of corpses into a copse of
-    trees.
+  flavorText: Stories tell of a lumbering tortoise, oft to visit battlefields,
+    spreading spores in its wake.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

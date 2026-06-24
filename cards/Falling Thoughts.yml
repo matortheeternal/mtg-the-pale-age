@@ -9,7 +9,7 @@ front:
   name: Falling Thoughts
   manaCost:
     __type: ManaCost
-    symbols: 2UU
+    symbols: 3U
   artImage:
     __type: image
     imageUrl: /project/cards/Falling%20Thoughts.jpg
@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: JaeHoon Choi
-  autoCollectorNumber: "0068"
+  autoCollectorNumber: "0075"
   collectorNumber: ""
   setCode: ""
   language: ""

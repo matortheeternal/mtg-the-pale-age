@@ -28,14 +28,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0029"
+  autoCollectorNumber: "0227"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Equipped creature gets +0/+2 and has vigilance.
+    Equipped creature gets +1/+2 and has vigilance.
 
 
     Whenever a creature dies, equipped creature gains indestructible until end

@@ -28,14 +28,14 @@ front:
   showPT: true
   rarity: common
   illustrator: Fabio Pastori
-  autoCollectorNumber: "0204"
+  autoCollectorNumber: "0241"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: Whenever ~ enters or attacks, create a 2/2 green Dinosaur creature token.
-  flavorText: Raptors have a strange relationship with larger carnivores. They
+  flavorText: Raptors have a tenuous relationship with larger carnivores. They
     like to be close, so they can scavenge meat from the hunt, but not too
     close, lest they become a snack themselves.
   chopTop: ""

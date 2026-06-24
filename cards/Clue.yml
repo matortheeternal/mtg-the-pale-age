@@ -19,13 +19,13 @@ front:
   showPT: false
   rarity: common
   illustrator: n_artisian
-  autoCollectorNumber: "0255"
+  autoCollectorNumber: "0009"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{T}, Sacrifice this token: Gain 2 life."
+  rulesText: "{2}, Sacrifice this token: Draw a card."
   flavorText: null
   chopTop: ""
   chopBottom: ""

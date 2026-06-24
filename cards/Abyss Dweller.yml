@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0057"
+  autoCollectorNumber: "0058"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,8 @@ front:
     mills 3 cards.
 
 
-    Exile a card from your graveyard: Untap ~.
+    Exile a card from your graveyard: Untap ~. Activate this ability only if ~
+    is tapped.
   flavorText: What exists in the depths evades any attempt at understanding.
   chopTop: ""
   chopBottom: ""

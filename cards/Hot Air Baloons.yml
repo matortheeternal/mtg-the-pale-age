@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Édouard Riou
-  autoCollectorNumber: "0027"
+  autoCollectorNumber: "0031"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Flying
 
 
-    Trailblaze -Whenever you saddle or crew for the first time each turn, create
-    a 1/1 white Vehicle artifact token with flying and crew 1.
+    Trailblaze - Whenever you saddle or crew for the first time each turn,
+    create a 1/1 white Vehicle artifact token with flying and crew 1.
 
 
     Crew 2

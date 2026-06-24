@@ -32,13 +32,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Valentina Bianconi
-  autoCollectorNumber: "0257"
+  autoCollectorNumber: "0274"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Gain four life, mill three cards, draw two cards, then discard a card.
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    You gain four life, mill three cards, draw two cards, then discard a card.
   flavorText: No need to panic, just lean back and let the current take us where
     it will. There's no use doing much else anyways.
   chopTop: ""

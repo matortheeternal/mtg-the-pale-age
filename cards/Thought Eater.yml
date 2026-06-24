@@ -40,7 +40,7 @@ front:
 
     When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
     target player's library. Choose one. Put that card back on top of their
-    library and exile the rest.)
+    library and the rest into their graveyard.)
   flavorText: Have you ever wondered what thoughts taste like? No? Surely they
     must be delectable.
   chopTop: ""

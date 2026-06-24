@@ -9,7 +9,7 @@ front:
   name: Consistent Burn
   manaCost:
     __type: ManaCost
-    symbols: 1R
+    symbols: R
   artImage:
     __type: image
     imageUrl: /project/cards/Consistent%20Burn.jpg
@@ -28,13 +28,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0151"
+  autoCollectorNumber: "0166"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Whenever you cast a colorless spell, ~ deals 2 damage to any target.
+  rulesText: Whenever you cast a colorless spell or create one or more tokens, ~
+    deals 1 damage to any target.
   flavorText: null
   chopTop: ""
   chopBottom: ""

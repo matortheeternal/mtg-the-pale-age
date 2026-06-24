@@ -1,15 +1,15 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   name: ""
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: 4RRR
   artImage:
     __type: image
     imageUrl: null
@@ -19,22 +19,30 @@ front:
     cropHeight: 0
     xOffset: 0
     yOffset: 0
-  superType: Creature
-  subType: Human Artificer
+  superType: Instant
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
-  showPT: true
-  rarity: uncommon
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
   illustrator: ""
-  autoCollectorNumber: "0090"
+  autoCollectorNumber: "0156"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Flash
+  rulesText: >-
+    Spectacle {3}{R}{R} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
+    Exile target noncreature spell. Target creature you control gets +X/+X until
+    end of turn, where X is the exiled spell's mana value. You may cast the
+    exiled spell for as long as it remains exiled, and you may spend mana as
+    though it were mana of any color to cast that spell.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Bogdan Rezunenko
-  autoCollectorNumber: "0190"
+  autoCollectorNumber: "0191"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Menace
 
 
-    At the beginning of each end step, if an opponent lost life this turn, you
-    may discard a card. If you do, draw a card.
+    When ~ becomes tapped for the first time each turn you may discard a card.
+    If you do, untap it and draw a card.
   flavorText: One head will threaten you while the other cries and apologizes,
     begging for you to be its one and only friend.
   chopTop: ""

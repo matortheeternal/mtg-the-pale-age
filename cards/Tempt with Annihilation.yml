@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0142"
+  autoCollectorNumber: "0144"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,8 +41,9 @@ front:
     As an additional cost to cast this spell, sacrifice X permanents.
 
 
-    Tempting offer — Draw X cards. Each opponent may sacrifice X permanents, to
-    draw X cards. For each opponent that does, you draw X cards.
+    Suppress X. (To suppress X, look at the top X cards of target player's
+    library and choose one. Put that card on top of their library and the rest
+    into their graveyard.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

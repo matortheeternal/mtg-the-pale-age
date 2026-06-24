@@ -41,8 +41,8 @@ front:
     {T}: Add {W}.
 
 
-    {2}{W}, {T}, Sacrifice ~: Return target vehicle card from your graveyard to
-    the battlefield.
+    {3}{W}, {T}, Sacrifice ~: Return target vehicle card from your graveyard to
+    the battlefield. That vehicle becomes crewed.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -16,12 +16,12 @@ front:
     symbols: WG
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    imageUrl: /project/cards/Reproduce.jpg
+    width: 1152
+    height: 800
+    cropWidth: 1134
+    cropHeight: 800
+    xOffset: 9
     yOffset: 0
   superType: Sorcery
   subType: ""
@@ -31,8 +31,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0270"
+  illustrator: Petra Frankova
+  autoCollectorNumber: "0311"
   collectorNumber: ""
   setCode: ""
   language: ""

@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 260
   superType: Creature
-  subType: Merfolk
+  subType: Merfolk Wizard
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -28,16 +28,19 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: "0088"
+  autoCollectorNumber: "0089"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    {U}{U}, Remove a counter from a creature you control: Draw a card.
+  rulesText: >
+    {U}{U}, Remove a counter from a creature you control: Draw a card. Activate
+    this ability only once each turn.
 
-    {U}{U}: Put a +1/+1 counter on target creature you control.
+
+    {U}{U}: Put a +1/+1 counter on target creature you control. Activate this
+    ability only once each turn.
   flavorText: If you listen carefully, you can hear the ocean whisper secrets in
     the crashing of the waves upon the reef.
   chopTop: ""

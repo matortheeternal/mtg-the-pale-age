@@ -9,7 +9,7 @@ front:
   name: Access the Undergrowth
   manaCost:
     __type: ManaCost
-    symbols: G
+    symbols: 1G
   artImage:
     __type: image
     imageUrl: /project/cards/Access%20the%20Undergrowth.jpg
@@ -28,13 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: "0178"
+  autoCollectorNumber: "0197"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Return target permanent card from your graveyard to your hand.
+  rulesText: Return target permanent card from your graveyard to your hand. If it
+    was a land card, you may put it onto the battlefield under your control.
   flavorText: >-
     "Come this way, but move with care. Though beautiful, the undergrowth hides
     many secrets—some of which were not meant for mortal eyes."

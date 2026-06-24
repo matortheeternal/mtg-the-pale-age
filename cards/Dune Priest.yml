@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0016"
+  autoCollectorNumber: "0018"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Devoid (This card has no color.)
 
     When ~ leaves the battlefield, each player mills 2 cards.
-  flavorText: The dune priests are a fearsome lot. My friend got in a scuffle with
-    one awhile back, and they broke both his arms, so I would keep your
-    distance.
+  flavorText: '"The dune priests are a fearsome lot. My friend got in a scuffle
+    with one awhile back, and they broke both his arms, so I would keep your
+    distance."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

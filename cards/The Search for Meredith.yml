@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Eric He
-  autoCollectorNumber: "0052"
+  autoCollectorNumber: "0054"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -34,11 +34,12 @@ front:
   showFooterOverrides: false
   preText: null
   rulesText: >-
-    I - Mill 4 cards.
+    I - Mill four cards.
 
 
-    II - Archive. (Exile an instant or sorcery card from your graveyard. You may
-    cast a copy of it on a later turn.)
+    II - Archive a noncreature card. (Exile a noncreature card from your
+    graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
 
 
     III - Return target creature card from your graveyard to your hand. Creature

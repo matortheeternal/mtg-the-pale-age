@@ -24,18 +24,18 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "8"
+  toughness: "6"
   showPT: true
-  rarity: uncommon
+  rarity: common
   illustrator: Natee
-  autoCollectorNumber: "0203"
+  autoCollectorNumber: "0215"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Reach, trample
+    Reach
 
 
     Swarm - Whenever one or more tokens you control enter, target creature gets

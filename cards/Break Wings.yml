@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lane Brown
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: "0209"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     Destroy target creature with flying. Create a Morsel token.
 
-    Cycling {G} ({G}, discard this card: Draw a card.)
+    Cycling {G} ({G}, Discard this card: Draw a card.)
   flavorText: It is only natural for a bird that can no longer fly to meet its end
     in the jaws of a hungry creature.
   chopTop: "2"

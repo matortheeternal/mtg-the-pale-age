@@ -9,7 +9,7 @@ front:
   name: Giant Swiftwing
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2UU
   artImage:
     __type: image
     imageUrl: /project/cards/Giant%20Swiftwing.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Clara Scintilla
-  autoCollectorNumber: "0081"
+  autoCollectorNumber: "0083"
   collectorNumber: ""
   setCode: ""
   language: ""

@@ -9,7 +9,7 @@ front:
   name: Harvester
   manaCost:
     __type: ManaCost
-    symbols: 6UU
+    symbols: 7U
   artImage:
     __type: image
     imageUrl: /project/cards/Harvester.jpg
@@ -28,13 +28,15 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0026"
+  autoCollectorNumber: "0084"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
+    Devoid (This card has no color.)
+
     When ~ enters, tap all creatures your opponents control.
 
     Whenever ~ attacks, defending player mills cards equal to its power.

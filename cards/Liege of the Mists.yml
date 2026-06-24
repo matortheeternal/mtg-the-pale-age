@@ -28,21 +28,18 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Richard Ingersoll
-  autoCollectorNumber: "0212"
+  autoCollectorNumber: "0224"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     Flash
-
 
     When ~ enters, prevent all combat damage that would be dealt this turn.
 
-
-    {G}, Remove a counter from ~: Prevent all damage that would be dealt to ~
-    this turn.
+    {3}{G}{G}: Put a +1/+1 counter on each creature you control.
   flavorText: null
   chopTop: "2"
   chopBottom: ""

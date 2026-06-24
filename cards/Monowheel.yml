@@ -28,14 +28,14 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Stefan van Biljon
-  autoCollectorNumber: "0161"
+  autoCollectorNumber: "0179"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, create a pigment token. (It is an artifact with "{T}: Add one
+    When ~ enters, create an Ichor token. (It is an artifact with "{T}: Add one
     mana of any color. Spend this mana only to activate abilities.")
 
 

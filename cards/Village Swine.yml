@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "0"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Sandra Delgado
-  autoCollectorNumber: "0228"
+  autoCollectorNumber: "0249"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
     this token, gain 1 life."
 
 
-    When you sacrifice ~, gain 1 life.
+    When you sacrifice ~, gain 2 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

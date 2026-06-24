@@ -13,7 +13,7 @@ front:
   name: Ylexa, Blood Enjoyer
   manaCost:
     __type: ManaCost
-    symbols: BR
+    symbols: 1BR
   artImage:
     __type: image
     imageUrl: /project/cards/%2C%20Shadow.jpg
@@ -27,12 +27,12 @@ front:
   subType: Vampire
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: rare
   illustrator: Abelardo
-  autoCollectorNumber: "0320"
+  autoCollectorNumber: "0324"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,14 +42,15 @@ front:
     Devoid (This card has no color.)
 
 
-    Flying, lifelink
+    Flying, menace
 
 
-    Whenever another creature you control dies, @ deals damage equal to her
-    power to each opponent. This ability triggers only once each turn.
-  flavorText: null
+    Whenever another creature you control dies, @ deals X damage to target
+    opponent and you gain X life, where X is her power. This ability triggers
+    only once each turn.
+  flavorText: "She flew, screeching across the sky: a bat out of hell."
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   frame: devoid

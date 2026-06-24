@@ -28,14 +28,16 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Haren Das
-  autoCollectorNumber: "0237"
+  autoCollectorNumber: "0248"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    {G}, {T}: Create a Morsel token.
+  rulesText: >-
+    {G}, {T}: Create a Morsel token. (It's an artifact with "When you sacrifice
+    this token, gain 1 life.")
+
 
     {1}, Sacrifice a Morsel: Scry 1. Activate only as a sorcery.
   flavorText: null

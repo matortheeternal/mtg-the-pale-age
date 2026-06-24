@@ -9,7 +9,7 @@ front:
   name: The Seven Bolts
   manaCost:
     __type: ManaCost
-    symbols: 4RRR
+    symbols: 3RRR
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Seven%20Bolts.jpg
@@ -28,16 +28,16 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0175"
+  autoCollectorNumber: "0193"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "~ deals 3 damage to each of up to seven different targets. If a
-    creature would die this way, exile it instead, then create a pigment token.
-    (It's an artifact with \"{T}: Add one mana of any color. Spend this mana
-    only to activate abilities.\")"
+  rulesText: "~ deals 3 damage to each of up to seven targets. If a creature dealt
+    damage this way would die this turn, exile it instead, then create an Ichor
+    token. (It's an artifact with \"{T}: Add one mana of any color. Spend this
+    mana only to activate abilities.\")"
   flavorText: null
   chopTop: ""
   chopBottom: ""

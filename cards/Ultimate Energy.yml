@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ultimate Energy
+  manaCost:
+    __type: ManaCost
+    symbols: XR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ultimate%20Energy.jpg
+    width: 4000
+    height: 4000
+    cropWidth: 3074
+    cropHeight: 2170
+    xOffset: 463
+    yOffset: 949
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Nate Hill
+  autoCollectorNumber: "0196"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Copy up to X target activated or triggered abilities X times. You may choose
+    new targets for the copies. (Mana abilities can’t be targeted.)
+  flavorText: '"This time, that energy will be ours."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ultimate Energy

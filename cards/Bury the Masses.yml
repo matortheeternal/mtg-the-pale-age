@@ -12,12 +12,12 @@ front:
     symbols: 1BB
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
+    imageUrl: /project/cards/Bury%20the%20Masses.jpg
     width: 750
     height: 750
     cropWidth: 600
     cropHeight: 750
-    xOffset: 75
+    xOffset: 70
     yOffset: 0
   superType: Instant
   subType: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Boris Groh
-  autoCollectorNumber: "0107"
+  autoCollectorNumber: "0108"
   collectorNumber: ""
   setCode: ""
   language: ""

@@ -28,18 +28,20 @@ front:
   showPT: ""
   rarity: common
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0063"
+  autoCollectorNumber: "0065"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    When ~ enters, discard a card.
+  rulesText: >-
+    When ~ enters, discard a card and create an Ichor token. (It's an artifact
+    with "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
 
-    When ~ leaves the battlefield, draw three cards.
-  flavorText: Investigating the failures of the past may seem fruitless at first,
-    but the persistent may be rewarded with great knowledge.
+
+    When ~ leaves the battlefield, draw two cards.
+  flavorText: Investigating the failures of the past can offer great insight.
   chopTop: "2"
   chopBottom: "2"
   maxFontSize: ""

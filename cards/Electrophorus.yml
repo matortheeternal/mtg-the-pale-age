@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Martin McKenna
-  autoCollectorNumber: "0066"
+  autoCollectorNumber: "0072"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: The eels of the oceanic depths are known to electrocute all unwanted
+    visitors.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

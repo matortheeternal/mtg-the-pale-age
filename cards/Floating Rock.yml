@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Floating Rock
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Floating%20Rock.jpg
+    width: 800
+    height: 1024
+    cropWidth: 800
+    cropHeight: 625
+    xOffset: 0
+    yOffset: 50
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Graham Franciose
+  autoCollectorNumber: "0343"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {T}: Add {C}.
+
+
+    {1}, {T}, Sacrifice ~: Destroy target nonbasic land an opponent controls.
+    That player may search their library for a basic land card, put it onto the
+    battlefield, then shuffle. You create an Ichor token. (It's an artifact with
+    "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Floating Rock

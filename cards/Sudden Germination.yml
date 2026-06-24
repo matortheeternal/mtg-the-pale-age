@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sudden Germination
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Seedling.jpg
+    width: 800
+    height: 928
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 182
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Song Kang
+  autoCollectorNumber: "0232"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Search your library for a basic land card, put that card onto the
+    battlefield tapped with a stun counter on it, then shuffle.
+  flavorText: They say a single seed can regrow an entire forest.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Sudden Germination

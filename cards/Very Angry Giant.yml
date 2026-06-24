@@ -9,16 +9,16 @@ front:
   name: Very Angry Giant
   manaCost:
     __type: ManaCost
-    symbols: 1R
+    symbols: 2R
   artImage:
     __type: image
     imageUrl: /project/cards/Very%20Angry%20Giant.jpg
     width: 3600
     height: 3600
-    cropWidth: 3600
-    cropHeight: 2541
-    xOffset: 0
-    yOffset: 530
+    cropWidth: 2408
+    cropHeight: 3012
+    xOffset: 596
+    yOffset: 588
   superType: Creature
   subType: Giant
   flagLeft: ""
@@ -28,25 +28,27 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Mathias Osland
-  autoCollectorNumber: "0175"
+  autoCollectorNumber: "0192"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
+    Devoid (This card has no color.)
+
+
     Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
     enters with a +1/+1 counter on it.)
 
 
-    At the beginning of your upkeep, each player may discard a card. ~ deals 1
-    damage to each player who did not discard a card this way.
+    At the beginning of your upkeep, ~ deals 1 damage to each player.
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0183"
+  autoCollectorNumber: "0186"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,9 +37,6 @@ front:
   rulesText: >-
     Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
     enters with a +1/+1 counter on it.)
-
-
-    Menace
 
 
     {2}, Remove a counter from ~: Destroy target artifact.

@@ -34,11 +34,9 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
+  rulesText: |
     You have no maximum hand size.
-
-    {1}: Reveal the top card of your library. Add {C} or one mana of any of that
-    card's colors to your mana pool, then draw it. Activate only as a sorcery.
+    {1}: Draw a card. Activate only as a sorcery.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: ABE
-  autoCollectorNumber: "0121"
+  autoCollectorNumber: "0125"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,9 @@ front:
   rulesText: >-
     Menace
 
+
     Deathtouch
+
 
     Whenever a creature dealt damage by ~ this turn dies, put a +1/+1 counter on
     ~.

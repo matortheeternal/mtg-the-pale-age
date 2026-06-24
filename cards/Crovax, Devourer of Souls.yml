@@ -28,16 +28,16 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0109"
+  autoCollectorNumber: "0110"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    When ~ enters, suppress X. (To suppress X, look at the top X cards of target
+    When @ enters, suppress X. (To suppress X, look at the top X cards of target
     player's library and choose one. Put that card on top of their library and
-    the .)
+    the rest into their graveyard.)
 
 
     Whenever a creature is put into an opponent's graveyard from anywhere, exile

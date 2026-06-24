@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: "0195"
+  autoCollectorNumber: "0205"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,8 @@ front:
 
 
     Create X 2/2 green Dinosaur creature tokens. They gain haste until end of
-    turn.
+    turn. Sacrifice half of them at the beginning of the next end step, rounded
+    up.
   flavorText: >-
     "Raptors are challenging. Left unchecked, they will multiply and fight for
     every scrap of food for miles in every direction."

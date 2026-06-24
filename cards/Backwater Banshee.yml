@@ -28,19 +28,22 @@ front:
   showPT: true
   rarity: common
   illustrator: Xavier Ortiz
-  autoCollectorNumber: "0104"
+  autoCollectorNumber: "0105"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
-  showFooterOverrides: false
-  rulesText: |-
+  showFooterOverrides: true
+  rulesText: >-
     ~ can't block.
 
-    When ~ dies, target player discards a card.
+
+    When ~ dies, suppress 2. (To suppress 2, look at the top two cards of target
+    player's library and choose one. Put that card on top of their library and
+    the rest into their graveyard.)
   flavorText: >-
     Entity does not defend itself and attacks without pattern. Termination
-    results in acute memory loss among nearby personnel.
+    results in acute memory loss.
 
     —Incident Report X1-B
   chopTop: ""

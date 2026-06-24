@@ -26,17 +26,17 @@ front:
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0191"
+  autoCollectorNumber: "0225"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    ~ enters with a +1/+1 counter on it for each creature card in your
-    graveyard.
+    ~ enters with a +1/+1 counter on it for each creature card in target
+    player's graveyard.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
