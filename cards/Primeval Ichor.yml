@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Primeval Ichor
+  manaCost:
+    __type: ManaCost
+    symbols: R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Primeval%20Ichor.jpg
+    width: 3508
+    height: 2480
+    cropWidth: 3508
+    cropHeight: 2476
+    xOffset: 0
+    yOffset: 2
+  superType: Artifact
+  subType: Ichor
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Mausbalg
+  autoCollectorNumber: "0191"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |-
+    ~ enters tapped.
+
+    {T}: Add {R}{R}. Use this mana only to activate abilities.
+
+    {X}{X}{R}, {T}, Sacrifice ~: Create X 4/4 colorless Giant creature tokens.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Primeval Ichor

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0067"
+  autoCollectorNumber: "0073"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,9 +37,11 @@ front:
   rulesText: >-
     Enchant creature
 
-    When ~ enters, tap enchanted creature. Its controller creates a Pigment
+
+    When ~ enters, tap enchanted creature. Its controller creates an Ichor
     token. (It's an artifact with "{T}: Add one mana of any color. Spend this
     mana only to activate abilities.")
+
 
     Enchanted creature doesn't untap during its controller's untap step.
   flavorText: null

@@ -28,20 +28,16 @@ front:
   showPT: true
   rarity: common
   illustrator: James Carter Beard
-  autoCollectorNumber: "0089"
+  autoCollectorNumber: "0090"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Whenever a creature you control leaves the battlefield, you may move a
-    counter from it onto ~.
-
-
-    Transfuse (Whenever another creature enters, you may move a counter from
-    this creature onto it.)
-  flavorText: Of the sea, to study thee.
+  rulesText: "Exhaust — {U}, {T}: Archive a noncreature card. (Exile a noncreature
+    card from your graveyard. You may play it on a later turn. If it would be
+    put into a graveyard, exile it instead.)"
+  flavorText: Off to the sea, to study thee.
   chopTop: "2"
   chopBottom: ""
   maxFontSize: ""

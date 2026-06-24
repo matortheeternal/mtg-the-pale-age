@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Zhelong Xu
-  autoCollectorNumber: "0177"
+  autoCollectorNumber: "0197"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,10 +37,13 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
+
     Flying
 
-    When ~ dies, create a pigment token. (It's an artifact with "{T}: Add one
-    mana of any color. Spend this mana only to activate abilities.")
+
+    When ~ leaves the battlefield, create an Ichor token. (It's an artifact with
+    "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
   flavorText: null
   chopTop: ""
   chopBottom: ""

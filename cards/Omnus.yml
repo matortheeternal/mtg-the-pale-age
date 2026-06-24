@@ -1,5 +1,5 @@
 front:
-  template: magic/M15/Main
+  template: magic/M15/Walker
   colors:
     - char: w
       name: white
@@ -31,20 +31,16 @@ front:
     imageUrl: /project/cards/Omnus.jpg
     width: 1920
     height: 1920
-    cropWidth: 1920
-    cropHeight: 1355
-    xOffset: 0
-    yOffset: 283
+    cropWidth: 1228
+    cropHeight: 1667
+    xOffset: 346
+    yOffset: 253
   superType: Legendary Planeswalker
   subType: Omnus
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  loyalty: "6"
   rarity: mythic
   illustrator: Dylan Jordan
-  autoCollectorNumber: "0111"
+  autoCollectorNumber: "0285"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -54,31 +50,21 @@ front:
     +1: You may choose a colored card you own from outside the game, reveal that
     card, and put it into your hand.
 
-    -2: Exile target colored creature. Add X mana in any combination of colors,
-    where X is the exiled creature's mana value.
+
+    -3: Add {W}{U}{B}{R}{G}. When this mana is spent to cast a colored spell,
+    that spell gains cascade.
+
 
     −10: Exile the top ten cards of each player’s library. You may play any
     number of cards from among them without paying their mana costs.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
-  frame: auto
-  artSize: auto
-  crownStyle: auto
-  nyxStyle: auto
-  vehicleStyle: auto
-  snowStyle: auto
-  scrollsStyle: auto
-  draftStyle: auto
-  miracleStyle: auto
-  ubStyle: auto
-  hybridStyle: []
-  hybridBlendStyle: grey
-  meldStyle: none
+  artSize: normal
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "10"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Omnus

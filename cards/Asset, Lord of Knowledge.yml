@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0062"
+  autoCollectorNumber: "0063"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,11 +38,12 @@ front:
     When ~ enters and whenever you cast a spell from exile, draw a card.
 
 
-    {1}{U}{U}{U}: Archive. (Exile an instant or sorcery card from your
-    graveyard. You may cast it on a later turn.)
+    {1}{U}{U}{U}: Archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "2"
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
   frame: auto

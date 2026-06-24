@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Todd
-  autoCollectorNumber: "0246"
+  autoCollectorNumber: "0261"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,8 +45,9 @@ front:
     ~'s power is equal to the number cards you own in exile.
 
 
-    {1}{W/U}, {T}: Archive. (Exile a noncreature card from your graveyard. You
-    may play a copy of it on a later turn.)
+    {1}{W/U}, {T}: Archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
   flavorText: ""
   chopTop: ""
   chopBottom: ""

@@ -20,28 +20,27 @@ front:
     xOffset: 50
     yOffset: 214
   superType: Creature
-  subType: Plant Chimera Mount
+  subType: Chimera
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "3"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Becky Cloonan
-  autoCollectorNumber: "0230"
+  autoCollectorNumber: "0250"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
-    Trailblaze - Whenever you saddle or crew for the first time each turn, put a
-    +1/+1 counter on ~.
+  rulesText: >-
+    When ~ enters, put a +1/+1 counter on each of up to three target creatures
+    you control.
 
 
-    Saddle 2 (Tap any number of other creatures you control with total power 2
-    or more: This Mount becomes saddled until end of turn. Saddle only as a
-    sorcery.)
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

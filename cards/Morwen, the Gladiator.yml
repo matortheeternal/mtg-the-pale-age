@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Morwen, the Gladiator
+  manaCost:
+    __type: ManaCost
+    symbols: 3RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Morwen%2C%20The%20Gladiator.jpg
+    width: 2160
+    height: 1499
+    cropWidth: 2124
+    cropHeight: 1499
+    xOffset: 0
+    yOffset: 0
+  superType: Legendary Creature
+  subType: Beast Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Clement Fevrier
+  autoCollectorNumber: "0183"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Spectacle {R}{R}{R} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
+    Haste
+
+
+    Activated abilities of Equipment you control that target @ cost {X} less to
+    activate, where X is the amount of life opponents have lost this turn.
+  flavorText: ""
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Morwen, the Gladiator
+imageExports:
+  front: Morwen, The Gladiator.jpg

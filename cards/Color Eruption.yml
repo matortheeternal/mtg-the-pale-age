@@ -32,15 +32,15 @@ front:
   showPT: false
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0244"
+  autoCollectorNumber: "0254"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Affinity for pigments (This spell costs {1} less to cast for each pigment
-    you control.)
+    Affinity for Ichors (This spell costs {1} less to cast for each Ichor you
+    control.)
 
 
     ~ deals 4 damage to any target. Create a pigment token.

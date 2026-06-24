@@ -28,14 +28,14 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Peter709
-  autoCollectorNumber: "0226"
+  autoCollectorNumber: "0238"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Devoid
+    Devoid (This card has no color.)
 
 
     When ~ dies, create an X/X black Horror creature token, where X is its

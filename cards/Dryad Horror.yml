@@ -1,0 +1,51 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Dryad Horror
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Dryad%20Horror.jpg
+    width: 569
+    height: 960
+    cropWidth: 569
+    cropHeight: 781
+    xOffset: 0
+    yOffset: 66
+  superType: Token Creature
+  subType: Dryad Horror
+  power: "4"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Abelardo
+  autoCollectorNumber: ""
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Reach
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+    tall: false
+notes: ""
+tags: []
+baseName: Dryad Horror

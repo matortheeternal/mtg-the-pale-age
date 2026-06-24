@@ -16,9 +16,9 @@ front:
     width: 778
     height: 1102
     cropWidth: 778
-    cropHeight: 549
+    cropHeight: 973
     xOffset: 0
-    yOffset: 153
+    yOffset: 129
   superType: Creature
   subType: Giant
   flagLeft: ""
@@ -28,27 +28,30 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Petar Meseldzija
-  autoCollectorNumber: "0154"
+  autoCollectorNumber: "0170"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Haste
-
-
-    {R}: Another target creature gains haste until end of turn.
+    Devoid (This card has no color.)
 
 
     Spectacle {2}{R} (You may cast this spell for its spectacle cost rather than
     its mana cost if an opponent lost life this turn.)
+
+
+    Haste
+
+
+    {R}{R}: Another target creature gains haste until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

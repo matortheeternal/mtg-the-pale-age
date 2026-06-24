@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Colossus Crab
+  manaCost:
+    __type: ManaCost
+    symbols: 6UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Colossus%20Crab.jpg
+    width: 800
+    height: 817
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 182
+  superType: Creature
+  subType: Crab
+  flagLeft: ""
+  flagRight: ""
+  power: "7"
+  toughness: "10"
+  showPT: true
+  rarity: rare
+  illustrator: Juliet Schreckinger
+  autoCollectorNumber: ""
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Ward—Tap four untapped permanents you control. (Whenever this creature
+    becomes the target of a spell or ability an opponent controls, counter it
+    unless that player taps four untappepd permanents they control.)
+
+
+    Whenever ~ enters or attacks, put a stun counter on each of up to four
+    target permanents.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Colossus Crab

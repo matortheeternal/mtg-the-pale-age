@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: tp-h
-  autoCollectorNumber: "0048"
+  autoCollectorNumber: "0052"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,8 +42,9 @@ front:
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    When ~ dies, archive. (Exile an instant or sorcery card from your graveyard.
-    You may cast it on a later turn.)
+    When ~ dies, archive a noncreature card. (Exile a noncreature card from your
+    graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -28,14 +28,18 @@ front:
   showPT: ""
   rarity: common
   illustrator: denungeherrholm
-  autoCollectorNumber: "0117"
+  autoCollectorNumber: "0134"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Return target creature card from your graveyard to the battlefield
-    with two +1/+1 counters on it.
+  rulesText: >-
+    Return target creature card from your graveyard to the battlefield with two
+    +1/+1 counters on it.
+
+
+    Cycling {B} ({B}, Discard this card: Draw a card.)
   flavorText: "From the darkness it emerged: stronger, and a whole lot angrier
     than before."
   chopTop: ""

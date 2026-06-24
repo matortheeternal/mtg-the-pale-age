@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0106"
+  autoCollectorNumber: "0280"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: |-
     ~ enters tapped.
     {T}, Pay 1 life: Add {U} or {B}.
-    {2}, {T}: Scry 1.
+    {3}, {T}: Scry 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

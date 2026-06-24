@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Boar
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Boar.jpg
+    width: 750
+    height: 750
+    cropWidth: 546
+    cropHeight: 750
+    xOffset: 102
+    yOffset: 0
+  superType: Token Creature
+  subType: Boar
+  power: "0"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Jo Baylis
+  autoCollectorNumber: "0210"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: When you sacrifice this token, gain 1 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Boar

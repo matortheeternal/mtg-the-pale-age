@@ -23,19 +23,19 @@ front:
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
-  power: "9"
-  toughness: "9"
+  power: "7"
+  toughness: "7"
   showPT: true
   rarity: uncommon
   illustrator: AI
-  autoCollectorNumber: "0168"
+  autoCollectorNumber: "0186"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Flying
+    Flying, trample
 
 
     Trailblaze - Whenever you crew or saddle for the first time each turn, exile
@@ -43,7 +43,7 @@ front:
     next turn.
 
 
-    Crew 6
+    Crew 5
   flavorText: null
   chopTop: ""
   chopBottom: ""

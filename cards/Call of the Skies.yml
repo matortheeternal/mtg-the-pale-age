@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0060"
+  autoCollectorNumber: "0066"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,8 @@ front:
     from anywhere other than your hand, create two of those tokens instead.
 
 
-    Flashback {2}{U}{U}
+    Flashback {2}{U}{U} (You may cast this card from your graveyard for its
+    flashback cost. Then exile it.)
   flavorText: null
   chopTop: "2"
   chopBottom: ""

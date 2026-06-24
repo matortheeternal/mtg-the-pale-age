@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0264"
+  autoCollectorNumber: "0278"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,8 +42,8 @@ front:
     Flash
 
 
-    When ~ enters, tap up to two target creatures. If you own four or more cards
-    in exile, put a stun counter on each of them.
+    When ~ enters, tap up to two target creatures. If you own three or more
+    cards in exile, put a stun counter on each of them.
   flavorText: The wardens are a group of wizards entrusted with guarding the most
     ancient and powerful of secrets.
   chopTop: ""

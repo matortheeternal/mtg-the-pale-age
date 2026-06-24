@@ -28,19 +28,23 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0075"
+  autoCollectorNumber: "0076"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: As long as you control a creature, whenever a player casts a spell,
-    counter that spell unless that player puts a +1/+1 counter on a creature you
+  rulesText: >-
+    As long as you control a creature, whenever a player casts a spell, counter
+    that spell unless that player puts a +1/+1 counter on a creature you
     control.
+
+
+    Whenever a counter is put on a creature you control, gain 1 life.
   flavorText: Filibus was rather fond of trinkets. And if you did not offer one as
     tribute while passing through his territory, you would find a fate most
     terrible indeed.
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

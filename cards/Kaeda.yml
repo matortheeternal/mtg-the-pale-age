@@ -1,5 +1,5 @@
 front:
-  template: magic/M15/Main
+  template: magic/M15/Walker
   colors: []
   colorOverride: []
   name: Kaeda
@@ -11,17 +11,13 @@ front:
     imageUrl: /project/cards/Kaeda.jpg
     width: 1016
     height: 1422
-    cropWidth: 1016
-    cropHeight: 717
-    xOffset: 0
-    yOffset: 322
+    cropWidth: 913
+    cropHeight: 1240
+    xOffset: 51
+    yOffset: 182
   superType: Legendary Planeswalker
   subType: Kaeda
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  loyalty: "6"
   rarity: mythic
   illustrator: Sumi Kurai
   autoCollectorNumber: "0001"
@@ -45,25 +41,13 @@ front:
     -9: You get an emblem with "Colorless permanents you control have
     indestructible."
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
-  frame: auto
-  artSize: auto
-  crownStyle: auto
-  nyxStyle: auto
-  vehicleStyle: auto
-  snowStyle: auto
-  scrollsStyle: auto
-  draftStyle: auto
-  miracleStyle: auto
-  ubStyle: auto
-  hybridStyle: []
-  hybridBlendStyle: grey
-  meldStyle: none
+  artSize: normal
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "5"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Kaeda

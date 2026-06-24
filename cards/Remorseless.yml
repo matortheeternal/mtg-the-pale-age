@@ -9,7 +9,7 @@ front:
   name: Remorseless
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/Survivor's%20Guilt.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Éric Lacombe
-  autoCollectorNumber: "0126"
+  autoCollectorNumber: "0134"
   collectorNumber: ""
   setCode: ""
   language: ""

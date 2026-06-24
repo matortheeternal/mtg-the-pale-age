@@ -28,18 +28,18 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0139"
+  autoCollectorNumber: "0154"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Kicker {R}{R}
+    When ~ enters, it deals 3 damage to target creature an opponent controls.
 
 
-    When ~ enters, it deals 3 damage to target creature an opponent controls. If
-    the kicker cost was paid, it deals 6 damage to that creature instead.
+    {R}{R}: @ deals 3 damage to target creature dealt damage by it this turn.
+    Activate only once each turn.
   flavorText: ""
   chopTop: ""
   chopBottom: ""

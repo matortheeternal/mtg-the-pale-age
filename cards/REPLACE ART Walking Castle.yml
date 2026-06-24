@@ -8,13 +8,13 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Walking%20Castle.jpg
-    width: 540
-    height: 960
-    cropWidth: 540
-    cropHeight: 819
+    imageUrl: /project/cards/REPLACE%20ART%20Walking%20Castle.jpg
+    width: 1080
+    height: 1080
+    cropWidth: 1080
+    cropHeight: 762
     xOffset: 0
-    yOffset: 85
+    yOffset: 154
   superType: Artifact Land
   subType: ""
   flagLeft: ""
@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: AI
-  autoCollectorNumber: "0247"
+  autoCollectorNumber: "0333"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

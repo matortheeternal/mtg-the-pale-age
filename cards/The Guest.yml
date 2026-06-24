@@ -36,7 +36,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Garis Edelweiss
-  autoCollectorNumber: "0292"
+  autoCollectorNumber: "0322"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,7 +45,7 @@ front:
   rulesText: When a creature with power 2 or less dies under your control,
     sacrifice this enchantment, scry 8, then reveal the top card of your
     library. If it is a planeswalker card, put it on the battlefield under your
-    control. It enters with three loyalty.
+    control.
   flavorText: null
   chopTop: ""
   chopBottom: ""

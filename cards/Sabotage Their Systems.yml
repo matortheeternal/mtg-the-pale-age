@@ -28,13 +28,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tōru Fujisawa
-  autoCollectorNumber: "0167"
+  autoCollectorNumber: "0189"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Destroy target artifact. If it was a vehicle, draw a card.
+  rulesText: |-
+    Destroy target artifact. If it was a vehicle, draw a card.
+
+    Cycling {R} ({R}, Discard this card: Draw a card.)
   flavorText: >-
     "It's quite easy to sabotage a ride. Loosen a fitting here, tweak a setting
     there, most riders won't notice something's wrong 'till they're flying head

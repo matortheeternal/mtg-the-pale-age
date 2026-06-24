@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0230"
+  autoCollectorNumber: "0285"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,8 +48,8 @@ front:
 
     - Tap target permanent and put a stun counter on it.
 
-    - Archive. (Exile a noncreature card from your graveyard. You may cast a
-    copy of it on a later turn.)
+    - Archive. (Exile a noncreature card from your graveyard. You may play it on
+    a later turn. If it would be put into a graveyard, exile it instead.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

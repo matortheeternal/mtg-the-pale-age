@@ -20,9 +20,9 @@ front:
     width: 736
     height: 1308
     cropWidth: 736
-    cropHeight: 1064
+    cropHeight: 920
     xOffset: 0
-    yOffset: 196
+    yOffset: 333
   superType: Enchantment
   subType: Aura
   flagLeft: ""
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Trajedi
-  autoCollectorNumber: "0254"
+  autoCollectorNumber: "0259"
   collectorNumber: ""
   setCode: ""
   language: ""

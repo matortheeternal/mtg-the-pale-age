@@ -9,7 +9,7 @@ front:
   name: Branching Horror
   manaCost:
     __type: ManaCost
-    symbols: 6GG
+    symbols: 4GGG
   artImage:
     __type: image
     imageUrl: /project/cards/Branching%20Horror.jpg
@@ -26,9 +26,9 @@ front:
   power: "8"
   toughness: "6"
   showPT: true
-  rarity: common
+  rarity: uncommon
   illustrator: Jaehyeon Lee
-  autoCollectorNumber: "0185"
+  autoCollectorNumber: "0210"
   collectorNumber: ""
   setCode: ""
   language: ""

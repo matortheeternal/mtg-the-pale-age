@@ -44,7 +44,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: ""
-  autoCollectorNumber: "0131"
+  autoCollectorNumber: "0318"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,7 +58,7 @@ front:
     The first spell you cast each turn costs {W}{U}{B}{R}{G} less to cast. (This
     can reduce generic costs.)
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

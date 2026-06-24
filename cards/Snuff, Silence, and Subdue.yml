@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Leo Rose
-  autoCollectorNumber: "0292"
+  autoCollectorNumber: "0310"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -49,8 +49,8 @@ front:
     - Counter target noncreature spell.
 
     - Suppress 2. (To suppress 2, look at the top two cards of target player's
-    library and choose one. Put that card on top of their library and exile the
-    rest.)
+    library and choose one. Put that card on top of their library and the rest
+    into their graveyard.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

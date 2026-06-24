@@ -24,17 +24,17 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Tom Cuzor
-  autoCollectorNumber: "0161"
+  autoCollectorNumber: "0177"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{R}, {T}: ~ deals 1 damage to each opponent. If mana from a Pigment
+  rulesText: "{R}, {T}: ~ deals 1 damage to each opponent. If mana from an Ichor
     was spent to activate this ability, it deals 2 damage to each opponent
     instead."
   flavorText: They say her home burned to the ground. They also say that she was

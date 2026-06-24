@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ichor Eruption
+  manaCost:
+    __type: ManaCost
+    symbols: 2UR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Color%20Eruption.jpg
+    width: 1920
+    height: 1527
+    cropWidth: 1675
+    cropHeight: 1182
+    xOffset: 122
+    yOffset: 160
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: common
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0254"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Affinity for Ichors (This spell costs {1} less to cast for each Ichor you
+    control.)
+
+
+    ~ deals 4 damage to any target. Create an Ichor token. (It's an artifact
+    with "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
+  flavorText: ""
+  chopTop: "3"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ichor Eruption

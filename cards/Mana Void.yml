@@ -9,7 +9,7 @@ front:
   name: Mana Void
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2U
   artImage:
     __type: image
     imageUrl: /project/cards/Mana%20Void.jpg
@@ -28,18 +28,21 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0085"
+  autoCollectorNumber: "0087"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
+  rulesText: >
     Devoid (This card has no color.)
+
 
     Counter target noncreature spell, triggered ability, or activated ability.
 
-    Create two pigment tokens.
+
+    Create an Ichor token. (It is an artifact with "{T}: Add one mana of any
+    color. Spend this mana only to activate abilities.")
   flavorText: null
   chopTop: ""
   chopBottom: ""

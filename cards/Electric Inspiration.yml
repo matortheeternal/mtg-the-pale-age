@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0219"
+  autoCollectorNumber: "0259"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,8 +44,8 @@ front:
 
     Choose one or more —
 
-    - Target player creates a pigment token. (It's an artifact with "{T}: Add
-    one mana of any color. Spend this mana only to activate abilities.")
+    - Target player creates an Ichor token. (It's an artifact with "{T}: Add one
+    mana of any color. Spend this mana only to activate abilities.")
 
     - Destroy target artifact.
 

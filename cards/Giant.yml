@@ -1,12 +1,7 @@
 front:
   template: magic/M20/Token
-  colors:
-    - char: r
-      name: red
-      sources:
-        override: true
-  colorOverride:
-    - r
+  colors: []
+  colorOverride: []
   name: Giant
   artImage:
     __type: image
@@ -24,7 +19,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kevin Macio
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: "0004"
   collectorNumber: ""
   setCode: ""
   language: ""

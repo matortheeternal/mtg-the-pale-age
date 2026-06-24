@@ -23,12 +23,12 @@ front:
   subType: Imp
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: uncommon
   illustrator: Duncan Kay
-  autoCollectorNumber: "0145"
+  autoCollectorNumber: "0164"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,8 @@ front:
 
     When ~ enters, tap target permanent you control and put a stun counter on
     it.
-  flavorText: null
+  flavorText: The amount of chaos a single imp can cause in a few moments is
+    something worthy of study.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

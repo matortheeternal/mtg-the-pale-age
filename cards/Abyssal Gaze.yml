@@ -13,7 +13,7 @@ front:
   name: Abyssal Gaze
   manaCost:
     __type: ManaCost
-    symbols: 2UB
+    symbols: UB
   artImage:
     __type: image
     imageUrl: /project/cards/Abyssal%20Gaze.jpg
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tatiana Tsiguleva
-  autoCollectorNumber: "0236"
+  autoCollectorNumber: "0252"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,7 +44,7 @@ front:
 
     Target player reveals their hand. Suppress 2. (To suppress 2, look at the
     top two cards of target player's library and choose one. Put that card on
-    top of their library and exile the rest.)
+    top of their library and the rest into their graveyard.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Childhood Tree
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank.jpg
+    width: 2400
+    height: 1339
+    cropWidth: 2400
+    cropHeight: 1339
+    xOffset: 0
+    yOffset: 0
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Wojciech Piwowarczyk
+  autoCollectorNumber: "0216"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    ~ enters tapped.
+
+
+    {T}: Add {G}.
+
+
+    {3}{G}, {T}, Sacrifice ~: Distribute three +1/+1 counters among any number
+    of target creatures you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Childhood Tree

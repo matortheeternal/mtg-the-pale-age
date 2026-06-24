@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Aram Papazyan
-  autoCollectorNumber: "0205"
+  autoCollectorNumber: "0222"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Devoid (This card has no color.)
 
 
-    Consume (As this enters, you may sacrifice any number of creatures and/or
-    Morsels. It enters with a +1/+1 counter on it for each permanent sacrificed
-    this way and each counter those permanents had.)
+    Consume (Sacrifice any number of creatures and/or Morsels as this enters.
+    Put a +1/+1 counter on this for each sacrificed and each counter those
+    permanents had.)
 
 
     Trample

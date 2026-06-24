@@ -12,23 +12,23 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
-    yOffset: 0
+    imageUrl: /project/cards/Teleporting%20Inventor.jpg
+    width: 1920
+    height: 2499
+    cropWidth: 1424
+    cropHeight: 1005
+    xOffset: 296
+    yOffset: 1363
   superType: Creature
   subType: Human Artificer
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: "0098"
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0097"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,14 +38,15 @@ front:
     Flash
 
 
-    When ~ enters, draw a card.
+    When ~ enters, archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
 
 
-    {U}{U}: Return ~ to its owner's hand. You may activate this ability while ~
-    is in exile.
+    {U}{U}{U}: Return ~ to its owner's hand.
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "4"
+  chopBottom: "4"
   maxFontSize: ""
   centerText: never
   frame: auto

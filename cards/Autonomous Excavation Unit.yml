@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Autonomous Excavation Unit
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-2.jpg
+    width: 1080
+    height: 795
+    cropWidth: 1003
+    cropHeight: 708
+    xOffset: 38
+    yOffset: 38
+  superType: Artifact
+  subType: Vehicle
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Longquechen
+  autoCollectorNumber: "0161"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Trailblaze - Whenever you crew or saddle for the first time each turn, put a
+    +1/+1 counter on ~. Then, if it is not a creature, it becomes crewed.
+
+
+    Remove a counter from ~: Add {R}.
+
+
+    Crew 1
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Autonomous Excavation Unit

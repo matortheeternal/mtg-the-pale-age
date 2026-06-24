@@ -9,7 +9,7 @@ front:
   name: Fields of Gold
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 1W
   artImage:
     __type: image
     imageUrl: /project/cards/Fields%20of%20Gold.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0021"
+  autoCollectorNumber: "0022"
   collectorNumber: ""
   setCode: ""
   language: ""

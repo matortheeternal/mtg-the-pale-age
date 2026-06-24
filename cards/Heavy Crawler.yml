@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Heavy%20Crawler.jpg
-    width: 736
-    height: 736
-    cropWidth: 736
-    cropHeight: 575
+    width: 1440
+    height: 1125
+    cropWidth: 1440
+    cropHeight: 1016
     xOffset: 0
-    yOffset: 76
+    yOffset: 54
   superType: Artifact
   subType: Vehicle
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: "5"
   showPT: true
   rarity: uncommon
-  illustrator: AI
-  autoCollectorNumber: "0157"
+  illustrator: Longquechen
+  autoCollectorNumber: "0185"
   collectorNumber: ""
   setCode: ""
   language: ""

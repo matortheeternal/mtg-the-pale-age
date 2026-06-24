@@ -32,21 +32,21 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Daria Hlazatova
-  autoCollectorNumber: "0251"
+  autoCollectorNumber: "0255"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    When ~ enters, create two pigment tokens. (They are artifacts with "{T}: Add
+    When ~ enters, create two Ichor tokens. (They are artifacts with "{T}: Add
     one mana of any color. Spend this mana only to activate abilities.")
 
 
     {1}: Add one mana of any color.
 
 
-    {4}: Scry 1.
+    {3}: Scry 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

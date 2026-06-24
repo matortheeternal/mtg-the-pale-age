@@ -63,7 +63,6 @@ export:
     test: ""
 cards:
   - The Mothership
-  - Hot Air Baloons
   - The Ferryman
   - Peculiar Encounter
   - Glowing Revival
@@ -100,10 +99,9 @@ cards:
   - Cinder Sprite
   - Marrow Colossus
   - Mistress of Flames
-  - REPLACE ART Heavy Crawler
+  - Heavy Crawler
   - Path to Paradise
-  - Burdened Bladebearer
-  - REPLACE ART Walking Castle
+  - Walking Castle
   - Aggressive Multiplication
   - Scrabbling Ogre
   - Abyss Dweller
@@ -114,9 +112,8 @@ cards:
   - Spell Knot
   - Giant Artificer
   - Naia, River Queen
-  - Tears of the King
+  - Fragment
   - Act of Intimidation
-  - Disciple of the Deep
   - Lunar Adherent
   - Galleon
   - How to Become a Giant
@@ -126,7 +123,6 @@ cards:
   - The Search for Meredith
   - The Portal
   - The Abyssal Prison
-  - Monolith of Memory
   - Maintenance Shaft
   - Airship Workshop
   - Giant Vampire Bat
@@ -145,7 +141,7 @@ cards:
   - Call of the Skies
   - Homestead Guardian
   - Sacrificial Lamb
-  - REPLACE ART Industrial Blimp
+  - Industrial Blimp
   - Pious Horror
   - Abaddon, Fist of Suns
   - Offer Salvation
@@ -188,7 +184,6 @@ cards:
   - Agonizing Burn
   - Standard Mk3 Airship
   - Nurturing Satyr
-  - Fortifying Moth
   - Bearer of Hope
   - Escape Disaster
   - Challenge Divinity
@@ -197,13 +192,12 @@ cards:
   - Martial Execution
   - Attract Arrows
   - The Major Arcana
-  - The Tiger Moth
   - Veteran Chauffeur
   - Cloud Skimmer
   - Quinn, Inexorable
   - Passion
   - Clarity
-  - REPLACE ART Depravity
+  - Depravity
   - Nurture
   - Assassin's Skitterbot
   - Hungry Spinosaurus
@@ -215,7 +209,6 @@ cards:
   - Endless Explosion
   - Bloodprint
   - Call to Slaughter
-  - The Last Dwarf
   - Violent Betrayal
   - Ferocious Leap
   - Very Angry Giant
@@ -225,10 +218,9 @@ cards:
   - T-Rex Charger
   - Calamitous Trio
   - Well-Mannered Whelp
-  - Monowheel
   - Assault Chopper
   - Burn Alive
-  - Tempt with Annihilation
+  - Tempting Offer
   - Specter of Doubt
   - Tormented Executioner
   - Master of Agonies
@@ -245,7 +237,7 @@ cards:
   - The Very Hungry Horror
   - Kaeda
   - Spined Altisaur
-  - The Reader
+  - Matilda, the Reader
   - Seal Within
   - Angel of Contemplation
   - Hero's Helm
@@ -271,7 +263,7 @@ cards:
   - Banquet of Flesh
   - Covenant Sanguinis
   - Remorseless
-  - Conjure Chroma
+  - Conjure Ichor
   - Dino Trainer
   - Professor Skellington
   - Wandering Bloodseeker
@@ -303,7 +295,7 @@ cards:
   - Island
   - Mountain
   - Plains
-  - Pigment
+  - Ichor
   - Pilot
   - Bird
   - Spirit
@@ -339,8 +331,7 @@ cards:
   - Greener Pastures
   - Go with the Flow
   - Forgotten Tributary
-  - Sphinx of the Steppe
-  - Spiritual Onslaught
+  - Wall of Faces
   - Tomi, Enlightened Archivist
   - Unstoppable Force
   - Warden of Death
@@ -372,11 +363,10 @@ cards:
   - Verdant Hills
   - The Beast in the Woods
   - Awakened Continent
-  - Stories of the Old Days
   - Omnus
   - Mad Bonemuncher
   - Kevala, Archdemon Apostate
-  - Spiritual Onslaught-2
+  - Spiritual Onslaught
   - The Guest
   - Grace of the Hunt
   - Unrivaled Violence
@@ -386,7 +376,7 @@ cards:
   - Explosive Evolution
   - Sizzle Splitter
   - Colorsight
-  - Color Eruption
+  - Ichor Eruption
   - Nyxie, the Nurturer
   - Liege of the Mists
   - Diplodocus
@@ -396,12 +386,53 @@ cards:
   - Nibble
   - Pact of Enlightenment
   - The Integrator
-  - Morwen, The Gladiator
-  - Empty the Underworld
-  - blank
+  - Morwen, the Gladiator
   - Mr. Cosmos
   - Bloodstained Axe
   - The Unholy
+  - Sudden Germination
+  - Death to Dream
+  - Karmic Debt
+  - Living Locomotive
+  - Field Researcher
+  - Whirlwind of Blades
+  - Gorge
+  - Reality-Warping Blow
+  - Ultimate Energy
+  - Primeval Ichor
+  - Number 16, the Hunter
+  - Lead the Fleet
+  - Colossus Crab
+  - Hakai, the Primeval
+  - Dryad Horror
+  - Boar
+  - Writhing Hall
+  - Childhood Tree
+  - Placeholder Red Instant
+  - Autonomous Excavation Unit
+  - Floating Rock
+  - Magic Greenhouse
+  - Seething Summit
+  - Placeholder Boros Instant
+  - Placeholder Selesnya Instant
+  - Placeholder Green Enchantment
+  - Placeholder Black Creature
+  - Placeholder Simic Spell
+  - Placeholder Izzet Spell
+  - Placeholder Dimir Creature
+  - Placeholder Selesnya Creature
+  - Placeholder Boros Vehicle
+  - Placeholder Boros Enchantment
+  - Placeholder Boros Spell
+  - Placeholder Azorious Enchantment
+  - Derelict Doorway
+  - Placeholder Kaeda Saga
+  - Placeholder Green Creature
+  - Placeholder Green Instant
+  - Placeholder Green Creature-2
+  - Placeholder Green Sorcery
+  - Placeholder Blue Instant
+  - Placeholder Blue Creature
 skeleton:
   White:
     mythic: []

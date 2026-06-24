@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0068"
+  autoCollectorNumber: "0071"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,10 +41,10 @@ front:
 
     When ~ enters, enchanted creature gains hexproof until end of turn.
 
-    Enchanted creature gets +1/+1 and has ward {2}.
+    Enchanted creature gets +1/+1 and has ward {1}.
 
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

@@ -28,18 +28,16 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Xavier Leroux
-  autoCollectorNumber: "0207"
+  autoCollectorNumber: "0216"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     When ~ enters, create two 2/2 green Dinosaur creature tokens.
 
-
-    {3}{G}: Put a menace counter on target creature you control. This ability
-    costs {2} less to activate if it targets a creature token.
+    {1}{G}: Put a menace counter on target creature you control.
   flavorText: null
   chopTop: ""
   chopBottom: ""

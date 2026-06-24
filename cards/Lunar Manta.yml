@@ -9,7 +9,7 @@ front:
   name: Lunar Manta
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: U
   artImage:
     __type: image
     imageUrl: /project/cards/Lunar%20Manta.jpg

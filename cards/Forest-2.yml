@@ -18,12 +18,12 @@ front:
     yOffset: 35
   superType: Token Basic Land
   subType: Forest
-  power: "1"
-  toughness: "1"
+  power: ""
+  toughness: ""
   showPT: false
   rarity: common
   illustrator: Joel Pernas
-  autoCollectorNumber: "0254"
+  autoCollectorNumber: "0008"
   collectorNumber: ""
   setCode: ""
   language: ""

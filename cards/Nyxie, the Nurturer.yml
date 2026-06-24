@@ -16,10 +16,10 @@ front:
     symbols: 5BBWW
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
+    imageUrl: /project/cards/Nyxie%2C%20the%20Nurturer.jpg
     width: 2200
     height: 1513
-    cropWidth: 2144
+    cropWidth: 2200
     cropHeight: 1513
     xOffset: 0
     yOffset: 0
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0268"
+  autoCollectorNumber: "0287"
   collectorNumber: ""
   setCode: ""
   language: ""

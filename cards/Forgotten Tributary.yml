@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Manuel Javier Norena Castano
-  autoCollectorNumber: "0100"
+  autoCollectorNumber: "0267"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: |-
     ~ enters tapped.
     {T}, Pay 1 life: Add {W} or {U}.
-    {2}, {T}: Scry 1.
+    {3}, {T}: Scry 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

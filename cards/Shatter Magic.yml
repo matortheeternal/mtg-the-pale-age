@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Shatter Magic
+  manaCost:
+    __type: ManaCost
+    symbols: 1UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Shatter%20Magic.jpg
+    width: 1920
+    height: 3093
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 869
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Eric He
+  autoCollectorNumber: "0094"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Counter target creature spell. Its controller mills cards equal to
+    that spell's mana value.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Shatter Magic

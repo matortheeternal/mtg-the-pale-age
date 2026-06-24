@@ -22,9 +22,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0328"
+  autoCollectorNumber: "0343"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -33,9 +33,9 @@ front:
   rulesText: |-
     {T}: Add {C}. Activate this ability only if ~ is not attached.
 
-    Equipped creature gets +10/+0 and gains reach.
+    Equipped creature gets +5/+0 and gains reach.
 
-    Equip {8}
+    Equip {7}
   flavorText: If not sword, why sword shaped?
   chopTop: ""
   chopBottom: ""

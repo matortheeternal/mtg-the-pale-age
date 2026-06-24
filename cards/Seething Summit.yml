@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Seething Summit
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-2.jpg
+    width: 1920
+    height: 1920
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 0
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Catriona Barclay
+  autoCollectorNumber: "0198"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    This land enters tapped.
+
+
+    {T}: Add {R}.
+
+
+    {3}{R}, {T}, Sacrifice ~: Add seven {R}. You can cast only one more spell
+    this turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Seething Summit

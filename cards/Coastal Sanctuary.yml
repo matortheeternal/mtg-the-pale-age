@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0063"
+  autoCollectorNumber: "0069"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,8 +41,9 @@ front:
     {T}: Add {U}.
 
 
-    {2}{U}, {T}, Sacrifice ~: Each player shuffles their graveyard into their
-    library and draws a card.
+    {3}{U}, {T}, Sacrifice ~: Look at the top five cards of your library. Put
+    two of them into your hand and the rest on the bottom of your library in any
+    order.
   flavorText: null
   chopTop: ""
   chopBottom: ""
