@@ -15,8 +15,8 @@ front:
     imageUrl: null
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Creature
@@ -28,13 +28,18 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0131"
+  autoCollectorNumber: "0132"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: |-
+    Spectacle {2}{B}
+
+    Flash
+
+    When ~ enters, each player discards a card.
   flavorText: null
   chopTop: ""
   chopBottom: ""

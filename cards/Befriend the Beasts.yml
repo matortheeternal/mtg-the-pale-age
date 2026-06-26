@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Befriend the Beasts
+  manaCost:
+    __type: ManaCost
+    symbols: 2GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Befriend%20the%20Beasts.jpg
+    width: 800
+    height: 1018
+    cropWidth: 800
+    cropHeight: 624
+    xOffset: 0
+    yOffset: 201
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Lindsey Martin Gardner
+  autoCollectorNumber: "0317"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    Create a 1/1 white Human creature token. Put a +1/+1 counter on each
+    creature you control. 
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: |-
+  tokens
+  lifegain
+  protection
+  buffs
+tags: []
+baseName: Befriend the Beasts

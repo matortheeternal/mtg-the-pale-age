@@ -12,13 +12,13 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Overexposure.jpg
-    width: 735
-    height: 735
-    cropWidth: 735
-    cropHeight: 619
+    imageUrl: /project/cards/REPLACE%20ART%20Overexposure.jpg
+    width: 1440
+    height: 1034
+    cropWidth: 1440
+    cropHeight: 1016
     xOffset: 0
-    yOffset: 55
+    yOffset: 9
   superType: Enchantment
   subType: Aura
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Unknown
-  autoCollectorNumber: "0037"
+  autoCollectorNumber: "0038"
   collectorNumber: ""
   setCode: ""
   language: ""

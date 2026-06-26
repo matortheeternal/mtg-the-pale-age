@@ -23,12 +23,12 @@ front:
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "4"
   toughness: "2"
   showPT: true
   rarity: common
   illustrator: Kevin Long
-  autoCollectorNumber: "0196"
+  autoCollectorNumber: "0200"
   collectorNumber: ""
   setCode: ""
   language: ""

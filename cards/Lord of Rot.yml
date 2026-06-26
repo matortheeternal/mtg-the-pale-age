@@ -20,32 +20,33 @@ front:
     xOffset: 0
     yOffset: 341
   superType: Creature
-  subType: Zombie Horror
+  subType: Giant Zombie
   flagLeft: ""
   flagRight: ""
-  power: "5"
+  power: "6"
   toughness: "5"
   showPT: true
   rarity: uncommon
-  illustrator: ABE
-  autoCollectorNumber: "0125"
+  illustrator: Abelardo
+  autoCollectorNumber: "0126"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Menace
+  rulesText: >
+    Consume (Sacrifice any number of creatures and/or Morsels as this enters.
+    Put a +1/+1 counter on this for each sacrificed and each counter those
+    permanents had.)
 
 
     Deathtouch
 
 
-    Whenever a creature dealt damage by ~ this turn dies, put a +1/+1 counter on
-    ~.
+    {B}, Remove a counter from ~: Other creatures get -1/-1 until end of turn.
   flavorText: null
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   frame: auto

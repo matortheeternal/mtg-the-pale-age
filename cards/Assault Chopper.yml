@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Erke Lee
-  autoCollectorNumber: "0150"
+  autoCollectorNumber: "0160"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,8 @@ front:
     saddles mounts and crews Vehicles as though its power were 2 greater."
 
 
-    Crew 3
+    Crew 3 (Tap any number of creatures you control with total power 3 or more:
+    This Vehicle becomes an artifact creature until end of turn.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

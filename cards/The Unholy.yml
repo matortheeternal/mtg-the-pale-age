@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0159"
+  autoCollectorNumber: "0150"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,8 @@ front:
 
 
     Equipped creature gets +4/+0. Whenever equipped creature attacks, its
-    controller may pay life equal to its power. If they don't, they sacrifice it
-    at the end of combat.
+    controller may pay life equal to its power. If they don't, they sacrifice
+    that creature at the end of combat.
 
 
     {1}{B}, Pay 2 life: Attach ~ to target creature.

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Nico Delort
-  autoCollectorNumber: "0229"
+  autoCollectorNumber: "0290"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Devoid (This card has no color.)
 
 
-    Vigilance, lifelink, reach
+    Vigilance, reach, lifelink
 
 
     ~'s power and toughness are equal to the number of creatures you control.

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0207"
+  autoCollectorNumber: "0214"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
     block until your next turn.
 
 
-    Scry X, where X is half the revealed creature's power.
+    Scry X, where X is half the revealed creature's power rounded down.
   flavorText: null
   chopTop: ""
   chopBottom: ""

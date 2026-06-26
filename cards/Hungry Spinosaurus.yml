@@ -9,7 +9,7 @@ front:
   name: Hungry Spinosaurus
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: 4GG
   artImage:
     __type: image
     imageUrl: /project/cards/Hungry%20Spinosaurus.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Aram Papazyan
-  autoCollectorNumber: "0222"
+  autoCollectorNumber: "0231"
   collectorNumber: ""
   setCode: ""
   language: ""

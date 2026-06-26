@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "4"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Hue Teo
-  autoCollectorNumber: "0079"
+  autoCollectorNumber: "0076"
   collectorNumber: ""
   setCode: ""
   language: ""

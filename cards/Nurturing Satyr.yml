@@ -9,7 +9,7 @@ front:
   name: Nurturing Satyr
   manaCost:
     __type: ManaCost
-    symbols: 2G
+    symbols: 1G
   artImage:
     __type: image
     imageUrl: /project/cards/Nurturing%20Satyr.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mathias Osland
-  autoCollectorNumber: "0232"
+  autoCollectorNumber: "0240"
   collectorNumber: ""
   setCode: ""
   language: ""

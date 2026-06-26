@@ -32,15 +32,15 @@ front:
   showPT: true
   rarity: rare
   illustrator: Dmitri Burkov
-  autoCollectorNumber: "0285"
+  autoCollectorNumber: "0306"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Haste, curious (Whenever this creature deals damage to a player, draw a
-    card.)
+    Haste, curious (Whenever this creature deals damage to an opponent, you may
+    draw a card.)
 
 
     {U/R}: Add {U} or {R}.

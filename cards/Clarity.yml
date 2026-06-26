@@ -28,18 +28,19 @@ front:
   showPT: true
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0061"
+  autoCollectorNumber: "0065"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Curious (Whenever this creature deals damage to a player, draw a card.)
+    Curious (Whenever this creature deals damage to an opponent, you may draw a
+    card.)
 
 
     When ~ dies, creatures your opponents control lose all abilities and become
-    2/2 blue Fish creatures until end of turn.
+    2/2 blue Fish creatures.
 
 
     {2}, Sacrifice ~: Draw a card.

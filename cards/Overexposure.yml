@@ -13,12 +13,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Overexposure.jpg
-    width: 735
-    height: 735
-    cropWidth: 735
-    cropHeight: 619
+    width: 1440
+    height: 971
+    cropWidth: 1440
+    cropHeight: 971
     xOffset: 0
-    yOffset: 55
+    yOffset: 0
   superType: Enchantment
   subType: Aura
   flagLeft: ""
@@ -27,8 +27,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: Unknown
-  autoCollectorNumber: "0034"
+  illustrator: Raterwaul
+  autoCollectorNumber: "0038"
   collectorNumber: ""
   setCode: ""
   language: ""

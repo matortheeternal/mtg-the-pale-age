@@ -9,7 +9,7 @@ front:
   name: Quinn, Inexorable
   manaCost:
     __type: ManaCost
-    symbols: 3WW
+    symbols: WW
   artImage:
     __type: image
     imageUrl: /project/cards/Quinn%2C%20Inexorable.jpg
@@ -23,12 +23,12 @@ front:
   subType: Human Warrior
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "4"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: Eduardo Aragao
-  autoCollectorNumber: "0036"
+  autoCollectorNumber: "0037"
   collectorNumber: ""
   setCode: ""
   language: ""

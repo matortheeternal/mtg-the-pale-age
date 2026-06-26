@@ -19,26 +19,34 @@ front:
     imageUrl: null
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Lhurgoyf
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "*"
+  toughness: 1+*
+  showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0304"
+  autoCollectorNumber: "0315"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: >-
+    Flying
+
+
+    When ~ enters, choose a player.
+
+
+    ~'s power is equal to the number of card types among cards in the chosen
+    player's graveyard, and its toughness is equal to that number plus 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

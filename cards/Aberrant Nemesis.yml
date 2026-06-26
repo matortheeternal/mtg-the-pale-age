@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Aberrant Nemesis
+  manaCost:
+    __type: ManaCost
+    symbols: 1UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Placeholder%20Blue%20Creature-2.jpg
+    width: 1080
+    height: 1080
+    cropWidth: 1080
+    cropHeight: 827
+    xOffset: 0
+    yOffset: 57
+  superType: Creature
+  subType: Bird Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Samuel Araya
+  autoCollectorNumber: "0081"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Flying
+
+
+    When ~ enters, choose a player.
+
+
+    Whenever the chosen player casts a spell, counter that spell unless that
+    player mills cards equal to ~'s toughness.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Aberrant Nemesis

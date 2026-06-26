@@ -28,15 +28,15 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0097"
+  autoCollectorNumber: "0099"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Equipped creature gets +1/+0 and has curious. (Whenever it deals damage to a
-    player, draw a card.)
+    Equipped creature gets +1/+0 and has curious. (Whenever a creature with
+    curious deals damage to an opponent, you may draw a card.)
 
 
     Equip {1}

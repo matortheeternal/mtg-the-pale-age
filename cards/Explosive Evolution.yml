@@ -13,7 +13,7 @@ front:
   name: Explosive Evolution
   manaCost:
     __type: ManaCost
-    symbols: GU
+    symbols: 1GU
   artImage:
     __type: image
     imageUrl: /project/cards/Rapid%20Evolution.jpg
@@ -32,18 +32,18 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Libby Schaffer
-  autoCollectorNumber: "0261"
+  autoCollectorNumber: "0283"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, put a +1/+1 counter on target creature you control.
+    When ~ enters, double the number of counters of each type on target creature
+    you control.
 
 
-    Whenever you remove a counter from a creature you control, you may put a
-    counter of that type on each other creature you control.
+    Whenever you remove a counter from a creature you control, you may scry 1.
   flavorText: null
   chopTop: ""
   chopBottom: ""

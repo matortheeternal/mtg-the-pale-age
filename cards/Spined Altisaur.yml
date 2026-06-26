@@ -38,8 +38,8 @@ front:
     Vigilance
 
 
-    {3}{W}, {T}: ~ gets +4/+0 until end of turn. This ability costs {3} less to
-    activate if you own three or more cards in exile.
+    {3}{W}, {T}: ~ gets +4/+0 until end of turn. This ability costs {1} less to
+    activate for each card you own in exile.
   flavorText: null
   chopTop: ""
   chopBottom: ""

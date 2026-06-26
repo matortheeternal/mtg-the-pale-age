@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Enormous Pig
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Village%20Swine.jpg
+    width: 1770
+    height: 615
+    cropWidth: 872
+    cropHeight: 615
+    xOffset: 449
+    yOffset: 0
+  superType: Creature
+  subType: Boar
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Sandra Delgado
+  autoCollectorNumber: "0261"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {G}, {T}: Create a green 0/1 Boar creature token with "When you sacrifice
+    this token, gain 1 life."
+
+
+    When you sacrifice ~, gain 2 life.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Enormous Pig

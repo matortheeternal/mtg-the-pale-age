@@ -24,7 +24,7 @@ front:
     xOffset: 0
     yOffset: 938
   superType: Creature
-  subType: Mutant Crab Dryad
+  subType: Mutant Crab
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Ryan Van Dongen
-  autoCollectorNumber: "0238"
+  autoCollectorNumber: "0267"
   collectorNumber: ""
   setCode: ""
   language: ""

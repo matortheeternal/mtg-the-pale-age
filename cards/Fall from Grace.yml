@@ -28,14 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: "0018"
+  autoCollectorNumber: "0021"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Destroy target planeswalker or tapped creature.
+    Destroy target planeswalker or target tapped creature.
 
     Cycling {W} ({W}, Discard this card: Draw a card.)
   flavorText: null

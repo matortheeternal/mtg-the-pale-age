@@ -76,9 +76,8 @@ cards:
   - Ivar and Signe, Huntsworn
   - Goddess of Spring
   - Float
-  - Fallen Prince
   - The Ruler
-  - REPLACE ART Overexposure
+  - Overexposure
   - The Dark Commander
   - Backwater Banshee
   - Traveler's Bane
@@ -89,7 +88,7 @@ cards:
   - Dune Priest
   - Filibus, the Terrible
   - Great Northern Owl
-  - Jungle Tiger
+  - Tangle of Teeth
   - Broken Robot
   - Old Man Mushroom
   - Waterspout
@@ -130,7 +129,6 @@ cards:
   - Torment
   - Gg'kah, The Calamity
   - Eater of Nights
-  - Rot Hauler
   - Divine Duality
   - Pain Channeler
   - Gryn, the Immortal
@@ -202,7 +200,7 @@ cards:
   - Assassin's Skitterbot
   - Hungry Spinosaurus
   - Masked Troll
-  - Village Swine
+  - Enormous Swine
   - Ghost Bass
   - Cackling Imp
   - Prowling Carnotaurus
@@ -220,8 +218,7 @@ cards:
   - Well-Mannered Whelp
   - Assault Chopper
   - Burn Alive
-  - Tempting Offer
-  - Specter of Doubt
+  - Sadistic Specter
   - Tormented Executioner
   - Master of Agonies
   - Angel of Obliteration
@@ -241,7 +238,6 @@ cards:
   - Seal Within
   - Angel of Contemplation
   - Hero's Helm
-  - Firmament Sovereign
   - Exaltation
   - Retreat of the Third Moon
   - Ancient Whale
@@ -366,7 +362,6 @@ cards:
   - Omnus
   - Mad Bonemuncher
   - Kevala, Archdemon Apostate
-  - Spiritual Onslaught
   - The Guest
   - Grace of the Hunt
   - Unrivaled Violence
@@ -384,7 +379,7 @@ cards:
   - Greatwurm of the Depths
   - Biogenic Regurgitator
   - Nibble
-  - Pact of Enlightenment
+  - Final Hour
   - The Integrator
   - Morwen, the Gladiator
   - Mr. Cosmos
@@ -404,7 +399,7 @@ cards:
   - Lead the Fleet
   - Colossus Crab
   - Hakai, the Primeval
-  - Dryad Horror
+  - Treefolk Horror
   - Boar
   - Writhing Hall
   - Childhood Tree
@@ -413,18 +408,18 @@ cards:
   - Floating Rock
   - Magic Greenhouse
   - Seething Summit
-  - Placeholder Boros Instant
-  - Placeholder Selesnya Instant
-  - Placeholder Green Enchantment
-  - Placeholder Black Creature
+  - The Gang's All Here
+  - Befriend the Beasts
+  - Law of the Jungle
+  - Uninvited Hexakosipede
   - Placeholder Simic Spell
   - Placeholder Izzet Spell
-  - Placeholder Dimir Creature
-  - Placeholder Selesnya Creature
-  - Placeholder Boros Vehicle
-  - Placeholder Boros Enchantment
-  - Placeholder Boros Spell
-  - Placeholder Azorious Enchantment
+  - Fluttergoyf
+  - Keeper of the Pride
+  - Vandalbomber
+  - Purity of Purpose
+  - Remote Activation Sequence
+  - Edification
   - Derelict Doorway
   - Placeholder Kaeda Saga
   - Placeholder Green Creature
@@ -433,6 +428,17 @@ cards:
   - Placeholder Green Sorcery
   - Placeholder Blue Instant
   - Placeholder Blue Creature
+  - Placeholder White Creature
+  - The Thunderstrider
+  - Aberrant Nemesis
+  - Placeholder Blue Sorcery
+  - Crystal Ichor
+  - Placeholder Blue Instant-2
+  - Human
+  - Cat
+  - Terror Injector
+  - Basement Fleshgorger
+  - Marrow Pool Augur
 skeleton:
   White:
     mythic: []

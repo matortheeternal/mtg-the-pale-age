@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Giant Pitcher Plant
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Plant
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0211"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+
+
+    Defender
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Giant Pitcher Plant
+imageExports:
+  front: Jungle Tiger.jpg

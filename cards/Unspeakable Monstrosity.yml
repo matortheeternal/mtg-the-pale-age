@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0279"
+  autoCollectorNumber: "0344"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,8 +40,8 @@ front:
   showFooterOverrides: false
   rulesText: >-
     ~ enters with six counters on it chosen from among +1/+1 counters, flying
-    counters, trample counters, and curious counters. (Whenever a creature with
-    curious deals damage to a player, draw a card.)
+    counters, trample counters, and curious counters. ((Whenever a creature with
+    curious deals damage to an opponent, you may draw a card.)
 
 
     Transfuse (Whenever another creature enters, you may move a counter from

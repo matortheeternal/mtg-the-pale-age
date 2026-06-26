@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Ekaterine Ejibia
-  autoCollectorNumber: "0282"
+  autoCollectorNumber: "0307"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,6 +43,8 @@ front:
 
 
     Whenever @ enters or attacks, put a flying, curious, or +1/+1 counter on it.
+    (Whenever a creature with curious deals damage to an opponent, you may draw
+    a card.)
 
 
     Transfuse  (Whenever another creature enters, you may move a counter from
