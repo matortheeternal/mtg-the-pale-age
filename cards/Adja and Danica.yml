@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Jan Wessbecher
-  autoCollectorNumber: "0244"
+  autoCollectorNumber: "0264"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,8 +42,8 @@ front:
     Haste, vigilance
 
 
-    {T}: Target vehicle becomes crewed and gets +1/+1 and gains haste until end
-    of turn.
+    {T}: Target vehicle becomes crewed, gets +1/+1, and gains haste until end of
+    turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

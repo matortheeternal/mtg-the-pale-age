@@ -19,7 +19,7 @@ front:
     cropHeight: 760
     xOffset: 0
     yOffset: 0
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,14 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Takahashi
-  autoCollectorNumber: "0146"
+  autoCollectorNumber: "0161"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Up to one target vehicle you control becomes crewed. Creatures you
-    control get +2/+0 until end of turn.
+  rulesText: Create a 1/1 coloress Pilot creature token. Creatures you control get
+    +2/+0 until end of turn.
   flavorText: '"Horraaa!" The bikers peeled across the desert, like a streak of
     ink on a canvas.  Whooping and yelling—peacocks in heat.'
   chopTop: ""

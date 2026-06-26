@@ -27,18 +27,15 @@ front:
   toughness: "2"
   showPT: true
   rarity: common
-  illustrator: Tu Bui
-  autoCollectorNumber: "0206"
+  illustrator: ""
+  autoCollectorNumber: "0231"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    Reach
-
-    Vigilance
-  flavorText: The cats of the jungle have thrived remarkably well in spite of disaster.
+  rulesText: ""
+  flavorText: ""
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

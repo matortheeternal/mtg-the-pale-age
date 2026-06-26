@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0264"
+  autoCollectorNumber: "0299"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,8 +45,8 @@ front:
     Trample, deathtouch
 
 
-    At the end of your turn, sacrifice a nontoken creature. Create X 1/1 black
-    Insect creature tokens, where X is the sacrificed creature's power.
+    At the end of your turn, sacrifice a nontoken creature and create X 1/1
+    black Insect creature tokens, where X is the sacrificed creature's power.
 
 
   flavorText: null

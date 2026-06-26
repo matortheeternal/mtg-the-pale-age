@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Cassie Allen
-  autoCollectorNumber: "0143"
+  autoCollectorNumber: "0149"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: When ~ enters, target opponent reveals their hand. Choose a nonland
     card. They exile that card. They may cast that card for as long as it
-    remains exiled by paying 2 life in addition to its other costs.
+    remains exiled by paying 3 life in addition to its other costs.
   flavorText: He will come upon you, astride a horse black as night. Look upon him
     and despair.
   chopTop: ""

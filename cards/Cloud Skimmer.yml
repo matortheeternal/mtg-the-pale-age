@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Konstantin Vavilov
-  autoCollectorNumber: "0011"
+  autoCollectorNumber: "0015"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,11 +38,11 @@ front:
     Flying
 
 
-    Trailblaze - Whenever you crew or saddle, scry 1.
+    Trailblaze - Whenever you crew or saddle for the first time each turn, scry
+    2.
 
 
-    Crew 1 (Tap any number of creatures you control with total power 2 or more:
-    This Vehicle becomes an artifact creature until end of turn.)
+    Crew 1
   flavorText: "\"A little to the left. Yes, good, we're coming upon it now.  Great work.\""
   chopTop: ""
   chopBottom: ""

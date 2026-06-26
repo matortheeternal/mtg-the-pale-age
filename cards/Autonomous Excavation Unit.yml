@@ -12,13 +12,13 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-2.jpg
+    imageUrl: /project/cards/Autonomous%20Excavation%20Unit.jpg
     width: 1080
     height: 795
-    cropWidth: 1003
-    cropHeight: 708
-    xOffset: 38
-    yOffset: 38
+    cropWidth: 1042
+    cropHeight: 735
+    xOffset: 20
+    yOffset: 22
   superType: Artifact
   subType: Vehicle
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Longquechen
-  autoCollectorNumber: "0161"
+  autoCollectorNumber: "0162"
   collectorNumber: ""
   setCode: ""
   language: ""

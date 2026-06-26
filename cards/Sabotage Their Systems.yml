@@ -19,7 +19,7 @@ front:
     cropHeight: 519
     xOffset: 0
     yOffset: 80
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tōru Fujisawa
-  autoCollectorNumber: "0189"
+  autoCollectorNumber: "0197"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,9 +39,8 @@ front:
 
     Cycling {R} ({R}, Discard this card: Draw a card.)
   flavorText: >-
-    "It's quite easy to sabotage a ride. Loosen a fitting here, tweak a setting
-    there, most riders won't notice something's wrong 'till they're flying head
-    first over the handle bars."
+    "It's quite easy to sabotage a ride. Most riders won't notice something's
+    wrong 'till they're flying head first over the handle bars."
 
     —Adja, brilliant mechanic
   chopTop: "1"

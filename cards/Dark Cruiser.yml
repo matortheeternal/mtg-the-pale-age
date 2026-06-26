@@ -9,7 +9,7 @@ front:
   name: Dark Cruiser
   manaCost:
     __type: ManaCost
-    symbols: BB
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/Dark%20Cruiser.jpg
@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0109"
+  autoCollectorNumber: "0113"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Menace
 
 
-    Pay 3 life: ~ becomes crewed until end of turn.
+    Pay 2 life: ~ becomes crewed until end of turn. Active only once each turn.
 
 
     Crew 2 (Tap any number of creatures you control with total power 2 or more:
@@ -46,7 +46,7 @@ front:
   flavorText: null
   chopTop: ""
   chopBottom: ""
-  maxFontSize: ""
+  maxFontSize: "17"
   centerText: never
   frame: auto
   artSize: auto

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0130"
+  autoCollectorNumber: "0150"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     When ~ enters, each player creates a colorless 1/1 Spirit creature token
-    with "At the end of your turn, sacrifice this creature and lose 2 life."
+    with "At the end of your turn, sacrifice this token and lose 2 life."
 
 
     Whenever a creature dies, mill a card, then draw a card.

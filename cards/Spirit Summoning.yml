@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: "0136"
+  autoCollectorNumber: "0144"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Target player creates two 1/1 colorless Spirit creature tokens with "At the
-    end of your turn, sacrifice this creature and lose 2 life."
+    end of your turn, sacrifice this token and lose 2 life."
 
 
     Flashback {5}{B}{B} (You may cast this card from your graveyard for its

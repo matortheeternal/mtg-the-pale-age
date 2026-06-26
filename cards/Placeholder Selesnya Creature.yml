@@ -13,32 +13,37 @@ front:
   name: Placeholder Selesnya Creature
   manaCost:
     __type: ManaCost
-    symbols: 2WG
+    symbols: 2GW
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Placeholder%20Selesnya%20Creature.jpg
+    width: 3840
+    height: 3073
+    cropWidth: 3840
+    cropHeight: 2710
     xOffset: 0
-    yOffset: 0
+    yOffset: 182
   superType: Creature
-  subType: ""
+  subType: Human Shaman
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: ""
+  illustrator: Rochaku
+  autoCollectorNumber: "0317"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: >-
+    {2}{G}{W}: Create a 2/1 green and white Cat creature token.
+
+
+    Swarm - Whenever one or more tokens you control enter, creatures you control
+    get +1/+1 until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

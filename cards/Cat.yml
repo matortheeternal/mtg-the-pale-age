@@ -1,0 +1,56 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - w
+    - g
+  name: Cat
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Cat.jpg
+    width: 2415
+    height: 3440
+    cropWidth: 2244
+    cropHeight: 3081
+    xOffset: 171
+    yOffset: 0
+  superType: Token Creature
+  subType: Cat
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Tu Bui
+  autoCollectorNumber: "0010"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle:
+    - reverse
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cat

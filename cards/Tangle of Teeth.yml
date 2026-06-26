@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Tangle of Teeth
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Tangle%20of%20Teeth.jpg
+    width: 1920
+    height: 2717
+    cropWidth: 1852
+    cropHeight: 1436
+    xOffset: 32
+    yOffset: 1075
+  superType: Creature
+  subType: Treefolk
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Evgeniy Kosinov
+  autoCollectorNumber: "0253"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+
+
+    Defender
+  flavorText: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Tangle of Teeth
+imageExports:
+  front: Jungle Tiger.jpg

@@ -1,12 +1,7 @@
 front:
   template: magic/M20/Token
-  colors:
-    - char: w
-      name: white
-      sources:
-        override: true
-  colorOverride:
-    - w
+  colors: []
+  colorOverride: []
   name: Pilot
   artImage:
     __type: image
@@ -24,7 +19,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mateja Petkovic
-  autoCollectorNumber: "0034"
+  autoCollectorNumber: "0003"
   collectorNumber: ""
   setCode: ""
   language: ""

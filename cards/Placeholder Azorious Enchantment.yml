@@ -16,29 +16,38 @@ front:
     symbols: WU
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
-    yOffset: 0
+    imageUrl: /project/cards/Placeholder%20Azorious%20Enchantment.jpg
+    width: 800
+    height: 800
+    cropWidth: 685
+    cropHeight: 483
+    xOffset: 58
+    yOffset: 118
   superType: Enchantment
-  subType: ""
+  subType: Aura
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: ""
+  illustrator: Diego Andrade
+  autoCollectorNumber: "0312"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: >-
+    Enchant creature
+
+
+    Enchanted creature has lifelink and curious (Whenever a creature with
+    curious deals damage to an opponent, you may draw a card.)
+
+
+    Whenever you cast a spell from anywhere other than your hand, put a +1/+1
+    counter on enchanted creature.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -59,6 +68,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: ""
+notes: |-
+  lifegain
+  mana
+  recursion
+  lockdown
+  exile removal
+  draw
+  flying
+  anthem
+  clue
 tags: []
 baseName: Placeholder Azorious Enchantment

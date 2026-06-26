@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Xavier Leroux
-  autoCollectorNumber: "0216"
+  autoCollectorNumber: "0225"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     When ~ enters, create two 2/2 green Dinosaur creature tokens.
 
-    {1}{G}: Put a menace counter on target creature you control.
+    {1}{G}: Put a haste counter on target creature you control.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -32,13 +32,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0311"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Creatures and vehicles you control gain lifelink and haste until end
+    of turn. Untap them.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -19,7 +19,7 @@ front:
     cropHeight: 847
     xOffset: 0
     yOffset: 0
-  superType: Artifact
+  superType: Legendary Artifact
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0051"
+  autoCollectorNumber: "0049"
   collectorNumber: ""
   setCode: ""
   language: ""

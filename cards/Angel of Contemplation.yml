@@ -28,19 +28,18 @@ front:
   showPT: true
   rarity: rare
   illustrator: Gino De' Bini
-  autoCollectorNumber: "0003"
+  autoCollectorNumber: "0004"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Vigilance, flying, lifelink, first strike, defender
+    Vigilance, flying, lifelink, first strike
 
 
     Tap another untapped creature you control: Until end of turn, target
-    creature loses a keyword ability of your choice or assigns combat damage
-    equal to its toughness rather than its power.
+    creature assigns combat damage equal to its toughness rather than its power.
   flavorText: '"While we were fighting to survive, do you know what the angels
     were doing? With all their divinity and wisdom?  They watched."'
   chopTop: ""

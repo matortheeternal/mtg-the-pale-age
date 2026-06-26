@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Milda
-  autoCollectorNumber: "0125"
+  autoCollectorNumber: "0131"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,8 @@ front:
     and tokens.
 
 
-    Target player draws X cards and loses X life, where X is the number of
-    permanents sacrificed this way.
+    Target player loses X life, where X is the number of permanents sacrificed
+    this way.
   flavorText: null
   chopTop: ""
   chopBottom: ""

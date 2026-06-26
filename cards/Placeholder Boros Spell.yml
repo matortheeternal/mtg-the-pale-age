@@ -13,16 +13,16 @@ front:
   name: Placeholder Boros Spell
   manaCost:
     __type: ManaCost
-    symbols: RW
+    symbols: 1RW
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Placeholder%20Boros%20Spell.jpg
+    width: 1440
+    height: 1440
+    cropWidth: 1440
+    cropHeight: 1016
     xOffset: 0
-    yOffset: 0
+    yOffset: 99
   superType: Sorcery
   subType: ""
   flagLeft: ""
@@ -32,13 +32,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0311"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Target vehicle you control becomes crewed. Put a +1/+1 counter on it.
+    It gains vigilance until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -15,12 +15,12 @@ front:
     imageUrl: null
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Legendary Creature
-  subType: ""
+  subType: Dinosaur
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -28,13 +28,13 @@ front:
   showPT: ""
   rarity: rare
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0244"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Trample
   flavorText: null
   chopTop: ""
   chopBottom: ""

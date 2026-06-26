@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Pride Whisperer
+  manaCost:
+    __type: ManaCost
+    symbols: 2GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Placeholder%20Selesnya%20Creature.jpg
+    width: 3840
+    height: 3073
+    cropWidth: 3840
+    cropHeight: 2710
+    xOffset: 0
+    yOffset: 182
+  superType: Creature
+  subType: Human Shaman
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: Rochaku
+  autoCollectorNumber: "0317"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    {2}{G}{W}: Create a 2/1 green and white Cat creature token.
+
+
+    Swarm - Whenever one or more tokens you control enter, creatures you control
+    get +1/+1 until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Pride Whisperer

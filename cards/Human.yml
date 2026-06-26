@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
+  colorOverride:
+    - w
+  name: Human
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Human.jpg
+    width: 662
+    height: 1000
+    cropWidth: 662
+    cropHeight: 1000
+    xOffset: 0
+    yOffset: 0
+  superType: Token Creature
+  subType: Human
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Dianita
+  autoCollectorNumber: "0029"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Human

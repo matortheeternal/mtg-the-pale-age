@@ -13,7 +13,7 @@ front:
   name: Ivar and Signe, Huntsworn
   manaCost:
     __type: ManaCost
-    symbols: RG
+    symbols: 1RG
   artImage:
     __type: image
     imageUrl: /project/cards/Ivar%20and%20Signe%2C%20Huntsworn.jpg
@@ -27,12 +27,12 @@ front:
   subType: Human Barbarian
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "4"
   toughness: "3"
   showPT: true
   rarity: rare
   illustrator: Lewis LaRosa
-  autoCollectorNumber: "0273"
+  autoCollectorNumber: "0290"
   collectorNumber: ""
   setCode: ""
   language: ""

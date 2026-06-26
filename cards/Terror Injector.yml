@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Terror Injector
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/UB02%20Placeholder.jpg
+    width: 1080
+    height: 1080
+    cropWidth: 1080
+    cropHeight: 762
+    xOffset: 0
+    yOffset: 20
+  superType: Creature
+  subType: Nightmare
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Samuel Araya
+  autoCollectorNumber: "0147"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    ~ can't block.
+
+    Discard a card: ~ gains menace until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Terror Injector
