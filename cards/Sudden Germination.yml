@@ -19,7 +19,7 @@ front:
     cropHeight: 565
     xOffset: 0
     yOffset: 182
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Song Kang
-  autoCollectorNumber: "0232"
+  autoCollectorNumber: "0250"
   collectorNumber: ""
   setCode: ""
   language: ""

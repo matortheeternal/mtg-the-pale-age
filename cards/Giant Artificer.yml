@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "4"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: elysieee
@@ -34,11 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ enters, you may return target artifact card from your
-    graveyard to your hand.
+  rulesText: When ~ enters, create a tapped 2/2 colorless Construct artifact
+    creature token with flying.
   flavorText: His workshop was a warehouse within which there was an entire town,
     carefully built and maintained. It seems even giants can have hobbies.
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
@@ -57,7 +57,6 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: "- want players to intentionally choose cards that create board stalls
-  rather than stall being incidental to the cards they want"
+notes: ""
 tags: []
 baseName: Giant Artificer

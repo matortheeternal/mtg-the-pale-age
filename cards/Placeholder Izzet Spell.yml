@@ -13,16 +13,16 @@ front:
   name: Placeholder Izzet Spell
   manaCost:
     __type: ManaCost
-    symbols: 1UR
+    symbols: 2URR
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Placeholder%20Izzet%20Spell.jpg
+    width: 1440
+    height: 1800
+    cropWidth: 1440
+    cropHeight: 1133
     xOffset: 0
-    yOffset: 0
+    yOffset: 68
   superType: Sorcery
   subType: ""
   flagLeft: ""
@@ -32,13 +32,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0314"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Draw two cards, then discard a card. ~ deals damage equal to the
+    discarded card's mana value to each creature.
   flavorText: null
   chopTop: ""
   chopBottom: ""

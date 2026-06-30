@@ -20,9 +20,9 @@ front:
     width: 1920
     height: 2694
     cropWidth: 1920
-    cropHeight: 1629
+    cropHeight: 1678
     xOffset: 0
-    yOffset: 499
+    yOffset: 521
   superType: Enchantment
   subType: Aura Curse
   flagLeft: ""
@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Sebastian Cabrol
-  autoCollectorNumber: "0261"
+  autoCollectorNumber: "0295"
   collectorNumber: ""
   setCode: ""
   language: ""

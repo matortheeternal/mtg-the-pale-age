@@ -32,24 +32,22 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Sui Ishida
-  autoCollectorNumber: "0256"
+  autoCollectorNumber: "0290"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
-    Spectacle {1}{B}{B}{R} (You may cast this spell for its spectacle cost
-    rather than its mana cost if an opponent lost life this turn.)
+  rulesText: |
+    Devoid (This card has no color.)
 
+    Spectacle {1}{B}{B}{R}
 
     Trample
 
-
     Whenever a creature an opponent controls dies, put a +1/+1 counter on @.
 
-
-    {B}{R}: @ deals 1 damage to each creature and each player.
+    {1}{B}{R}: @ deals 1 damage to each creature and each player.
   flavorText: null
   chopTop: ""
   chopBottom: ""

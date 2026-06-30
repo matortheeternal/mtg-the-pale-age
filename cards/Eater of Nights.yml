@@ -19,7 +19,7 @@ front:
     cropHeight: 1292
     xOffset: 44
     yOffset: 0
-  superType: Legendary Creature
+  superType: Creature
   subType: Elder Horror
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0149"
+  autoCollectorNumber: "0117"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -45,6 +45,10 @@ front:
     you lost.
   flavorText: Every second spent in its presence your mind will fray apart like a
     whisper in the dark.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,10 +64,6 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
 notes: ""
 tags: []
 baseName: Eater of Nights

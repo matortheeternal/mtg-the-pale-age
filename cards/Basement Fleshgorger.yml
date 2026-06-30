@@ -20,7 +20,7 @@ front:
     xOffset: 27
     yOffset: 0
   superType: Creature
-  subType: Horror Processor
+  subType: Horror
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -40,8 +40,8 @@ front:
 
 
     {T}, Sacrifice an artifact or creature: Target player creates a 1/1
-    colorless Spirit creature token with "At the end of your turn, sacrifice
-    this token and lose 2 life."
+    colorless Spirit creature token with "At the beginning of your end step,
+    sacrifice this token and lose 2 life."
   flavorText: null
   chopTop: ""
   chopBottom: ""

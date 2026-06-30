@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0112"
+  autoCollectorNumber: "0133"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,11 @@ front:
     removed, sacrifice it.)
 
 
-    Whenever a time counter is removed from ~, each player mills 10 cards, then
+    If ~ is in your opening hand, you may begin the game with it on the
+    battlefield.
+
+
+    Whenever a time counter is removed from ~, each player mills 8 cards, then
     draws a card.
   flavorText: null
   chopTop: ""

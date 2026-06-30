@@ -19,10 +19,10 @@ front:
     imageUrl: /project/cards/Agonizing%20Burn.jpg
     width: 1504
     height: 1920
-    cropWidth: 1341
-    cropHeight: 946
-    xOffset: 83
-    yOffset: 225
+    cropWidth: 1347
+    cropHeight: 1685
+    xOffset: 80
+    yOffset: 207
   superType: Sorcery
   subType: ""
   flagLeft: ""
@@ -32,13 +32,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: "0238"
+  autoCollectorNumber: "0266"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
+    Devoid (This card has no color.)
+
+
     Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than
     its mana cost if an opponent lost life this turn.)
 
@@ -50,7 +53,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0049"
+  autoCollectorNumber: "0050"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Flying
 
 
-    Whenever ~ attacks, create three 2/2 white Construct artifact creature
+    Whenever ~ attacks, create three 2/2 colorless Construct artifact creature
     tokens with flying tapped and attacking.
 
 

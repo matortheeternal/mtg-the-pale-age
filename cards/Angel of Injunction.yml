@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Angel of Injunction
+  manaCost:
+    __type: ManaCost
+    symbols: WWW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Angel%20of%20Process.jpg
+    width: 1920
+    height: 2458
+    cropWidth: 1920
+    cropHeight: 2458
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Angel
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: mythic
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0006"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Flying
+
+
+    {1}: Counter target triggered or activated ability. Activate only once each
+    turn. (Mana abilities can’t be targeted.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Angel of Injunction

@@ -1,0 +1,40 @@
+front:
+  template: magic/M20/Emblem
+  name: Original Trauma
+  superType: Emblem
+  subType: Kaeda
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0002"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artImage:
+    __type: image
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 1
+    cropHeight: 1
+    xOffset: 0
+    yOffset: 0
+  rulesText: All spells and permanents are colorless.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Original Trauma-2

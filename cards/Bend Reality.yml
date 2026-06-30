@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0021"
+  autoCollectorNumber: "0062"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,6 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: >-
     This spell costs {2} less to cast for each effect on the stack.
+
 
     You may reorder the stack and change the targets of any number of spells or
     abilities.

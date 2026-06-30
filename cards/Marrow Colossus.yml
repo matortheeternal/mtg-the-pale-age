@@ -20,9 +20,9 @@ front:
     width: 600
     height: 776
     cropWidth: 600
-    cropHeight: 423
+    cropHeight: 750
     xOffset: 0
-    yOffset: 0
+    yOffset: 13
   superType: Creature
   subType: Zombie Giant
   flagLeft: ""
@@ -32,13 +32,16 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0278"
+  autoCollectorNumber: "0307"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
+    Devoid (This card has no color.)
+
+
     Spectacle {1}{B}{R} (You may cast this spell for its spectacle cost rather
     than its mana cost if an opponent lost life this turn.)
 
@@ -50,7 +53,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

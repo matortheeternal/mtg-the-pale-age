@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Grizzled Instructor
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Grizzled%20Instructor.jpg
+    width: 720
+    height: 899
+    cropWidth: 688
+    cropHeight: 860
+    xOffset: 0
+    yOffset: 31
+  superType: Creature
+  subType: Human Soldier Advisor
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: Borislav Mitkov
+  autoCollectorNumber: "0028"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    {1}{W}, {T}: Create a 1/1 colorless Pilot creature token with “This token
+    crews Vehicles as though its power were 2 greater.”
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Grizzled Instructor

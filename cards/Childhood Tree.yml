@@ -12,7 +12,7 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
+    imageUrl: /project/cards/Childhood%20Tree.jpg
     width: 2400
     height: 1339
     cropWidth: 2400
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Wojciech Piwowarczyk
-  autoCollectorNumber: "0216"
+  autoCollectorNumber: "0220"
   collectorNumber: ""
   setCode: ""
   language: ""

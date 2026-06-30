@@ -12,13 +12,13 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Placeholder%20Green%20Instant.jpg
+    width: 800
+    height: 1136
+    cropWidth: 800
+    cropHeight: 565
     xOffset: 0
-    yOffset: 0
+    yOffset: 286
   superType: Instant
   subType: ""
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0246"
   collectorNumber: ""
   setCode: ""
   language: ""

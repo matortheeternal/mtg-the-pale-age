@@ -28,15 +28,15 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0122"
+  autoCollectorNumber: "0121"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: Destroy target creature. Its controller creates a 1/1 colorless
-    Spirit creature token with "At the end of your turn, sacrifice this token
-    and lose 2 life."
+    Spirit creature token with "At the beginning of your end step, sacrifice
+    this token and lose 2 life."
   flavorText: null
   chopTop: ""
   chopBottom: ""

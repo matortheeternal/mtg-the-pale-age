@@ -9,7 +9,7 @@ front:
   name: Death to Dream
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/Restless%20Revival.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0114"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,12 @@ front:
     Devoid (This card has no color.)
 
 
+    Spectacle {B} (You may cast this spell for its spectacle cost if an opponent
+    lost life this turn.)
+
+
     Return target creature with mana value 5 or less from your graveyard to the
-    battlefield tapped with two stun counters on it.
+    battlefield tapped with a stun counter on it.
   flavorText: The dwellers in the dark have learned that death is but a dream. At
     its end, they wake.
   chopTop: ""

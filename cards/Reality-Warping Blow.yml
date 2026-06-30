@@ -28,14 +28,19 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0197"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Choose target creature you control. Double its power, then it deals
-    damage equal to its power to target creature an opponent controls.
+  rulesText: >-
+    Spectacle {R}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+
+
+    Choose target creature you control. Double its power, then it deals damage
+    equal to its power to target creature an opponent controls.
   flavorText: null
   chopTop: ""
   chopBottom: ""

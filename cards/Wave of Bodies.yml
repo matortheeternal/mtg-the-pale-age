@@ -9,7 +9,7 @@ front:
   name: Wave of Bodies
   manaCost:
     __type: ManaCost
-    symbols: 1BB
+    symbols: 3BB
   artImage:
     __type: image
     imageUrl: /project/cards/Wave%20of%20Bodies.jpg
@@ -28,14 +28,20 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Corran Brownlee
-  autoCollectorNumber: "0147"
+  autoCollectorNumber: "0157"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Each player sacrifices all creatures they control, then draws a card
-    for each creature they sacrificed this way.
+  rulesText: >-
+    Spectacle {1}{B}{B} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
+    Each player sacrifices all creatures they control.  Each player draws X
+    cards and loses X life, where X is the number of creatures they sacrificed
+    this way.
   flavorText: null
   chopTop: ""
   chopBottom: ""

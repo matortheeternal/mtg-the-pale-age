@@ -9,7 +9,7 @@ front:
   name: Law of the Jungle
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: 2G
   artImage:
     __type: image
     imageUrl: /project/cards/Jungle.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Amin Talebi
-  autoCollectorNumber: "0233"
+  autoCollectorNumber: "0234"
   collectorNumber: ""
   setCode: ""
   language: ""

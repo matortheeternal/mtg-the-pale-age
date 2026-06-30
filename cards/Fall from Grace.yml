@@ -28,16 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: "0021"
+  autoCollectorNumber: "0022"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    Destroy target planeswalker or target tapped creature.
-
-    Cycling {W} ({W}, Discard this card: Draw a card.)
+  rulesText: |
+    Destroy target planeswalker or target tapped creature. You gain 2 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

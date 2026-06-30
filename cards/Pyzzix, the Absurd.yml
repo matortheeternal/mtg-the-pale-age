@@ -27,12 +27,12 @@ front:
   subType: Dragon
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0282"
+  autoCollectorNumber: "0320"
   collectorNumber: ""
   setCode: ""
   language: ""

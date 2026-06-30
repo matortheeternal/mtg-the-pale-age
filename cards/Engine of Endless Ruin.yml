@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: George Munteanu
-  autoCollectorNumber: "0312"
+  autoCollectorNumber: "0356"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     activate this ability.
   flavorText: '"When we unlocked the technology to regrow entire worlds, we began
     to destroy them just as quickly."'
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

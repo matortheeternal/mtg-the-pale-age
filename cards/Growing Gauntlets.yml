@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Growing Gauntlets
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Growing%20Gauntlets.jpg
+    width: 1211
+    height: 630
+    cropWidth: 1211
+    cropHeight: 630
+    xOffset: 0
+    yOffset: 0
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Morten Christiansen
+  autoCollectorNumber: "0231"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Equipped creature gets "{T}: Put a +1/+1 counter on this creature and ~."
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this artifact onto it.)
+
+
+    Equip {1}
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Growing Gauntlets

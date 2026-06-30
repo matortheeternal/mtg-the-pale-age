@@ -9,16 +9,16 @@ front:
   name: Placeholder Blue Instant
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: 3U
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    imageUrl: /project/cards/Placeholder%20Blue%20Instant.jpg
+    width: 2328
+    height: 1830
+    cropWidth: 2328
+    cropHeight: 1643
     xOffset: 0
-    yOffset: 0
+    yOffset: 140
   superType: Instant
   subType: ""
   flagLeft: ""
@@ -26,15 +26,16 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: mythic
-  illustrator: ""
-  autoCollectorNumber: "0088"
+  rarity: rare
+  illustrator: Yuriy Mazurkin
+  autoCollectorNumber: "0092"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: Each player mills cards equal to the number of creatures they
+    control. Return all creatures to their owners' hands.
   flavorText: null
   chopTop: ""
   chopBottom: ""

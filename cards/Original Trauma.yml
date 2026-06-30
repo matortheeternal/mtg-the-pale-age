@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/SagaCreature
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Original Trauma
+  manaCost:
+    __type: ManaCost
+    symbols: 1UBR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Original%20Trauma.jpg
+    width: 720
+    height: 909
+    cropWidth: 504
+    cropHeight: 909
+    xOffset: 44
+    yOffset: 0
+  superType: Enchantment Creature
+  subType: Demon Saga
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: rare
+  illustrator: Samuel Araya
+  autoCollectorNumber: "0315"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  postText: Deathtouch
+  rulesText: |-
+    I - Draw five cards, then discard five cards.
+
+    II - You may put a planeswalker card from your hand onto the battlefield.
+
+    III - Destroy target colored creature.
+
+    IV - You get an emblem with "All spells and permanents are colorless."
+  flavorText: null
+  crownStyle: auto
+  ubStyle: auto
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Original Trauma

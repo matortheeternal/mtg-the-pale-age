@@ -13,7 +13,7 @@ front:
   name: Fluttergoyf
   manaCost:
     __type: ManaCost
-    symbols: 2UB
+    symbols: 1UB
   artImage:
     __type: image
     imageUrl: /project/cards/Fluttergoyf.jpg
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Karl Trewhela
-  autoCollectorNumber: "0315"
+  autoCollectorNumber: "0289"
   collectorNumber: ""
   setCode: ""
   language: ""

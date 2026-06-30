@@ -13,7 +13,7 @@ front:
   name: Unspeakable Monstrosity
   manaCost:
     __type: ManaCost
-    symbols: 4GU
+    symbols: 3GU
   artImage:
     __type: image
     imageUrl: /project/cards/REPLACE%20ART%20Unspeakable%20Monstrosity.jpg
@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0344"
+  autoCollectorNumber: "0347"
   collectorNumber: ""
   setCode: ""
   language: ""

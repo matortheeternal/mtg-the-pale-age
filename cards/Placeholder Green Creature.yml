@@ -12,21 +12,21 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    imageUrl: /project/cards/Placeholder%20Green%20Creature.jpg
+    width: 2363
+    height: 3150
+    cropWidth: 2363
+    cropHeight: 1668
     xOffset: 0
-    yOffset: 0
-  superType: Legendary Creature
-  subType: Dinosaur
+    yOffset: 311
+  superType: Creature
+  subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: rare
+  rarity: mythic
   illustrator: ""
   autoCollectorNumber: "0244"
   collectorNumber: ""
@@ -34,7 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Trample
+  rulesText: ""
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Absorbing Reception
+  manaCost:
+    __type: ManaCost
+    symbols: 3RRR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Absorbing%20Reception.jpg
+    width: 1200
+    height: 1697
+    cropWidth: 1200
+    cropHeight: 954
+    xOffset: 0
+    yOffset: 278
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Hernán Conde De Boeck
+  autoCollectorNumber: "0160"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Spectacle {2}{R}{R} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
+    Exile target noncreature spell. Target creature you control gets +X/+0 until
+    end of turn, where X is the amount of mana spent to cast the exiled spell.
+    You may cast the exiled spell for as long as it remains exiled, and you may
+    spend mana as though it were mana of any color to cast that spell.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Absorbing Reception

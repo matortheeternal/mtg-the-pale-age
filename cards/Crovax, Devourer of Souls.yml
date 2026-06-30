@@ -9,7 +9,7 @@ front:
   name: Crovax, Devourer of Souls
   manaCost:
     __type: ManaCost
-    symbols: XB
+    symbols: B
   artImage:
     __type: image
     imageUrl: /project/cards/Crovax%2C%20Devourer%20of%20Souls.jpg
@@ -28,20 +28,21 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0110"
+  autoCollectorNumber: "0112"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
-    When @ enters, suppress X. (To suppress X, look at the top X cards of target
-    player's library and choose one. Put that card on top of their library and
-    the rest into their graveyard.)
+    Consume (As this enters, you may sacrifice any number of creatures and
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
 
 
-    Whenever a creature is put into an opponent's graveyard from anywhere, exile
-    it, then put a +1/+1 counter on @.
+    When @ enters, suppress X, where X is the one plus @'s power. (To suppress
+    X, look at the top X cards of target player's library and choose one. Put
+    that card on top of their library and the rest into their graveyard.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

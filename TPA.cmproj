@@ -113,12 +113,12 @@ cards:
   - Naia, River Queen
   - Fragment
   - Act of Intimidation
-  - Lunar Adherent
+  - Prickly Pack Dino
   - Galleon
   - How to Become a Giant
   - Merfolk Tidetuner
-  - Masao, Legendary Sailor
-  - Fish Construct
+  - Masao, Illustrious Sailor
+  - Mechanical Piranha
   - The Search for Meredith
   - The Portal
   - The Abyssal Prison
@@ -150,7 +150,6 @@ cards:
   - Benevolence
   - Somber Soldier
   - Encounter Oblivion
-  - Announce Disaster
   - Gelatinous Researcher
   - Spirit Summoning
   - Coastal Sanctuary
@@ -174,7 +173,7 @@ cards:
   - Armored Hybrid
   - One with History
   - Queen of Misery
-  - The Mad King
+  - Mad King
   - Orc Warlord
   - Skeletal Screecher
   - Lord of Rot
@@ -237,7 +236,7 @@ cards:
   - Matilda, the Reader
   - Seal Within
   - Angel of Contemplation
-  - Hero's Helm
+  - Growing Gauntlets
   - Exaltation
   - Retreat of the Third Moon
   - Ancient Whale
@@ -249,7 +248,7 @@ cards:
   - Cyberoptic Camouflage
   - Cephalopodization
   - Raptor Ambush
-  - Train Pilots
+  - A Pair of Punks
   - Electrophorus
   - Village Baker
   - Staff of the Stars
@@ -276,7 +275,7 @@ cards:
   - Assemble the Gang
   - Sabotage Their Systems
   - Pristine Prism
-  - Greatbow Phantoms
+  - Greatbow Platoon
   - Magical Lasso
   - Embrace the Void
   - Ember Invocation
@@ -357,18 +356,18 @@ cards:
   - Roxanne, Queen of Feld
   - Kikuki, Infinite Torment
   - Verdant Hills
-  - The Beast in the Woods
+  - Beast of the Woods
   - Awakened Continent
   - Omnus
   - Mad Bonemuncher
   - Kevala, Archdemon Apostate
-  - The Guest
+  - Origin- The Guest
   - Grace of the Hunt
   - Unrivaled Violence
   - Squeeze
   - Ylexa, Blood Enjoyer
   - Infernal Impulse
-  - Explosive Evolution
+  - Endless Evolution
   - Sizzle Splitter
   - Colorsight
   - Ichor Eruption
@@ -380,11 +379,11 @@ cards:
   - Biogenic Regurgitator
   - Nibble
   - Final Hour
-  - The Integrator
+  - Falroth Integrator
   - Morwen, the Gladiator
   - Mr. Cosmos
   - Bloodstained Axe
-  - The Unholy
+  - Unholy Blade
   - Sudden Germination
   - Death to Dream
   - Karmic Debt
@@ -403,7 +402,7 @@ cards:
   - Boar
   - Writhing Hall
   - Childhood Tree
-  - Placeholder Red Instant
+  - Absorbing Reception
   - Autonomous Excavation Unit
   - Floating Rock
   - Magic Greenhouse
@@ -412,8 +411,8 @@ cards:
   - Befriend the Beasts
   - Law of the Jungle
   - Uninvited Hexakosipede
-  - Placeholder Simic Spell
-  - Placeholder Izzet Spell
+  - Environmental Adaptation
+  - Spontaneous Collapse
   - Fluttergoyf
   - Keeper of the Pride
   - Vandalbomber
@@ -421,24 +420,31 @@ cards:
   - Remote Activation Sequence
   - Edification
   - Derelict Doorway
-  - Placeholder Kaeda Saga
-  - Placeholder Green Creature
-  - Placeholder Green Instant
-  - Placeholder Green Creature-2
-  - Placeholder Green Sorcery
-  - Placeholder Blue Instant
-  - Placeholder Blue Creature
-  - Placeholder White Creature
+  - Origin- The Killer
+  - Iggy, the Starved
+  - Thrive in Adversity
+  - Ea, Forgotten Queen
+  - Mitosis
+  - Mystical Machinations
+  - Anglerfish King
+  - Angel of Perpetuation
   - The Thunderstrider
   - Aberrant Nemesis
-  - Placeholder Blue Sorcery
   - Crystal Ichor
-  - Placeholder Blue Instant-2
+  - Haunted Retreat
   - Human
   - Cat
   - Terror Injector
   - Basement Fleshgorger
   - Marrow Pool Augur
+  - Insect
+  - Turn to Feathers
+  - Copy
+  - Ghost Bloom
+  - Grizzled Instructor
+  - Construct
+  - Original Trauma
+  - The Guest
 skeleton:
   White:
     mythic: []

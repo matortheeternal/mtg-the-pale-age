@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0006"
+  autoCollectorNumber: "0008"
   collectorNumber: ""
   setCode: ""
   language: ""

@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/SagaCreature
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: "Origin: The Guest"
+  manaCost:
+    __type: ManaCost
+    symbols: 1WBG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Guest.jpg
+    width: 800
+    height: 1131
+    cropWidth: 416
+    cropHeight: 750
+    xOffset: 182
+    yOffset: 192
+  superType: Enchantment Creature
+  subType: Bird Saga
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Garis Edelweiss
+  autoCollectorNumber: "0338"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  postText: Flying, lifelink
+  rulesText: >-
+    I - Scry 8.
+
+
+    II - Reveal the top card of your library. If it is a planeswalker card, you
+    may put it onto the battlefield.
+
+
+    III - Put two +1/+1 counters on each colored creature you control.
+
+
+    IV - You get an emblem with "You may spend mana as though it were mana of
+    any color."
+  flavorText: null
+  crownStyle: auto
+  ubStyle: auto
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Origin- The Guest

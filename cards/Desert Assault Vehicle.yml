@@ -9,7 +9,7 @@ front:
   name: Desert Assault Vehicle
   manaCost:
     __type: ManaCost
-    symbols: 3WW
+    symbols: 4W
   artImage:
     __type: image
     imageUrl: /project/cards/Desert%20Assault%20Vehicle.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Christian Bravery
-  autoCollectorNumber: "0017"
+  autoCollectorNumber: "0016"
   collectorNumber: ""
   setCode: ""
   language: ""

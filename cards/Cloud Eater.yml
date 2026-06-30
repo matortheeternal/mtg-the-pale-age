@@ -24,18 +24,23 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "4"
+  toughness: "5"
   showPT: true
   rarity: uncommon
   illustrator: Dmitri Burkov
-  autoCollectorNumber: "0014"
+  autoCollectorNumber: "0015"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Whenever ~ enters or attacks, exile target enchantment. If an
-    enchantment is exiled this way, put a +1/+1 counter on ~.
+  rulesText: >-
+    Lifelink
+
+
+    Whenever ~ enters or attacks, exile up to one target enchantment, then
+    create a 1/1 colorless Spirit creature token with "At the beginning of your
+    end step, sacrifice this token and lose 2 life."
   flavorText: null
   chopTop: ""
   chopBottom: ""

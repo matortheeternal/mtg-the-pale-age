@@ -9,7 +9,7 @@ front:
   name: Angel of Contemplation
   manaCost:
     __type: ManaCost
-    symbols: 4W
+    symbols: 4WW
   artImage:
     __type: image
     imageUrl: /project/cards/Angel%20of%20Contemplation.jpg
@@ -28,14 +28,14 @@ front:
   showPT: true
   rarity: rare
   illustrator: Gino De' Bini
-  autoCollectorNumber: "0004"
+  autoCollectorNumber: "0005"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Vigilance, flying, lifelink, first strike
+    Flying, vigilance, lifelink
 
 
     Tap another untapped creature you control: Until end of turn, target

@@ -35,8 +35,8 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: Whenever a nontoken creature dies, its controller creates a 1/1
-    colorless Spirit creature token with "At the end of your turn, sacrifice
-    this token and lose 2 life."
+    colorless Spirit creature token with "At the beginning of your end step,
+    sacrifice this token and lose 2 life."
   flavorText: It's a village tradition to give your dead to the ferryman so he may
     take them to the afterlife—wherever that is.
   chopTop: ""

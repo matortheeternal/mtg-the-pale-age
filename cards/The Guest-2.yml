@@ -1,0 +1,40 @@
+front:
+  template: magic/M20/Emblem
+  name: The Guest
+  superType: Emblem
+  subType: Omnus
+  rarity: common
+  illustrator: Dylan Jordan
+  autoCollectorNumber: "0005"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Guest-2.jpg
+    width: 1660
+    height: 2200
+    cropWidth: 1660
+    cropHeight: 2200
+    xOffset: 0
+    yOffset: 0
+  rulesText: You may spend mana as though it were mana of any color.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: The Guest-2

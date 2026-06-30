@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Erke Lee
-  autoCollectorNumber: "0160"
+  autoCollectorNumber: "0161"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Haste
 
 
-    When ~ enters, create a 1/1 colorless Pilot creature token with "This token
-    saddles mounts and crews Vehicles as though its power were 2 greater."
+    When ~ enters, create a 1/1 colorless Pilot creature token with “This token
+    crews Vehicles as though its power were 2 greater.”
 
 
     Crew 3 (Tap any number of creatures you control with total power 3 or more:

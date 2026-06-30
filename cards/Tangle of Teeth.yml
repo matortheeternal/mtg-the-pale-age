@@ -20,7 +20,7 @@ front:
     xOffset: 32
     yOffset: 1075
   superType: Creature
-  subType: Treefolk
+  subType: Plant
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Evgeniy Kosinov
-  autoCollectorNumber: "0253"
+  autoCollectorNumber: "0252"
   collectorNumber: ""
   setCode: ""
   language: ""

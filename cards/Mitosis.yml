@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mitosis
+  manaCost:
+    __type: ManaCost
+    symbols: 1GGGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mitosis.jpg
+    width: 800
+    height: 1169
+    cropWidth: 800
+    cropHeight: 1067
+    xOffset: 0
+    yOffset: 84
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Catriona Secker
+  autoCollectorNumber: "0239"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Choose one:
+
+    - Create a token copy of each creature you control. The copies lose all
+    abilities and are green Shapeshifters with changeling.
+
+    - Double the number of counters on each creature you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Mitosis

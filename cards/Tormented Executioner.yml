@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0134"
+  autoCollectorNumber: "0154"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,9 +37,6 @@ front:
   rulesText: >
     Whenever a creature is put into a player's graveyard from anywhere, each
     player loses 1 life.
-
-
-    {T}: Target player mills cards equal to ~'s power.
 
 
     Undying (When this creature dies, if it had no +1/+1 counters on it, return

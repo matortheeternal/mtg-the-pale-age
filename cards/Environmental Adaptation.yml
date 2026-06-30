@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Environmental Adaptation
+  manaCost:
+    __type: ManaCost
+    symbols: 1GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Placeholder%20Simic%20Spell.jpg
+    width: 1440
+    height: 1799
+    cropWidth: 1355
+    cropHeight: 956
+    xOffset: 39
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: dzoolivier
+  autoCollectorNumber: "0315"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: "Put two counters on target creature from among: flying, curious,
+    trample, and +1/+1. (Whenever a creature with a curious deals damage to an
+    opponent, you may draw a card.)"
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Environmental Adaptation

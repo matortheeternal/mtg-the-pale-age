@@ -9,7 +9,7 @@ front:
   name: Great Northern Owl
   manaCost:
     __type: ManaCost
-    symbols: WW
+    symbols: 1W
   artImage:
     __type: image
     imageUrl: /project/cards/Great%20Northern%20Owl.jpg
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tu Bui
-  autoCollectorNumber: "0023"
+  autoCollectorNumber: "0026"
   collectorNumber: ""
   setCode: ""
   language: ""

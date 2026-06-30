@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A Shiipwright
-  autoCollectorNumber: "0210"
+  autoCollectorNumber: "0023"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
     Equipped creature gets +4/+4 and has reach.
 
-    Equip {3}
+    Equip {4}
   flavorText: null
   chopTop: "5"
   chopBottom: "5"
