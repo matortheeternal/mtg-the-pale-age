@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Sarah Winter
-  autoCollectorNumber: "0221"
+  autoCollectorNumber: "0282"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
 
     Choose one or more —
     - Destroy target creature with mana value 4 or less.
-    - Target player loses 3 life and you gain 3 life.
+    - Each player loses 4 life.
     - Target creature gets +1/+0 and gains deathtouch until end of turn.
   flavorText: null
   chopTop: ""

@@ -28,22 +28,22 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Srem V
-  autoCollectorNumber: "0192"
+  autoCollectorNumber: "0203"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: >
+    Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than
+    its mana cost if an opponent lost life this turn.)
+
+
     Haste, menace
 
 
     Whenever ~ attacks, exile the top three cards of your library. You may play
     those cards on your next turn.
-
-
-    Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than
-    its mana cost if an opponent lost life this turn.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

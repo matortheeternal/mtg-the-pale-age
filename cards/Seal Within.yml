@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brian Luong
-  autoCollectorNumber: "0041"
+  autoCollectorNumber: "0042"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,8 @@ front:
     spells or activate abilities that aren’t mana abilities.)
 
 
-    Exile up to X target cards from graveyards. Put a number of +1/+1 counters
-    on target permanent equal to the number of cards exiled this way.
+    Exile X target cards from graveyards. Put X +1/+1 counters on target
+    permanent.
   flavorText: null
   chopTop: "2"
   chopBottom: ""

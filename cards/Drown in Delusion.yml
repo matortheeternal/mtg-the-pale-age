@@ -32,19 +32,21 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Trajedi
-  autoCollectorNumber: "0259"
+  autoCollectorNumber: "0278"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
+    Devoid (This card has no color.)
+
     Enchant creature
 
     You control enchanted creature.
 
-    Enchanted creature gets -2/-2.
-  flavorText: '"They will bend or break. This I promise you."'
+    Enchanted creature gets -1/-1.
+  flavorText: '"They will bend, or they will break."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -9,7 +9,7 @@ front:
   name: Unconstrained Growth
   manaCost:
     __type: ManaCost
-    symbols: XXG
+    symbols: XXGG
   artImage:
     __type: image
     imageUrl: /project/cards/Unconstrained%20Growth.jpg
@@ -28,14 +28,16 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0234"
+  autoCollectorNumber: "0258"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    This spell costs {1} less to cast for each basic land you control.
+  rulesText: >-
+    Affinity for Forests (This spell costs {1} less to cast for each Forest you
+    control.)
+
 
     Create X tapped Forest land tokens.
   flavorText: '"There I saw trees stretching upwards as if to rip the stars from the sky."'

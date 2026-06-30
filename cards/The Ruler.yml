@@ -23,12 +23,12 @@ front:
   subType: Human Noble
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "4"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: Gustave Doré
-  autoCollectorNumber: "0050"
+  autoCollectorNumber: "0051"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,12 +38,12 @@ front:
     Devoid (This card has no color.)
 
 
-    When ~ enters and at the beginning of your upkeep, exile a card from a
-    graveyard.
+    Whenever you exile a card from your graveyard, create a 1/1 white Human
+    creature token.
 
 
-    {1}{W}: Put a creature card you own in exile with mana value 3 or less onto
-    the battlefield.
+    {4}{W}{W}: Other creatures you control get +2/+2 until end of turn. This
+    ability costs {1} less to activate for each card you own in exile.
   flavorText: ""
   chopTop: ""
   chopBottom: ""

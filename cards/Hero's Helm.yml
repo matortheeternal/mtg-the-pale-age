@@ -28,21 +28,14 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0227"
+  autoCollectorNumber: "0231"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Equipped creature gets +1/+2 and has vigilance.
-
-
-    Whenever a creature dies, equipped creature gains indestructible until end
-    of turn.
-
-
-    Equip {2}
+  rulesText: Transfuse (Whenever another creature enters, you may move a counter
+    from this creature onto it.)
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -13,7 +13,7 @@ front:
   name: Infernal Impulse
   manaCost:
     __type: ManaCost
-    symbols: 2BBR
+    symbols: 3BR
   artImage:
     __type: image
     imageUrl: /project/cards/Infernal%20Impulse.jpg
@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0270"
+  autoCollectorNumber: "0298"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,11 +42,11 @@ front:
     Devoid (This card has no color.)
 
 
-    Spectacle {1}{B}{B}{R} (You may cast this spell for its spectacle cost if an
+    Spectacle {2}{B}{R} (You may cast this spell for its spectacle cost if an
     opponent lost life this turn.)
 
 
-    Deal 2 damage to each of your opponents and each creature they control.
+    ~ deals 2 damage to each of your opponents and each creature they control.
 
 
     Creatures you control get +X/+0 and gain trample until end of turn, where X

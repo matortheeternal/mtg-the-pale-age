@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Beau Brynes
-  autoCollectorNumber: "0131"
+  autoCollectorNumber: "0119"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,8 @@ front:
     and tokens.
 
 
-    Target player loses X life, where X is the number of permanents sacrificed
-    this way.
+    Creatures your opponents control get -X/-X until end of turn, where X is the
+    number of permanents sacrificed.
   flavorText: null
   chopTop: ""
   chopBottom: ""

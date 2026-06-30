@@ -1,0 +1,50 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: g
+      name: green
+      sources:
+        override: true
+  colorOverride:
+    - g
+  name: Copy
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Copy.jpg
+    width: 800
+    height: 1018
+    cropWidth: 699
+    cropHeight: 960
+    xOffset: 50
+    yOffset: 58
+  superType: Token Creature
+  subType: Shapeshifter
+  power: "*"
+  toughness: "*"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0001"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Changeling (This token has all creature types.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Copy

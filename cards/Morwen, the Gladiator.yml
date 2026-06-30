@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 0
   superType: Legendary Creature
-  subType: Beast Warrior
+  subType: Chimera Warrior
   flagLeft: ""
   flagRight: ""
   power: "4"
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Clement Fevrier
-  autoCollectorNumber: "0183"
+  autoCollectorNumber: "0189"
   collectorNumber: ""
   setCode: ""
   language: ""

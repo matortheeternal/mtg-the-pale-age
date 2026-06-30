@@ -9,7 +9,7 @@ front:
   name: Angel of Obliteration
   manaCost:
     __type: ManaCost
-    symbols: BBBB
+    symbols: BBB
   artImage:
     __type: image
     imageUrl: /project/cards/Angel%20of%20Obliteration.jpg
@@ -19,16 +19,16 @@ front:
     cropHeight: 1883
     xOffset: 606
     yOffset: 0
-  superType: Legendary Creature
+  superType: Creature
   subType: Angel
   flagLeft: ""
   flagRight: ""
-  power: "5"
-  toughness: "5"
+  power: "4"
+  toughness: "4"
   showPT: true
   rarity: mythic
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0092"
+  autoCollectorNumber: "0106"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,8 +36,12 @@ front:
   showFooterOverrides: false
   rulesText: |-
     Devoid (This card has no color.)
+
     Flying
+
     If the game would end in a draw, you win the game instead.
+
+    {1}{B}, Pay 2 life: Draw a card.
   flavorText: null
   chopTop: ""
   chopBottom: ""

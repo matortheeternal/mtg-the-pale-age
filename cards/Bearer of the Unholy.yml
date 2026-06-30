@@ -28,17 +28,18 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0007"
+  autoCollectorNumber: "0008"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |+
+  rulesText: |-
     Flash
 
-    First strike, lifelink, vigilance
+    First strike, vigilance, lifelink
 
+    When ~ enters, target creature gains hexproof until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

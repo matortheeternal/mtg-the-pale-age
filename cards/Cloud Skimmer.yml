@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Konstantin Vavilov
-  autoCollectorNumber: "0015"
+  autoCollectorNumber: "0014"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,15 +38,18 @@ front:
     Flying
 
 
+    When ~ enters, create a 1/1 white Human creature token.
+
+
     Trailblaze - Whenever you crew or saddle for the first time each turn, scry
-    2.
+    1.
 
 
     Crew 1
-  flavorText: "\"A little to the left. Yes, good, we're coming upon it now.  Great work.\""
-  chopTop: ""
+  flavorText: null
+  chopTop: "2"
   chopBottom: ""
-  maxFontSize: ""
+  maxFontSize: "17.5"
   centerText: never
   frame: auto
   artSize: auto
@@ -63,6 +66,7 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: ""
+notes: +maybe create a 1/1 white human creature token on etb, and then change
+  stats to 1/2 and scry to scry 1?
 tags: []
 baseName: Cloud Skimmer

@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Spontaneous Collapse
+  manaCost:
+    __type: ManaCost
+    symbols: 2UR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Spontaneous%20Collapse.jpg
+    width: 1440
+    height: 1800
+    cropWidth: 1440
+    cropHeight: 1193
+    xOffset: 0
+    yOffset: 17
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Corran Brownlee
+  autoCollectorNumber: "0331"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Discard your hand, then draw that many cards. ~ deals X damage to
+    each creature without flying, where X is the number of land cards in your
+    graveyard.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Spontaneous Collapse

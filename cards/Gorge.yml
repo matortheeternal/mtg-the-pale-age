@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: "0172"
+  autoCollectorNumber: "0179"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Devoid (This card has no color.)
 
 
-    Deal 2 damage to each creature your opponents control. Whenever a creature
-    dealt damage this way dies this turn, put a +1/+1 counter on target creature
-    you control.
+    ~ deals 2 damage to each creature your opponents control. Whenever a
+    creature dealt damage this way dies this turn, put a +1/+1 counter on target
+    creature you control.
   flavorText: null
   chopTop: ""
   chopBottom: ""

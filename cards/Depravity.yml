@@ -13,22 +13,22 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Depravity.jpg
-    width: 1012
-    height: 1265
-    cropWidth: 1011
-    cropHeight: 1265
-    xOffset: 0
-    yOffset: 0
+    width: 1080
+    height: 1350
+    cropWidth: 740
+    cropHeight: 902
+    xOffset: 113
+    yOffset: 385
   superType: Creature
-  subType: Demon Spirit
+  subType: Toad Spirit
   flagLeft: ""
   flagRight: ""
   power: "4"
   toughness: "2"
   showPT: true
   rarity: rare
-  illustrator: Samuel Araya
-  autoCollectorNumber: "0113"
+  illustrator: Nekromold
+  autoCollectorNumber: "0115"
   collectorNumber: ""
   setCode: ""
   language: ""

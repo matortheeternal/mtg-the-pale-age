@@ -9,7 +9,7 @@ front:
   name: Encounter Oblivion
   manaCost:
     __type: ManaCost
-    symbols: 2BB
+    symbols: 3BB
   artImage:
     __type: image
     imageUrl: /project/cards/Encounter%20Oblivion.jpg
@@ -28,13 +28,18 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0102"
+  autoCollectorNumber: "0118"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Choose a creature an opponent controls. Exile all other creatures.
+  rulesText: >-
+    Spectacle {2}{B}{B} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
+    Choose a creature an opponent controls. Exile all other creatures.
   flavorText: null
   chopTop: ""
   chopBottom: ""

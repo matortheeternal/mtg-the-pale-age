@@ -24,21 +24,21 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0303"
+  autoCollectorNumber: "0355"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    If a creature would die, exile it under ~ instead.
+    If a creature would die, exile it instead.
 
 
     {2}: Put a creature card exiled with ~ onto the battlefield under your
     control. Any player may activate this ability. Activate only as a sorcery.
   flavorText: "Some thought the sphere a blessing, others a curse. One thing was
     certain: its arrival changed everything."
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

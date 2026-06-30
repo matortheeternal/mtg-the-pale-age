@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Chromatifish
+  manaCost:
+    __type: ManaCost
+    symbols: 9U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Astronomical%20Angler.jpg
+    width: 540
+    height: 553
+    cropWidth: 540
+    cropHeight: 381
+    xOffset: 0
+    yOffset: 95
+  superType: Creature
+  subType: Leviathan
+  flagLeft: ""
+  flagRight: ""
+  power: "9"
+  toughness: "4"
+  showPT: true
+  rarity: mythic
+  illustrator: ""
+  autoCollectorNumber: "0061"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Delve (Each card you exile from your graveyard while casting this spell pays
+    for {1}.)
+
+
+    {R}: Target creature attacks this turn if able.
+
+
+    {B}: ~ gains menace until end of turn.
+
+
+    {G}: ~ gains trample until end of turn.
+
+
+    {W}: ~ gains first strike until end of turn.
+  flavorText: '"The only light in the abyss . . . and the last you will ever see."'
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "13"
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Chromatifish

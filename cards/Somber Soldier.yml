@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod Van Dyke
-  autoCollectorNumber: "0042"
+  autoCollectorNumber: "0045"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     Devoid (This card has no color.)
 
-    {3}, {T}: Tap or untap target creature.
+    {2}, {T}: Tap or untap target creature.
   flavorText: null
   chopTop: ""
   chopBottom: ""

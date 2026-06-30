@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yharnam
-  autoCollectorNumber: "0155"
+  autoCollectorNumber: "0158"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
     {T}: Add {B}.
 
-    {3}{B}, {T}, Sacrifice ~: Target player loses 3 life and you gain 3 life.
+    {3}{B}, {T}, Sacrifice ~: Each player loses 5 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -32,22 +32,22 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Groeling
-  autoCollectorNumber: "0293"
+  autoCollectorNumber: "0336"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Trample, haste
+    Trample
 
 
-    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
-    enters with six +1/+1 counters on it.)
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
 
 
-    Whenever ~ attacks, remove a +1/+1 counter from it. When you do you may
-    return a land from your graveyard to the battlefield tapped.
+    {G}{R}, {T}, Remove a counter from ~: ~ deals damage equal to its power to
+    target creature an opponent controls.
   flavorText: null
   chopTop: ""
   chopBottom: ""

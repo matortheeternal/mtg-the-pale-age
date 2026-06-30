@@ -1,0 +1,45 @@
+front:
+  template: magic/M20/Token
+  colors: []
+  colorOverride: []
+  name: Construct
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Construct.jpg
+    width: 1024
+    height: 1369
+    cropWidth: 892
+    cropHeight: 1226
+    xOffset: 29
+    yOffset: 143
+  superType: Token Artifact Creature
+  subType: Construct
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: "0013"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Flying
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Construct

@@ -9,7 +9,7 @@ front:
   name: Quinn, Inexorable
   manaCost:
     __type: ManaCost
-    symbols: WW
+    symbols: 2WW
   artImage:
     __type: image
     imageUrl: /project/cards/Quinn%2C%20Inexorable.jpg
@@ -28,22 +28,26 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eduardo Aragao
-  autoCollectorNumber: "0037"
+  autoCollectorNumber: "0039"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >-
     Devoid (This card has no color.)
+
 
     Vigilance, first strike
 
-    When @ enters, you may attach target equipment you control to her.
 
-    Exhaust  — {5}, {T}: Destroy target nonland permanent.
-  flavorText: Quinn strode along the ocean floor, hair unfurled, the explosion
-    bright and violent behind her.
+    When @ enters, destroy target nonland permanent. Its controller
+    investigates. (To investigate, create a Clue token. It’s an artifact with
+    “{2}, Sacrifice this token: Draw a card.”)
+
+
+    @ saddles mounts and crews vehicles as though her power was 4 greater.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

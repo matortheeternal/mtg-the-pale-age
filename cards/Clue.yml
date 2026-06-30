@@ -14,12 +14,12 @@ front:
     yOffset: 0
   superType: Token Artifact
   subType: Clue
-  power: "1"
-  toughness: "1"
+  power: ""
+  toughness: ""
   showPT: false
   rarity: common
   illustrator: n_artisian
-  autoCollectorNumber: "0009"
+  autoCollectorNumber: "0012"
   collectorNumber: ""
   setCode: ""
   language: ""

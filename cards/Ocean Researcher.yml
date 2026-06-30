@@ -20,23 +20,25 @@ front:
     xOffset: 17
     yOffset: 190
   superType: Creature
-  subType: Human Scout
+  subType: Human Scientist
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: James Carter Beard
-  autoCollectorNumber: "0090"
+  autoCollectorNumber: "0092"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "Exhaust — {U}, {T}: Archive a noncreature card. (Exile a noncreature
-    card from your graveyard. You may play it on a later turn. If it would be
-    put into a graveyard, exile it instead.)"
+  rulesText: "Exhaust — {1}{U}, {T}: Archive a noncreature card. Put a curious
+    counter on ~. (Exile a noncreature card from your graveyard. You may play it
+    on a later turn. If it would be put into a graveyard, exile it instead.
+    Whenever a curious creature deals damage to an opponent, you may draw a
+    card.)"
   flavorText: Off to the sea, to study thee.
   chopTop: "2"
   chopBottom: ""

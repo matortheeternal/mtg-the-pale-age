@@ -9,7 +9,7 @@ front:
   name: Abduction Angel
   manaCost:
     __type: ManaCost
-    symbols: 7W
+    symbols: 6W
   artImage:
     __type: image
     imageUrl: /project/cards/Abduction%20Angel.jpg

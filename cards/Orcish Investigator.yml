@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: "0182"
+  autoCollectorNumber: "0193"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
     “{2}, Sacrifice this token: Draw a card.”)
 
 
-    Whenever you sacrifice an artifact, ~ deals 1 damage to target player.
+    Whenever you sacrifice an artifact, ~ deals 1 damage to each player.
   flavorText: His methods are uncouth at best, but the results are undeniable.
   chopTop: ""
   chopBottom: ""

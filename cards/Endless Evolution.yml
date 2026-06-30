@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Endless Evolution
+  manaCost:
+    __type: ManaCost
+    symbols: 1GU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Rapid%20Evolution.jpg
+    width: 1920
+    height: 1896
+    cropWidth: 1920
+    cropHeight: 1355
+    xOffset: 0
+    yOffset: 271
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: false
+  rarity: uncommon
+  illustrator: Libby Schaffer
+  autoCollectorNumber: "0282"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    When ~ enters, proliferate.
+
+
+    Whenever a creature you control dies, move its counters onto ~.
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this enchantment onto it.)
+  flavorText: null
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Endless Evolution
+imageExports:
+  front: Explosive Evolution.jpg

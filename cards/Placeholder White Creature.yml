@@ -9,18 +9,18 @@ front:
   name: Placeholder White Creature
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: WWWW
   artImage:
     __type: image
     imageUrl: null
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Angel
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0037"
   collectorNumber: ""
   setCode: ""
   language: ""

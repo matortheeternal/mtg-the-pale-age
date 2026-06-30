@@ -19,27 +19,30 @@ front:
     cropHeight: 1750
     xOffset: 0
     yOffset: 657
-  superType: Creature
+  superType: Legendary Creature
   subType: Human Fungus
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "0"
   toughness: "1"
   showPT: true
   rarity: uncommon
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0201"
+  autoCollectorNumber: "0243"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    When you sacrifice ~, exile it with a regrowth counter on it.
+  rulesText: >-
+    When you sacrifice ~, if it had no +1/+1 counters on it, return it to the
+    battlefield under its owner's control with a +1/+1 counter on it.
 
-    You may cast ~ from exile as long as it has a regrowth counter on it.
-  flavorText: So long as his mycelium remains, he will sprout anew.
-  chopTop: ""
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: null
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

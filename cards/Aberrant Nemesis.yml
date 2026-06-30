@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Samuel Araya
-  autoCollectorNumber: "0081"
+  autoCollectorNumber: "0054"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,8 +41,8 @@ front:
     When ~ enters, choose a player.
 
 
-    Whenever the chosen player casts a spell, counter that spell unless that
-    player mills cards equal to ~'s toughness.
+    Whenever the chosen player casts a spell, that player mills cards equal to
+    ~'s toughness.
   flavorText: null
   chopTop: ""
   chopBottom: ""

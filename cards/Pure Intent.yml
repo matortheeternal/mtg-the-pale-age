@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Riyu008
-  autoCollectorNumber: "0320"
+  autoCollectorNumber: "0318"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
     Choose one or more —
-    - Create a 2/2 green and white Cat creature token.
+    - Create a 2/1 green and white Cat creature token.
     - Destroy target artifact or enchantment.
     - Target creature gets +2/+2 and gains lifelink until end of turn.
   flavorText: null

@@ -28,19 +28,22 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Xavier Leroux
-  autoCollectorNumber: "0225"
+  autoCollectorNumber: "0227"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >-
     When ~ enters, create two 2/2 green Dinosaur creature tokens.
 
-    {1}{G}: Put a haste counter on target creature you control.
+
+    Dinosaur creatures you control are mounts in addition to their other types
+    and have Saddle 1. Whenever a creature you control becomes saddled, it gains
+    haste until end of turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "2"
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
   frame: auto
@@ -58,6 +61,7 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: ""
+notes: Non-human creatures you control have Saddle 1. Whenever a creature you
+  control becomes saddled, it gains haste until end of turn.
 tags: []
 baseName: Falroth Ranger

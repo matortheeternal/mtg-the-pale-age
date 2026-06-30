@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 161
   superType: Creature
-  subType: Giant Spirit Archer
+  subType: Giant Archer
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: M. Grant Kellermeyer
-  autoCollectorNumber: "0024"
+  autoCollectorNumber: "0027"
   collectorNumber: ""
   setCode: ""
   language: ""

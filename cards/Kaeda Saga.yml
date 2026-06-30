@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Saga
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Kaeda Saga
+  manaCost:
+    __type: ManaCost
+    symbols: UBR
+  artImage:
+    __type: image
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 1
+    cropHeight: 1
+    xOffset: 0
+    yOffset: 0
+  superType: Enchantment Creature
+  subType: Saga
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: "0300"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  preText: null
+  rulesText: |-
+    I - Draw 5 cards, then discard 5 cards.
+
+    II - You may put a planeswalker from your hand onto the battlefield.
+
+    III - Create an emblem with "All spells and permanents are colorless."
+  flavorText: null
+  artSize: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Kaeda Saga

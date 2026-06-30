@@ -32,20 +32,23 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Libby Schaffer
-  autoCollectorNumber: "0283"
+  autoCollectorNumber: "0284"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, double the number of counters of each type on target creature
-    you control.
+    When ~ enters, proliferate.
 
 
-    Whenever you remove a counter from a creature you control, you may scry 1.
+    Whenever a creature you control dies, move its counters onto ~.
+
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this enchantment onto it.)
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

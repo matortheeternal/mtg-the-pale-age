@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: tp-h
-  autoCollectorNumber: "0052"
+  autoCollectorNumber: "0031"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,14 +38,11 @@ front:
     Devoid (This card has no color.)
 
 
-    Undying (When this creature dies, if it had no +1/+1 counters on it, return
-    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
-
-
-    When @ dies, archive a noncreature card. (Exile a noncreature card from your
-    graveyard. You may play it on a later turn. If it would be put into a
-    graveyard, exile it instead.)
-  flavorText: null
+    When @ dies, investigate, then archive a noncreature card. (Create a Clue
+    token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.” Exile
+    a noncreature card from your graveyard. You may play it on a later turn. If
+    it would be put into a graveyard, exile it instead.)
+  flavorText: Matilda rarely left her room, but trouble found her anyway.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -16,12 +16,12 @@ front:
     symbols: 1GU
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
+    imageUrl: /project/cards/Placeholder%20Simic%20Spell.jpg
+    width: 1440
+    height: 1799
+    cropWidth: 1355
+    cropHeight: 956
+    xOffset: 39
     yOffset: 0
   superType: Sorcery
   subType: ""
@@ -32,13 +32,15 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0306"
+  autoCollectorNumber: "0315"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
+  rulesText: "Put two counters on target creature from among: flying, curious,
+    trample, and +1/+1. (Whenever a creature with a curious deals damage to an
+    opponent, you may draw a card.)"
   flavorText: null
   chopTop: ""
   chopBottom: ""

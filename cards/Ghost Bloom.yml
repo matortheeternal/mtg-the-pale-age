@@ -1,0 +1,56 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Ghost Bloom
+  manaCost:
+    __type: ManaCost
+    symbols: "0"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ghost%20Bloom.jpg
+    width: 800
+    height: 801
+    cropWidth: 761
+    cropHeight: 537
+    xOffset: 39
+    yOffset: 102
+  superType: Artifact
+  subType: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Jeff Sheridan
+  autoCollectorNumber: "0358"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  flagLeft: ""
+  flagRight: ""
+  rulesText: "{T}, Sacrifice ~: Add {C} for each colorless nonland permanent you control."
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Ghost Bloom

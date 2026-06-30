@@ -35,11 +35,11 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Target player creates two 1/1 colorless Spirit creature tokens with "At the
-    end of your turn, sacrifice this token and lose 2 life."
+    Target player creates a 1/1 colorless Spirit creature token with "At the
+    beginning of your end step, sacrifice this token and lose 2 life."
 
 
-    Flashback {5}{B}{B} (You may cast this card from your graveyard for its
+    Flashback {1}{B}{B} (You may cast this card from your graveyard for its
     flashback cost. Then exile it.)
   flavorText: null
   chopTop: ""

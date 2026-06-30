@@ -12,13 +12,13 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
-    yOffset: 0
+    imageUrl: /project/cards/Placeholder%20Green%20Sorcery.jpg
+    width: 2084
+    height: 1296
+    cropWidth: 1743
+    cropHeight: 1230
+    xOffset: 171
+    yOffset: 31
   superType: Sorcery
   subType: ""
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: "0246"
   collectorNumber: ""
   setCode: ""
   language: ""

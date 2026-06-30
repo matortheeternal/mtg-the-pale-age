@@ -34,9 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Choose up to two target creatures controlled by different players.
-    Exile those creatures, then return them to the battlefield under their
-    owner's control at the beginning of the next end step.
+  rulesText: >
+    Choose up to two target creatures controlled by different players. Exile
+    those creatures, then return them to the battlefield under their owner's
+    control at the beginning of the next end step.
+
+
+    Cycling {W} ({W}, Discard this card: Draw a card.)
   flavorText: “This way!” shouted the boy, dragging Quinn to safety.
   chopTop: ""
   chopBottom: ""

@@ -9,7 +9,7 @@ front:
   name: The Seven Bolts
   manaCost:
     __type: ManaCost
-    symbols: 3RRR
+    symbols: 4RRR
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Seven%20Bolts.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0193"
+  autoCollectorNumber: "0204"
   collectorNumber: ""
   setCode: ""
   language: ""

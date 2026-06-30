@@ -13,7 +13,7 @@ front:
   name: Ichor Eruption
   manaCost:
     __type: ManaCost
-    symbols: 2UR
+    symbols: 4UR
   artImage:
     __type: image
     imageUrl: /project/cards/Color%20Eruption.jpg
@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0254"
+  autoCollectorNumber: "0296"
   collectorNumber: ""
   setCode: ""
   language: ""

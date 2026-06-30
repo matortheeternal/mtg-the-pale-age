@@ -12,38 +12,31 @@ front:
     symbols: 1GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Amalgam.jpg
-    width: 1440
-    height: 1799
-    cropWidth: 1374
-    cropHeight: 1718
-    xOffset: 33
-    yOffset: 0
-  superType: Creature
-  subType: Human Plant Mutant
+    imageUrl: /project/cards/The%20Integrator.jpg
+    width: 800
+    height: 909
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 241
+  superType: Legendary Creature
+  subType: Satyr
   flagLeft: ""
   flagRight: ""
   power: "2"
   toughness: "2"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: "0197"
+  illustrator: John Walker
+  autoCollectorNumber: "0254"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
-    enters with two +1/+1 counters on it)
-
-
-    Transfuse (Whenever another creature enters, you may move a counter from
-    this creature onto it.)
-
-
-    Defender
+    Other creatures you control have transfuse (Whenever another creature
+    enters, you may move a counter from them onto that creature.)
 
 
     Whenever a counter is removed from a creature you control, untap target
@@ -53,7 +46,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

@@ -26,18 +26,16 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: rare
   illustrator: Akira Hiramoto
-  autoCollectorNumber: "0107"
+  autoCollectorNumber: "0108"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    As an additional cost to cast ~, sacrifice X creatures.
-
-    Each opponent sacrifices X creatures. Create X Morsel tokens.
+  rulesText: Each player sacrifices X creatures. Create X Morsel tokens. (They are
+    artifacts with "When you sacrifice this token, gain 1 life.")
   flavorText: In a daze, Danny looked down at his plate. He came to realize that
     what had looked like sausages was actually the entrails of his now former
     party.

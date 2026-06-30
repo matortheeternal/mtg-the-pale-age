@@ -20,9 +20,9 @@ front:
     width: 2572
     height: 3738
     cropWidth: 2572
-    cropHeight: 2033
+    cropHeight: 3597
     xOffset: 0
-    yOffset: 58
+    yOffset: 86
   superType: Creature
   subType: Skeleton Advisor
   flagLeft: ""
@@ -32,23 +32,24 @@ front:
   showPT: true
   rarity: common
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0245"
+  autoCollectorNumber: "0317"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
+    Devoid (This card has no color.)
+
     When ~ dies, each player mills four cards.
 
     {2}{B}: Return ~ from your graveyard to the battlefield tapped.
-  flavorText: The professor of Political Theory at the university was an odd
-    fellow. I'm not sure if he was even alive.
+  flavorText: The professor of political theory at the university was an odd fellow.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

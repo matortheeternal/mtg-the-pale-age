@@ -9,7 +9,7 @@ front:
   name: The Hollow Throne
   manaCost:
     __type: ManaCost
-    symbols: 3BB
+    symbols: 1B
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Hollow%20Throne.jpg
@@ -19,7 +19,7 @@ front:
     cropHeight: 1355
     xOffset: 0
     yOffset: 649
-  superType: Legendary Artifact
+  superType: Artifact
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -35,11 +35,13 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    When ~ enters, each player creates a colorless 1/1 Spirit creature token
-    with "At the end of your turn, sacrifice this token and lose 2 life."
+    When ~ enters, each player creates a 1/1 colorless Spirit creature token
+    with "At the beginning of your end step, sacrifice this token and lose 2
+    life."
 
 
-    Whenever a creature dies, mill a card, then draw a card.
+    Whenever you cast a colorless spell or sacrifice a token, each player mills
+    a card, then draws a card.
   flavorText: “He rested like a corpse on his throne of stone.”
   chopTop: ""
   chopBottom: ""

@@ -15,10 +15,10 @@ front:
     imageUrl: /project/cards/Deepwood%20Druid.jpg
     width: 686
     height: 1129
-    cropWidth: 686
-    cropHeight: 802
-    xOffset: 0
-    yOffset: 327
+    cropWidth: 591
+    cropHeight: 740
+    xOffset: 47
+    yOffset: 389
   superType: Creature
   subType: Human Druid
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Veli Nyström
-  autoCollectorNumber: "0204"
+  autoCollectorNumber: "0221"
   collectorNumber: ""
   setCode: ""
   language: ""

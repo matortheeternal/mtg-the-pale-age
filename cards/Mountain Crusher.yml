@@ -16,9 +16,9 @@ front:
     width: 921
     height: 1226
     cropWidth: 921
-    cropHeight: 723
+    cropHeight: 1179
     xOffset: 0
-    yOffset: 53
+    yOffset: 47
   superType: Artifact Creature
   subType: Golem
   flagLeft: ""
@@ -28,13 +28,15 @@ front:
   showPT: true
   rarity: common
   illustrator: Anthony Nuegarede
-  autoCollectorNumber: "0172"
+  autoCollectorNumber: "0190"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |
+    Devoid (This card has no color.)
+
     Trample
     Whenever ~ enters or attacks, sacrifice a mountain.
   flavorText: |-
@@ -45,7 +47,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

@@ -28,14 +28,20 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Kal Du
-  autoCollectorNumber: "0135"
+  autoCollectorNumber: "0156"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >-
     Devoid (This card has no color.)
+
+
+    Spectacle {0} (You may cast this spell for its spectacle cost if an opponent
+    lost life this turn.)
+
+
     Destroy target creature. You lose life equal to that creature's power.
   flavorText: null
   chopTop: ""

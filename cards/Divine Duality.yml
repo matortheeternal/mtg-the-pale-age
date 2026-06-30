@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Dmitri Burnou
-  autoCollectorNumber: "0248"
+  autoCollectorNumber: "0276"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
 
 
     Whenever a creature enchanted player controls dies, they lose 1 life and you
-    gain 1 life.
+    gain 2 life.
   flavorText: Divine or demonic, it's all the same. I want nothing to do with 'em.
     You hear me!?
   chopTop: ""

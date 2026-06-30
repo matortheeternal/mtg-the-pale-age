@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0041"
+  autoCollectorNumber: "0045"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     This spell costs {1} less to cast for each token on the battlefield.
 
-    Choose target nonland permanent. Exile all other nonland permanents.
+    Choose target creature. Exile all other creatures.
   flavorText: |-
     On this sea, at this moment,
     I am the loneliest man in the world. 
