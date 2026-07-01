@@ -2,7 +2,7 @@ front:
   template: magic/M20/Emblem
   name: "Origin: The Guest"
   superType: Emblem
-  subType: Omnus
+  subType: ""
   rarity: common
   illustrator: ""
   autoCollectorNumber: "0002"
@@ -14,12 +14,12 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Origin-%20The%20Guest-2.jpg
-    width: 1660
-    height: 2200
-    cropWidth: 1660
-    cropHeight: 2200
-    xOffset: 0
-    yOffset: 0
+    width: 1000
+    height: 1200
+    cropWidth: 744
+    cropHeight: 1038
+    xOffset: 120
+    yOffset: 110
   rulesText: You may spend mana as though it was mana of any color.
   flavorText: null
   chopTop: ""

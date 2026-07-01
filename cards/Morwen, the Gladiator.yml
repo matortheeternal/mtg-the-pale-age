@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Clement Fevrier
-  autoCollectorNumber: "0189"
+  autoCollectorNumber: "0188"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,6 @@ front:
     opponent lost life this turn.)
 
 
-    Haste
 
 
     Activated abilities of Equipment you control that target @ cost {X} less to

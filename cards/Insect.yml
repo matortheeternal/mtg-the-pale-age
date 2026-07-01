@@ -17,14 +17,14 @@ front:
     cropHeight: 1080
     xOffset: 294
     yOffset: 0
-  superType: Creature
+  superType: Token Creature
   subType: Insect
   power: "1"
   toughness: "1"
   showPT: true
   rarity: mythic
   illustrator: Reuben Horn
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: "0125"
   collectorNumber: ""
   setCode: ""
   language: ""

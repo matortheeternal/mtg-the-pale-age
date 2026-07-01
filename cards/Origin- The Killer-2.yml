@@ -2,7 +2,7 @@ front:
   template: magic/M20/Emblem
   name: "Origin: The Killer"
   superType: Emblem
-  subType: Kaeda
+  subType: ""
   rarity: common
   illustrator: ""
   autoCollectorNumber: "0003"

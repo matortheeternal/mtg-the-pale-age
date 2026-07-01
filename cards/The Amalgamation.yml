@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0305"
+  autoCollectorNumber: "0335"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,8 +43,7 @@ front:
     permanents.
 
 
-    {G/U}: Put a flying, first strike, vigilance, trample, or haste counter on
-    ~.
+    {G/U}{G/U}: Put a flying, curious, or trample counter on ~.
 
 
     Sacrifice a creature: Regenerate ~.

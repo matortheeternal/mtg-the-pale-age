@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Xavier Leroux
-  autoCollectorNumber: "0227"
+  autoCollectorNumber: "0226"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,11 +39,14 @@ front:
 
 
     Dinosaur creatures you control are mounts in addition to their other types
-    and have Saddle 1. Whenever a creature you control becomes saddled, it gains
-    haste until end of turn.
+    and have Saddle 1.
+
+
+    Whenever a creature you control becomes saddled, it gains trample until end
+    of turn.
   flavorText: null
   chopTop: "2"
-  chopBottom: "2"
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   frame: auto

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0317"
+  autoCollectorNumber: "0340"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,7 +48,7 @@ front:
     blue Bird creature token with flying and gain 1 life.
   flavorText: null
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   frame: auto
