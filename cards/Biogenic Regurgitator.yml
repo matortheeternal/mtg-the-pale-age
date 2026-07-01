@@ -40,7 +40,7 @@ front:
     they had.)
 
 
-    {1}, Remove a +1/+1 counter from ~: Put a +1/+1 counter on each other
+    {2}, Remove a counter from ~: Put a counter of that kind on each other
     creature you control.
   flavorText: null
   chopTop: ""

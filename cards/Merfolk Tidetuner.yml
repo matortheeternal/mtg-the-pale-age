@@ -28,22 +28,19 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: "0089"
+  autoCollectorNumber: "0090"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
-    {U}{U}, Remove a counter from a creature you control: Draw a card. Activate
-    this ability only once each turn.
+  rulesText: |
+    {U}, {T}: Put a +1/+1 counter on target creature you control.
 
-
-    {U}{U}: Put a +1/+1 counter on target creature you control. Activate this
-    ability only once each turn.
+    {U}{U}, {T}, Remove a counter from a creature you control: Draw a card.
   flavorText: If you listen carefully, you can hear the ocean whisper secrets in
     the crashing of the waves upon the reef.
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

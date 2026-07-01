@@ -9,17 +9,17 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Kaeda.jpg
-    width: 1016
-    height: 1422
-    cropWidth: 913
-    cropHeight: 1240
-    xOffset: 51
-    yOffset: 182
+    width: 1080
+    height: 1332
+    cropWidth: 778
+    cropHeight: 1057
+    xOffset: 151
+    yOffset: 275
   superType: Legendary Planeswalker
   subType: Kaeda
   loyalty: "6"
   rarity: mythic
-  illustrator: Sumi Kurai
+  illustrator: Samuel Araya
   autoCollectorNumber: "0001"
   collectorNumber: ""
   setCode: ""
@@ -34,12 +34,11 @@ front:
     counters on them are colorless.
 
 
-    -3: Target colorless creature you control gets +5/+5 and gains
-    indestructible until end of turn.
+    -3: Target colorless creature you control gets +5/+5 and gains haste until
+    end of turn.
 
 
-    -9: You get an emblem with "Colorless permanents you control have
-    indestructible."
+    -9: Put an indestructible counter on each colorless permanent you control.
   flavorText: null
   artSize: normal
   otherFrameOptions:

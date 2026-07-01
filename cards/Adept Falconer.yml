@@ -28,13 +28,13 @@ front:
   showPT: true
   rarity: common
   illustrator: Marta Sokołowska
-  autoCollectorNumber: "0059"
+  autoCollectorNumber: "0057"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ enters, if you own a card in exile, create a 1/1 blue Bird
+  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
     creature token with flying.
   flavorText: The falconers of the towers of mist know many forgotten histories.
   chopTop: ""

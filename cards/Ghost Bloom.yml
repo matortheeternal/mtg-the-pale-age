@@ -17,19 +17,19 @@ front:
     yOffset: 102
   superType: Artifact
   subType: ""
+  flagLeft: ""
+  flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: mythic
+  rarity: special
   illustrator: Jeff Sheridan
-  autoCollectorNumber: "0358"
+  autoCollectorNumber: "0360"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  flagLeft: ""
-  flagRight: ""
   rulesText: "{T}, Sacrifice ~: Add {C} for each colorless nonland permanent you control."
   flavorText: null
   chopTop: ""

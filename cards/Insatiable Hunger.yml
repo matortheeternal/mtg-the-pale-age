@@ -28,21 +28,18 @@ front:
   showPT: ""
   rarity: common
   illustrator: mariart
-  autoCollectorNumber: "0120"
+  autoCollectorNumber: "0124"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: |-
     Enchant creature
 
+    Enchanted creature gets -2/-2.
 
-    Enchanted creature has menace.
-
-
-    {1}, Sacrifice a creature: Enchanted creature gets +1/+1 until end of turn.
-    Create a Morsel token.
+    {1}, Sacrifice a token: Enchanted creature gets -1/-1 until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -1,45 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: g
-      name: green
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   name: ""
   manaCost:
     __type: ManaCost
-    symbols: 2G
+    symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
-    width: 1000
-    height: 614
-    cropWidth: 802
-    cropHeight: 566
-    xOffset: 73
-    yOffset: 48
-  superType: Creature
-  subType: Dinosaur
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "3"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0236"
+  autoCollectorNumber: "0054"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Whenever ~ becomes saddled, put your choice of a trample or +1/+1 counter on
-    it.
+  rulesText: |-
+    Return target creature or artifact to its owner's hand.
 
-
-    Saddle 1 (
+    When ~ is put into your graveyard from your library, you may cast it.
   flavorText: null
   chopTop: ""
   chopBottom: ""

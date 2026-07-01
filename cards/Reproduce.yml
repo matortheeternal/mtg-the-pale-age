@@ -13,7 +13,7 @@ front:
   name: Reproduce
   manaCost:
     __type: ManaCost
-    symbols: GW
+    symbols: 1GW
   artImage:
     __type: image
     imageUrl: /project/cards/Reproduce.jpg

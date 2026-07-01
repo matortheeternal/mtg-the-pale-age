@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Parthenogenesis
+  manaCost:
+    __type: ManaCost
+    symbols: 1GW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Reproduce.jpg
+    width: 1152
+    height: 800
+    cropWidth: 1134
+    cropHeight: 800
+    xOffset: 9
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Petra Frankova
+  autoCollectorNumber: "0318"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: Choose any number of creature tokens you control with different
+    names.  For each of them, create a token that's a copy of it, then gain life
+    equal to the number of creatures you control.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Parthenogenesis

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0024"
+  autoCollectorNumber: "0073"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     You may look at the top card of any player's library at any time.
 
-    Whenever you suppress, draw a card.
+    Whenever you cast a colorless spell or suppress, draw a card.
   flavorText: The blind peacock sees all.
   chopTop: ""
   chopBottom: ""

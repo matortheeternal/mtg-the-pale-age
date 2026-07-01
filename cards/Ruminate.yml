@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Kirill Khafizov
-  autoCollectorNumber: "0080"
+  autoCollectorNumber: "0093"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,8 +37,13 @@ front:
   rulesText: >-
     Devoid (This card has no color.)
 
-    Draw three cards, then discard a card and put one card from your hand on top
-    of your library.
+
+    Draw three cards, discard a card, then put one card from your hand on top of
+    your library.
+
+
+    Create an ichor token. (It is an artifact with "{T}: Add one mana of any
+    color. Spend this mana only to activate abilities.")
   flavorText: null
   chopTop: ""
   chopBottom: ""

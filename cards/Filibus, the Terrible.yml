@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0076"
+  autoCollectorNumber: "0074"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,9 +41,7 @@ front:
 
 
     Whenever a counter is put on a creature you control, gain 1 life.
-  flavorText: Filibus was rather fond of trinkets. And if you did not offer one as
-    tribute while passing through his territory, you would find a fate most
-    terrible indeed.
+  flavorText: Filibus was rather fond of trinkets.
   chopTop: "2"
   chopBottom: ""
   maxFontSize: ""

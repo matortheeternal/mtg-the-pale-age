@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Boris Groh
-  autoCollectorNumber: "0154"
+  autoCollectorNumber: "0155"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Flash
 
 
-    Ward—Discard a nonland card.
+    Ward—Discard a card.
 
 
     When ~ enters, discard a card.

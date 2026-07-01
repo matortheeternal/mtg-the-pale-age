@@ -9,7 +9,7 @@ front:
   name: Haunted Retreat
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 3UU
   artImage:
     __type: image
     imageUrl: /project/cards/Placeholder%20Blue%20Instant.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yuriy Mazurkin
-  autoCollectorNumber: "0092"
+  autoCollectorNumber: "0083"
   collectorNumber: ""
   setCode: ""
   language: ""
