@@ -28,14 +28,15 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Morten Christiansen
-  autoCollectorNumber: "0231"
+  autoCollectorNumber: "0232"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Equipped creature gets "{T}: Put a +1/+1 counter on this creature and ~."
+    Equipped creature gets "{T}: Put a +1/+1 counter on this creature and a
+    +1/+1 counter on ~."
 
 
     Transfuse (Whenever another creature enters, you may move a counter from

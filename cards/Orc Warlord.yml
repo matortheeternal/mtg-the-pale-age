@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: "0163"
+  autoCollectorNumber: "0193"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,8 +39,8 @@ front:
     +1/+1 counter on it.)
 
 
-    {1}, Remove a counter from ~: Target creature you control gets +2/+0 and
-    gains menace until end of turn.
+    {1}, Remove a +1/+1 counter from ~: Target creature you control gets +2/+0
+    and gains menace until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

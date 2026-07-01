@@ -1,42 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
-  name: Adept Falconer
+  name: Menacing Hunger
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Adept%20Falconer.jpg
-    width: 748
-    height: 993
-    cropWidth: 748
-    cropHeight: 626
-    xOffset: 0
-    yOffset: 254
-  superType: Creature
-  subType: Human Wizard
+    imageUrl: /project/cards/blank.jpg
+    width: 1920
+    height: 1716
+    cropWidth: 1859
+    cropHeight: 1312
+    xOffset: 61
+    yOffset: 202
+  superType: Sorcery
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: common
-  illustrator: Marta Sokołowska
-  autoCollectorNumber: "0057"
+  illustrator: Agustin M. Talaveron
+  autoCollectorNumber: "0130"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
-    creature token with flying.
-  flavorText: The falconers of the towers of mist know many forgotten histories.
+  rulesText: Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and
+    a menace counter on it.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -58,6 +58,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Adept Falconer
-imageExports:
-  front: Adept Falconer.jpg
+baseName: Menacing Hunger

@@ -6,37 +6,42 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Adept Falconer
+  name: Mystic Revelation
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Adept%20Falconer.jpg
-    width: 748
-    height: 993
-    cropWidth: 748
-    cropHeight: 626
+    imageUrl: /project/cards/Mystic%20Revelation.jpg
+    width: 800
+    height: 1144
+    cropWidth: 800
+    cropHeight: 565
     xOffset: 0
-    yOffset: 254
-  superType: Creature
-  subType: Human Wizard
+    yOffset: 48
+  superType: Sorcery
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
-  showPT: true
-  rarity: common
-  illustrator: Marta Sokołowska
-  autoCollectorNumber: "0057"
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Marina Mika
+  autoCollectorNumber: "0090"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
-    creature token with flying.
-  flavorText: The falconers of the towers of mist know many forgotten histories.
+  rulesText: >-
+    Scry 1, then draw two cards. If this spell was cast from anywhere other than
+    your hand, instead scry 2, then draw four cards.
+
+
+    Flashback {4}{U}{U} (You may cast this card from your graveyard for its
+    flashback cost. Then exile it.)
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -58,6 +63,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Adept Falconer
-imageExports:
-  front: Adept Falconer.jpg
+baseName: Mystic Revelation

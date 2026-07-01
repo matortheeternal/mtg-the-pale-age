@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: JaeHoon Choi
-  autoCollectorNumber: "0075"
+  autoCollectorNumber: "0073"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   rulesText: |-
     Devoid (This card has no color.)
 
-    When ~ enters, each player mills five cards.
+    Whenever a player casts a spell, they mill three cards.
 
     Cards you cast from your graveyard or from exile cost {2} less to cast.
   flavorText: null

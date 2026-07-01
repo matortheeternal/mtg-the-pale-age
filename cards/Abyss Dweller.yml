@@ -23,25 +23,24 @@ front:
   subType: Horror
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "4"
   toughness: "4"
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0058"
+  autoCollectorNumber: "0055"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    At the beginning of each end step, if a creature died this turn, each player
-    mills 3 cards.
+    At the beginning of each end step, if a creature died this turn, create an
+    ichor token.
 
 
-    Exile a card from your graveyard: Untap ~. Activate this ability only if ~
-    is tapped.
-  flavorText: What exists in the depths evades any attempt at understanding.
+    {6}, Exile a card from your graveyard: Create a token copy of ~.
+  flavorText: What lives in the depths evades any attempt at understanding.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

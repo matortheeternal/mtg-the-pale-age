@@ -28,14 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Chen Gang
-  autoCollectorNumber: "0100"
+  autoCollectorNumber: "0104"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    Put target nonland permanent on the bottom of its owner's library.
+    Put target nonland permanent into its owner's library second from the top.
 
     Cycling {U} ({U}, Discard this card: Draw a card.)
   flavorText: Your water magic has improved substantially. Color me impressed.

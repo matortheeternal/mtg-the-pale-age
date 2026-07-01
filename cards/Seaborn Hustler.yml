@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Roberto Ricci
-  autoCollectorNumber: "0093"
+  autoCollectorNumber: "0095"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Devoid (This card has no color.)
 
 
-    Whenever ~ deals combat damage to a player, create an Ichor token. (It is an
-    artifact with "{T}: Add one mana of any color. Spend this mana only to
-    activate abilities.")
+    Whenever ~ deals combat damage to a player, mill a card and create an Ichor
+    token. (It is an artifact with "{T}: Add one mana of any color. Spend this
+    mana only to activate abilities.")
   flavorText: null
   chopTop: ""
   chopBottom: ""

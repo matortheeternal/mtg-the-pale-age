@@ -6,37 +6,41 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Adept Falconer
+  name: Rogue Wave
   manaCost:
     __type: ManaCost
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Adept%20Falconer.jpg
-    width: 748
-    height: 993
-    cropWidth: 748
-    cropHeight: 626
+    imageUrl: /project/cards/Rogue%20Wave.jpg
+    width: 1080
+    height: 1080
+    cropWidth: 1080
+    cropHeight: 762
     xOffset: 0
-    yOffset: 254
-  superType: Creature
-  subType: Human Wizard
+    yOffset: 110
+  superType: Sorcery
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
-  showPT: true
-  rarity: common
-  illustrator: Marta Sokołowska
-  autoCollectorNumber: "0057"
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Olivia Rampaige
+  autoCollectorNumber: "0092"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
-    creature token with flying.
-  flavorText: The falconers of the towers of mist know many forgotten histories.
+  rulesText: >-
+    Return target creature or artifact to its owner's hand.
+
+
+    When ~ is put into your graveyard from your library, you may exile it. If
+    you do, return target creature or artifact to its owner's hand.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -58,6 +62,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Adept Falconer
-imageExports:
-  front: Adept Falconer.jpg
+baseName: Rogue Wave

@@ -5,50 +5,54 @@ front:
       name: blue
       sources:
         normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
-  name: Float
+  name: Evolution Solution
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 1GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Float.jpg
-    width: 726
-    height: 1200
-    cropWidth: 726
-    cropHeight: 956
+    imageUrl: /project/cards/Rapid%20Evolution.jpg
+    width: 1920
+    height: 1896
+    cropWidth: 1920
+    cropHeight: 1355
     xOffset: 0
-    yOffset: 244
-  superType: Instant
+    yOffset: 271
+  superType: Enchantment
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0076"
+  showPT: false
+  rarity: uncommon
+  illustrator: Libby Schaffer
+  autoCollectorNumber: "0284"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Devoid (This card has no color.)
+    When ~ enters, proliferate.
 
 
-    Put a flying counter on target creature. It cannot attack or block this
-    turn.
+    Whenever a creature you control dies, move its counters onto ~.
 
 
-    Draw a card.
-  flavorText: Sometimes, gravity gets tired of holding you down.
-  chopTop: ""
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this enchantment onto it.)
+  flavorText: null
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -65,6 +69,6 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Float
+baseName: Evolution Solution
 imageExports:
-  front: Float.jpg
+  front: Explosive Evolution.jpg

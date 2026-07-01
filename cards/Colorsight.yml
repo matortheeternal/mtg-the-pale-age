@@ -20,9 +20,9 @@ front:
     width: 800
     height: 1061
     cropWidth: 800
-    cropHeight: 565
+    cropHeight: 1001
     xOffset: 0
-    yOffset: 48
+    yOffset: 37
   superType: Enchantment
   subType: ""
   flagLeft: ""
@@ -32,13 +32,16 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Daria Hlazatova
-  autoCollectorNumber: "0273"
+  autoCollectorNumber: "0274"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >
+    Devoid (This card has no color.)
+
+
     When ~ enters, create two Ichor tokens. (They are artifacts with "{T}: Add
     one mana of any color. Spend this mana only to activate abilities.")
 
@@ -48,11 +51,11 @@ front:
 
     {3}: Scry 1.
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

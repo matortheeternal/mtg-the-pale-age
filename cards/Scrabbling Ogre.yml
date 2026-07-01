@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0186"
+  autoCollectorNumber: "0200"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
     enters with a +1/+1 counter on it.)
 
 
-    {2}, Remove a counter from ~: Destroy target artifact.
+    {2}, Remove a +1/+1 counter from ~: Destroy target artifact.
   flavorText: null
   chopTop: ""
   chopBottom: ""

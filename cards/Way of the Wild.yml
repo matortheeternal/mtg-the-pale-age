@@ -1,42 +1,45 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
-  name: Adept Falconer
+  name: Way of the Wild
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 1GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Adept%20Falconer.jpg
-    width: 748
-    height: 993
-    cropWidth: 748
-    cropHeight: 626
+    imageUrl: /project/cards/Way%20of%20the%20Wild.jpg
+    width: 1200
+    height: 1500
+    cropWidth: 1200
+    cropHeight: 1004
     xOffset: 0
-    yOffset: 254
-  superType: Creature
-  subType: Human Wizard
+    yOffset: 184
+  superType: Enchantment
+  subType: ""
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
-  showPT: true
-  rarity: common
-  illustrator: Marta Sokołowska
-  autoCollectorNumber: "0057"
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Sophie Whittall
+  autoCollectorNumber: "0263"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
-    creature token with flying.
-  flavorText: The falconers of the towers of mist know many forgotten histories.
+  rulesText: Swarm - Whenever one or more tokens you control enter, you may draw a card.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -58,6 +61,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Adept Falconer
-imageExports:
-  front: Adept Falconer.jpg
+baseName: Way of the Wild

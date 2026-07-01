@@ -105,7 +105,6 @@ cards:
   - Scrabbling Ogre
   - Abyss Dweller
   - Teleporting Inventor
-  - Giant Swiftwing
   - Sea Witch
   - Brine Muncher
   - Spell Knot
@@ -149,7 +148,6 @@ cards:
   - Make a Stand
   - Benevolence
   - Somber Soldier
-  - Encounter Oblivion
   - Gelatinous Researcher
   - Spirit Summoning
   - Coastal Sanctuary
@@ -165,7 +163,7 @@ cards:
   - Colossal Pteradactyl
   - Access the Undergrowth
   - Falroth Ranger
-  - Tend the Garden
+  - Way of the Wild
   - Behold with Awe
   - Cloud Eater
   - Sinew Spawn
@@ -310,7 +308,6 @@ cards:
   - Advanced Transport Gargoyle
   - Lunar Manta
   - Writhing Form
-  - Eyes of the Peacock
   - Bend Reality
   - Asset, Lord of Knowledge
   - Access Infinity
@@ -333,7 +330,7 @@ cards:
   - Sky Port City
   - Adja and Danica
   - Quiet Undergrowth
-  - Reproduce
+  - Parthenogenesis
   - Hildi, Princess of the Wind
   - Drown in Delusion
   - Looming Towers
@@ -367,7 +364,7 @@ cards:
   - Squeeze
   - Ylexa, Blood Enjoyer
   - Infernal Impulse
-  - Endless Evolution
+  - Evolution Solution
   - Sizzle Splitter
   - Colorsight
   - Ichor Eruption
@@ -443,8 +440,11 @@ cards:
   - Ghost Bloom
   - Grizzled Instructor
   - Construct
-  - Original Trauma
-  - The Guest
+  - Menacing Hunger
+  - Omnus-2
+  - Kaeda-2
+  - Mystic Revelation
+  - Rogue Wave
 skeleton:
   White:
     mythic: []

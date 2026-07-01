@@ -1,54 +1,52 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
-  name: Float
+  name: Parthenogenesis
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 1GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Float.jpg
-    width: 726
-    height: 1200
-    cropWidth: 726
-    cropHeight: 956
-    xOffset: 0
-    yOffset: 244
-  superType: Instant
+    imageUrl: /project/cards/Reproduce.jpg
+    width: 1152
+    height: 800
+    cropWidth: 1134
+    cropHeight: 800
+    xOffset: 9
+    yOffset: 0
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
-  illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0076"
+  rarity: uncommon
+  illustrator: Petra Frankova
+  autoCollectorNumber: "0318"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    Put a flying counter on target creature. It cannot attack or block this
-    turn.
-
-
-    Draw a card.
-  flavorText: Sometimes, gravity gets tired of holding you down.
+  rulesText: Choose any number of creature tokens you control with different
+    names.  For each of them, create a token that's a copy of it, then gain life
+    equal to the number of creatures you control.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -65,6 +63,4 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Float
-imageExports:
-  front: Float.jpg
+baseName: Parthenogenesis

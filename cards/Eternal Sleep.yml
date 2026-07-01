@@ -9,7 +9,7 @@ front:
   name: Eternal Sleep
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: 1U
   artImage:
     __type: image
     imageUrl: /project/cards/Eternal%20Sleep.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0073"
+  autoCollectorNumber: "0072"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,9 @@ front:
     Enchant creature
 
 
-    When ~ enters, tap enchanted creature. Its controller creates an Ichor
-    token. (It's an artifact with "{T}: Add one mana of any color. Spend this
-    mana only to activate abilities.")
+    When ~ enters, tap enchanted creature and create an Ichor token. (It's an
+    artifact with "{T}: Add one mana of any color. Spend this mana only to
+    activate abilities.")
 
 
     Enchanted creature doesn't untap during its controller's untap step.

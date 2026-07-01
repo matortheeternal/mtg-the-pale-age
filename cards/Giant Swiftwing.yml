@@ -28,19 +28,13 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Clara Scintilla
-  autoCollectorNumber: "0083"
+  autoCollectorNumber: "0081"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Flying
-
-
-    When ~ enters, look at the top four cards of your library. You may put an
-    instant or sorcery from among those cards into your graveyard, then put the
-    rest back in any order.
+  rulesText: ""
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: "0193"
+  autoCollectorNumber: "0194"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,9 +39,10 @@ front:
     “{2}, Sacrifice this token: Draw a card.”)
 
 
-    Whenever you sacrifice an artifact, ~ deals 1 damage to each player.
-  flavorText: His methods are uncouth at best, but the results are undeniable.
-  chopTop: ""
+    Whenever you sacrifice an artifact, ~ deals 1 damage to target player or
+    planeswalker.
+  flavorText: His methods are crass at best, but the results are undeniable.
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

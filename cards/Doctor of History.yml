@@ -27,12 +27,12 @@ front:
   subType: Bird Cleric
   flagLeft: ""
   flagRight: ""
-  power: "*"
-  toughness: "4"
+  power: "2"
+  toughness: "*"
   showPT: true
   rarity: uncommon
   illustrator: James Todd
-  autoCollectorNumber: "0261"
+  autoCollectorNumber: "0278"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Flying, lifelink
 
 
-    ~'s power is equal to the number cards you own in exile.
+    ~'s toughness is equal to the number cards you own in exile.
 
 
     {1}{W/U}, {T}: Archive a noncreature card. (Exile a noncreature card from

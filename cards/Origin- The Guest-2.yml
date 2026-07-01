@@ -1,18 +1,16 @@
 front:
   template: magic/M20/Emblem
-  name: The Guest
+  name: "Origin: The Guest"
   superType: Emblem
   subType: Omnus
   rarity: common
   illustrator: ""
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: "0002"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: You may spend mana as though it was mana of any color.
-  flavorText: null
   artImage:
     __type: image
     imageUrl: /project/cards/Origin-%20The%20Guest-2.jpg
@@ -22,6 +20,8 @@ front:
     cropHeight: 2200
     xOffset: 0
     yOffset: 0
+  rulesText: You may spend mana as though it was mana of any color.
+  flavorText: null
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -37,4 +37,4 @@ front:
     tall: false
 notes: ""
 tags: []
-baseName: The Guest
+baseName: Origin- The Guest-2

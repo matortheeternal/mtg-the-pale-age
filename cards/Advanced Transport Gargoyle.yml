@@ -24,22 +24,25 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "6"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: Massimiliano Haematinon Nigro
-  autoCollectorNumber: "0061"
+  autoCollectorNumber: "0058"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  rulesText: >-
     Flying
+
 
     Defender
 
-    {U}{U}{U}{U}: ~ loses defender until end of turn.
+
+    {U}{U}{U}{U}: Put a +1/+1 counter on ~. It can attack this turn as if it
+    didn't have defender.
   flavorText: null
   chopTop: ""
   chopBottom: ""

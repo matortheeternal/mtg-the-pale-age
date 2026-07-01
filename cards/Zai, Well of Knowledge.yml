@@ -17,35 +17,37 @@ front:
   artImage:
     __type: image
     imageUrl: /project/cards/Zai%2C%20Well%20of%20Knowledge.jpg
-    width: 1071
-    height: 1071
-    cropWidth: 1071
-    cropHeight: 875
+    width: 1006
+    height: 1258
+    cropWidth: 1006
+    cropHeight: 710
     xOffset: 0
-    yOffset: 102
+    yOffset: 4
   superType: Legendary Creature
-  subType: Avatar
+  subType: Sphinx
   flagLeft: ""
   flagRight: ""
-  power: "4"
+  power: "*"
   toughness: "7"
   showPT: true
   rarity: mythic
   illustrator: Nico Delort
-  autoCollectorNumber: "0247"
+  autoCollectorNumber: "0354"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |-
-    ~ costs {1} less to cast for each noncreature card you own in exile.
+    Ward—Exile four cards from your graveyard.
 
-    Ward—Discard a noncreature card.
+    Flying
 
     Whenever you cast or copy a noncreature spell, draw a card.
+
+    @'s power is equal to the number of cards you own in exile.
   flavorText: null
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

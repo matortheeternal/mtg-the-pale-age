@@ -9,7 +9,7 @@ front:
   name: Spell Knot
   manaCost:
     __type: ManaCost
-    symbols: XU
+    symbols: X1U
   artImage:
     __type: image
     imageUrl: /project/cards/Spell%20Knot.jpg
@@ -28,14 +28,16 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0093"
+  autoCollectorNumber: "0096"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    This spell costs {1} less to cast for each card you own in exile.
+  rulesText: >-
+    Each artifact you tap while casting this spell pays for {1} or one mana of
+    that artifact's color.
+
 
     Counter target spell unless its controller pays {X}.
   flavorText: '"Whatever magic you have brought here, it is not nearly enough."'

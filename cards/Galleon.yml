@@ -23,12 +23,12 @@ front:
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "4"
   toughness: "3"
   showPT: true
   rarity: common
   illustrator: Hue Teo
-  autoCollectorNumber: "0076"
+  autoCollectorNumber: "0078"
   collectorNumber: ""
   setCode: ""
   language: ""
