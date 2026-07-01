@@ -34,7 +34,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Garis Edelweiss
-  autoCollectorNumber: "0338"
+  autoCollectorNumber: "0314"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,14 +43,15 @@ front:
   preText: null
   postText: Flying, lifelink
   rulesText: >-
-    I - Scry 8.
+    I - Scry 6.
 
 
     II - Reveal the top card of your library. If it is a planeswalker card, you
     may put it onto the battlefield.
 
 
-    III - Put two +1/+1 counters on each colored creature you control.
+    III - Put two +1/+1 counters on each creature you control that is one or
+    more colors.
 
 
     IV - You get an emblem with "You may spend mana as though it were mana of

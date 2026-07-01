@@ -12,13 +12,13 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
+    imageUrl: /project/cards/Prickly%20Pack%20Dino.jpg
     width: 1000
     height: 614
-    cropWidth: 802
-    cropHeight: 566
-    xOffset: 73
-    yOffset: 48
+    cropWidth: 811
+    cropHeight: 572
+    xOffset: 68
+    yOffset: 42
   superType: Creature
   subType: Dinosaur Mount
   flagLeft: ""

@@ -9,7 +9,7 @@ front:
   name: Frenzied Giant
   manaCost:
     __type: ManaCost
-    symbols: 4R
+    symbols: 3R
   artImage:
     __type: image
     imageUrl: /project/cards/Frenzied%20Giant.jpg
@@ -24,11 +24,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "2"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: Petar Meseldzija
-  autoCollectorNumber: "0170"
+  autoCollectorNumber: "0176"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,10 +42,10 @@ front:
     its mana cost if an opponent lost life this turn.)
 
 
-    Haste
+    Menace
 
 
-    {R}{R}: Another target creature gains haste until end of turn.
+    {R}{R}{R}: Another target creature gains menace until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

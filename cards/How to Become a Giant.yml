@@ -26,18 +26,23 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: "0181"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   preText: ""
+  postText: ""
   rulesText: |-
     I - Discard a card or sacrifice a nonland permanent.
     II - ~ deals 4 damage to any target.
-    III - Create a 4/4 colorless Giant creature token. It gains haste.
+    III - Create a 4/4 colorless Giant creature token.
   flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
   artSize: normal
   crownStyle: auto
   nyxStyle: auto
@@ -46,10 +51,6 @@ front:
   ubStyle: auto
   hybridStyle: []
   hybridBlendStyle: grey
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
 notes: ""
 tags: []
 baseName: How to Become a Giant
