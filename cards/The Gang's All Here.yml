@@ -13,16 +13,16 @@ front:
   name: The Gang's All Here
   manaCost:
     __type: ManaCost
-    symbols: 3RW
+    symbols: 4RW
   artImage:
     __type: image
-    imageUrl: /project/cards/Full%20Throttle.jpg
+    imageUrl: /project/cards/The%20Gang's%20All%20Here.jpg
     width: 720
     height: 900
     cropWidth: 720
-    cropHeight: 634
+    cropHeight: 535
     xOffset: 0
-    yOffset: 80
+    yOffset: 79
   superType: Instant
   subType: ""
   flagLeft: ""
@@ -38,8 +38,9 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Creatures and vehicles you control get +1/+0 and gain lifelink until
-    end of turn. Untap them.
+  rulesText: Vehicles you control become crewed and mounts you control become
+    saddled. Creatures you control get +1/+0 and gain lifelink until end of
+    turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

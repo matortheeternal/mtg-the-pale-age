@@ -1,44 +1,44 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
-    - char: g
-      name: green
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
-  name: Squeeze
+  name: Disgrace
   manaCost:
     __type: ManaCost
-    symbols: 1RG
+    symbols: 3WB
   artImage:
     __type: image
-    imageUrl: /project/cards/Titanic%20Reach.jpg
+    imageUrl: /project/cards/Stagnate.jpg
     width: 800
-    height: 1034
-    cropWidth: 731
-    cropHeight: 516
-    xOffset: 34
-    yOffset: 128
-  superType: Instant
+    height: 800
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 103
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: Wizard Cleave
-  autoCollectorNumber: "0334"
+  rarity: common
+  illustrator: Sam Wolfe Connelly
+  autoCollectorNumber: "0276"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Target creature gets +4/+4 and gains trample until end of turn.
+  rulesText: Exile target creature. You gain life equal to its mana value.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -61,4 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Squeeze
+baseName: Disgrace
+oldBaseName: Pillory
