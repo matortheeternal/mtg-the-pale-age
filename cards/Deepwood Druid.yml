@@ -15,10 +15,10 @@ front:
     imageUrl: /project/cards/Deepwood%20Druid.jpg
     width: 686
     height: 1129
-    cropWidth: 591
-    cropHeight: 740
-    xOffset: 47
-    yOffset: 389
+    cropWidth: 686
+    cropHeight: 484
+    xOffset: 0
+    yOffset: 336
   superType: Creature
   subType: Human Druid
   flagLeft: ""
@@ -28,24 +28,20 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Veli Nyström
-  autoCollectorNumber: "0221"
+  autoCollectorNumber: "0220"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    {T}: Add {G}. If this mana is spent to cast a creature spell, it enters with
-    an additional +1/+1 counter on it.
+  rulesText: "{T}: Add {G}. If this mana is spent to cast a creature spell, it
+    enters with an additional +1/+1 counter on it."
   flavorText: He has lived in the forest for longer than most can remember.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: devoid
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

@@ -1,55 +1,53 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
-      sources:
-        normal: true
     - char: r
       name: red
       sources:
         normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
-  name: Color Eruption
+  name: Terrible Strength
   manaCost:
     __type: ManaCost
-    symbols: 2UR
+    symbols: 1RG
   artImage:
     __type: image
-    imageUrl: /project/cards/Color%20Eruption.jpg
-    width: 1920
-    height: 1527
-    cropWidth: 1675
-    cropHeight: 1182
-    xOffset: 122
-    yOffset: 160
+    imageUrl: /project/cards/Titanic%20Reach.jpg
+    width: 800
+    height: 1034
+    cropWidth: 726
+    cropHeight: 907
+    xOffset: 37
+    yOffset: 67
   superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
-  showPT: false
-  rarity: common
-  illustrator: A. Shipwright
-  autoCollectorNumber: "0254"
+  showPT: ""
+  rarity: uncommon
+  illustrator: Wizard Cleave
+  autoCollectorNumber: "0334"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Affinity for Ichors (This spell costs {1} less to cast for each Ichor you
-    control.)
+  rulesText: |-
+    Devoid (This card has no color.)
 
-
-    ~ deals 4 damage to any target. Create a pigment token.
-  flavorText: ""
-  chopTop: "3"
-  chopBottom: "2"
+    Target creature gets +4/+4 and gains trample until end of turn.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -66,4 +64,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Color Eruption
+baseName: Terrible Strength
+oldBaseName: Squeeze
