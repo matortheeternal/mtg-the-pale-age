@@ -32,13 +32,13 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Wizard Cleave
-  autoCollectorNumber: "0332"
+  autoCollectorNumber: "0334"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Target blocked creature gets +5/+5 and gains trample until end of turn.
+  rulesText: Target creature gets +4/+4 and gains trample until end of turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

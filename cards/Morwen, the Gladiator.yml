@@ -35,10 +35,11 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Spectacle {R}{R}{R} (You may cast this spell for its spectacle cost if an
+    Spectacle {1}{R}{R} (You may cast this spell for its spectacle cost if an
     opponent lost life this turn.)
 
 
+    First strike
 
 
     Activated abilities of Equipment you control that target @ cost {X} less to

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mathias Osland
-  autoCollectorNumber: "0240"
+  autoCollectorNumber: "0242"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Devoid (This card has no color.)
 
     Swarm - Whenever one or more tokens you control enter, add {G}.
-  flavorText: null
+  flavorText: Despite her illness, she can still teach the newly born to care for the land
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

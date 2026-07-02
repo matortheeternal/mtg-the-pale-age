@@ -23,7 +23,7 @@ front:
     cropHeight: 1016
     xOffset: 0
     yOffset: 44
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Nate Hill
-  autoCollectorNumber: "0322"
+  autoCollectorNumber: "0324"
   collectorNumber: ""
   setCode: ""
   language: ""

@@ -16,9 +16,9 @@ front:
     width: 736
     height: 974
     cropWidth: 736
-    cropHeight: 519
+    cropHeight: 921
     xOffset: 0
-    yOffset: 54
+    yOffset: 40
   superType: Creature
   subType: Human Warlock
   flagLeft: ""
@@ -28,20 +28,23 @@ front:
   showPT: true
   rarity: common
   illustrator: Tp-h
-  autoCollectorNumber: "0091"
+  autoCollectorNumber: "0094"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, return target creature to its owner's hand.
-  flavorText: '"The tides are mine to command. Should I find you unwelcome, I will
-    have them take you far away."'
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    When ~ leaves the battlefield, return target creature to its owner's hand.
+  flavorText: '"The sea is mine to command. Should I find you unwelcome, I may
+    have it take you away."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-  frame: auto
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto

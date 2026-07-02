@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0151"
+  autoCollectorNumber: "0153"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,12 +38,11 @@ front:
     When ~ enters, destroy target creature.
 
 
-    Equipped creature gets +4/+0. Whenever equipped creature attacks, its
-    controller may pay life equal to its power. If they don't, they sacrifice
-    that creature at the end of combat.
+    Equipped creature gets +4/+0 and has "At the beginning of your end step, pay
+    life equal to this creature's power or sacrifice it."
 
 
-    {1}{B}, Pay 2 life: Attach ~ to target creature.
+    {1}{B}, Pay 2 life: Attach ~ to target creature. Activate only as a sorcery.
   flavorText: null
   chopTop: ""
   chopBottom: ""
