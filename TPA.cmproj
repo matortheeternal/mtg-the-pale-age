@@ -5,12 +5,8 @@ illustrator: ""
 legalText: ""
 setCode: TPA
 language: EN
-collectorNumberFormat:
-  id: four
-  name: "0001"
-rarityOrder:
-  id: before
-  name: Before Collector Number
+collectorNumberFormat: cardCodes
+rarityOrder: after
 symbol: >+
   <svg class="set-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100
   100">

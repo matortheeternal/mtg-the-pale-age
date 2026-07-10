@@ -23,12 +23,12 @@ front:
   subType: Human Rogue
   flagLeft: ""
   flagRight: ""
-  power: "0"
-  toughness: "1"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0128"
+  autoCollectorNumber: CB03
   collectorNumber: ""
   setCode: ""
   language: ""
