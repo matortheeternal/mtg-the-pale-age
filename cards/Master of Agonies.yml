@@ -28,25 +28,22 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0130"
+  autoCollectorNumber: "0128"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >+
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    {1}, {T}, Sacrifice a creature: Each player loses 3 life.
+    {1}, {T}, Discard a card: Each player loses 3 life.
 
 
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - discard-outlet
 baseName: Master of Agonies

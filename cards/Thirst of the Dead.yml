@@ -6,7 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Return from Darkness
+  name: Thirst of the Dead
   manaCost:
     __type: ManaCost
     symbols: 4B
@@ -28,24 +28,21 @@ front:
   showPT: ""
   rarity: common
   illustrator: denungeherrholm
-  autoCollectorNumber: "0134"
+  autoCollectorNumber: "0150"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Return target creature card from your graveyard to the battlefield with two
-    +1/+1 counters on it.
+    Return target creature card from your graveyard to the battlefield with a
+    lifelink counter on it.
 
 
     Cycling {B} ({B}, Discard this card: Draw a card.)
-  flavorText: "From the darkness it emerged: stronger, and a whole lot angrier
-    than before."
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: '"When I awoke my mouth was so dry, you understand why I needed to
+    drink, right?"'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
-baseName: Return from Darkness
+tags:
+  - recursion-creature
+  - recursion
+  - gives-lifelink
+  - keyword-counter
+baseName: Thirst of the Dead
+imageExports:
+  front: Thirst of the Dead.jpg

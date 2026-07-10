@@ -9,7 +9,7 @@ front:
   name: Torment
   manaCost:
     __type: ManaCost
-    symbols: 1B
+    symbols: B
   artImage:
     __type: image
     imageUrl: /project/cards/Torment.jpg
@@ -28,20 +28,15 @@ front:
   showPT: ""
   rarity: common
   illustrator: Stephen Wilson
-  autoCollectorNumber: "0135"
+  autoCollectorNumber: "0151"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Target creature gets -2/-2 until end of turn. If its controller lost
-    life this turn, that creature gets an additional -X/-X until end of turn,
-    where X is the amount of life lost.
+  faceSymbol: null
+  rulesText: You gain life equal to the amount of life target opponent lost this turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +52,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Torment

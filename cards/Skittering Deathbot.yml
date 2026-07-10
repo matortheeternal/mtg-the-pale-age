@@ -34,16 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Deathtouch
 
-    When ~ is sacrificed, each player loses 2 life.
+    When ~ is sacrificed, target player loses 2 life.
   flavorText: It shivered and shook with each step, the rot sprouting and dancing
-    along its legs. Is this weakness is just an act?
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    along its legs.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +56,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Skittering Deathbot
