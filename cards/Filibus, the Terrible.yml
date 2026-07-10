@@ -34,18 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    As long as you control a creature, whenever a player casts a spell, counter
-    that spell unless that player puts a +1/+1 counter on a creature you
-    control.
+    Whenever @ enters, gain control of target artifact for as long as you
+    control @.
 
 
-    Whenever a counter is put on a creature you control, gain 1 life.
+    {1}, Sacrifice an artifact: Put a +1/+1 counter on @ and gain 1 life.
   flavorText: Filibus was rather fond of trinkets.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +57,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Filibus, the Terrible
+imageExports:
+  front: Filibus, the Terrible.jpg

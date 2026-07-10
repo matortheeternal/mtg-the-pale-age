@@ -34,13 +34,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{R}, {T}: ~ deals 1 damage to each opponent."
-  flavorText: They say her home burned to the ground. They also say that she was
-    the one that started the fire.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  faceSymbol: null
+  rulesText: "{R}, {T}: ~ deals 1 damage to target player. If mana from an Ichor
+    was spent to activate this ability, it deals 2 damage instead."
+  flavorText: She danced in the streets as the fire burned her hometown to the ground.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - burn
@@ -63,3 +64,5 @@ tags:
   - activated-ability
   - pinger
 baseName: Mistress of Flames
+imageExports:
+  front: Mistress of Flames.jpg
