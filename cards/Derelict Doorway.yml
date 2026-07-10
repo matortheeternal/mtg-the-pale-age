@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Nicholus Stathopoulos
-  autoCollectorNumber: "0353"
+  autoCollectorNumber: "0274"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {B} or {W}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: Expeditions into the doorway rarely returned without some losses,
+    but the rewards were consistent and profitable, so they continued.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

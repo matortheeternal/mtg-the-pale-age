@@ -32,20 +32,19 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Dmitri Burnou
-  autoCollectorNumber: "0276"
+  autoCollectorNumber: "0278"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
+  rulesText: |
     Enchant player
 
-
-    Whenever a creature enchanted player controls dies, they lose 1 life and you
-    gain 2 life.
-  flavorText: Divine or demonic, it's all the same. I want nothing to do with 'em.
-    You hear me!?
+    Whenever enchanted player loses life, you gain 1 life.
+  flavorText: |-
+    "Divine or demonic, it's all the same. I want nothing to do with 'em!"
+    —Karth
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

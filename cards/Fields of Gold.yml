@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0022"
+  autoCollectorNumber: "0024"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
 baseName: Fields of Gold

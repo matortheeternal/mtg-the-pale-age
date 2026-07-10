@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: pilyeon
-  autoCollectorNumber: "0033"
+  autoCollectorNumber: "0035"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
     Target creature you control gets +2/+2 and gains indestructible and lifelink
     until end of turn.
-  flavorText: null
+  flavorText: '"Go forth knowing your enemies shall not cut you down."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

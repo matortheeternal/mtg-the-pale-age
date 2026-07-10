@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sandra Delgado
-  autoCollectorNumber: "0224"
+  autoCollectorNumber: "0223"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
 
 
     When you sacrifice ~, gain 2 life.
-  flavorText: null
+  flavorText: '"Have you heard of the sow the size of three men? They say she gave
+    birth to forty swine in a single night!"'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

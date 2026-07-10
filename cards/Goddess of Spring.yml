@@ -71,5 +71,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - token-multiplier
+  - go-wide-matters
 baseName: Goddess of Spring

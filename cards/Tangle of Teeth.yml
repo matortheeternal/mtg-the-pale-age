@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jonathan Lamantia
-  autoCollectorNumber: "0253"
+  autoCollectorNumber: "0251"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,7 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - gives-pp-counters
+  - activated-ability
 baseName: Tangle of Teeth
 imageExports:
   front: Jungle Tiger.jpg

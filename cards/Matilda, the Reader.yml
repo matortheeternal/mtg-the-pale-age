@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: tp-h
-  autoCollectorNumber: "0031"
+  autoCollectorNumber: "0034"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.” Exile
     a noncreature card from your graveyard. You may play it on a later turn. If
     it would be put into a graveyard, exile it instead.)
-  flavorText: Matilda rarely left her room, but trouble found her anyway.
+  flavorText: Matilda rarely chose human company over the comfort of old tomes.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

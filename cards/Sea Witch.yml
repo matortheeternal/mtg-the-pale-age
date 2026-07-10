@@ -60,5 +60,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - bounce
+  - triggered-ability
+  - removal-bounce
+  - removal-creature
 baseName: Sea Witch

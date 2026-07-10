@@ -28,28 +28,29 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0006"
+  autoCollectorNumber: "0007"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  rulesText: >
     Devoid (This card has no color.)
 
 
     Flying
 
 
-    Untap all creatures you control during each other player’s untap step.
+    {1}{W}, Tap an untapped creature you control: Create a 1/1 white Human
+    creature token.
 
 
-    {1}{W}, Tap an untapped creature you control: Copy target activated or
-    triggered ability you control.
+    Whenever a creature becomes tapped, put a time counter on ~. Then, if ~ has
+    20 or more time counters on it, you win the game.
   flavorText: null
   chopTop: ""
   chopBottom: ""
-  maxFontSize: ""
+  maxFontSize: "15"
   centerText: never
   frame: devoid
   artSize: auto

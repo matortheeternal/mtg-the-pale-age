@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0018"
+  autoCollectorNumber: "0020"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,10 +37,9 @@ front:
   rulesText: |-
     Devoid (This card has no color.)
 
-    When ~ leaves the battlefield, each player mills 2 cards.
+    When ~ leaves the battlefield, mill 2 cards.
   flavorText: '"The dune priests are a fearsome lot. My friend got in a scuffle
-    with one awhile back, and they broke both his arms, so I would keep your
-    distance."'
+    with one awhile back. They broke both his arms."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,5 +60,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mill
+  - mill-self
 baseName: Dune Priest

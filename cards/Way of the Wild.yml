@@ -32,15 +32,19 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Sophie Whittall
-  autoCollectorNumber: "0263"
+  autoCollectorNumber: "0351"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: Swarm - Whenever one or more tokens you control enter, you may draw a card.
-  flavorText: null
-  chopTop: ""
+  flavorText: >-
+    "When mother nature draws close, my mind opens to all the wonder of the
+    world."
+
+    —Ea, Forgotten Queen
+  chopTop: "1"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

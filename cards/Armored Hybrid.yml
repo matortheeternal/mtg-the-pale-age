@@ -47,7 +47,8 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: Stuck to a rock like a clam, it waits patiently to steal a means of
+    locomotion.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

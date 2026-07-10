@@ -61,5 +61,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - discount-self
+  - improvise
+  - cheaper-than-mv
+  - tap-outlet
+  - tap-fuel-artifact
+  - synergy-artifact
+  - counterspell
+  - counterspell-soft
 baseName: Spell Knot

@@ -126,7 +126,7 @@ cards:
   - Giant Vampire Bat
   - Dark Cruiser
   - Torment
-  - Gg'kah, The Calamity
+  - Gg'kah, the Calamity
   - Eater of Nights
   - Divine Duality
   - Pain Channeler
@@ -186,7 +186,7 @@ cards:
   - Solemn Act
   - Martial Execution
   - Attract Arrows
-  - The Major Arcana
+  - Absolute Judgment
   - Veteran Chauffeur
   - Cloud Skimmer
   - Quinn, Inexorable
@@ -194,7 +194,7 @@ cards:
   - Clarity
   - Depravity
   - Nurture
-  - Assassin's Skitterbot
+  - Wild Skitterbot
   - Hungry Spinosaurus
   - Masked Troll
   - Enormous Swine
@@ -228,7 +228,7 @@ cards:
   - Wave of Bodies
   - Swamp
   - Vengeful Execution
-  - The Very Hungry Horror
+  - Very Hungry Horror
   - Kaeda
   - Spined Altisaur
   - Matilda, the Reader
@@ -273,7 +273,7 @@ cards:
   - Assemble the Gang
   - Sabotage Their Systems
   - Pristine Prism
-  - Greatbow Platoon
+  - Ghost Company
   - Magical Lasso
   - Embrace the Void
   - Ember Invocation
@@ -380,7 +380,7 @@ cards:
   - Morwen, the Gladiator
   - Mr. Cosmos
   - Bloodstained Axe
-  - Unholy Blade
+  - Cursed Blade
   - Sudden Germination
   - Death to Dream
   - Karmic Debt
@@ -446,6 +446,7 @@ cards:
   - Mystic Revelation
   - Rogue Wave
   - Disgrace
+  - Abyss Dweller-2
 skeleton:
   White:
     mythic: []

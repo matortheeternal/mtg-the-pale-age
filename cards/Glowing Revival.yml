@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Zuha
-  autoCollectorNumber: "0022"
+  autoCollectorNumber: "0028"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   rulesText: Return target creature card with mana value 4 or less from your
     graveyard to the battlefield tapped.
-  flavorText: Lam, lam, lalalam lam la.
+  flavorText: '"Lam, lam, lalalam lam lam, lam, lam, lalala."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -57,5 +57,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - recursion
+  - recursion-creature
 baseName: Glowing Revival

@@ -1,0 +1,52 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: u
+      name: blue
+      sources:
+        override: true
+  colorOverride:
+    - u
+  name: Abyss Dweller
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Abyss%20Dweller.jpg
+    width: 3298
+    height: 4096
+    cropWidth: 3298
+    cropHeight: 2327
+    xOffset: 0
+    yOffset: 1769
+  superType: Token Creature
+  subType: Fish Horror
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: Abelardo
+  autoCollectorNumber: "0056"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: At the beginning of each end step, if a creature died this turn,
+    create an ichor token.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Abyss Dweller-2
+oldBaseName: Abyss Dweller

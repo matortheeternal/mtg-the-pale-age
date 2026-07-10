@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Isac Galvão
-  autoCollectorNumber: "0076"
+  autoCollectorNumber: "0087"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,7 +64,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - gains-pp-counters
+  - mana-sink
+  - bottomless-mana-sink
+  - gives-pp-counters
+  - move-counters
 baseName: Mechanical Piranha
 imageExports:
   front: Fish Construct.jpg

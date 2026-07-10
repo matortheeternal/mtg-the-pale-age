@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nathan Reidt
-  autoCollectorNumber: "0215"
+  autoCollectorNumber: "0214"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,8 @@ front:
 
     {2}, Remove a counter from ~: Put a counter of that kind on each other
     creature you control.
-  flavorText: null
+  flavorText: "\"Don't worry, its organs hanging out like that is actually
+    completely normal.\""
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

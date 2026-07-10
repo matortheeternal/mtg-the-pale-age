@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0076"
+  autoCollectorNumber: "0075"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,7 +64,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cantrip
+  - draw
+  - keyword-counter
 baseName: Float
 imageExports:
   front: Float.jpg

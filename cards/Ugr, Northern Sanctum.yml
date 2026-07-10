@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Manuel Javier Noreña Castaño
-  autoCollectorNumber: "0329"
+  autoCollectorNumber: "0365"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,9 +36,10 @@ front:
     Whenever you cast a colorless spell, put a journey counter on @.
 
     {1}, {T}, Remove a journey counter from @: Exile target creature. Return it
-    to the battlefield at the beginning of the next end step.
-  flavorText: “The northern lands are quiet, cold, peaceful. While there I almost
-    forgot that the world had ended.”
+    to the battlefield under its owner's control at the beginning of the next
+    end step.
+  flavorText: '"The northern lands are quiet, cold, peaceful. While there I almost
+    forgot that the world had ended."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

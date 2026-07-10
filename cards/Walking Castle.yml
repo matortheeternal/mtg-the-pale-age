@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Longquechen
-  autoCollectorNumber: "0345"
+  autoCollectorNumber: "0366"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - animate-self
+  - creatureland
+  - indefinte-effect
+  - activated-ability
+  - utility-land
 baseName: Walking Castle

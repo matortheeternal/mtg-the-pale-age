@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0117"
+  autoCollectorNumber: "0118"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,8 +43,8 @@ front:
 
     Whenever you lose life, each player mills cards equal to the amount of life
     you lost.
-  flavorText: Every second spent in its presence your mind will fray apart like a
-    whisper in the dark.
+  flavorText: Every second spent in its presence your mind will fray apart 'til it
+    is naught but  a whisper in the dark.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

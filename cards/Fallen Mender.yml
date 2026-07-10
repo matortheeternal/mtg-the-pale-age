@@ -32,17 +32,18 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0286"
+  autoCollectorNumber: "0287"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Lifelink, undying (When this creature dies, if it had no +1/+1
-    counters on it, return it to the battlefield under its owner’s control with
-    a +1/+1 counter on it.)
-  flavorText: The healers of the empire were cursed. Cursed so their magic could
-    only heal themselves. Cursed to watch their people die.
+  rulesText: >
+    Lifelink, undying (When this creature dies, if it had no +1/+1 counters on
+    it, return it to the battlefield under its owner’s control with a +1/+1
+    counter on it.)
+  flavorText: The healers of the empire were cursed so their magic could only heal
+    themselves. Cursed to watch their people die.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

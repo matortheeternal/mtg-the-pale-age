@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0252"
+  autoCollectorNumber: "0271"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: "{U}{R}: ~ gets +1/+1 until end of turn. If mana from an Ichor was
     spent to activate this ability, it gets +2/+2 until end of turn instead."
   flavorText: >-
-    After supplying the subject with 10 gallons of Ichor, it has reached a new
+    After supplying the subject with 10 gallons of ichor, it has reached a new
     record size. Now it could eat an entire city in a single bite.
 
     —Experiment log, day 23
@@ -65,5 +65,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-sink
+  - activated-ability
+  - combat-trick
+  - shade-pump
+  - bottomless-mana-sink
+  - synergy-ichor
+  - mana-spent-matters
 baseName: Brine Muncher

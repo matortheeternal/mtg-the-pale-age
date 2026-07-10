@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0307"
+  autoCollectorNumber: "0308"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,5 +69,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - chaper-than-mv
+  - life-loss-matters
+  - french-vanilla
 baseName: Marrow Colossus

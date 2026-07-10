@@ -28,21 +28,18 @@ front:
   showPT: true
   rarity: common
   illustrator: Dub Weir
-  autoCollectorNumber: "0115"
+  autoCollectorNumber: "0120"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Trample
 
     Whenever another creature dies, put a +1/+1 counter on ~.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: It can taste your fear, and it is very thirsty.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Gargantuan Feardrinker

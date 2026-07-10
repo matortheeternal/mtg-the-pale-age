@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: "0199"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-artifact
+  - activated-ability
 baseName: Scrabbling Ogre

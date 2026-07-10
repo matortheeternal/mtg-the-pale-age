@@ -26,13 +26,14 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Eric He
-  autoCollectorNumber: "0054"
+  autoCollectorNumber: "0052"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   preText: null
+  postText: ""
   rulesText: >-
     I - Mill four cards.
 

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Ekaterine Ejibia
-  autoCollectorNumber: "0307"
+  autoCollectorNumber: "0311"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,7 +70,21 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - keyword-counter
+  - flying-counter
+  - curious-counter
+  - gains-flying
+  - gains-curious
+  - draw
+  - triggered-ability
+  - attack-trigger
+  - repeatable-pp-counters
+  - counters-matter
+  - gives-flying
+  - gives-curious
+  - gives-pp-counters
 baseName: Naia, River Queen
 imageExports:
   front: Naia, River Queen.jpg

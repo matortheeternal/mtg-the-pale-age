@@ -28,14 +28,14 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: "0144"
+  autoCollectorNumber: "0145"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Target player creates a 1/1 colorless Spirit creature token with "At the
+    Each player creates a 1/1 colorless Spirit creature token with "At the
     beginning of your end step, sacrifice this token and lose 2 life."
 
 

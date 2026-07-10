@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Hue Teo
-  autoCollectorNumber: "0078"
+  autoCollectorNumber: "0077"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
     Crew 2 (Tap any number of creatures you control with total power 2 or more:
     This Vehicle becomes an artifact creature until end of turn.)
-  flavorText: null
+  flavorText: Disaster caused a notable upturn in the occupation of piracy.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,5 +61,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - mana-sink
+  - bottomless-mana-sink
+  - draw
+  - discard-outlet
+  - loot
+  - repeatable-loot
+  - repeatable-draw
 baseName: Galleon

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0087"
+  autoCollectorNumber: "0086"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - evasion
+  - unblockable
+  - draw-engine
+  - repeatable-draw
+  - opaline-effect
+  - hate-target
+  - toll
 baseName: Masao, Illustrious Sailor

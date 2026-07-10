@@ -28,11 +28,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "*"
+  toughness: 1+*
   showPT: true
   rarity: uncommon
   illustrator: James Todd
-  autoCollectorNumber: "0278"
+  autoCollectorNumber: "0279"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,7 +42,7 @@ front:
     Flying, lifelink
 
 
-    ~'s toughness is equal to the number cards you own in exile.
+    ~'s toughness is equal to the number cards you own in exile plus 1.
 
 
     {1}{W/U}, {T}: Archive a noncreature card. (Exile a noncreature card from

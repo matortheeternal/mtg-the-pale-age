@@ -41,7 +41,7 @@ front:
 
     Exile X target cards from graveyards. Put X +1/+1 counters on target
     permanent.
-  flavorText: null
+  flavorText: ""
   chopTop: "2"
   chopBottom: ""
   maxFontSize: ""

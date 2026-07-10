@@ -28,15 +28,16 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0166"
+  autoCollectorNumber: "0172"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Whenever you cast a colorless spell or create one or more tokens, ~
-    deals 1 damage to any target.
-  flavorText: null
+  rulesText: Whenever you cast a colorless spell or sacrifice a noncreature
+    permanent, ~ deals 1 damage to any target.
+  flavorText: "After the apocalypse, the dragons took to burning the land as a way
+    to vent their frustration. "
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

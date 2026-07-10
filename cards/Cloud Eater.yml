@@ -41,8 +41,8 @@ front:
     Whenever ~ enters or attacks, exile up to one target enchantment, then
     create a 1/1 colorless Spirit creature token with "At the beginning of your
     end step, sacrifice this token and lose 2 life."
-  flavorText: null
-  chopTop: ""
+  flavorText: There is not a cloud in the sky, for they have eaten them all.
+  chopTop: "1"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tareque Powaday
-  autoCollectorNumber: "0035"
+  autoCollectorNumber: "0037"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
     {5}, {T}: Draw a card. This ability costs {1} less to activate for each card
     you own in exile.
-  flavorText: '"Anyone can find salvation if they search within themselves."'
+  flavorText: '"With persistence, anyone can find salvation."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

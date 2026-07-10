@@ -34,15 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Put target nonland permanent into its owner's library second from the top.
 
     Cycling {U} ({U}, Discard this card: Draw a card.)
-  flavorText: Your water magic has improved substantially. Color me impressed.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: '"Your water magic has improved substantially. Color me impressed."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,8 +55,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-nonland
+  - cycling
+  - draw
 baseName: Waterspout
 imageExports:
   front: Waterspout.jpg

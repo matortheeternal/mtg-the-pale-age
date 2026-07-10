@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: "0090"
+  autoCollectorNumber: "0088"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-pp-counters
+  - remove-counters
+  - draw
+  - repeatable-draw
+  - activated-ability
 baseName: Merfolk Tidetuner

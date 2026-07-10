@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod Van Dyke
-  autoCollectorNumber: "0045"
+  autoCollectorNumber: "0046"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Devoid (This card has no color.)
 
     {2}, {T}: Tap or untap target creature.
-  flavorText: null
+  flavorText: "He had learned the hardest lesson in war: when to wait."
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

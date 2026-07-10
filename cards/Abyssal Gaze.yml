@@ -23,7 +23,7 @@ front:
     cropHeight: 764
     xOffset: 64
     yOffset: 340
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tatiana Tsiguleva
-  autoCollectorNumber: "0252"
+  autoCollectorNumber: "0264"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -42,10 +42,10 @@ front:
     Devoid (This card has no color.)
 
 
-    Target player reveals their hand. Suppress 2. (To suppress 2, look at the
-    top two cards of target player's library and choose one. Put that card on
-    top of their library and the rest into their graveyard.)
-  flavorText: null
+    Target creature gets -5/-0 until end of turn. Suppress 2. (To suppress 2,
+    look at the top two cards of target player's library and choose one. Put
+    that card on top of their library and the rest into their graveyard.)
+  flavorText: It does not blink.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

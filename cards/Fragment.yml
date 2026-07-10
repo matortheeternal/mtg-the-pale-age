@@ -9,7 +9,7 @@ front:
   name: Fragment
   manaCost:
     __type: ManaCost
-    symbols: 1UU
+    symbols: UU
   artImage:
     __type: image
     imageUrl: /project/cards/Shatter%20Magic.jpg
@@ -28,16 +28,17 @@ front:
   showPT: ""
   rarity: common
   illustrator: Eric He
-  autoCollectorNumber: "0090"
+  autoCollectorNumber: "0076"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Counter target creature spell. Its controller mills cards equal to
-    that spell's mana value.
-  flavorText: null
-  chopTop: ""
+  rulesText: Counter target creature spell. Each player mills cards equal to that
+    spell's mana value.
+  flavorText: '"Imperfect information can cause even the brilliant to make
+    devastating mistakes."'
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
@@ -57,5 +58,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - counterspell
+  - mill
+  - mill-each
 baseName: Fragment

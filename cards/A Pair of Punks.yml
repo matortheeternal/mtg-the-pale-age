@@ -37,7 +37,7 @@ front:
   rulesText: >
     Create two 1/1 colorless Pilot creature tokens with “This token crews
     Vehicles as though its power were 2 greater.”
-  flavorText: ""
+  flavorText: You can't judge a book by the cover.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -57,7 +57,6 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: "- want players to intentionally choose cards that create board stalls
-  rather than stall being incidental to the cards they want"
+notes: ""
 tags: []
 baseName: A Pair of Punks

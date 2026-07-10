@@ -43,8 +43,8 @@ front:
     enters with two +1/+1 counters on it.)
 
 
-    {T}, Remove a +1/+1 counter from ~: Add X mana in any combination of colors,
-    where X is ~' power.
+    {T}, Remove a +1/+1 counter from ~: Add X mana in any combination of {G}
+    and/or {R}, where X is ~' power.
   flavorText: null
   chopTop: ""
   chopBottom: ""

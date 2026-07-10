@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Dan Hillier
-  autoCollectorNumber: "0237"
+  autoCollectorNumber: "0258"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,6 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - ramp
 baseName: Verdant Gift

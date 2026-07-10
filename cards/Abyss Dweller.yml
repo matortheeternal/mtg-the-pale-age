@@ -20,10 +20,10 @@ front:
     xOffset: 0
     yOffset: 1769
   superType: Creature
-  subType: Horror
+  subType: Fish Horror
   flagLeft: ""
   flagRight: ""
-  power: "4"
+  power: "3"
   toughness: "4"
   showPT: true
   rarity: uncommon
@@ -39,7 +39,8 @@ front:
     ichor token.
 
 
-    {6}, Exile a card from your graveyard: Create a token copy of ~.
+    {6}, Exile a card from your graveyard: Create a token copy of ~, except it
+    loses this ability.
   flavorText: What lives in the depths evades any attempt at understanding.
   chopTop: ""
   chopBottom: ""
@@ -61,5 +62,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - restricted-mana
+  - mana-rock
+  - mana-sink
+  - copy
+  - copy-self
+  - activated-ability
+  - graveyard-fuel
+  - morbid
+  - repeatable-token-generator
 baseName: Abyss Dweller

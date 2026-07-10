@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Chris Odgers
-  autoCollectorNumber: "0074"
+  autoCollectorNumber: "0080"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: Anabelle cowered behind the tree as the giant spectral fish swam
+    amongst the branches above.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

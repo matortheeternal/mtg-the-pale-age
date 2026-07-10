@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Milan Vasek
-  autoCollectorNumber: "0303"
+  autoCollectorNumber: "0332"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {W} or {R}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: The city had built up as it had built outwards, with docking bays
+    for airships interspersed among houses and merchants.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
