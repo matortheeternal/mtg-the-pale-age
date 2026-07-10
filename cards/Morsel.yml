@@ -19,13 +19,13 @@ front:
   showPT: false
   rarity: common
   illustrator: pawlovearts
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: "0019"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When this token leaves the battlefield, gain 1 life.
+  rulesText: When this token is sacrificed, gain 1 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

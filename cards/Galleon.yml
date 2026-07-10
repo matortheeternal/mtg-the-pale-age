@@ -9,7 +9,7 @@ front:
   name: Galleon
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 2U
   artImage:
     __type: image
     imageUrl: /project/cards/Galleon.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {1}{U}{U}{U}: Draw a card, then discard a card.
 
@@ -41,10 +42,6 @@ front:
     Crew 2 (Tap any number of creatures you control with total power 2 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: Disaster caused a notable upturn in the occupation of piracy.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - activated-ability

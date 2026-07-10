@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Valentina Bianconi
-  autoCollectorNumber: "0274"
+  autoCollectorNumber: "0292"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,7 +64,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - discard-outlet
+  - draw
+  - lifegain
+  - mill
+  - mill-self
 baseName: Go with the Flow
 imageExports:
   front: Go with the Flow.jpg

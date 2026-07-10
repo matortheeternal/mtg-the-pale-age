@@ -71,6 +71,8 @@
 - text: exile-matters
   variant: primary
   scope: project
+- text: firebreathing
+  variant: neutral
 - text: flying-counter
   variant: primary
 - text: french-vanilla
@@ -79,6 +81,8 @@
   variant: primary
 - text: gains-flying
   variant: primary
+- text: gains-haste
+  variant: neutral
 - text: gains-pp-counters
   variant: success
 - text: gains-trample

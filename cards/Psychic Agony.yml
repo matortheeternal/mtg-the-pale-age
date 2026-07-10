@@ -28,23 +28,21 @@ front:
   showPT: ""
   rarity: common
   illustrator: Marcus Gabriel Fors
-  autoCollectorNumber: "0121"
+  autoCollectorNumber: "0134"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Target player reveals their hand. You choose a nonland card from it. That
-    player discards that card. Then, each player loses 2 life.
+    Suppress 4. (To suppress 4, look at the top four cards of target player's
+    library and choose one. Put that card on top of their library and the rest
+    into their graveyard.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Psychic Agony

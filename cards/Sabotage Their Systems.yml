@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tōru Fujisawa
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: "0198"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal-artifact
+  - removal
+  - draw
+  - cantrip
 baseName: Sabotage Their Systems

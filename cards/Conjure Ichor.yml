@@ -63,5 +63,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - discard-outlet
+  - rummage
+  - restricted-mana
 baseName: Conjure Ichor
