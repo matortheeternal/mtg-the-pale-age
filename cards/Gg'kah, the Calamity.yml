@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Gg'kah, the Calamity
+  manaCost:
+    __type: ManaCost
+    symbols: 3BBR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Gg'kah%2C%20The%20Calamity.jpg
+    width: 674
+    height: 1035
+    cropWidth: 674
+    cropHeight: 940
+    xOffset: 0
+    yOffset: 95
+  superType: Legendary Creature
+  subType: Wurm Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "6"
+  showPT: true
+  rarity: mythic
+  illustrator: Sui Ishida
+  autoCollectorNumber: "0291"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: |
+    Devoid (This card has no color.)
+
+    Spectacle {1}{B}{B}{R}
+
+    Trample
+
+    Whenever a creature an opponent controls dies, put a +1/+1 counter on @.
+
+    {1}{B}{R}: @ deals 1 damage to each creature and each player.
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Gg'kah, the Calamity
+oldBaseName: Gg'kah, The Calamity

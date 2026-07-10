@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0243"
+  autoCollectorNumber: "0242"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-pp-counters
+  - synergy-sacrifice
+  - synergy-sacrifice-self
 baseName: Old Man Mushroom

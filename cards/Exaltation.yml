@@ -9,7 +9,7 @@ front:
   name: Exaltation
   manaCost:
     __type: ManaCost
-    symbols: 2WWW
+    symbols: 3WW
   artImage:
     __type: image
     imageUrl: /project/cards/Mythic%20Bomb%20Spell.jpg
@@ -19,7 +19,7 @@ front:
     cropHeight: 617
     xOffset: 49
     yOffset: 123
-  superType: Sorcery
+  superType: Enchantment
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Gustave Dore
-  autoCollectorNumber: "0033"
+  autoCollectorNumber: "0022"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,9 +38,11 @@ front:
     Devoid (This card has no color.)
 
 
-    Exile all permanents you control. Gain life equal to the number of
-    permanents exiled this way. At the beginning of the next end step, return
-    those cards to the battlefield under their owners’ control.
+    When ~ enters, gain 5 life.
+
+
+    Whenever you gain life, distribute that many +1/+1 counters among creatures
+    you control. This ability triggers only once each turn.
   flavorText: null
   chopTop: ""
   chopBottom: ""

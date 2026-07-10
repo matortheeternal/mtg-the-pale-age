@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0097"
+  autoCollectorNumber: "0099"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-sink
+  - bounce
+  - bounce-self
+  - recursion
+  - gives-castable-from-exile
 baseName: Teleporting Inventor

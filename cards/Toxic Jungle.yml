@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Harry Clarke
-  autoCollectorNumber: "0314"
+  autoCollectorNumber: "0341"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {B} or {G}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: '"If you touch it, your body will rot. If you smell it, your mind
+    will go mad."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

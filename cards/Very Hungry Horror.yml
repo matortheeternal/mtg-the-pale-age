@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Very Hungry Horror
+  manaCost:
+    __type: ManaCost
+    symbols: 3B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/REPLACE%20ART%20The%20Very%20Hungry%20Horror.jpg
+    width: 900
+    height: 1238
+    cropWidth: 900
+    cropHeight: 1126
+    xOffset: 0
+    yOffset: 112
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Abelardo
+  autoCollectorNumber: "0152"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Flash
+
+
+    Consume (As this enters, you may sacrifice any number of creatures and
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Very Hungry Horror
+oldBaseName: The Very Hungry Horror

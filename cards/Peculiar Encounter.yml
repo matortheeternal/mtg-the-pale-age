@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Christian Williams
-  autoCollectorNumber: "0232"
+  autoCollectorNumber: "0243"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-artifact
+  - removal-enchantment
+  - gives-pp-counters
 baseName: Peculiar Encounter

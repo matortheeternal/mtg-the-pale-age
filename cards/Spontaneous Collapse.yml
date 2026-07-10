@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Corran Brownlee
-  autoCollectorNumber: "0331"
+  autoCollectorNumber: "0334"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
   rulesText: Discard your hand, then draw that many cards. ~ deals X damage to
     each creature without flying, where X is the number of land cards in your
     graveyard.
-  flavorText: null
+  flavorText: The ground fractured and shook, falling into the dark and empty space below.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

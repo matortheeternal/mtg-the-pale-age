@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0280"
+  autoCollectorNumber: "0305"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {U} or {B}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: The looming towers of the slums hum from various signals and
+    machines, polluting the minds and bodies of the unfortunates below.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

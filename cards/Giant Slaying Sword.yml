@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A Shiipwright
-  autoCollectorNumber: "0023"
+  autoCollectorNumber: "0025"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
     Equipped creature gets +4/+4 and has reach.
 
     Equip {4}
-  flavorText: null
+  flavorText: A big sword for solving big problems.
   chopTop: "5"
   chopBottom: "5"
   maxFontSize: ""

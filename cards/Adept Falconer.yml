@@ -57,7 +57,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
+  - mill
+  - mill-self
 baseName: Adept Falconer
 imageExports:
   front: Adept Falconer.jpg

@@ -9,7 +9,7 @@ front:
   name: Behold with Awe
   manaCost:
     __type: ManaCost
-    symbols: 2G
+    symbols: G
   artImage:
     __type: image
     imageUrl: /project/cards/Behold%20with%20Awe.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0214"
+  autoCollectorNumber: "0212"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
     block until your next turn.
 
 
-    Scry X, where X is half the revealed creature's power rounded down.
+    Scry 4.
   flavorText: null
   chopTop: ""
   chopBottom: ""

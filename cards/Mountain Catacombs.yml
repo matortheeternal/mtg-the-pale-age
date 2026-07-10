@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Russ Nicholson
-  autoCollectorNumber: "0284"
+  autoCollectorNumber: "0309"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,10 +40,11 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {R} or {B}.
-    {3}, {T}: Scry 1.
-  flavorText: null
-  chopTop: ""
+  flavorText: What was once the land of the dwarves has become a raucous den of
+    corpses, some of which still move.
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

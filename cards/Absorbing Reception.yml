@@ -9,7 +9,7 @@ front:
   name: Absorbing Reception
   manaCost:
     __type: ManaCost
-    symbols: 3RRR
+    symbols: 4RRR
   artImage:
     __type: image
     imageUrl: /project/cards/Absorbing%20Reception.jpg
@@ -28,25 +28,27 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Hernán Conde De Boeck
-  autoCollectorNumber: "0160"
+  autoCollectorNumber: "0159"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Spectacle {2}{R}{R} (You may cast this spell for its spectacle cost if an
+    Spectacle {4}{R}{R} (You may cast this spell for its spectacle cost if an
     opponent lost life this turn.)
 
 
-    Exile target noncreature spell. Target creature you control gets +X/+0 until
-    end of turn, where X is the amount of mana spent to cast the exiled spell.
-    You may cast the exiled spell for as long as it remains exiled, and you may
-    spend mana as though it were mana of any color to cast that spell.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
+    Gain control of two target creatures until end of turn. Untap them. They
+    gain haste until end of turn.
+  flavorText: >-
+    "And now by my most glorious decree, we shall have a waltz between a girl
+    and a thing with no legs to waltz on."
+
+    —The Queen of Kindness
+  chopTop: "1"
+  chopBottom: "-4"
+  maxFontSize: "14"
   centerText: never
   frame: auto
   artSize: auto

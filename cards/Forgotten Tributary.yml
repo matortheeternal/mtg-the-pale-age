@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Manuel Javier Norena Castano
-  autoCollectorNumber: "0267"
+  autoCollectorNumber: "0290"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {W} or {U}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: The waters were clear but stagnant. The fishermen had given up,
+    leaving a lone gondolier as its final resident.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

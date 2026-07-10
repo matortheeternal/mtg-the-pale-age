@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Dave Wachter
-  autoCollectorNumber: "0062"
+  autoCollectorNumber: "0060"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: Sit upon its back, and wonder.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

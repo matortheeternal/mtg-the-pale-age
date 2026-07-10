@@ -68,7 +68,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
 baseName: The Mothership
 imageExports:
   front: The Mothership.jpg

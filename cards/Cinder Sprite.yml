@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Wren Farren
-  autoCollectorNumber: "0148"
+  autoCollectorNumber: "0170"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - burn
+  - burn-player
+  - potentially-free
+  - chaper-than-mv
 baseName: Cinder Sprite

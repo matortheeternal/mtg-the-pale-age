@@ -39,7 +39,8 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: null
+  flavorText: After the apocalypse, machines went crazy. Most were destroyed, but
+    some proved too dangerous to approach.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

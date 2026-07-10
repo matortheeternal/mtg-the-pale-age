@@ -41,8 +41,8 @@ front:
   rulesText: Vehicles you control become crewed and mounts you control become
     saddled. Creatures you control get +1/+0 and gain lifelink until end of
     turn.
-  flavorText: null
-  chopTop: ""
+  flavorText: Boom! Bang! Crash! All o' them be comin', in a flash.
+  chopTop: "1"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

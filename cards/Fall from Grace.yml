@@ -28,15 +28,15 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: "0022"
+  autoCollectorNumber: "0023"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    Destroy target planeswalker or target tapped creature. You gain 2 life.
-  flavorText: null
+  rulesText: Destroy target tapped creature or target planeswalker. If it was
+    legendary, you gain 3 life.
+  flavorText: Even legends may fall victim to hubris.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -56,7 +56,6 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: 'old: "If it was legendary, archive. (Exile an instant or sorcery card
-  from your graveyard. You may cast it on a later turn.)"'
+notes: ""
 tags: []
 baseName: Fall from Grace

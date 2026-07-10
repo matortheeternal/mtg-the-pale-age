@@ -23,7 +23,7 @@ front:
   subType: Human Pilot
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "3"
   showPT: true
   rarity: uncommon
@@ -35,8 +35,8 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: >-
-    Sacrifice ~: Artifacts and creatures you control gain indestructible until
-    end of turn.
+    Sacrifice ~: Target artifact or creature you control gains indestructible
+    until end of turn.
 
 
     This creature saddles Mounts and crews Vehicles as though its power were 2

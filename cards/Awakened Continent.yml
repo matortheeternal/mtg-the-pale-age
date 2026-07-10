@@ -13,7 +13,7 @@ front:
   name: Awakened Continent
   manaCost:
     __type: ManaCost
-    symbols: 10GGRR
+    symbols: 8GGRR
   artImage:
     __type: image
     imageUrl: /project/cards/Awakened%20Continent.jpg
@@ -32,17 +32,20 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0087"
+  autoCollectorNumber: "0268"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   rulesText: |
+    Each land you sacrifice while casting this spell pays for {1}.
+
     Trample
+
     Indestructible
-    Each land you sacrifice when casting ~ reduces its cost by {1}.
-  flavorText: null
+  flavorText: The continent of Cormaea rejected Omnus' magic so entirely, it
+    literally got up and walked away.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -40,7 +40,7 @@ front:
     Whenever a player casts a spell, they mill three cards.
 
     Cards you cast from your graveyard or from exile cost {2} less to cast.
-  flavorText: null
+  flavorText: '"Welcome to my mind palace. Do try not to mind the weather."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

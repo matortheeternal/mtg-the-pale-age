@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Rogue Skitterbot
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Assassin's%20Skitterbot.jpg
+    width: 1700
+    height: 1265
+    cropWidth: 1700
+    cropHeight: 1200
+    xOffset: 0
+    yOffset: 64
+  superType: Artifact Creature
+  subType: Insect
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Eldar Zakirov
+  autoCollectorNumber: "0213"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >
+    ~ enters with a deathtouch counter on it.
+
+    Transfuse (Whenever another creature enters, you may move a counter from
+    this creature onto it.)
+  flavorText: After the apocalypse, machines went crazy. Most were destroyed, but
+    some proved too dangerous to approach.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Rogue Skitterbot
+oldBaseName: Assassin's Skitterbot

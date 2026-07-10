@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: "0114"
+  autoCollectorNumber: "0115"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,10 +36,6 @@ front:
   showFooterOverrides: false
   rulesText: >-
     Devoid (This card has no color.)
-
-
-    Spectacle {B} (You may cast this spell for its spectacle cost if an opponent
-    lost life this turn.)
 
 
     Return target creature with mana value 5 or less from your graveyard to the

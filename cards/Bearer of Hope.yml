@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: "0009"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,8 +40,7 @@ front:
     Flying
 
     Swarm - Whenever one or more tokens you control enter, you gain 2 life.
-  flavorText: “A youthful angel, bearing a massive blade of flame, came to me in
-    the night.”
+  flavorText: “A youthful angel, bearing a massive blade aflame, came to me in the night.”
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

@@ -17,8 +17,8 @@ front:
     height: 2000
     cropWidth: 1630
     cropHeight: 1150
-    xOffset: 257
-    yOffset: 48
+    xOffset: 250
+    yOffset: 38
   superType: Instant
   subType: ""
   flagLeft: ""
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0167"
+  autoCollectorNumber: "0173"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
     Whenever one or more creatures die this turn, ~ deals 4 damage to each
     creature.
-  flavorText: null
+  flavorText: Bombs beget bombs.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

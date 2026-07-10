@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: "0011"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
     First strike, vigilance, lifelink
 
     When ~ enters, target creature gains hexproof until end of turn.
-  flavorText: null
+  flavorText: It takes special training and a holy demeanor to wield an acursed blade.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

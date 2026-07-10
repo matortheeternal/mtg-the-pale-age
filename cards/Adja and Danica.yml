@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Jan Wessbecher
-  autoCollectorNumber: "0264"
+  autoCollectorNumber: "0265"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,7 +44,8 @@ front:
 
     {T}: Target vehicle becomes crewed, gets +1/+1, and gains haste until end of
     turn.
-  flavorText: null
+  flavorText: A dynamite duo from the sticks. One can ride anything that moves and
+    the other can supercharge any machine.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

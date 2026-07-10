@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Gustave Carlier
-  autoCollectorNumber: "0245"
+  autoCollectorNumber: "0262"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {G} or {U}.
-    {3}, {T}: Scry 1.
-  flavorText: null
+  flavorText: '"Where water flows, you will find me. Listen for my voice in the
+    call of the sparrow and the buzz of the dragonfly."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

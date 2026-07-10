@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: elysieee
-  autoCollectorNumber: "0022"
+  autoCollectorNumber: "0026"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
+  - virtual-vanilla
+  - enters-in-company
+  - triggered-ability
+  - evasion
 baseName: Giant Artificer

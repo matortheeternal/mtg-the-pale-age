@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Pia Hansen
-  autoCollectorNumber: "0253"
+  autoCollectorNumber: "0272"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,10 +40,11 @@ front:
   showFooterOverrides: false
   rulesText: |-
     ~ enters tapped.
+    {T}: Add {C}.
     {T}, Pay 1 life: Add {U} or {R}.
-    {3}, {T}: Scry 1.
-  flavorText: null
-  chopTop: ""
+  flavorText: The springs have become a renowned source of ichor, though accessing
+    them requires braving extreme temperatures.
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

@@ -67,5 +67,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - non-mana-ward
+  - exile-matters
+  - draw
+  - triggered-ability
 baseName: Zai, Well of Knowledge

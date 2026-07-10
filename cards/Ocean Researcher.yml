@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: James Carter Beard
-  autoCollectorNumber: "0092"
+  autoCollectorNumber: "0091"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - becomes-curious
+  - keyword-counter
+  - activated-ability
 baseName: Ocean Researcher

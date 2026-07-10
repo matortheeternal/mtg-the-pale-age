@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0168"
+  autoCollectorNumber: "0171"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
     abilities.")
 
 
-    Flashback {2}{R}{R} (You may cast this card from your graveyard for its
+    Flashback {1}{R}{R} (You may cast this card from your graveyard for its
     flashback cost. Then exile it.)
   flavorText: null
   chopTop: ""

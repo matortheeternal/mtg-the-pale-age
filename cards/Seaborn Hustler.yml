@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Roberto Ricci
-  autoCollectorNumber: "0095"
+  autoCollectorNumber: "0096"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,7 +41,7 @@ front:
     Whenever ~ deals combat damage to a player, mill a card and create an Ichor
     token. (It is an artifact with "{T}: Add one mana of any color. Spend this
     mana only to activate abilities.")
-  flavorText: null
+  flavorText: '"Arr, ye be giving me all yer precious belongings now, me hearty."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

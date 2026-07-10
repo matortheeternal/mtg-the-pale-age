@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Isaac Ornelas Gama
-  autoCollectorNumber: "0196"
+  autoCollectorNumber: "0208"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,9 +40,7 @@ front:
 
 
     Choose target creature an opponent controls. Each other creature that player
-    controls deals damage to it equal to their power. Create an Ichor token.
-    (It's an artifact with "{T}: Add one mana of any color. Spend this mana only
-    on abilities.")
+    controls deals damage to it equal to their power.
   flavorText: null
   chopTop: "2"
   chopBottom: ""

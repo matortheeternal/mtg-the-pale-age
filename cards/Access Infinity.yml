@@ -9,7 +9,7 @@ front:
   name: Access Infinity
   manaCost:
     __type: ManaCost
-    symbols: 6UUU
+    symbols: 4UU
   artImage:
     __type: image
     imageUrl: /project/cards/Access%20Infinity.jpg
@@ -28,19 +28,22 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0059"
+  autoCollectorNumber: "0057"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
+  rulesText: |-
     You have no maximum hand size.
-    {1}: Draw a card. Activate only as a sorcery.
-  flavorText: null
+
+    {U}: Draw a card.
+  flavorText: |-
+    "All the knowledge in the universe lay before me. I needed only time."
+    —Reginald Mollusk, research notes
   chopTop: ""
   chopBottom: ""
-  maxFontSize: ""
+  maxFontSize: "18.5"
   centerText: never
   frame: auto
   artSize: auto

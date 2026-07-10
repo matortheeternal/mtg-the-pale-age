@@ -65,7 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - activated-ability
+  - mana-sink
 baseName: The Ruler
 imageExports:
   front: The Ruler.jpg

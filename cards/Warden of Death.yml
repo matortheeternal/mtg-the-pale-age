@@ -13,7 +13,7 @@ front:
   name: Warden of Death
   manaCost:
     __type: ManaCost
-    symbols: 2BW
+    symbols: 1BW
   artImage:
     __type: image
     imageUrl: /project/cards/Warden%20of%20Death.jpg
@@ -27,12 +27,12 @@ front:
   subType: Zombie Angel
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "3"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: dustbot
-  autoCollectorNumber: "0300"
+  autoCollectorNumber: "0352"
   collectorNumber: ""
   setCode: ""
   language: ""

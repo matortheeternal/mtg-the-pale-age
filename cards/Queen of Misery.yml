@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: "0112"
+  autoCollectorNumber: "0136"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,7 @@ front:
 
 
     When ~ dies, each player mills cards equal to its toughness.
-  flavorText: null
+  flavorText: Her life was one surrounded by death, but now that mercy is denied her.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

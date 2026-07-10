@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Longquechen
-  autoCollectorNumber: "0185"
+  autoCollectorNumber: "0180"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - sacrifice-outlet
+  - sacrifice-outlet-land
+  - burn
+  - burn-any
+  - repeatable-removal
+  - removal
+  - removal-creature
 baseName: Heavy Crawler

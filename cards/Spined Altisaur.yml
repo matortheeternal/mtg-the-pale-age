@@ -40,7 +40,11 @@ front:
     ~ has first strike while blocking.
 
     Whenever you cast a spell from exile, ~ gets +2/+0 until end of turn.
-  flavorText: null
+  flavorText: >-
+    "Resonance with spell activation frequencies causes its spines to bristle
+    and sharpen. Fascinating."
+
+    —Field researcher
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

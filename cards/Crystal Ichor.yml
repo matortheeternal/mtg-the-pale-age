@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Izabela Arsovska Braukmann
-  autoCollectorNumber: "0068"
+  autoCollectorNumber: "0069"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,7 +40,8 @@ front:
     {T}: Add {U}{U}. Spend this mana only to activate abilities.
 
     {X}{X}{U}, {T}, Sacrifice ~: Draw X cards.
-  flavorText: null
+  flavorText: Hidden within its facets are equations and formulas key to the
+    flourish and fall of society.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

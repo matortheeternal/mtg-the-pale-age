@@ -13,7 +13,7 @@ front:
   name: Disgrace
   manaCost:
     __type: ManaCost
-    symbols: 3WB
+    symbols: 2WB
   artImage:
     __type: image
     imageUrl: /project/cards/Stagnate.jpg
@@ -39,7 +39,7 @@ front:
   legalText: ""
   showFooterOverrides: false
   rulesText: Exile target creature. You gain life equal to its mana value.
-  flavorText: null
+  flavorText: Left in the pillory in the autumn night, naught but shame for warmth.
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

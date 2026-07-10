@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Mikael Lav
-  autoCollectorNumber: "0247"
+  autoCollectorNumber: "0245"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - gives-pp-counters
+  - gains-trample
+  - gives-trample
+  - keyword-counter
+  - creaturefall
+  - move-counters
+  - triggered-ability
+  - repeatable-pp-counters
 baseName: Prickly Pack Dino

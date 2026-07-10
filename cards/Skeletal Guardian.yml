@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: George Brad
-  autoCollectorNumber: "0030"
+  autoCollectorNumber: "0043"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Defender
 
     Whenever ~ enters, create a 1/1 white Human creature token.
-  flavorText: This skeletal guardian has presided over the city for centuries,
-    offering peace and prosperity to all who enter.
+  flavorText: It has presided over the city for centuries, offering peace and
+    prosperity to all who enter.
   chopTop: "3"
   chopBottom: ""
   maxFontSize: ""

@@ -23,12 +23,12 @@ front:
   subType: Giant Archer
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "4"
+  power: "3"
+  toughness: "5"
   showPT: true
   rarity: common
   illustrator: M. Grant Kellermeyer
-  autoCollectorNumber: "0027"
+  autoCollectorNumber: "0028"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Reach
 
 
-    {1}{W}, {T}: ~ deals X damage to target attacking or blocking creature,
-    where X is the number of creatures you control.
+    {1}{W}, {T}: ~ deals X damage to target blocking creature, where X is the
+    number of creatures you control.
   flavorText: ""
   chopTop: ""
   chopBottom: ""

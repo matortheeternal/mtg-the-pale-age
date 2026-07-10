@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Cursed Blade
+  manaCost:
+    __type: ManaCost
+    symbols: 3BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Unholy%20Blade.jpg
+    width: 1920
+    height: 1206
+    cropWidth: 1319
+    cropHeight: 931
+    xOffset: 300
+    yOffset: 134
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: A. Shipwright
+  autoCollectorNumber: "0113"
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: >-
+    When ~ enters, destroy target creature.
+
+
+    Equipped creature gets +4/+0 and has "At the beginning of your end step,
+    sacrifice this creature unless you pay 2 life."
+
+
+    Equip {2}
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+notes: ""
+tags: []
+baseName: Cursed Blade
+oldBaseName: Unholy Blade

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Bogdan Rezunenko
-  autoCollectorNumber: "0191"
+  autoCollectorNumber: "0204"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,8 +38,8 @@ front:
     Menace
 
 
-    When ~ becomes tapped for the first time each turn you may discard a card.
-    If you do, untap it and draw a card.
+    Whenever ~ becomes tapped you may discard a card. If you do, untap it and
+    draw a card. This ability triggers only once each turn.
   flavorText: One head will threaten you while the other cries and apologizes,
     begging for you to be its one and only friend.
   chopTop: ""
@@ -62,5 +62,6 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - rummage
 baseName: Traveler's Bane

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: "0212"
+  autoCollectorNumber: "0211"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,5 +66,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
+  - temporary-token
+  - gives-haste
+  - delayed-trigger
 baseName: Aggressive Multiplication

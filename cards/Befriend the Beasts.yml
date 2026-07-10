@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lindsey Martin Gardner
-  autoCollectorNumber: "0317"
+  autoCollectorNumber: "0269"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -40,8 +40,10 @@ front:
   showFooterOverrides: false
   rulesText: >
     Create a 1/1 white Human creature token. Put a +1/+1 counter on each
-    creature you control. 
-  flavorText: null
+    creature you control.
+  flavorText: |-
+    "To ride a turtle's back and be free; what greater joy could there be?"
+    —Hildi
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""

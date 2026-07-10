@@ -63,7 +63,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-land
 baseName: Mountain Crusher
 imageExports:
   front: Mountain Crusher.jpg

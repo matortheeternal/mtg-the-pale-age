@@ -28,15 +28,13 @@ front:
   showPT: true
   rarity: common
   illustrator: Tom Cuzor
-  autoCollectorNumber: "0177"
+  autoCollectorNumber: "0187"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{R}, {T}: ~ deals 1 damage to each opponent. If mana from an Ichor
-    was spent to activate this ability, it deals 2 damage to each opponent
-    instead."
+  rulesText: "{R}, {T}: ~ deals 1 damage to each opponent."
   flavorText: They say her home burned to the ground. They also say that she was
     the one that started the fire.
   chopTop: ""
@@ -59,5 +57,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - burn
+  - burn-player
+  - activated-ability
+  - pinger
 baseName: Mistress of Flames

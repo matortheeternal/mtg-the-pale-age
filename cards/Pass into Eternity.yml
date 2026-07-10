@@ -28,25 +28,21 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0133"
+  autoCollectorNumber: "0134"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Vanishing 3 (This enchantment enters with three time counters on it. At the
-    beginning of your upkeep, remove a time counter from it. When the last is
-    removed, sacrifice it.)
-
-
+  rulesText: >
     If ~ is in your opening hand, you may begin the game with it on the
     battlefield.
 
 
-    Whenever a time counter is removed from ~, each player mills 8 cards, then
-    draws a card.
-  flavorText: null
+    If a player would lose life, they mill that many cards instead.
+  flavorText: |-
+    “Empty your mind and embrace the dark.”
+    —Priest of Endings
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -69,3 +65,4 @@ front:
 notes: ""
 tags: []
 baseName: Pass into Eternity
+oldBaseName: Leyline of Eternity

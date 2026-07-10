@@ -13,7 +13,7 @@ front:
   name: Kikuki, Infinite Torment
   manaCost:
     __type: ManaCost
-    symbols: 6BG
+    symbols: 5BG
   artImage:
     __type: image
     imageUrl: /project/cards/Kikuki%2C%20Infinite%20Torment.jpg
@@ -27,28 +27,30 @@ front:
   subType: Insect
   flagLeft: ""
   flagRight: ""
-  power: "8"
-  toughness: "8"
+  power: "7"
+  toughness: "7"
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0299"
+  autoCollectorNumber: "0303"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >+
+  rulesText: >
     Devoid (This card has no color.)
 
 
-    Trample, deathtouch
+    Trample
 
 
-    At the end of your turn, sacrifice a nontoken creature and create X 1/1
-    black Insect creature tokens, where X is the sacrificed creature's power.
+    Other insects you control have deathtouch.
 
 
+    At the beginning of your end step, sacrifice a non-insect creature and
+    create X 1/1 black Insect creature tokens, where X is the sacrificed
+    creature's power.
   flavorText: null
   chopTop: ""
   chopBottom: ""

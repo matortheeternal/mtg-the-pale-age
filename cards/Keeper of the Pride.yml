@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rochaku
-  autoCollectorNumber: "0298"
+  autoCollectorNumber: "0301"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,9 +44,9 @@ front:
 
     Swarm - Whenever one or more tokens you control enter, creatures you control
     get +1/+1 until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
+  flavorText: '"They are my family, as I am their keeper."'
+  chopTop: "2"
+  chopBottom: "10"
   maxFontSize: ""
   centerText: never
   frame: auto

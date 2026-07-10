@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Nico Delort
-  autoCollectorNumber: "0028"
+  autoCollectorNumber: "0030"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
     Vigilance
 
     Swarm - Whenever one or more tokens you control enter, scry 2.
-  flavorText: null
+  flavorText: '"To stand guard is to be ever watchful."'
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -58,6 +58,6 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: "jawnie: 3 mana 4/4 helps stabilize"
+notes: ""
 tags: []
 baseName: Homestead Guardian

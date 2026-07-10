@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0084"
+  autoCollectorNumber: "0081"
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,7 @@ front:
 
     When ~ enters, tap all creatures your opponents control.
 
-    Whenever ~ attacks, defending player mills cards equal to its power.
+    Whenever ~ attacks, each player mills cards equal to its power.
 
     Whenever ~ blocks, it gains indestructible until end of turn.
   flavorText: null
