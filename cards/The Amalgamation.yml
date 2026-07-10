@@ -24,7 +24,7 @@ front:
     xOffset: 151
     yOffset: 715
   superType: Legendary Creature
-  subType: Horror
+  subType: Mutant Horror
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -32,15 +32,16 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0335"
+  autoCollectorNumber: "0336"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    When ~ enters, put a +1/+1 counter on it for each counter on other
-    permanents.
+    When ~ enters, move any number of counters from any number of permanents
+    onto it.
 
 
     {G/U}{G/U}: Put a flying, curious, or trample counter on ~.
@@ -48,10 +49,6 @@ front:
 
     Sacrifice a creature: Regenerate ~.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -67,6 +64,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: The Amalgamation
