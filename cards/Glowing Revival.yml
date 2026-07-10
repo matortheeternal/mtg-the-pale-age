@@ -28,19 +28,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Zuha
-  autoCollectorNumber: "0028"
+  autoCollectorNumber: "27"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
-  showFooterOverrides: false
+  showFooterOverrides: true
+  faceSymbol: null
   rulesText: Return target creature card with mana value 4 or less from your
     graveyard to the battlefield tapped.
   flavorText: '"Lam, lam, lalalam lam lam, lam, lam, lalala."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - recursion

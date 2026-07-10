@@ -28,21 +28,18 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Rovina Cai
-  autoCollectorNumber: "0014"
+  autoCollectorNumber: "13"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Return target creature you control to its owner's hand.
 
     Destroy all artifacts and enchantments.
   flavorText: The gods have a peculiar, perhaps even perverse sense of justice.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - board-wipe
