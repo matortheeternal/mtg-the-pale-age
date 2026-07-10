@@ -13,7 +13,7 @@ front:
   name: Hounded by Death
   manaCost:
     __type: ManaCost
-    symbols: 1BR
+    symbols: BR
   artImage:
     __type: image
     imageUrl: /project/cards/Hounded%20by%20Death.jpg
@@ -42,7 +42,7 @@ front:
   rulesText: |-
     Enchant player
 
-    At the beginning each player’s upkeep, enchanted player loses 1 life.
+    At the beginning enchanted player’s upkeep, they lose 1 life.
   flavorText: null
   frame: auto
   artSize: auto

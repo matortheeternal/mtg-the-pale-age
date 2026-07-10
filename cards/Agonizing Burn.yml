@@ -32,27 +32,24 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: "0266"
+  autoCollectorNumber: "0265"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Devoid (This card has no color.)
 
 
-    Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than
-    its mana cost if an opponent lost life this turn.)
+    Spectacle {1}{B}{R} (You may cast this spell for its spectacle cost rather
+    than its mana cost if an opponent lost life this turn.)
 
 
-    ~ deals 3 damage to target player. Then, if that player's life total is 10
+    ~ deals 4 damage to target player. Then, if that player's life total is 10
     or less, they discard a card at random.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -68,6 +65,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Agonizing Burn
+imageExports:
+  front: Agonizing Burn.jpg
