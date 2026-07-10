@@ -19,7 +19,7 @@ front:
     cropHeight: 760
     xOffset: 0
     yOffset: 0
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -34,14 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Create a 1/1 coloress Pilot creature token with “This token crews
     Vehicles as though its power were 2 greater.” Creatures you control get
     +2/+0 until end of turn.
   flavorText: Horraaa! The bikers peeled across the desert, whooping and yelling.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +54,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Assemble the Gang
+imageExports:
+  front: Assemble the Gang.jpg

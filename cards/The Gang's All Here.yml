@@ -38,14 +38,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Vehicles you control become crewed and mounts you control become
     saddled. Creatures you control get +1/+0 and gain lifelink until end of
     turn.
-  flavorText: Boom! Bang! Crash! All o' them be comin', in a flash.
-  chopTop: "1"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Boom! Bang! Crash! The manic menagerie arrives, in a flash.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: The Gang's All Here
+imageExports:
+  front: The Gang's All Here.jpg

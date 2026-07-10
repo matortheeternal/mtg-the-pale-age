@@ -15,9 +15,9 @@ front:
     imageUrl: /project/cards/Absorbing%20Reception.jpg
     width: 1200
     height: 1697
-    cropWidth: 1200
+    cropWidth: 1146
     cropHeight: 954
-    xOffset: 0
+    xOffset: 25
     yOffset: 278
   superType: Instant
   subType: ""
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Spectacle {4}{R}{R} (You may cast this spell for its spectacle cost if an
     opponent lost life this turn.)
@@ -46,10 +47,6 @@ front:
     and a thing with no legs to waltz on."
 
     —The Queen of Kindness
-  chopTop: "1"
-  chopBottom: "-4"
-  maxFontSize: "14"
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,6 +62,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: "-4"
+  maxFontSize: "14"
+  centerText: never
 notes: ""
 tags: []
 baseName: Absorbing Reception
+imageExports:
+  front: Absorbing Reception.jpg
