@@ -28,21 +28,18 @@ front:
   showPT: true
   rarity: common
   illustrator: Nico Delort
-  autoCollectorNumber: "0030"
+  autoCollectorNumber: "0031"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Vigilance
 
-    Swarm - Whenever one or more tokens you control enter, scry 2.
+    Swarm - Whenever one or more tokens you control enter, scry 1.
   flavorText: '"To stand guard is to be ever watchful."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Homestead Guardian
+imageExports:
+  front: Homestead Guardian.jpg

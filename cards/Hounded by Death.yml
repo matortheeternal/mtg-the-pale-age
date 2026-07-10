@@ -32,21 +32,18 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Sebastian Cabrol
-  autoCollectorNumber: "0295"
+  autoCollectorNumber: "0296"
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Enchant player
 
-    At the beginning of your upkeep, enchanted player loses 2 life.
+    At the beginning each player’s upkeep, enchanted player loses 1 life.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,8 +59,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Hounded by Death
 imageExports:
-  front: Rabid Shadow.jpg
+  front: Hounded by Death.jpg
