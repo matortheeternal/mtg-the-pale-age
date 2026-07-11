@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Ryan Pola
-  autoCollectorNumber: "0343"
+  autoCollectorNumber: CL01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -53,5 +53,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - tutor
+  - tutor-land
+  - tutor-land-basic
+  - fetchland
+  - activated-ability
+  - tutor-land-to-battlefield
+  - freeze
+  - freeze-land
 baseName: Magic Greenhouse
+imageExports:
+  front: Magic Greenhouse - [HASH].jpg

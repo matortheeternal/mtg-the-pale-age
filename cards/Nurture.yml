@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: "0223"
+  autoCollectorNumber: CG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-pp-counters
+  - ramp
+  - land-ramp
 baseName: Nurture
+imageExports:
+  front: Nurture - [HASH].jpg

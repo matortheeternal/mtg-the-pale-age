@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: CG18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-targets
+  - gives-pp-counters
+  - removal-creature
+  - removal
+  - power-matters
 baseName: Devour the Weak
+imageExports:
+  front: Devour the Weak - [HASH].jpg

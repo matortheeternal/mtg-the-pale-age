@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: "0194"
+  autoCollectorNumber: CR03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,7 +62,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - burn
+  - burn-player
+  - burn-planeswalker
+  - hand-neutral
+  - triggered-ability
+  - synergy-sacrifice
 baseName: Orcish Investigator
 imageExports:
-  front: Orcish Investigator.jpg
+  front: Orcish Investigator - [HASH].jpg
