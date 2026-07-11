@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Megan Marie Gray
-  autoCollectorNumber: "0229"
+  autoCollectorNumber: CG08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - activated-ability
+  - mana-sink
+  - bottomless-mana-sink
+  - remove-counters
+  - ramp
+  - land-ramp
+  - repeatable-token-generator
 baseName: Mycoturtle
+imageExports:
+  front: Mycoturtle - [HASH].jpg

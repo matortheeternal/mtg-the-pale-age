@@ -29,9 +29,15 @@
 - text: cantrip
   variant: primary
   scope: project
+- text: castable-from-graveyard
+  variant: warning
 - text: chaper-than-mv
   variant: warning
 - text: cheaper-than-mv
+  variant: primary
+- text: cheat-death
+  variant: primary
+- text: cheat-death-self
   variant: primary
 - text: combat-trick
   variant: primary
@@ -53,16 +59,22 @@
   variant: primary
 - text: cycling
   variant: primary
+- text: death-trigger-self
+  variant: primary
 - text: delayed-trigger
   variant: primary
 - text: discard-outlet
   variant: primary
 - text: discount-self
   variant: primary
+- text: drain-life
+  variant: primary
 - text: draw
   variant: primary
   scope: project
 - text: draw-engine
+  variant: primary
+- text: enlarge
   variant: primary
 - text: enters-in-company
   variant: success
@@ -72,17 +84,21 @@
   variant: primary
   scope: project
 - text: firebreathing
-  variant: neutral
+  variant: primary
 - text: flying-counter
+  variant: primary
+- text: force-draw
   variant: primary
 - text: french-vanilla
   variant: primary
 - text: gains-curious
   variant: primary
+- text: gains-deathtouch
+  variant: primary
 - text: gains-flying
   variant: primary
 - text: gains-haste
-  variant: neutral
+  variant: warning
 - text: gains-pp-counters
   variant: success
 - text: gains-trample
@@ -90,6 +106,8 @@
 - text: gives-castable-from-exile
   variant: warning
 - text: gives-curious
+  variant: primary
+- text: gives-deathtouch
   variant: primary
 - text: gives-first-strike
   variant: primary
@@ -99,10 +117,14 @@
   variant: primary
 - text: gives-lifelink
   variant: primary
+- text: gives-menace
+  variant: primary
 - text: gives-pp-counters
   variant: success
   scope: project
 - text: gives-trample
+  variant: primary
+- text: gives-undying
   variant: primary
 - text: go-wide-matters
   variant: primary
@@ -110,6 +132,8 @@
 - text: graveyard-fuel
   variant: primary
 - text: hand-neutral
+  variant: primary
+- text: hate-flying
   variant: primary
 - text: hate-target
   variant: warning
@@ -122,12 +146,20 @@
   scope: project
 - text: land-ramp
   variant: success
+- text: life-for-cards
+  variant: primary
 - text: life-loss-matters
+  variant: primary
+- text: life-payment
   variant: primary
 - text: lifegain
   variant: primary
 - text: loot
   variant: primary
+- text: mana-dork
+  variant: success
+- text: mana-producer
+  variant: success
 - text: mana-rock
   variant: primary
 - text: mana-sink
@@ -143,6 +175,8 @@
 - text: mill-self
   variant: primary
   scope: project
+- text: modal
+  variant: primary
 - text: morbid
   variant: primary
 - text: move-counters
@@ -150,10 +184,16 @@
 - text: multiple-bodies
   variant: primary
   scope: project
+- text: multiple-targets
+  variant: primary
 - text: non-mana-ward
   variant: warning
   scope: project
 - text: opaline-effect
+  variant: primary
+- text: opponent-loses-life
+  variant: primary
+- text: peek-library
   variant: primary
 - text: pinger
   variant: danger
@@ -162,6 +202,8 @@
 - text: power-matters
   variant: primary
 - text: prevent-blocker
+  variant: primary
+- text: protects-creature
   variant: primary
 - text: ramp
   variant: primary
@@ -186,7 +228,13 @@
 - text: removal-enchantment
   variant: danger
   scope: project
+- text: removal-exile
+  variant: danger
+- text: removal-fight
+  variant: danger
 - text: removal-nonland
+  variant: danger
+- text: removal-planeswalker
   variant: danger
 - text: removal-sacrifice
   variant: danger
@@ -210,7 +258,11 @@
   variant: primary
 - text: sacrifice-outlet
   variant: primary
+- text: sacrifice-outlet-creature
+  variant: primary
 - text: sacrifice-outlet-land
+  variant: primary
+- text: sacrifice-outlet-token
   variant: primary
 - text: shade-pump
   variant: primary
@@ -219,6 +271,8 @@
   scope: project
 - text: sneak-land
   variant: primary
+- text: spot-removal
+  variant: danger
 - text: synergy-artifact
   variant: primary
 - text: synergy-ichor
@@ -226,6 +280,8 @@
 - text: synergy-sacrifice
   variant: primary
 - text: synergy-sacrifice-self
+  variant: primary
+- text: synergy-token
   variant: primary
 - text: tap-fuel-artifact
   variant: primary
@@ -240,8 +296,14 @@
 - text: token-multiplier
   variant: primary
   scope: project
+- text: tokenfall
+  variant: success
+- text: tokens-matter
+  variant: primary
 - text: toll
   variant: primary
+- text: top-deck-manipulation
+  variant: warning
 - text: triggered-ability
   variant: primary
   scope: project

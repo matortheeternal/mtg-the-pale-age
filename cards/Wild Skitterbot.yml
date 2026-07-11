@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0213"
+  autoCollectorNumber: CG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +61,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - keyword-counter
+  - gives-deathtouch
+  - move-counters
+  - bear-with-set-mechanic
+  - gains-deathtouch
 baseName: Wild Skitterbot
 oldBaseName: Rogue Skitterbot
+imageExports:
+  front: Wild Skitterbot - [HASH].jpg

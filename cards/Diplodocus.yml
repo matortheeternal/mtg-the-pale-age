@@ -28,25 +28,24 @@ front:
   showPT: true
   rarity: common
   illustrator: Natee
-  autoCollectorNumber: "0221"
+  autoCollectorNumber: CG09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >-
     Reach
 
-    Swarm - Whenever one or more tokens you control enter, you gain 3 life.
+
+    Swarm - Whenever one or more tokens you control enter, ~ gets +2/+2 until
+    end of turn.
   flavorText: >-
     "Diplodocus are slow, but sturdy. They're arguably the best  dinosaur to
     hide behind."
 
     —Hildi
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +61,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - tokenfall
+  - triggered-ability
+  - tokens-matter
 baseName: Diplodocus
+imageExports:
+  front: Diplodocus - [HASH].jpg

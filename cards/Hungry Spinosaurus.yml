@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Aram Papazyan
-  autoCollectorNumber: "0233"
+  autoCollectorNumber: CG10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - french-vanilla
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
+  - gains-pp-counters
 baseName: Hungry Spinosaurus
+imageExports:
+  front: Hungry Spinosaurus - [HASH].jpg

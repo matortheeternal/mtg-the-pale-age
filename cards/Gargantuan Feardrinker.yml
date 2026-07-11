@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Dub Weir
-  autoCollectorNumber: "0120"
+  autoCollectorNumber: CB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +38,7 @@ front:
   rulesText: |-
     Trample
 
-    Whenever another creature dies, put a +1/+1 counter on ~.
+    Whenever an opponent loses life, put a +1/+1 counter on ~.
   flavorText: It can taste your fear, and it is very thirsty.
   frame: auto
   artSize: auto
@@ -60,5 +60,11 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - life-loss-matters
+  - repeatable-pp-counters
+  - triggered-ability
 baseName: Gargantuan Feardrinker
+imageExports:
+  front: Gargantuan Feardrinker - [HASH].jpg

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Agustin M. Talaveron
-  autoCollectorNumber: "0130"
+  autoCollectorNumber: CB13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-menace
+  - gives-pp-counters
+  - keyword-counter
+  - enlarge
 baseName: Menacing Hunger
+imageExports:
+  front: Menacing Hunger - [HASH].jpg

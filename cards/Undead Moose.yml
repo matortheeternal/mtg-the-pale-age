@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Rob Sachetto
-  autoCollectorNumber: "0246"
+  autoCollectorNumber: CG06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cheat-death-self
+  - gains-pp-counters
+  - repeatable-token-generator
+  - triggered-ability
 baseName: Undead Moose
+imageExports:
+  front: Undead Moose - [HASH].jpg

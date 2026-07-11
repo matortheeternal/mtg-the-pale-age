@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Stephen Wilson
-  autoCollectorNumber: "0151"
+  autoCollectorNumber: CB11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,9 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - life-loss-matters
+  - lifegain
 baseName: Torment
+imageExports:
+  front: Torment - [HASH].jpg

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0184"
+  autoCollectorNumber: CG14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - enlarge
+  - gives-trample
+  - combat-trick
+  - modal
+  - removal-fight
+  - multiple-targets
+  - removal-creature
+  - removal
 baseName: Clash of the Strong
+imageExports:
+  front: Clash of the Strong - [HASH].jpg

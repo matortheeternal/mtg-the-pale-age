@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sara Baun
-  autoCollectorNumber: "0131"
+  autoCollectorNumber: CB05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-pp-counters
+  - gains-pp-counters
+  - triggered-ability
+  - death-trigger-self
+  - cheat-death-self
 baseName: Sacrificial Lamb
+imageExports:
+  front: Sacrificial Lamb - [HASH].jpg
