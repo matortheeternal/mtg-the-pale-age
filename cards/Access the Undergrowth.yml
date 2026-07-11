@@ -34,17 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Return target permanent card from your graveyard to your hand. If it
-    was a land card, you may put it onto the battlefield under your control.
+  faceSymbol: null
+  rulesText: Choose target permanent card in your graveyard. If its a land card,
+    put on the battlefield. If you don't put it on the battlefield, put it into
+    your hand.
   flavorText: >-
     "Come this way, but move with care. Though beautiful, the undergrowth hides
     many secrets—some of which were not meant for mortal eyes."
 
     —Van, Elder Druid
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,9 +58,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - recursion
+  - ramp
+  - land-ramp
 baseName: Access the Undergrowth
 imageExports:
   front: Access the Undergrowth - [HASH].jpg

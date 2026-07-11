@@ -1,6 +1,8 @@
 - text: activated-ability
   variant: primary
   scope: project
+- text: adds-multiple-mana
+  variant: neutral
 - text: animate-self
   variant: primary
 - text: attack-trigger
@@ -24,6 +26,8 @@
   variant: danger
 - text: burn-any
   variant: danger
+- text: burn-planeswalker
+  variant: neutral
 - text: burn-player
   variant: danger
 - text: cantrip
@@ -83,12 +87,18 @@
 - text: exile-matters
   variant: primary
   scope: project
+- text: fetchland
+  variant: neutral
 - text: firebreathing
   variant: primary
 - text: flying-counter
   variant: primary
 - text: force-draw
   variant: primary
+- text: freeze
+  variant: neutral
+- text: freeze-land
+  variant: neutral
 - text: french-vanilla
   variant: primary
 - text: gains-curious
@@ -117,11 +127,15 @@
   variant: primary
 - text: gives-lifelink
   variant: primary
+- text: gives-mana-ability
+  variant: neutral
 - text: gives-menace
   variant: primary
 - text: gives-pp-counters
   variant: success
   scope: project
+- text: gives-tap-ability
+  variant: neutral
 - text: gives-trample
   variant: primary
 - text: gives-undying
@@ -311,6 +325,12 @@
   variant: danger
 - text: tutor-artifact
   variant: danger
+- text: tutor-land
+  variant: neutral
+- text: tutor-land-basic
+  variant: neutral
+- text: tutor-land-to-battlefield
+  variant: neutral
 - text: type-change
   variant: primary
 - text: unblockable

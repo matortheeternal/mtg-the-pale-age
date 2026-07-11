@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Dan Hillier
-  autoCollectorNumber: "0258"
+  autoCollectorNumber: CG19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,11 @@ front:
 notes: ""
 tags:
   - ramp
+  - adds-multiple-mana
+  - gives-mana-ability
+  - mana-dork
+  - gives-tap-ability
+  - mana-producer
 baseName: Verdant Gift
+imageExports:
+  front: Verdant Gift - [HASH].jpg

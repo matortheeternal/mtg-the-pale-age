@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: "0226"
+  autoCollectorNumber: CG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - castable-from-graveyard
+  - gives-pp-counters
 baseName: Raptor Ambush
+imageExports:
+  front: Raptor Ambush - [HASH].jpg
