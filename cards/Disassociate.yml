@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Éric Lacombe
-  autoCollectorNumber: "0099"
+  autoCollectorNumber: CB18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - removal-planeswalker
+  - cheaper-than-mv
+  - removal-exile
+  - spot-removal
 baseName: Disassociate
+imageExports:
+  front: Disassociate - [HASH].jpg

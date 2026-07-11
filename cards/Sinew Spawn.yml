@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0136"
+  autoCollectorNumber: CB09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cheat-death-self
+  - gains-pp-counters
+  - life-loss-matters
+  - triggered-ability
+  - cheaper-than-mv
 baseName: Sinew Spawn
+imageExports:
+  front: Sinew Spawn - [HASH].jpg

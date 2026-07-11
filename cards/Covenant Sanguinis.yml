@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: confusosaurus
-  autoCollectorNumber: "0095"
+  autoCollectorNumber: CB17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,16 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - castable-from-graveyard
+  - cheaper-than-mv
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - draw
+  - life-for-cards
+  - force-draw
+  - opponent-loses-life
+  - life-payment
 baseName: Covenant Sanguinis
+imageExports:
+  front: Covenant Sanguinis - [HASH].jpg

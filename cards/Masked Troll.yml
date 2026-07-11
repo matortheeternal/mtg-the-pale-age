@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mathias Osland
-  autoCollectorNumber: "0209"
+  autoCollectorNumber: CG01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - triggered-ability
+  - repeatable-pp-counters
+  - tokenfall
+  - synergy-token
 baseName: Masked Troll
+imageExports:
+  front: Masked Troll - [HASH].jpg

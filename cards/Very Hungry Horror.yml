@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0152"
+  autoCollectorNumber: CB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +65,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - gains-pp-counters
+  - french-vanilla
+  - sacrifice-outlet-token
 baseName: Very Hungry Horror
 oldBaseName: The Very Hungry Horror
+imageExports:
+  front: Very Hungry Horror - [HASH].jpg

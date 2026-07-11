@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Fabio Pastori
-  autoCollectorNumber: "0241"
+  autoCollectorNumber: CG11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - attack-trigger
+  - repeatable-token-generator
 baseName: Tarbosaurus Alpha
+imageExports:
+  front: Tarbosaurus Alpha - [HASH].jpg

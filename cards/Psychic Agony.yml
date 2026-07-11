@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Marcus Gabriel Fors
-  autoCollectorNumber: "0134"
+  autoCollectorNumber: CB14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,10 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - top-deck-manipulation
+  - peek-library
+  - mill
 baseName: Psychic Agony
+imageExports:
+  front: Psychic Agony - [HASH].jpg

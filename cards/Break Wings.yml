@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lane Brown
-  autoCollectorNumber: "0209"
+  autoCollectorNumber: CG13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal-creature
+  - hate-flying
+  - lifegain
+  - cheaper-than-mv
+  - hand-neutral
+  - draw
 baseName: Break Wings
+imageExports:
+  front: Break Wings - [HASH].jpg

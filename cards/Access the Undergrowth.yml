@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: CG15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - recursion
 baseName: Access the Undergrowth
+imageExports:
+  front: Access the Undergrowth - [HASH].jpg

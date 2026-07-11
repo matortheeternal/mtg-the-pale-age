@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: mariart
-  autoCollectorNumber: "0124"
+  autoCollectorNumber: CB15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - sacrifice-outlet
+  - sacrifice-outlet-token
 baseName: Insatiable Hunger
+imageExports:
+  front: Insatiable Hunger - [HASH].jpg
