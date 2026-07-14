@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Izabela Arsovska Braukmann
-  autoCollectorNumber: "0069"
+  autoCollectorNumber: RU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-rock
+  - restricted-mana
+  - activated-ability
+  - draw
 baseName: Crystal Ichor

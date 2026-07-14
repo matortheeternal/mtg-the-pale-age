@@ -35,7 +35,8 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: You gain life equal to the amount of life target opponent lost this turn.
+  rulesText: Target opponent loses 1 life. You gain life equal to the amount of
+    life that player lost this turn.
   flavorText: null
   frame: auto
   artSize: auto

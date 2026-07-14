@@ -1,0 +1,78 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Marrow Pool Channeler
+  manaCost:
+    __type: ManaCost
+    symbols: 3B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/UB09%20Placeholder.jpg
+    width: 800
+    height: 1187
+    cropWidth: 686
+    cropHeight: 858
+    xOffset: 54
+    yOffset: 329
+  superType: Creature
+  subType: Giant Skeleton Shaman
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Diego Andrade
+  autoCollectorNumber: RB03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+
+
+    When ~ enters, add {B} equal to its power.
+  flavorText: null
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
+  - gains-pp-counters
+  - draw
+  - force-draw
+  - life-for-cards
+  - opponent-loses-life
+baseName: Marrow Pool Channeler

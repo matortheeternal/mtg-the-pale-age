@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Yuriy Mazurkin
-  autoCollectorNumber: "0004"
+  autoCollectorNumber: MW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +61,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-exile
+  - removal-creature
+  - lifegain
 baseName: Absolute Judgment
 oldBaseName: Absolute Judgement

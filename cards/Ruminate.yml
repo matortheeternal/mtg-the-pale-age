@@ -28,12 +28,13 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Kirill Khafizov
-  autoCollectorNumber: "0093"
+  autoCollectorNumber: UU13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -42,13 +43,9 @@ front:
     your library.
 
 
-    Create an ichor token. (It is an artifact with "{T}: Add one mana of any
+    Create an Ichor token. (It is an artifact with "{T}: Add one mana of any
     color. Spend this mana only to activate abilities.")
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - draw

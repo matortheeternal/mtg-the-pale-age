@@ -34,21 +34,18 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Consume (As this enters, you may sacrifice any number of creatures and
+    Consume (As this enters, you may sacrifice any number of creatures and/or
     tokens. Put a +1/+1 counter on this for each sacrificed and each counter
     they had.)
 
 
     Trample
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - french-vanilla

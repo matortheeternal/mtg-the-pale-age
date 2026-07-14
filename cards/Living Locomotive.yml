@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Andreas Nagel
-  autoCollectorNumber: "0178"
+  autoCollectorNumber: UR12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-rock
+  - restricted-mana
+  - mana-sink
+  - animate-self
+  - activated-ability
 baseName: Living Locomotive

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0106"
+  autoCollectorNumber: MB01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - draw-engine
+  - mana-sink
+  - bottomless-mana-sink
+  - repeatable-draw
+  - life-for-cards
+  - evasion
 baseName: Angel of Obliteration

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Sevan Selvadjian
-  autoCollectorNumber: "0085"
+  autoCollectorNumber: UU02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,7 +67,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cast-trigger
+  - cast-trigger-you
+  - synergy-colorless
+  - move-counters
+  - gains-pp-counters
+  - evasion
 baseName: Lunar Manta
 imageExports:
   front: Lunar Manta.jpg

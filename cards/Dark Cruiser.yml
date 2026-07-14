@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0113"
+  autoCollectorNumber: UB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - life-payment
+  - evasion
+  - activated-ability
+  - alternative-crewing
+  - animate-self
 baseName: Dark Cruiser

@@ -28,27 +28,24 @@ front:
   showPT: true
   rarity: rare
   illustrator: Gustave Doré
-  autoCollectorNumber: "0051"
+  autoCollectorNumber: RW01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Whenever you exile a card from your graveyard, create a 1/1 white Human
+    Whenever one or more cards leave your graveyard, create a 1/1 white Human
     creature token.
 
 
     {4}{W}{W}: Other creatures you control get +2/+2 until end of turn. This
     ability costs {1} less to activate for each card you own in exile.
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,11 +61,20 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - triggered-ability
   - activated-ability
   - mana-sink
+  - leaves-graveyard-trigger
+  - repeatable-creature-tokens
+  - bottomless-mana-sink
+  - repeatable-token-generator
+  - cards-in-exile-matter
 baseName: The Ruler
 imageExports:
   front: The Ruler.jpg

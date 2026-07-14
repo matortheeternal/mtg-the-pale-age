@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Chris Becker
-  autoCollectorNumber: "0182"
+  autoCollectorNumber: UR17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,5 +66,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - impulsive-draw
+  - card-advantage
+  - evasion
+  - activated-ability
+  - tap-outlet
+  - triggered-ability
 baseName: Industrial Blimp

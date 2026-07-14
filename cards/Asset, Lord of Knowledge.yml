@@ -28,24 +28,21 @@ front:
   showPT: true
   rarity: rare
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0063"
+  autoCollectorNumber: RU02
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    When ~ enters and whenever you cast a spell from exile, draw a card.
+    Whenever @ enters or you cast a spell from exile, draw a card.
 
 
     {1}{U}{U}{U}: Archive a noncreature card. (Exile a noncreature card from
     your graveyard. You may play it on a later turn. If it would be put into a
     graveyard, exile it instead.)
   flavorText: null
-  chopTop: "2"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,8 +58,21 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - draw
+  - repeatable-draw
+  - draw-engine
+  - activated-ability
+  - recursion
+  - gives-castable-from-exile
+  - synergy-noncreature
+  - mana-sink
+  - bottomless-mana-sink
 baseName: Asset, Lord of Knowledge
 imageExports:
   front: Asset, Lord of Knowledge.jpg

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Longquechen
-  autoCollectorNumber: "0162"
+  autoCollectorNumber: RR07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - animate-self
+  - ramp
+  - repeatable-pp-counters
+  - activated-ability
 baseName: Autonomous Excavation Unit

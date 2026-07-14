@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Hue Teo
-  autoCollectorNumber: "0077"
+  autoCollectorNumber: CU17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,7 +65,6 @@ notes: ""
 tags:
   - activated-ability
   - mana-sink
-  - bottomless-mana-sink
   - draw
   - discard-outlet
   - loot

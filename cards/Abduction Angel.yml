@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Sab Lian
-  autoCollectorNumber: "0002"
+  autoCollectorNumber: UW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - flicker
+  - flicker-creature
+  - triggered-ability
+  - attack-trigger
+  - flicker-slow
+  - evasion
 baseName: Abduction Angel

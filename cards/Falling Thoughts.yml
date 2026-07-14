@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: JaeHoon Choi
-  autoCollectorNumber: "0073"
+  autoCollectorNumber: UU18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mill
+  - symmetrical
+  - cost-reducer
 baseName: Falling Thoughts

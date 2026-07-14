@@ -9,7 +9,7 @@ front:
   name: Abaddon, Fist of Suns
   manaCost:
     __type: ManaCost
-    symbols: RR
+    symbols: 1RR
   artImage:
     __type: image
     imageUrl: /project/cards/Abaddon%2C%20Fist%20of%20Suns.jpg
@@ -28,12 +28,13 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0154"
+  autoCollectorNumber: RR01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     When ~ enters, it deals 3 damage to target creature an opponent controls.
 
@@ -41,10 +42,6 @@ front:
     {R}{R}: @ deals 3 damage to target creature dealt damage by it this turn.
     Activate only once each turn.
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - burn
+  - burn-creature
+  - triggered-ability
+  - activated-ability
+  - mana-sink
+  - repeatable-removal
 baseName: Abaddon, Fist of Suns

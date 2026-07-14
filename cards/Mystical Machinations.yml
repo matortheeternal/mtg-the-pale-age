@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Milda
-  autoCollectorNumber: "0085"
+  autoCollectorNumber: MU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - theft
+  - cards-in-graveyard-matter
 baseName: Mystical Machinations

@@ -9,7 +9,7 @@ front:
   name: Spider Tank
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 4R
   artImage:
     __type: image
     imageUrl: /project/cards/Spider%20Tank.jpg
@@ -23,32 +23,29 @@ front:
   subType: Vehicle
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "2"
+  power: "6"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Kevin Long
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: CR19
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
-    enters with two +1/+1 counters on it)
+    Reach
 
 
-    First strike, reach
+    When ~ enters, it becomes crewed and deals damage equal to its power to
+    target creature an opponent controls.
 
 
-    Crew 1 (Tap any number of creatures you control with total power 1 or more:
+    Crew 3 (Tap any number of creatures you control with total power 3 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: null
-  chopTop: ""
-  chopBottom: "15"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +61,19 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-burn
+  - one-sided-fight
+  - removal-creature
+  - burn
+  - burn-creature
+  - virtual-french-vanilla
 baseName: Spider Tank
 imageExports:
   front: Spider Tank.jpg

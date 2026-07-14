@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Dave Wachter
-  autoCollectorNumber: "0060"
+  autoCollectorNumber: CU07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - move-counters
+  - gains-defender
+  - gives-defender
 baseName: Ancient Whale

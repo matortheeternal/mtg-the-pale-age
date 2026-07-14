@@ -9,7 +9,7 @@ front:
   name: Tormented Executioner
   manaCost:
     __type: ManaCost
-    symbols: 3BB
+    symbols: 2BB
   artImage:
     __type: image
     imageUrl: /project/cards/Tormented%20Executioner.jpg
@@ -23,18 +23,23 @@ front:
   subType: Demon Horror
   flagLeft: ""
   flagRight: ""
-  power: "5"
+  power: "4"
   toughness: "1"
   showPT: true
-  rarity: rare
+  rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0154"
+  autoCollectorNumber: UB07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
+    Spectacle {1}{B}{B} (You may cast this spell for its spectacle cost if an
+    opponent lost life this turn.)
+
+
     Whenever a creature is put into a player's graveyard from anywhere, each
     player loses 1 life.
 
@@ -42,10 +47,6 @@ front:
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +62,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - cheat-death-self
+  - group-slug
+  - synergy-mill
+  - death-trigger
+  - death-trigger-self
 baseName: Tormented Executioner

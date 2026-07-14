@@ -28,23 +28,21 @@ front:
   showPT: ""
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: "0065"
+  autoCollectorNumber: CU12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Enchant artifact
 
 
     Enchanted artifact loses all abilities and is a blue Octopus creature with
-    base power and toughness 3/3.
+    base power and toughness 3/3. (It loses all other card types and creature
+    types.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +58,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal-artifact
+  - removal
+  - shapechange
+  - removal-creature
+  - spot-removal
 baseName: Cephalopodization

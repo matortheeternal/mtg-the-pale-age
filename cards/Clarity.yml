@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0065"
+  autoCollectorNumber: RU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,17 +64,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: >-
-  other options considered:
-
-  - When ~ dies, creatures you control get +0/+4 and gain ward {2} until end of
-  turn.
-    - non-interactive, boring, doesn't have a real game impact I think.
-  - When ~ dies, your opponents cannot cast spells until the start of your next
-  turn.
-
-  - When ~ dies, counter all activated and triggered abilities your opponents
-  control.
-    - too niche, and has weird stack ordering interactions when it dies during combat due to APNAP.
-tags: []
+notes: ""
+tags:
+  - draw
+  - repeatable-draw
+  - combat-neutral-damage-trigger
+  - shapechange
+  - sacrifice-self
+  - hand-neutral
+  - triggered-ability
+  - death-trigger
+  - death-trigger-self
+  - untracked-indefinite-effect
 baseName: Clarity

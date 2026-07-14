@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Roberto Ricci
-  autoCollectorNumber: "0096"
+  autoCollectorNumber: CU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mill
+  - mill-self
+  - mana-rock
+  - restricted-mana
+  - repeatable-token-generator
 baseName: Seaborn Hustler

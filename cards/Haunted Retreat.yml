@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yuriy Mazurkin
-  autoCollectorNumber: "0083"
+  autoCollectorNumber: RU09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - sweeper
+  - removal-bounce
+  - bounce
+  - bounce-creature
+  - mill
+  - mill-each
 baseName: Haunted Retreat

@@ -28,17 +28,15 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Matthew Cartwright
-  autoCollectorNumber: "0074"
+  autoCollectorNumber: UU10
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >-
-    Whenever @ enters, gain control of target artifact for as long as you
-    control @.
-
+  rulesText: |-
+    When @ enters, gain control of target artifact for as long as you control @.
 
     {1}, Sacrifice an artifact: Put a +1/+1 counter on @ and gain 1 life.
   flavorText: Filibus was rather fond of trinkets.
@@ -62,7 +60,14 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - theft
+  - gains-pp-counters
+  - lifegain
+  - repeatable-lifegain
+  - sacrifice-outlet
+  - sacrifice-outlet-artifact
+  - activated-ability
 baseName: Filibus, the Terrible
 imageExports:
   front: Filibus, the Terrible.jpg

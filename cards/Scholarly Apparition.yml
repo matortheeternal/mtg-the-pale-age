@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Massimiliano Nigro
-  autoCollectorNumber: "0039"
+  autoCollectorNumber: CW08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,7 +59,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - virtual-vanilla
+  - synergy-noncreature
+  - gives-castable-from-exile
+  - recursion
+  - graveyard-fuel
 baseName: Scholarly Apparition
 imageExports:
   front: Scholarly Apparition.jpg

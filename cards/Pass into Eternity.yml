@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0134"
+  autoCollectorNumber: MB03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +63,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - symmetrical
+  - cheaper-than-mv
+  - potentially-free
+  - start-of-game
+  - mill
+  - mill-self
 baseName: Pass into Eternity
 oldBaseName: Leyline of Eternity

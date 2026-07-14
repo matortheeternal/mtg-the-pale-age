@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Cassie Allen
-  autoCollectorNumber: "0149"
+  autoCollectorNumber: UB03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,5 +59,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - exile-with-tax
+  - triggered-ability
+  - virtual-vanilla
+  - gives-castable-from-exile
+  - hand-disruption
+  - peek-hand
 baseName: The Dark Commander

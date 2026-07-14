@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Sam Hogg
-  autoCollectorNumber: "0102"
+  autoCollectorNumber: RU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - counterspell
+  - multiple-bodies
+  - gives-pp-counters
+  - hate-high-pt
+  - power-matters
+  - toughness-matters
 baseName: Turn to Feathers

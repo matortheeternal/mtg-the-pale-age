@@ -9,7 +9,7 @@ front:
   name: Fields of Gold
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: 2W
   artImage:
     __type: image
     imageUrl: /project/cards/Fields%20of%20Gold.jpg
@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 742
   superType: Enchantment
-  subType: ""
+  subType: Aura
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -28,25 +28,25 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0024"
+  autoCollectorNumber: UW12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Exile target creature for as long as you control ~.
+    Enchant land
 
 
-    {4}, Sacrifice a land: Shuffle ~ into its owner's library. Any player may
-    activate this ability.
+    When ~ enters, exile target creature until ~ leaves the battlefield.
+
+
+    Enchanted land is a Plains and has "{4}, {T}, Sacrifice this land: Draw a
+    card."
   flavorText: |-
     "Where are we, if not paradise?"
     —Lost explorer
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,8 +62,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - removal
   - removal-creature
+  - spot-removal
+  - removal-exile
+  - triggered-ability
+  - activated-ability
 baseName: Fields of Gold

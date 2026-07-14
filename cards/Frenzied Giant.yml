@@ -28,12 +28,13 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Petar Meseldzija
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: UR08
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -42,15 +43,9 @@ front:
     its mana cost if an opponent lost life this turn.)
 
 
-    Menace
-
-
-    {R}{R}{R}: Another target creature gains menace until end of turn.
+    {1}{R}{R}{R}, {T}, Sacrifice an artifact: ~ deals damage equal to its power
+    to any target.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -66,6 +61,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - cheaper-than-mv
+  - life-loss-matters
+  - evasion
+  - activated-ability
+  - mana-sink
+  - gives-menace
 baseName: Frenzied Giant

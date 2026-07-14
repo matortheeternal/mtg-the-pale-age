@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: "0181"
+  autoCollectorNumber: RR06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -52,5 +52,12 @@ front:
   hybridStyle: []
   hybridBlendStyle: grey
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - removal-burn
+  - burn
+  - burn-creature
+  - discard-outlet
+  - sacrifice-outlet
 baseName: How to Become a Giant

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sam Araya
-  autoCollectorNumber: "0127"
+  autoCollectorNumber: CB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,7 +60,16 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - mutual-sacrifice
+  - sacrifice-outlet
+  - removal-sacrifice
+  - removal
+  - removal-creature
+  - multi-removal
+  - spot-removal
+  - virtual-vanilla
+  - triggered-ability
 baseName: Mad Bonemuncher
 imageExports:
   front: Mad Bonemuncher.jpg

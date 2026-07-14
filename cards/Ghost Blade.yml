@@ -9,7 +9,7 @@ front:
   name: Ghost Blade
   manaCost:
     __type: ManaCost
-    symbols: 2B
+    symbols: 1BB
   artImage:
     __type: image
     imageUrl: /project/cards/Ghost%20Blade.jpg
@@ -28,20 +28,16 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0121"
+  autoCollectorNumber: UB15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Destroy target creature. Its controller creates a 1/1 colorless
-    Spirit creature token with "At the beginning of your end step, sacrifice
-    this token and lose 2 life."
+  faceSymbol: null
+  rulesText: Destroy target creature. Create a 1/1 colorless Spirit creature token
+    with "When this token dies, if it wasn't sacrificed you lose 2 life."
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +53,13 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - synergy-sacrifice
 baseName: Ghost Blade

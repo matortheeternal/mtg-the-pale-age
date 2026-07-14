@@ -28,12 +28,13 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0123"
+  autoCollectorNumber: RB06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Delve (Each card you exile from your graveyard while casting this spell pays
     for {1}. )
@@ -45,12 +46,8 @@ front:
     Indestructible
 
 
-    Sacrifice a permanent: Tap or untap @. Any player may activate this ability.
+    Sacrifice a nontoken permanent: Tap @. Any player may activate this ability.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -66,11 +63,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: >-
-  v1: Sacrifice a permanent: Tap or untap ~. Any player may activate this
-  ability.
-
-
-  v2: Whenever ~ is dealt damage, sacrifice that many permanents.
-tags: []
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags:
+  - graveyard-fuel
+  - evasion
+  - sacrifice-outlet
+  - sacrifice-outlet-land
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-artifact
 baseName: Gryn, the Immortal

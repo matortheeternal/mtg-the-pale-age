@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: "0080"
+  autoCollectorNumber: UU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - move-counters
+  - mana-rock
+  - repeatable-token-generator
+  - activated-ability
 baseName: Gelatinous Researcher

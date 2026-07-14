@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0164"
+  autoCollectorNumber: CR10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,7 +65,17 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-burn
+  - burn
+  - burn-any
+  - remove-counters
+  - gives-tap-ability
+  - spot-removal
+  - repeatable-removal
+  - removal-creature
+  - pinger
 baseName: Bloodprint
 imageExports:
   front: Bloodprint.jpg

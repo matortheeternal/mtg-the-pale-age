@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: "0116"
+  autoCollectorNumber: RB09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - opponent-loses-life
+  - symmetrical
+  - alternate-win-condition
+  - tuck-self
+  - tuck
 baseName: Retreat of the Third Moon

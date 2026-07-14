@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nekromold
-  autoCollectorNumber: "0115"
+  autoCollectorNumber: RB03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-toughness
+  - removal-creature
+  - sweeper
+  - sweeper-one-sided
+  - lifegain
+  - repeatable-lifegain
+  - hand-neutral
+  - draw
+  - sacrifice-self
 baseName: Depravity

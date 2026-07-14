@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Lazy Litch
-  autoCollectorNumber: "0142"
+  autoCollectorNumber: CB01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,6 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - synergy-sacrifice
 baseName: Skittering Deathbot

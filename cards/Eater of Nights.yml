@@ -28,27 +28,21 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0118"
+  autoCollectorNumber: RB05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  faceSymbol: null
+  rulesText: |-
     Ward—Mill half your library, rounded up.
-
 
     Lifelink
 
-
-    Whenever you lose life, each player mills cards equal to the amount of life
-    you lost.
-  flavorText: Every second spent in its presence your mind will fray apart 'til it
-    is naught but  a whisper in the dark.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    Whenever you lose life, add {B} for each 1 life you lost.
+  flavorText: Every second spent in its presence your mind will fray apart until
+    it is naught but  a whisper in the dark.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +58,17 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - non-mana-ward
+  - lifegain
+  - repeatable-lifegain
+  - triggered-ability
+  - mill
+  - ramp
+  - self-life-loss-matters
 baseName: Eater of Nights

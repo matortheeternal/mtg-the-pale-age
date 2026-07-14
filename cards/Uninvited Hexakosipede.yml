@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Boris Groh
-  autoCollectorNumber: "0155"
+  autoCollectorNumber: UB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,5 +67,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cheaper-than-mv
+  - life-loss-matters
+  - non-mana-ward
+  - discard
+  - discard-outlet
+  - triggered-ability
+  - virtual-french-vanilla
 baseName: Uninvited Hexakosipede

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Diego Andrade
-  autoCollectorNumber: "0129"
+  autoCollectorNumber: UB07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,5 +66,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
+  - gains-pp-counters
+  - draw
+  - force-draw
+  - life-for-cards
+  - opponent-loses-life
 baseName: Marrow Pool Augur

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Samuel Araya
-  autoCollectorNumber: "0054"
+  autoCollectorNumber: RU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - evasion
+  - mill
 baseName: Aberrant Nemesis

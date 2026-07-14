@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Isaac Ornelas Gama
-  autoCollectorNumber: "0208"
+  autoCollectorNumber: CR16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - cheaper-than-mv
+  - life-loss-matters
+  - burn
+  - burn-creature
+  - one-sided-fight
+  - power-matters
 baseName: Violent Betrayal

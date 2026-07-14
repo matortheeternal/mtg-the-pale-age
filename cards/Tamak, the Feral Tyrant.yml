@@ -28,14 +28,15 @@ front:
   showPT: true
   rarity: rare
   illustrator: Rabab Elghamry
-  autoCollectorNumber: "0252"
+  autoCollectorNumber: RG06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    Consume (As this enters, you may sacrifice any number of creatures and
+    Consume (As this enters, you may sacrifice any number of creatures and/or
     tokens. Put a +1/+1 counter on this for each sacrificed and each counter
     they had.)
 
@@ -46,10 +47,6 @@ front:
     Whenever one or more counters are put on another creature, put that many
     +1/+1 counters on @.
   flavorText: null
-  chopTop: "1"
-  chopBottom: "1"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: "1"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Tamak, the Feral Tyrant

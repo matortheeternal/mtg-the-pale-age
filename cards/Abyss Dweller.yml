@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0055"
+  autoCollectorNumber: UU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,4 +72,5 @@ tags:
   - graveyard-fuel
   - morbid
   - repeatable-token-generator
+  - bottomless-mana-sink
 baseName: Abyss Dweller

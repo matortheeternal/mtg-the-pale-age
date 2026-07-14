@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Duncan Kay
-  autoCollectorNumber: "0164"
+  autoCollectorNumber: UR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - evasion
+  - freeze
+  - drawback
 baseName: Cackling Imp

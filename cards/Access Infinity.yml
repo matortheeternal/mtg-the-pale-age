@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0057"
+  autoCollectorNumber: MU02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - draw
+  - mana-sink
+  - bottomless-mana-sink
+  - repeatable-draw
+  - draw-engine
 baseName: Access Infinity

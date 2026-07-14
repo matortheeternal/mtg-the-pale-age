@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Hernán Conde De Boeck
-  autoCollectorNumber: "0159"
+  autoCollectorNumber: RR10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,7 +67,12 @@ front:
   maxFontSize: "14"
   centerText: never
 notes: ""
-tags: []
+tags:
+  - cheaper-than-mv
+  - life-loss-matters
+  - theft
+  - untapper
+  - gives-haste
 baseName: Absorbing Reception
 imageExports:
   front: Absorbing Reception.jpg

@@ -28,25 +28,21 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0150"
+  autoCollectorNumber: UB13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     When ~ enters, each player creates a 1/1 colorless Spirit creature token
-    with "At the beginning of your end step, sacrifice this token and lose 2
-    life."
+    with "When this token dies, if it wasn't sacrificed you lose 2 life."
 
 
     Whenever you cast a colorless spell or sacrifice a token, each player mills
     a card, then draws a card.
   flavorText: “He rested like a corpse on his throne of stone.”
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +58,19 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - symmetrical
+  - draw
+  - force-draw
+  - mill
+  - mill-each
+  - cast-trigger
+  - cast-trigger-you
+  - synergy-colorless
+  - opponent-loses-life
 baseName: The Hollow Throne

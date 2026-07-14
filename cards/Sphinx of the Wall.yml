@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Rick Troula
-  autoCollectorNumber: "0098"
+  autoCollectorNumber: CU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet-artifact
+  - sacrifice-outlet
+  - evasion
 baseName: Sphinx of the Wall

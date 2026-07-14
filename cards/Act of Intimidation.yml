@@ -28,21 +28,17 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0160"
+  autoCollectorNumber: CR18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Gain control of target creature an opponent controls until end of
     turn. Untap that creature. It gains haste until end of turn. If that
-    creature has power 4 or greater, target creature an opponent controls can't
-    block this turn.
+    creature has power 4 or greater, it gains first strike until end of turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,10 +54,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gives-haste
   - theft
   - power-matters
   - prevent-blocker
+  - gives-first-strike
+  - threaten
 baseName: Act of Intimidation

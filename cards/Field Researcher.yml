@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Corran Brownlee
-  autoCollectorNumber: "0176"
+  autoCollectorNumber: CR06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - firebreathing
+  - activated-ability
+  - mana-sink
+  - bottomless-mana-sink
+  - synergy-artifact
+  - shapechange
+  - animate
+  - animate-artifact
 baseName: Field Researcher

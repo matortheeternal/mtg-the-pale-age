@@ -19,13 +19,13 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0036"
+  autoCollectorNumber: T03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: At the end of your turn, sacrifice this token and lose 2 life.
+  rulesText: When this token dies, if it wasn't sacrificed you lose 2 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Mausbalg
-  autoCollectorNumber: "0191"
+  autoCollectorNumber: RR05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-rock
+  - restricted-mana
+  - multiple-bodies
+  - activated-ability
+  - mana-sink
+  - bottomless-mana-sink
 baseName: Primeval Ichor

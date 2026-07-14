@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0098"
+  autoCollectorNumber: UU14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - draw
+  - repeatable-draw
+  - mana-sink
+  - bottomless-mana-sink
+  - gives-pp-counters
+  - gives-curious
+  - combat-neutral-damage-trigger
+  - triggered-ability
+  - activated-ability
 baseName: Staff of the Stars

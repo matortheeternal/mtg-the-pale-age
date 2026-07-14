@@ -26,17 +26,20 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0147"
+  autoCollectorNumber: RB07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   preText: null
+  postText: ""
   rulesText: >-
     I - Each player discards a card.
 
-    II - Each player sacrifices a creature and creates a Morsel token.
+    II - Target creature gets -X/-X until end of turn, where X is the number of
+    cards in your graveyard.
 
     III - Exile each player's graveyard. Until end of turn, you may cast
     creature spells from among cards exiled this way.
@@ -54,5 +57,19 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - discard
+  - hand-disruption
+  - symmetrical
+  - lifegain
+  - synergy-sacrifice
+  - recursion
+  - recursion-creature
+  - gives-castable-from-exile
+  - hate-graveyard
+  - reanimate-from-any
+  - removal-toughness
+  - graveyard-fuel
 baseName: The Abyssal Prison

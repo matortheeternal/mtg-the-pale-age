@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Target player draws two cards and loses two life.
+    Target player draws two cards and loses 2 life.
 
 
     Flashback—Sacrifice two creatures. (You may cast this card from your
     graveyard for its flashback cost. Then exile it.)
   flavorText: A blood pact is sacrosanct. Inviolable, even in death.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - castable-from-graveyard

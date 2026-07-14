@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rochaku
-  autoCollectorNumber: "0163"
+  autoCollectorNumber: UR09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
+  - discard-outlet
+  - sacrifice-outlet
+  - sacrifice-outlet-artifact
 baseName: Calamitous Trio
