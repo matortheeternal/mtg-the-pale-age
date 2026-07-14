@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eduardo Aragao
-  autoCollectorNumber: "0039"
+  autoCollectorNumber: RW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,5 +68,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-nonland
+  - removal-creature
+  - removal-enchantment
+  - removal-artifact
+  - spot-removal
 baseName: Quinn, Inexorable

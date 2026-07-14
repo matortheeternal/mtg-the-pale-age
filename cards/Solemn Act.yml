@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0045"
+  autoCollectorNumber: RW10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-exile
+  - affinity-for-tokens
+  - sweeper
+  - hate-tokens
+  - cheaper-than-mv
+  - token-count-matters
+  - discount-self
+  - removal-creature
 baseName: Solemn Act

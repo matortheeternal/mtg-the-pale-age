@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: "0179"
+  autoCollectorNumber: UR18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - sweeper
+  - sweeper-one-sided
+  - burn
+  - burn-creature
+  - removal-burn
+  - removal-creature
+  - gives-pp-counters
+  - death-trigger
 baseName: Gorge

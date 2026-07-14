@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0087"
+  autoCollectorNumber: CU18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,7 +64,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - counterspell
+  - mana-rock
+  - restricted-mana
+  - counterspell-ability
 baseName: Mana Void
 imageExports:
   front: Mana Void.jpg

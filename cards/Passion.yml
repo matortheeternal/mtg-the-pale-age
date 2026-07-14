@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0167"
+  autoCollectorNumber: RR03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-self
+  - cantrip
+  - draw
+  - extra-combat-phase
+  - extra-untap
+  - death-trigger
+  - death-trigger-self
+  - untapper
 baseName: Passion

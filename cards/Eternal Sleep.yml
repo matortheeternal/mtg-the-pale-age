@@ -28,27 +28,27 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0072"
+  autoCollectorNumber: CU15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Enchant creature
 
 
-    When ~ enters, tap enchanted creature and create an Ichor token. (It's an
-    artifact with "{T}: Add one mana of any color. Spend this mana only to
-    activate abilities.")
+    When ~ enters, tap enchanted creature.
 
 
     Enchanted creature doesn't untap during its controller's untap step.
+
+
+    When enchanted creature dies, create an Ichor token. (It's an artifact with
+    "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +64,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - triggered-ability
+  - tapper
+  - tapper-creature
 baseName: Eternal Sleep

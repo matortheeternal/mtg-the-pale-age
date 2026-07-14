@@ -28,24 +28,21 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Dmitri Burkov
-  autoCollectorNumber: "0015"
+  autoCollectorNumber: UW08
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Lifelink
 
 
-    Whenever ~ enters or attacks, exile up to one target enchantment, then
-    create a 1/1 colorless Spirit creature token with "At the beginning of your
-    end step, sacrifice this token and lose 2 life."
+    Whenever ~ enters, exile up to one target enchantment, then create a 1/1
+    colorless Spirit creature token with "When this token dies, if it wasn't
+    sacrificed you lose 2 life."
   flavorText: There is not a cloud in the sky, for they have eaten them all.
-  chopTop: "1"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,18 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - lifegain
+  - repeatable-lifegain
+  - death-trigger
+  - synergy-sacrifice
+  - removal
+  - removal-enchantment
+  - multiple-bodies
 baseName: Cloud Eater

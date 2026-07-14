@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Catriona Barclay
-  autoCollectorNumber: "0198"
+  autoCollectorNumber: RL07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,6 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - ritual
 baseName: Seething Summit

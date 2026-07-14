@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Martin McKenna
-  autoCollectorNumber: "0072"
+  autoCollectorNumber: UU01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - freeze
+  - freeze-creature
+  - move-counters
 baseName: Electrophorus

@@ -28,24 +28,21 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Beau Brynes
-  autoCollectorNumber: "0119"
+  autoCollectorNumber: UB16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     As an additional cost to cast this spell, sacrifice any number of creatures
-    and tokens.
+    and/or tokens.
 
 
-    Creatures your opponents control get -X/-X until end of turn, where X is the
-    number of permanents sacrificed.
+    All creatures get -X/-X until end of turn, where X is the number of
+    permanents sacrificed.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,18 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - sweeper
+  - sweeper-one-sided
+  - removal-toughness
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
 baseName: Final Hour

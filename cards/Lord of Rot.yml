@@ -28,14 +28,15 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0127"
+  autoCollectorNumber: UB09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    Consume (As this enters, you may sacrifice any number of creatures and
+    Consume (As this enters, you may sacrifice any number of creatures and/or
     tokens. Put a +1/+1 counter on this for each sacrificed and each counter
     they had.)
 
@@ -45,10 +46,6 @@ front:
 
     {B}, Remove a counter from ~: Other creatures get -1/-1 until end of turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: "15"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,20 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-token
+  - gains-pp-counters
+  - activated-ability
+  - mana-sink
+  - removal
+  - removal-toughness
+  - repeatable-removal
+  - sweeper
 baseName: Lord of Rot

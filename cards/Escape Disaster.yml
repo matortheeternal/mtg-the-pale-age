@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0018"
+  autoCollectorNumber: CW17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,7 +62,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - flicker
+  - flicker-creature
+  - draw
+  - multiple-targets
+  - hand-neutral
+  - activate-from-hand
+  - activated-ability
 baseName: Escape Disaster
 imageExports:
   front: Escape Disaster.jpg

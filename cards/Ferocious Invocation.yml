@@ -32,29 +32,26 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Chay Ruby
-  autoCollectorNumber: "0254"
+  autoCollectorNumber: RZ22
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
 
     Choose one or more —
 
-    - ~ deals 2 damage to any target.
+    - ~ deals 3 damage to any target.
 
     - Target creature you control gets +2/+0 and gains trample until end of
     turn.
 
     - Target creature you control fights target creature an opponent controls.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -70,6 +67,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Ferocious Invocation

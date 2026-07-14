@@ -28,26 +28,23 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0113"
+  autoCollectorNumber: UB18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     When ~ enters, destroy target creature.
 
 
-    Equipped creature gets +4/+0 and has "At the beginning of your end step,
+    Equipped creature gets +3/+0 and has "At the beginning of your end step,
     sacrifice this creature unless you pay 2 life."
 
 
-    Equip {2}
+    Equip {3}
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,7 +60,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - triggered-ability
+  - life-payment
+  - removal-destroy
 baseName: Cursed Blade
 oldBaseName: Unholy Blade

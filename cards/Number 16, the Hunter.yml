@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Samuel Araya
-  autoCollectorNumber: "0192"
+  autoCollectorNumber: RR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,6 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
 baseName: Number 16, the Hunter

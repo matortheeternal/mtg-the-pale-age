@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Zbigniew Oporski
-  autoCollectorNumber: "0100"
+  autoCollectorNumber: UU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mill
+  - mill-self
+  - damage-prevention
 baseName: Wall of Faces

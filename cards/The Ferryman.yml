@@ -28,21 +28,18 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0149"
+  autoCollectorNumber: RB02
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Whenever a nontoken creature dies, its controller creates a 1/1
-    colorless Spirit creature token with "At the beginning of your end step,
-    sacrifice this token and lose 2 life."
+    colorless Spirit creature token with "When this token dies, if it wasn't
+    sacrificed you lose 2 life."
   flavorText: It's a village tradition to give your dead to the ferryman so he may
     take them to the afterlife—wherever that is.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - death-trigger
+  - death-trigger-self
+  - repeatable-token-generator
+  - repeatable-creature-tokens
+  - opponent-loses-life
+  - synergy-sacrifice
 baseName: The Ferryman

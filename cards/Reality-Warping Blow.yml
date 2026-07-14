@@ -9,7 +9,7 @@ front:
   name: Reality-Warping Blow
   manaCost:
     __type: ManaCost
-    symbols: 1RR
+    symbols: 2RR
   artImage:
     __type: image
     imageUrl: /project/cards/Reality-Warping%20Blow.jpg
@@ -28,24 +28,22 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: UR15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Spectacle {R}{R} (You may cast this spell for its spectacle cost rather than
-    its mana cost if an opponent lost life this turn.)
+    Spectacle {1}{R}{R} (You may cast this spell for its spectacle cost rather
+    than its mana cost if an opponent lost life this turn.)
 
 
-    Choose target creature you control. Double its power, then it deals damage
-    equal to its power to target creature an opponent controls.
+    Double the power of target creature you control until end of turn. Then that
+    creature deals damage equal to its power to target creature an opponent
+    controls.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +59,17 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - cheaper-than-mv
+  - removal
+  - removal-burn
+  - one-sided-fight
+  - power-doubler
+  - power-matters
+  - removal-creature
 baseName: Reality-Warping Blow

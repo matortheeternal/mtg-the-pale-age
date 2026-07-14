@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Massimiliano Haematinon Nigro
-  autoCollectorNumber: "0059"
+  autoCollectorNumber: UU07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - mana-sink
+  - bottomless-mana-sink
+  - evasion
 baseName: Advanced Transport Gargoyle

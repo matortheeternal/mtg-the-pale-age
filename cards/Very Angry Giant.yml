@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Mathias Osland
-  autoCollectorNumber: "0192"
+  autoCollectorNumber: UR05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,5 +64,14 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - burn
+  - burn-player
+  - symmetrical
+  - triggered-ability
+  - burn-player-each
+  - burn-you
+  - group-slug
+  - pinger
 baseName: Very Angry Giant

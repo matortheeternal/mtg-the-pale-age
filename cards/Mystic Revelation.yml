@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Marina Mika
-  autoCollectorNumber: "0090"
+  autoCollectorNumber: UU17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - draw
+  - castable-from-graveyard
 baseName: Mystic Revelation

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Nadide Öçba
-  autoCollectorNumber: "0172"
+  autoCollectorNumber: UR04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - repeatable-token-generator
+  - repeatable-creature-tokens
+  - mana-sink
+  - activated-ability
 baseName: Giant's Watch

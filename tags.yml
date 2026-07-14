@@ -1,8 +1,20 @@
+- text: activate-from-hand
+  variant: primary
 - text: activated-ability
   variant: primary
   scope: project
 - text: adds-multiple-mana
-  variant: neutral
+  variant: success
+- text: affinity-for-tokens
+  variant: primary
+- text: alternate-win-condition
+  variant: danger
+- text: alternative-crewing
+  variant: success
+- text: animate
+  variant: primary
+- text: animate-artifact
+  variant: primary
 - text: animate-self
   variant: primary
 - text: attack-trigger
@@ -26,15 +38,33 @@
   variant: danger
 - text: burn-any
   variant: danger
+- text: burn-creature
+  variant: danger
 - text: burn-planeswalker
-  variant: neutral
+  variant: danger
 - text: burn-player
   variant: danger
+- text: burn-player-each
+  variant: warning
+- text: burn-you
+  variant: warning
 - text: cantrip
   variant: primary
   scope: project
+- text: card-advantage
+  variant: success
+- text: cards-in-exile-matter
+  variant: warning
+- text: cards-in-graveyard-matter
+  variant: primary
+- text: cast-trigger
+  variant: primary
+- text: cast-trigger-you
+  variant: primary
 - text: castable-from-graveyard
   variant: warning
+- text: change-target
+  variant: success
 - text: chaper-than-mv
   variant: warning
 - text: cheaper-than-mv
@@ -43,15 +73,25 @@
   variant: primary
 - text: cheat-death-self
   variant: primary
+- text: combat-arbiter
+  variant: danger
+- text: combat-manipulation
+  variant: primary
+- text: combat-neutral-damage-trigger
+  variant: primary
 - text: combat-trick
   variant: primary
 - text: copy
   variant: primary
 - text: copy-self
   variant: primary
+- text: cost-reducer
+  variant: warning
 - text: counters-matter
   variant: primary
 - text: counterspell
+  variant: primary
+- text: counterspell-ability
   variant: primary
 - text: counterspell-soft
   variant: primary
@@ -63,13 +103,23 @@
   variant: primary
 - text: cycling
   variant: primary
+- text: damage-prevention
+  variant: primary
+- text: damage-redirection
+  variant: primary
+- text: death-trigger
+  variant: primary
 - text: death-trigger-self
   variant: primary
 - text: delayed-trigger
   variant: primary
+- text: discard
+  variant: primary
 - text: discard-outlet
   variant: primary
 - text: discount-self
+  variant: primary
+- text: donate-token
   variant: primary
 - text: drain-life
   variant: primary
@@ -77,6 +127,8 @@
   variant: primary
   scope: project
 - text: draw-engine
+  variant: primary
+- text: drawback
   variant: primary
 - text: enlarge
   variant: primary
@@ -87,28 +139,58 @@
 - text: exile-matters
   variant: primary
   scope: project
+- text: exile-with-tax
+  variant: primary
+- text: extra-combat-phase
+  variant: warning
+- text: extra-untap
+  variant: warning
 - text: fetchland
-  variant: neutral
+  variant: primary
 - text: firebreathing
+  variant: primary
+- text: flicker
+  variant: primary
+- text: flicker-creature
+  variant: primary
+- text: flicker-slow
   variant: primary
 - text: flying-counter
   variant: primary
+- text: fog
+  variant: primary
+- text: force-attacker
+  variant: primary
 - text: force-draw
   variant: primary
+- text: free-discard-outlet
+  variant: primary
 - text: freeze
-  variant: neutral
+  variant: primary
+- text: freeze-artifact
+  variant: primary
+- text: freeze-creature
+  variant: primary
 - text: freeze-land
-  variant: neutral
+  variant: primary
 - text: french-vanilla
   variant: primary
 - text: gains-curious
   variant: primary
 - text: gains-deathtouch
   variant: primary
+- text: gains-defender
+  variant: primary
+- text: gains-first-strike
+  variant: primary
 - text: gains-flying
   variant: primary
 - text: gains-haste
   variant: warning
+- text: gains-indestructible
+  variant: danger
+- text: gains-menace
+  variant: primary
 - text: gains-pp-counters
   variant: success
 - text: gains-trample
@@ -119,15 +201,23 @@
   variant: primary
 - text: gives-deathtouch
   variant: primary
+- text: gives-defender
+  variant: primary
+- text: gives-double-strike
+  variant: danger
 - text: gives-first-strike
   variant: primary
 - text: gives-flying
   variant: primary
 - text: gives-haste
   variant: primary
+- text: gives-indestructible
+  variant: primary
 - text: gives-lifelink
   variant: primary
 - text: gives-mana-ability
+  variant: success
+- text: gives-men
   variant: neutral
 - text: gives-menace
   variant: primary
@@ -135,7 +225,7 @@
   variant: success
   scope: project
 - text: gives-tap-ability
-  variant: neutral
+  variant: primary
 - text: gives-trample
   variant: primary
 - text: gives-undying
@@ -145,13 +235,31 @@
   scope: project
 - text: graveyard-fuel
   variant: primary
+- text: group-slug
+  variant: primary
+- text: hand-disruption
+  variant: warning
 - text: hand-neutral
+  variant: primary
+- text: hate-attacker
+  variant: primary
+- text: hate-blocker
+  variant: primary
+- text: hate-counters
   variant: primary
 - text: hate-flying
   variant: primary
+- text: hate-graveyard
+  variant: primary
+- text: hate-high-pt
+  variant: primary
 - text: hate-target
   variant: warning
+- text: hate-tokens
+  variant: primary
 - text: improvise
+  variant: primary
+- text: impulsive-draw
   variant: primary
 - text: indefinte-effect
   variant: warning
@@ -160,6 +268,10 @@
   scope: project
 - text: land-ramp
   variant: success
+- text: leaves-battlefield-trigger
+  variant: primary
+- text: leaves-graveyard-trigger
+  variant: warning
 - text: life-for-cards
   variant: primary
 - text: life-loss-matters
@@ -181,6 +293,10 @@
   scope: project
 - text: mana-spent-matters
   variant: primary
+- text: mana-value-matters
+  variant: primary
+- text: manaless-value
+  variant: danger
 - text: mill
   variant: primary
   scope: project
@@ -195,39 +311,65 @@
   variant: primary
 - text: move-counters
   variant: primary
+- text: multi-removal
+  variant: danger
 - text: multiple-bodies
   variant: primary
   scope: project
 - text: multiple-targets
   variant: primary
+- text: mutual-sacrifice
+  variant: primary
 - text: non-mana-ward
   variant: warning
   scope: project
+- text: one-sided-fight
+  variant: primary
 - text: opaline-effect
   variant: primary
 - text: opponent-loses-life
   variant: primary
+- text: peek-hand
+  variant: primary
 - text: peek-library
   variant: primary
+- text: pillowfort
+  variant: warning
 - text: pinger
   variant: danger
 - text: potentially-free
   variant: danger
+- text: power-boost-to-all
+  variant: primary
+- text: power-doubler
+  variant: primary
 - text: power-matters
+  variant: primary
+- text: prevent-activation
+  variant: primary
+- text: prevent-attack
   variant: primary
 - text: prevent-blocker
   variant: primary
 - text: protects-creature
   variant: primary
+- text: protects-planeswalker
+  variant: primary
 - text: ramp
   variant: primary
   scope: project
+- text: reanimate-creature
+  variant: primary
+- text: reanimate-from-any
+  variant: primary
 - text: recursion
   variant: primary
   scope: project
 - text: recursion-creature
   variant: primary
   scope: project
+- text: refund
+  variant: neutral
 - text: removal
   variant: danger
   scope: project
@@ -236,9 +378,13 @@
   scope: project
 - text: removal-bounce
   variant: danger
+- text: removal-burn
+  variant: danger
 - text: removal-creature
   variant: danger
   scope: project
+- text: removal-destroy
+  variant: danger
 - text: removal-enchantment
   variant: danger
   scope: project
@@ -252,8 +398,12 @@
   variant: danger
 - text: removal-sacrifice
   variant: danger
+- text: removal-toughness
+  variant: danger
 - text: remove-counters
   variant: primary
+- text: repeatable-creature-tokens
+  variant: warning
 - text: repeatable-draw
   variant: warning
 - text: repeatable-lifegain
@@ -264,19 +414,29 @@
   variant: primary
 - text: repeatable-removal
   variant: danger
+- text: repeatable-rummage
+  variant: warning
 - text: repeatable-token-generator
   variant: warning
 - text: restricted-mana
   variant: primary
+- text: ritual
+  variant: danger
 - text: rummage
   variant: primary
 - text: sacrifice-outlet
+  variant: primary
+- text: sacrifice-outlet-artifact
   variant: primary
 - text: sacrifice-outlet-creature
   variant: primary
 - text: sacrifice-outlet-land
   variant: primary
 - text: sacrifice-outlet-token
+  variant: primary
+- text: sacrifice-self
+  variant: primary
+- text: self-life-loss-matters
   variant: primary
 - text: shade-pump
   variant: primary
@@ -285,11 +445,29 @@
   scope: project
 - text: sneak-land
   variant: primary
+- text: spite-damage
+  variant: primary
 - text: spot-removal
   variant: danger
+- text: start-of-game
+  variant: warning
+- text: sweeper
+  variant: danger
+- text: sweeper-one-sided
+  variant: danger
+- text: symmetrical
+  variant: primary
 - text: synergy-artifact
   variant: primary
+- text: synergy-colorless
+  variant: success
+- text: synergy-equipment
+  variant: primary
 - text: synergy-ichor
+  variant: primary
+- text: synergy-mill
+  variant: primary
+- text: synergy-noncreature
   variant: primary
 - text: synergy-sacrifice
   variant: primary
@@ -301,11 +479,17 @@
   variant: primary
 - text: tap-outlet
   variant: primary
+- text: tapper
+  variant: primary
+- text: tapper-creature
+  variant: primary
 - text: temporary-token
   variant: primary
 - text: theft
   variant: primary
 - text: threaten
+  variant: primary
+- text: token-count-matters
   variant: primary
 - text: token-multiplier
   variant: primary
@@ -318,24 +502,40 @@
   variant: primary
 - text: top-deck-manipulation
   variant: warning
+- text: toughness-matters
+  variant: primary
 - text: triggered-ability
   variant: primary
   scope: project
+- text: tuck
+  variant: primary
+- text: tuck-self
+  variant: warning
 - text: tutor
   variant: danger
 - text: tutor-artifact
   variant: danger
 - text: tutor-land
-  variant: neutral
+  variant: primary
 - text: tutor-land-basic
-  variant: neutral
+  variant: primary
 - text: tutor-land-to-battlefield
-  variant: neutral
+  variant: primary
 - text: type-change
   variant: primary
 - text: unblockable
   variant: warning
+- text: untapper
+  variant: primary
+- text: untaps-self
+  variant: primary
+- text: untracked-indefinite-effect
+  variant: primary
 - text: utility-land
   variant: success
+- text: vanilla-equipment
+  variant: primary
+- text: virtual-french-vanilla
+  variant: primary
 - text: virtual-vanilla
   variant: primary

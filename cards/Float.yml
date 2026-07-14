@@ -28,26 +28,23 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: "0075"
+  autoCollectorNumber: CU13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Put a flying counter on target creature. It cannot attack or block this
-    turn.
+    Put a flying counter on target creature. That creature cannot attack or
+    block this turn.
 
 
     Draw a card.
   flavorText: Sometimes, gravity gets tired of holding you down.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -63,11 +60,20 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - cantrip
   - draw
   - keyword-counter
+  - hand-neutral
+  - prevent-blocker
+  - prevent-attack
+  - gives-flying
+  - flying-counter
 baseName: Float
 imageExports:
   front: Float.jpg

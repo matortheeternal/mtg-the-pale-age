@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Paperobott
-  autoCollectorNumber: "0128"
+  autoCollectorNumber: UB11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,5 +57,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - lifegain
+  - remove-counters
+  - hate-counters
+  - synergy-sacrifice
 baseName: Nibble

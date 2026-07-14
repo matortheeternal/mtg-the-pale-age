@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0066"
+  autoCollectorNumber: CU11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - multiple-bodies
+  - evasion
 baseName: Call of the Skies

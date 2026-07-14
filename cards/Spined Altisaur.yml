@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: "0047"
+  autoCollectorNumber: UW07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cast-trigger
+  - cast-trigger-you
+  - triggered-ability
 baseName: Spined Altisaur

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0110"
+  autoCollectorNumber: RB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,6 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - hand-disruption
 baseName: Horrify

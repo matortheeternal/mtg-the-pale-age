@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: M. Grant Kellermeyer
-  autoCollectorNumber: "0024"
+  autoCollectorNumber: CW11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +61,16 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - hate-blocker
+  - burn
+  - burn-creature
+  - go-wide-matters
+  - activated-ability
+  - mana-sink
+  - removal
+  - removal-burn
+  - removal-creature
+  - repeatable-removal
 baseName: Ghost Company
 oldBaseName: Greatbow Platoon

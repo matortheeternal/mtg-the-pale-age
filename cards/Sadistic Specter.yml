@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0140"
+  autoCollectorNumber: UB05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - evasion
+  - lifegain
+  - repeatable-lifegain
+  - triggered-ability
+  - self-life-loss-matters
+  - life-loss-matters
+  - gains-pp-counters
 baseName: Sadistic Specter

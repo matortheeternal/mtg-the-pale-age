@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Eric He
-  autoCollectorNumber: "0076"
+  autoCollectorNumber: CU14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +62,5 @@ tags:
   - counterspell
   - mill
   - mill-each
+  - mana-value-matters
 baseName: Fragment

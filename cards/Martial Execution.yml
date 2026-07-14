@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0030"
+  autoCollectorNumber: UW14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -56,5 +56,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - burn
+  - burn-creature
+  - removal-burn
+  - spot-removal
+  - hate-attacker
+  - hate-blocker
 baseName: Martial Execution

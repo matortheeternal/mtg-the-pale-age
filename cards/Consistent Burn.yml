@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0172"
+  autoCollectorNumber: UR10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,5 +58,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - cast-trigger
+  - cast-trigger-you
+  - synergy-colorless
+  - burn
+  - burn-any
+  - synergy-sacrifice
+  - removal
+  - pinger
+  - removal-creature
+  - removal-burn
 baseName: Consistent Burn

@@ -9,7 +9,7 @@ front:
   name: Orc Warlord
   manaCost:
     __type: ManaCost
-    symbols: 1RR
+    symbols: 2R
   artImage:
     __type: image
     imageUrl: /project/cards/Orc%20Warlord.jpg
@@ -28,12 +28,13 @@ front:
   showPT: true
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: "0193"
+  autoCollectorNumber: CR05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Bloodthirst 1 (If an opponent was dealt damage this turn, ~ enters with a
     +1/+1 counter on it.)
@@ -42,10 +43,6 @@ front:
     {1}, Remove a +1/+1 counter from ~: Target creature you control gets +2/+0
     and gains menace until end of turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,13 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - gives-menace
+  - gains-pp-counters
+  - remove-counters
 baseName: Orc Warlord

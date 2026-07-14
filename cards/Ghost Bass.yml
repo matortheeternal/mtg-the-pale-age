@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Chris Odgers
-  autoCollectorNumber: "0080"
+  autoCollectorNumber: CU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gains-flying
+  - gives-flying
+  - move-counters
+  - flying-counter
+  - evasion
 baseName: Ghost Bass

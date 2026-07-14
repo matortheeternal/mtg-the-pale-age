@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: tp-h
-  autoCollectorNumber: "0034"
+  autoCollectorNumber: UW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - death-trigger
+  - draw
+  - death-trigger-self
+  - triggered-ability
+  - gives-castable-from-exile
+  - synergy-noncreature
+  - recursion
+  - graveyard-fuel
 baseName: Matilda, the Reader

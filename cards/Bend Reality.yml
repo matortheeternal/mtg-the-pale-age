@@ -28,23 +28,21 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0062"
+  autoCollectorNumber: RU10
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    This spell costs {2} less to cast for each effect on the stack.
+    This spell costs {2} less to cast for each other spell and ability on the
+    stack.
 
 
-    You may reorder the stack and change the targets of any number of spells or
-    abilities.
+    You may choose new targets for any number of other spells and abilities on
+    the stack. Then you may reorder all other spells and abilities on the stack.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +58,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - counterspell
+  - cheaper-than-mv
+  - counterspell-ability
+  - discount-self
+  - change-target
 baseName: Bend Reality

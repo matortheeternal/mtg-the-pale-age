@@ -28,12 +28,13 @@ front:
   showPT: true
   rarity: common
   illustrator: Yudho
-  autoCollectorNumber: "0101"
+  autoCollectorNumber: CU09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flash
 
@@ -41,11 +42,7 @@ front:
     When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
     target player's library. Choose one. Put that card back on top of their
     library and the rest into their graveyard.)
-  flavorText: Have you ever wondered what thoughts taste like? No? They are delectable.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: '"To them, thoughts are delicious."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - peek-library
+  - mill
 baseName: Thought Eater

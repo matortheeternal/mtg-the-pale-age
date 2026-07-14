@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Axel Sauerwald
-  autoCollectorNumber: "0086"
+  autoCollectorNumber: UU16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - combat-arbiter
+  - combat-manipulation
+  - pillowfort
 baseName: Maintenance Shaft

@@ -29,7 +29,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: René Holm
-  autoCollectorNumber: "0171"
+  autoCollectorNumber: UR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,5 +62,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-sink
+  - bottomless-mana-sink
+  - firebreathing
+  - activated-ability
+  - manaless-value
 baseName: Impulsive Scrapling

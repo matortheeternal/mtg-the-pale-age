@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Eric He
-  autoCollectorNumber: "0052"
+  autoCollectorNumber: RW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,5 +60,14 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - mill
+  - mill-self
+  - synergy-noncreature
+  - recursion
+  - graveyard-fuel
+  - recursion-creature
+  - cost-reducer
+  - gives-castable-from-exile
+  - cards-in-exile-matter
 baseName: The Search for Meredith

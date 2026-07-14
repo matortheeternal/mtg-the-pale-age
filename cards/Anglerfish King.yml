@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0061"
+  autoCollectorNumber: MU01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,5 +70,15 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - cheaper-than-mv
+  - graveyard-fuel
+  - gains-menace
+  - gains-trample
+  - gains-first-strike
+  - evasion
+  - mana-sink
+  - force-attacker
+  - combat-manipulation
 baseName: Anglerfish King

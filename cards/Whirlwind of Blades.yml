@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0200"
+  autoCollectorNumber: UR13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,9 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - gives-double-strike
+  - gives-trample
+  - synergy-equipment
+  - combat-trick
 baseName: Whirlwind of Blades

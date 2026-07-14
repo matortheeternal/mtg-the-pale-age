@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Chen Gang
-  autoCollectorNumber: "0104"
+  autoCollectorNumber: CU19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +65,7 @@ tags:
   - removal-nonland
   - cycling
   - draw
+  - tuck
 baseName: Waterspout
 imageExports:
   front: Waterspout.jpg

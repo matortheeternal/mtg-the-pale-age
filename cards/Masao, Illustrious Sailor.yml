@@ -28,23 +28,20 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0086"
+  autoCollectorNumber: RU01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |+
-    ~ can't be blocked.
+  faceSymbol: null
+  rulesText: >
+    @ can't be blocked.
 
-    Whenever ~ becomes the target of a spell or ability, draw a card.
 
-
+    Whenever @ becomes the target of a spell or ability an opponent controls,
+    draw a card.
   flavorText: Masao fought the sea day and night for weeks. Then, he won.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - evasion
@@ -69,4 +70,5 @@ tags:
   - opaline-effect
   - hate-target
   - toll
+  - draw
 baseName: Masao, Illustrious Sailor

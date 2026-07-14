@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Olivia Rampaige
-  autoCollectorNumber: "0092"
+  autoCollectorNumber: UU15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - bounce
+  - removal-bounce
+  - removal-creature
+  - removal-artifact
+  - potentially-free
+  - cheaper-than-mv
 baseName: Rogue Wave

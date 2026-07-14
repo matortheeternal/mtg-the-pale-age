@@ -28,24 +28,19 @@ front:
   showPT: ""
   rarity: common
   illustrator: kidswithghosts
-  autoCollectorNumber: "0036"
+  autoCollectorNumber: CW14
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Enchant creature or artifact
+  faceSymbol: null
+  rulesText: |-
+    Enchant artifact, creature, or planeswalker
 
-
-    Enchanted permanent can't attack or block, and its activated abilities can't
-    be activated.
+    Enchanted permanent loses all abilities and can't attack or block.
   flavorText: Light suffused his face and upper body like a pale flame. He
     screamed, but no matter how he struggled, the light remained.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +56,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - removal-artifact
+  - prevent-attack
+  - prevent-blocker
+  - prevent-activation
 baseName: Overexposure

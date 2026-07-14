@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Juliet Schreckinger
-  autoCollectorNumber: ""
+  autoCollectorNumber: RU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - non-mana-ward
+  - freeze
+  - freeze-land
+  - freeze-creature
+  - freeze-artifact
+  - tapper
 baseName: Colossus Crab

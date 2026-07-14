@@ -19,7 +19,7 @@ front:
     cropHeight: 1355
     xOffset: 0
     yOffset: 475
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,15 +28,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: "0023"
+  autoCollectorNumber: CW16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Destroy target tapped creature or target planeswalker. If it was
-    legendary, you gain 3 life.
+  rulesText: Destroy target tapped creature. Its controller creates a 1/1
+    colorless Spirit creature token with "When this token dies, if it wasn't
+    sacrificed you lose 2 life."
   flavorText: Even legends may fall victim to hubris.
   frame: auto
   artSize: auto
@@ -58,5 +59,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - removal-planeswalker
+  - spot-removal
+  - triggered-ability
+  - death-trigger
+  - synergy-sacrifice
 baseName: Fall from Grace

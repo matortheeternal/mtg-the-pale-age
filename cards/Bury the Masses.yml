@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Boris Groh
-  autoCollectorNumber: "0110"
+  autoCollectorNumber: MB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +64,6 @@ notes: ""
 tags:
   - removal
   - removal-sacrifice
+  - multi-removal
+  - synergy-sacrifice
 baseName: Bury the Masses

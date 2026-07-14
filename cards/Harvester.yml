@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0081"
+  autoCollectorNumber: UU11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,5 +63,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - tapper
+  - tapper-creature
+  - mill
+  - mill-each
+  - gains-indestructible
 baseName: Harvester

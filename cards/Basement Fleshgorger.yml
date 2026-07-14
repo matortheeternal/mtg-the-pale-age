@@ -24,29 +24,27 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Asya Yordanova
-  autoCollectorNumber: "0109"
+  autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Spectacle {1}{B} (You may cast this spell for its spectacle cost if an
-    opponent lost life this turn.)
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
 
 
-    {T}, Sacrifice an artifact or creature: Target player creates a 1/1
-    colorless Spirit creature token with "At the beginning of your end step,
-    sacrifice this token and lose 2 life."
+    {1}, Remove a counter from ~: Target player creates a 1/1 colorless Spirit
+    creature token with "When this token dies, if it wasn't sacrificed you lose
+    2 life."
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +60,18 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - repeatable-token-generator
+  - repeatable-creature-tokens
+  - synergy-sacrifice
+  - sacrifice-outlet-token
+  - gains-pp-counters
+  - remove-counters
 baseName: Basement Fleshgorger

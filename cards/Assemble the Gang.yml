@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Takahashi
-  autoCollectorNumber: "0162"
+  autoCollectorNumber: CR17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,7 +59,8 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - power-boost-to-all
 baseName: Assemble the Gang
 imageExports:
   front: Assemble the Gang.jpg

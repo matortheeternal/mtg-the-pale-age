@@ -28,24 +28,21 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: "0115"
+  autoCollectorNumber: UB14
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Return target creature with mana value 5 or less from your graveyard to the
-    battlefield tapped with a stun counter on it.
+    Return target creature card with mana value 5 or less from your graveyard to
+    the battlefield tapped with a stun counter on it.
   flavorText: The dwellers in the dark have learned that death is but a dream. At
     its end, they wake.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - recursion
+  - recursion-creature
+  - freeze
+  - freeze-creature
+  - mana-value-matters
+  - reanimate-creature
 baseName: Death to Dream

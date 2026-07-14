@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0159"
+  autoCollectorNumber: UR11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,7 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - counters-matter
 baseName: Bloodstained Axe

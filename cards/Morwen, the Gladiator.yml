@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Clement Fevrier
-  autoCollectorNumber: "0188"
+  autoCollectorNumber: RR04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,7 +65,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - life-loss-matters
+  - cheaper-than-mv
+  - cost-reducer
+  - synergy-equipment
 baseName: Morwen, the Gladiator
 imageExports:
   front: Morwen, The Gladiator.jpg

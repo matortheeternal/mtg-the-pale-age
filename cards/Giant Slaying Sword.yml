@@ -28,23 +28,20 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A Shiipwright
-  autoCollectorNumber: "0025"
+  autoCollectorNumber: UW15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     When ~ enters, destroy target creature with power 4 or greater.
 
     Equipped creature gets +4/+4 and has reach.
 
-    Equip {4}
+    Equip {5}
   flavorText: A big sword for solving big problems.
-  chopTop: "5"
-  chopBottom: "5"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "5"
+  chopBottom: "5"
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - spot-removal
+  - hate-high-pt
+  - power-matters
+  - removal-destroy
 baseName: Giant Slaying Sword

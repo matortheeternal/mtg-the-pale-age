@@ -9,7 +9,7 @@ front:
   name: Cataclysmic Wake
   manaCost:
     __type: ManaCost
-    symbols: 2WW
+    symbols: 1WW
   artImage:
     __type: image
     imageUrl: /project/cards/Cataclysmic%20Wake.jpg
@@ -19,7 +19,7 @@ front:
     cropHeight: 423
     xOffset: 0
     yOffset: 391
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,15 +28,17 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Rovina Cai
-  autoCollectorNumber: "13"
+  autoCollectorNumber: RW07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: |-
-    Return target creature you control to its owner's hand.
+  rulesText: >-
+    As an additional cost to cast this spell, return target creature you control
+    to its owner's hand or pay {2}.
+
 
     Destroy all artifacts and enchantments.
   flavorText: The gods have a peculiar, perhaps even perverse sense of justice.

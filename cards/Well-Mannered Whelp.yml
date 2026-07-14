@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Zhelong Xu
-  autoCollectorNumber: "0197"
+  autoCollectorNumber: CR04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mana-rock
+  - restricted-mana
+  - evasion
+  - leaves-battlefield-trigger
+  - triggered-ability
 baseName: Well-Mannered Whelp

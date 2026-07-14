@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0173"
+  autoCollectorNumber: RR08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,5 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - removal-burn
+  - burn
+  - burn-creature
+  - death-trigger
 baseName: Endless Explosion

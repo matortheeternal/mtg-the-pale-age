@@ -28,23 +28,23 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0148"
+  autoCollectorNumber: MR03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flash
 
 
-    Creatures you control have haste and "{T}: This creature fights target
-    creature an opponent controls."
+    Creatures you control have haste.
+
+
+    Whenever a creature you control attacks, you may pay {R}{R}. When you do,
+    that creature fights target creature an opponent controls.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +60,14 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-fight
+  - repeatable-removal
+  - gives-haste
 baseName: Call to Slaughter
