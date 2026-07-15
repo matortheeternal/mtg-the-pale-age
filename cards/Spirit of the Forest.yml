@@ -9,7 +9,7 @@ front:
   name: Spirit of the Forest
   manaCost:
     __type: ManaCost
-    symbols: 1GG
+    symbols: 2G
   artImage:
     __type: image
     imageUrl: /project/cards/Spirit%20of%20the%20Forest.jpg
@@ -20,35 +20,28 @@ front:
     xOffset: 62
     yOffset: 256
   superType: Creature
-  subType: Elemental Spirit
+  subType: Elk Spirit
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "3"
   toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: Peter709
-  autoCollectorNumber: "0238"
+  illustrator: Peter Riekert
+  autoCollectorNumber: UG05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  faceSymbol: null
+  rulesText: >
     Devoid (This card has no color.)
 
 
-    When ~ dies, create an X/X black Horror creature token, where X is its
-    power.
-
-
-    Undying (When this creature dies, if it had no +1/+1 counters on it, return
-    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+    When ~ dies, create an X/X black Spirit Avatar creature token, where X is
+    its power.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +57,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Spirit of the Forest
+imageExports:
+  front: Spirit of the Forest - 47464b04.jpg

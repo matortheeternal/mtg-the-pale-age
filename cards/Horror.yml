@@ -1,0 +1,52 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: b
+      name: black
+      sources:
+        override: true
+  colorOverride:
+    - b
+  name: Horror
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Horror.jpg
+    width: 827
+    height: 992
+    cropWidth: 694
+    cropHeight: 952
+    xOffset: 67
+    yOffset: 0
+  superType: Token Creature
+  subType: Horror
+  power: X
+  toughness: X
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: T14
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Horror
+imageExports:
+  front: Insect - bbcd8442.jpg

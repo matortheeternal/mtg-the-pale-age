@@ -217,8 +217,6 @@
   variant: primary
 - text: gives-mana-ability
   variant: success
-- text: gives-men
-  variant: neutral
 - text: gives-menace
   variant: primary
 - text: gives-pp-counters
@@ -302,6 +300,10 @@
   scope: project
 - text: mill-each
   variant: primary
+- text: mill-exile
+  variant: primary
+- text: mill-opponent
+  variant: primary
 - text: mill-self
   variant: primary
   scope: project
@@ -369,7 +371,7 @@
   variant: primary
   scope: project
 - text: refund
-  variant: neutral
+  variant: warning
 - text: removal
   variant: danger
   scope: project
@@ -486,6 +488,8 @@
 - text: temporary-token
   variant: primary
 - text: theft
+  variant: primary
+- text: theft-cast
   variant: primary
 - text: threaten
   variant: primary

@@ -1,0 +1,52 @@
+front:
+  template: magic/M20/Token
+  colors:
+    - char: b
+      name: black
+      sources:
+        override: true
+  colorOverride:
+    - b
+  name: Shadow of Falroth
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Beast%20Spirit.jpg
+    width: 1080
+    height: 1350
+    cropWidth: 983
+    cropHeight: 1350
+    xOffset: 48
+    yOffset: 0
+  superType: Token Creature
+  subType: Spirit Avatar
+  power: X
+  toughness: X
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: T14
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  rulesText: ""
+  flavorText: null
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  frame: normal
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  otherFrameOptions:
+    tall: false
+notes: ""
+tags: []
+baseName: Shadow of Falroth
+imageExports:
+  front: Insect - bbcd8442.jpg

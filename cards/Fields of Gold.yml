@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Justin Estcourt
-  autoCollectorNumber: UW12
+  autoCollectorNumber: UW13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,7 +39,8 @@ front:
     Enchant land
 
 
-    When ~ enters, exile target creature until ~ leaves the battlefield.
+    When ~ enters, exile target nonland permanent until ~ leaves the
+    battlefield.
 
 
     Enchanted land is a Plains and has "{4}, {T}, Sacrifice this land: Draw a
@@ -75,3 +76,5 @@ tags:
   - triggered-ability
   - activated-ability
 baseName: Fields of Gold
+imageExports:
+  front: Fields of Gold - 40456e08.jpg

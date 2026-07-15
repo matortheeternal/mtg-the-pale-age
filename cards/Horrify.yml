@@ -9,7 +9,7 @@ front:
   name: Horrify
   manaCost:
     __type: ManaCost
-    symbols: 4BBB
+    symbols: 1BBB
   artImage:
     __type: image
     imageUrl: /project/cards/Horrify.jpg
@@ -34,14 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Exile target player's hand. For each card exiled this way, you may
-    play that card for as long as it remains exiled, and mana of any type can be
-    spent to cast that spell. Exile ~.
+  faceSymbol: null
+  rulesText: >
+    Until end of turn, if a card would be put into an opponent’s graveyard from
+    their library, exile it instead. You may play cards exiled this way for as
+    long as they remain exiled. If you cast a spell this way, you may spend mana
+    as though it were mana of any type to cast it.
+
+
+    Target opponent mills three cards.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,7 +59,18 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
-  - hand-disruption
+  - mill
+  - mill-exile
+  - mill-opponent
+  - theft
+  - theft-cast
+  - gives-castable-from-exile
 baseName: Horrify
+imageExports:
+  front: Horrify - e0d489e0.jpg
