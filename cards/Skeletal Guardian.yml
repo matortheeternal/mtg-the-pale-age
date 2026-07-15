@@ -34,16 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Defender
 
-    Whenever ~ enters, create a 1/1 white Human creature token.
+    When ~ enters, create a 1/1 white Human creature token.
   flavorText: It has presided over the city for centuries, offering peace and
     prosperity to all who enter.
-  chopTop: "3"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +56,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "3"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Skeletal Guardian

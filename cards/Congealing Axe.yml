@@ -6,7 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Bloodstained Axe
+  name: Congealing Axe
   manaCost:
     __type: ManaCost
     symbols: R
@@ -34,21 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Bloodthirst 1 (If an opponent was dealt damage this turn, this artifact
-    enters with a +1/+1 counter on it.)
+  faceSymbol: null
+  rulesText: |-
+    Whenever equipped creature deals combat damage, put a +1/+1 counter on it.
 
-
-    Equipped creature gets +X/+X, where X is one plus the number of counters on
-    ~.
-
-
-    Equip {1}
+    Equip {0}
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,10 +55,14 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - activated-ability
   - counters-matter
-baseName: Bloodstained Axe
+baseName: Congealing Axe
 imageExports:
   front: Bloodstained Axe - 66d49ebc.jpg
