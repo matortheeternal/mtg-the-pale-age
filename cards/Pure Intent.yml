@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Riyu008
-  autoCollectorNumber: "0318"
+  autoCollectorNumber: RZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Pure Intent
+imageExports:
+  front: Pure Intent - 19c1f10e.jpg

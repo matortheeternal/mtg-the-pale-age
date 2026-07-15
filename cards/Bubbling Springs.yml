@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Pia Hansen
-  autoCollectorNumber: "0272"
+  autoCollectorNumber: UL06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Bubbling Springs
+imageExports:
+  front: Bubbling Springs - a4c9b7b3.jpg

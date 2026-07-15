@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Brian Serway
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: T04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Dinosaur
+imageExports:
+  front: Dinosaur - 42c39f50.jpg

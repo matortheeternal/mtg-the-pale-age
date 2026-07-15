@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: common
   illustrator: Michal Ivan
-  autoCollectorNumber: "0311"
+  autoCollectorNumber: CZ18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ notes: ""
 tags: []
 baseName: Unrivaled Violence
 imageExports:
-  front: Unrivaled Violence.jpg
+  front: Unrivaled Violence - a02320f1.jpg

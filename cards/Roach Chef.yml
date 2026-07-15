@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Thomas Ott
-  autoCollectorNumber: "0287"
+  autoCollectorNumber: CZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: Roach Chef
+imageExports:
+  front: Roach Chef - e3446628.jpg

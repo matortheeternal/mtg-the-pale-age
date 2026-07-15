@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Russ Nicholson
-  autoCollectorNumber: "0309"
+  autoCollectorNumber: UL08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Mountain Catacombs
+imageExports:
+  front: Mountain Catacombs - 67c1402e.jpg

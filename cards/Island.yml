@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Abhinav Kumar
-  autoCollectorNumber: "0077"
+  autoCollectorNumber: B03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -49,4 +49,4 @@ notes: ""
 tags: []
 baseName: Island
 imageExports:
-  front: Island.jpg
+  front: Island - 58a41afe.jpg

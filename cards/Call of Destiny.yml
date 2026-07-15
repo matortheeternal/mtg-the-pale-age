@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Richard Anderson
-  autoCollectorNumber: "0013"
+  autoCollectorNumber: UW18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ tags:
   - tutor
   - tutor-artifact
 baseName: Call of Destiny
+imageExports:
+  front: Call of Destiny - 7a506c01.jpg

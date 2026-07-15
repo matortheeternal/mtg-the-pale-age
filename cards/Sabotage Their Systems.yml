@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tōru Fujisawa
-  autoCollectorNumber: "0198"
+  autoCollectorNumber: CR15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,3 +69,5 @@ tags:
   - draw
   - cantrip
 baseName: Sabotage Their Systems
+imageExports:
+  front: Sabotage Their Systems - 87a3b9ee.jpg

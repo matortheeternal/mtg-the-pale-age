@@ -24,25 +24,22 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "0"
-  toughness: "4"
+  toughness: "3"
   showPT: true
-  rarity: uncommon
+  rarity: common
   illustrator: Kevin Kupari
-  autoCollectorNumber: UB04
+  autoCollectorNumber: CB03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Whenever ~ is dealt damage, each player loses that much life.
 
-    {T}: ~ deals 2 damage to itself.
+    {T}: ~ deals 1 damage to itself.
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - activated-ability
@@ -66,3 +67,5 @@ tags:
   - symmetrical
   - triggered-ability
 baseName: Pain Channeler
+imageExports:
+  front: Pain Channeler - 4a4f9332.jpg

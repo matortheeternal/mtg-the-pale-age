@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0011"
+  autoCollectorNumber: UW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Bearer of the Unholy
+imageExports:
+  front: Bearer of the Unholy - f24b38b7.jpg

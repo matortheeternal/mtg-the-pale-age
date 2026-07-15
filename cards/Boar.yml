@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jo Baylis
-  autoCollectorNumber: "0210"
+  autoCollectorNumber: T07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Boar
+imageExports:
+  front: Boar - 99c91389.jpg

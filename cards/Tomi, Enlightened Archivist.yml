@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eldar Zakirov
-  autoCollectorNumber: "0340"
+  autoCollectorNumber: RZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ notes: ""
 tags: []
 baseName: Tomi, Enlightened Archivist
 imageExports:
-  front: Tomi, Enlightened Archivist.jpg
+  front: Tomi, Enlightened Archivist - 0e29b4de.jpg

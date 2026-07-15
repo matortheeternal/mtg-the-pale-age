@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brendan Monroe
-  autoCollectorNumber: "0100"
+  autoCollectorNumber: RU07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: The Portal
+imageExports:
+  front: The Portal - 598054ee.jpg

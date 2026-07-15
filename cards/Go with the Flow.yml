@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Valentina Bianconi
-  autoCollectorNumber: "0292"
+  autoCollectorNumber: CZ15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,4 +72,4 @@ tags:
   - mill-self
 baseName: Go with the Flow
 imageExports:
-  front: Go with the Flow.jpg
+  front: Go with the Flow - 85539c08.jpg

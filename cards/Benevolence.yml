@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Hue Teo
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: RW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ notes: Originally this guy had Flying, but I removed it because the flying
   density at common in white was too high (6 cards, 33% of all commons).
 tags: []
 baseName: Benevolence
+imageExports:
+  front: Benevolence - 2c7548a5.jpg

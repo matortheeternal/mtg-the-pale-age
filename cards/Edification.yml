@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Diego Andrade
-  autoCollectorNumber: "0278"
+  autoCollectorNumber: UZ14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: Edification
+imageExports:
+  front: Edification - 7890c783.jpg

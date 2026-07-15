@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Gustave Carlier
-  autoCollectorNumber: "0262"
+  autoCollectorNumber: UL07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Abundant Paradise
+imageExports:
+  front: Abundant Paradise - c0019bb4.jpg

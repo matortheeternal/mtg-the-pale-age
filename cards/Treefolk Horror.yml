@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: T06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,4 +48,6 @@ front:
     tall: false
 notes: ""
 tags: []
-baseName: Dryad Horror
+baseName: Treefolk Horror
+imageExports:
+  front: Treefolk Horror - 37f52465.jpg

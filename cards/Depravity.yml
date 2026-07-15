@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nekromold
-  autoCollectorNumber: RB03
+  autoCollectorNumber: RB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,3 +75,5 @@ tags:
   - draw
   - sacrifice-self
 baseName: Depravity
+imageExports:
+  front: Depravity - c254518c.jpg

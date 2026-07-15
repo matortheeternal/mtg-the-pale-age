@@ -5,7 +5,7 @@ front:
   subType: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: "0003"
+  autoCollectorNumber: T20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,3 +38,5 @@ front:
 notes: ""
 tags: []
 baseName: Origin- The Killer-2
+imageExports:
+  front: Origin- The Killer-2 - bcd37327.jpg

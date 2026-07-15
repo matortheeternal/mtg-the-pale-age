@@ -19,7 +19,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nico Delort
-  autoCollectorNumber: "0009"
+  autoCollectorNumber: T15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,3 +43,5 @@ front:
 notes: ""
 tags: []
 baseName: Ichor
+imageExports:
+  front: Ichor - 374d7de2.jpg

@@ -34,7 +34,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Garis Edelweiss
-  autoCollectorNumber: "0314"
+  autoCollectorNumber: RZ11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Origin- The Guest
+imageExports:
+  front: Origin- The Guest - 4686f5cf.jpg

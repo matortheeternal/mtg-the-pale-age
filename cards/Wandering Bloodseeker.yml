@@ -32,23 +32,21 @@ front:
   showPT: true
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: "0350"
+  autoCollectorNumber: CZ05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
     enters with two +1/+1 counters on it.)
 
 
-    Remove a +1/+1 counter from ~: ~ deals 1 damage to any target.
+    {1}, Remove a +1/+1 counter from ~: ~ deals 1 damage to any target. Activate
+    only as a sorcery.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +62,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Wandering Bloodseeker
+imageExports:
+  front: Wandering Bloodseeker - 31e90ac6.jpg

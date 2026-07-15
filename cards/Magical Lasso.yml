@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0285"
+  autoCollectorNumber: RZ13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Magical Lasso
+imageExports:
+  front: Magical Lasso - a665cf30.jpg

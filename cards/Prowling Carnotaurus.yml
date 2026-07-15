@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Andrzej Sych
-  autoCollectorNumber: "0180"
+  autoCollectorNumber: CR09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +62,4 @@ notes: ""
 tags: []
 baseName: Prowling Carnotaurus
 imageExports:
-  front: Prowling Carnotaurus.jpg
+  front: Prowling Carnotaurus - a159eb26.jpg

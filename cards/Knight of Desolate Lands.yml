@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Richard Anderson
-  autoCollectorNumber: "0033"
+  autoCollectorNumber: CW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ tags:
   - triggered-ability
   - bear-with-set-mechanic
 baseName: Knight of Desolate Lands
+imageExports:
+  front: Knight of Desolate Lands - 86b16512.jpg

@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: "0305"
+  autoCollectorNumber: UL05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Looming Towers
+imageExports:
+  front: Looming Towers - dd770e6e.jpg

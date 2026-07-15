@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Anthony Lejeune
-  autoCollectorNumber: "0319"
+  autoCollectorNumber: UZ23
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Purity of Purpose
+imageExports:
+  front: Purity of Purpose - 2af121f1.jpg

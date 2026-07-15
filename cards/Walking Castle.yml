@@ -24,23 +24,20 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Longquechen
-  autoCollectorNumber: "0366"
+  autoCollectorNumber: UL01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {T}: Add {C}.
 
 
-    {4}: ~ becomes a 2/5 colorless Construct creature with defender. It's still
-    a land.
+    {3}: ~ becomes a 3/5 colorless Construct creature until the end of your next
+    turn. It's still a land.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - animate-self
@@ -64,3 +65,5 @@ tags:
   - activated-ability
   - utility-land
 baseName: Walking Castle
+imageExports:
+  front: Walking Castle - 14e238f8.jpg

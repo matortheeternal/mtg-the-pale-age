@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Dmitri Burkov
-  autoCollectorNumber: "0309"
+  autoCollectorNumber: RZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: Mr. Cosmos
+imageExports:
+  front: Mr. Cosmos - 8f025401.jpg

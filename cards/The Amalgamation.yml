@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0336"
+  autoCollectorNumber: MZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: The Amalgamation
+imageExports:
+  front: The Amalgamation - 31fa0de5.jpg

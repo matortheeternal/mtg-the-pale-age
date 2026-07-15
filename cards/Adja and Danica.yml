@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Jan Wessbecher
-  autoCollectorNumber: "0265"
+  autoCollectorNumber: RZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ notes: ""
 tags: []
 baseName: Adja and Danica
 imageExports:
-  front: Adja and Danica.jpg
+  front: Adja and Danica - 6270ac29.jpg

@@ -340,7 +340,6 @@ cards:
   - The Amalgamation
   - Hounded by Death
   - Mountain Catacombs
-  - Wendigo
   - Undead Moose
   - Turn into a Tree
   - Toxic Jungle
@@ -444,6 +443,7 @@ cards:
   - Disgrace
   - Abyss Dweller-2
   - Shadow of Falroth
+  - Wendigo
 skeleton:
   White:
     mythic: []

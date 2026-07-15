@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: M. Grant Kellermeyer
-  autoCollectorNumber: "0130"
+  autoCollectorNumber: B01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Swamp
+imageExports:
+  front: Swamp - 971364f4.jpg

@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Dianita
-  autoCollectorNumber: "0029"
+  autoCollectorNumber: T08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Human
+imageExports:
+  front: Human - 77d525e8.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Lewis LaRosa
-  autoCollectorNumber: "0300"
+  autoCollectorNumber: RZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,4 +73,4 @@ tags:
   - gives-pp-counters
 baseName: Ivar and Signe, Huntsworn
 imageExports:
-  front: Ivar and Signe, Huntsworn.jpg
+  front: Ivar and Signe, Huntsworn - 96e1c5fe.jpg

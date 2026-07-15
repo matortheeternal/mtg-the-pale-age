@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tom Cuzor
-  autoCollectorNumber: "0187"
+  autoCollectorNumber: CR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ tags:
   - pinger
 baseName: Mistress of Flames
 imageExports:
-  front: Mistress of Flames.jpg
+  front: Mistress of Flames - a6bd1133.jpg

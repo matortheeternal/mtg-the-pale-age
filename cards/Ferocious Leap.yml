@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: "0152"
+  autoCollectorNumber: CR13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Ferocious Leap
+imageExports:
+  front: Ferocious Leap - e77bf07c.jpg

@@ -34,20 +34,18 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    ~ enters with a defender counter on it.
+    ~ enters with a curious counter on it. (Whenever a creature with curious
+    deals damage to an opponent, you may draw a card.)
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
   flavorText: Sit upon its back, and wonder.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -63,9 +61,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - move-counters
-  - gains-defender
-  - gives-defender
+  - gains-curious
+  - gives-curious
 baseName: Ancient Whale
+imageExports:
+  front: Ancient Whale - d10b0d9c.jpg

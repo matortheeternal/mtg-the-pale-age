@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Konstantin Vavilov
-  autoCollectorNumber: "0014"
+  autoCollectorNumber: UW10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ notes: +maybe create a 1/1 white human creature token on etb, and then change
   stats to 1/2 and scry to scry 1?
 tags: []
 baseName: Cloud Skimmer
+imageExports:
+  front: Cloud Skimmer - 59a3f1bd.jpg

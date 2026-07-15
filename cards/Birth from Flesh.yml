@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Yuri Shashiki
-  autoCollectorNumber: "0271"
+  autoCollectorNumber: CZ12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ notes: ""
 tags: []
 baseName: Birth from Flesh
 imageExports:
-  front: Birth from Flesh.jpg
+  front: Birth from Flesh - 4746b554.jpg

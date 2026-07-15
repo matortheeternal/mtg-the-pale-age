@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: "0261"
+  autoCollectorNumber: RZ20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Immolation
+imageExports:
+  front: Immolation - 5d05f4cd.jpg

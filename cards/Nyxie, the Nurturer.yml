@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0287"
+  autoCollectorNumber: MZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,3 +72,5 @@ front:
 notes: ""
 tags: []
 baseName: Nyxie, the Nurturer
+imageExports:
+  front: Nyxie, the Nurturer - 5afa64d8.jpg

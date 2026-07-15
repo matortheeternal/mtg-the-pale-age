@@ -34,7 +34,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Samuel Araya
-  autoCollectorNumber: "0315"
+  autoCollectorNumber: RZ12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: Origin- The Killer
+imageExports:
+  front: Origin- The Killer - a80a1c04.jpg

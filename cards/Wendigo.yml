@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Hege
-  autoCollectorNumber: UZ06
+  autoCollectorNumber: UZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,8 +48,8 @@ front:
     they had.)
 
 
-    Whenever ~ attacks, each opponent loses X life and you gain X life, where X
-    is half ~'s power, rounded down.
+    When ~ enters, each opponent loses X life and you gain X life where X is its
+    power.
   flavorText: null
   frame: devoid
   artSize: auto
@@ -72,6 +72,6 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Wendigo
+baseName: Wendigo-2
 imageExports:
-  front: Wendigo.jpg
+  front: Wendigo - 0909fe2b.jpg

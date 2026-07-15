@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0345"
+  autoCollectorNumber: UZ27
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: Unstoppable Force
+imageExports:
+  front: Unstoppable Force - fc4641d9.jpg

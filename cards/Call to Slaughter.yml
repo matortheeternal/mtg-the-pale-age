@@ -36,9 +36,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    Flash
-
-
     Creatures you control have haste.
 
 
@@ -71,3 +68,5 @@ tags:
   - repeatable-removal
   - gives-haste
 baseName: Call to Slaughter
+imageExports:
+  front: Call to Slaughter - f0546d16.jpg

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: John Walker
-  autoCollectorNumber: "0254"
+  autoCollectorNumber: RG03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
 notes: ""
 tags: []
 baseName: Falroth Integrator
+imageExports:
+  front: Falroth Integrator - 2e22646c.jpg

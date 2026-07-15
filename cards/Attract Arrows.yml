@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UW13
+  autoCollectorNumber: UW12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ tags:
   - combat-trick
   - gives-indestructible
 baseName: Attract Arrows
+imageExports:
+  front: Attract Arrows - 0dd39ca7.jpg

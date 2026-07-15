@@ -9,7 +9,7 @@ front:
   name: Master of Agonies
   manaCost:
     __type: ManaCost
-    symbols: 1B
+    symbols: 2B
   artImage:
     __type: image
     imageUrl: /project/cards/Master%20of%20Agonies.jpg
@@ -28,21 +28,19 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: CB03
+  autoCollectorNumber: CB06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >+
+  rulesText: >
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    {1}, {T}, Discard a card: Each player loses 3 life.
-
-
+    {1}, {T}, Discard a card: Target player loses 2 life.
   flavorText: null
   frame: auto
   artSize: auto
@@ -74,3 +72,5 @@ tags:
   - cheat-death-self
   - gains-pp-counters
 baseName: Master of Agonies
+imageExports:
+  front: Master of Agonies - 5bb93dba.jpg

@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Leo Rose
-  autoCollectorNumber: "0310"
+  autoCollectorNumber: RZ17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ front:
 notes: ""
 tags: []
 baseName: Snuff, Silence, and Subdue
+imageExports:
+  front: Snuff, Silence, and Subdue - 3a2319ca.jpg

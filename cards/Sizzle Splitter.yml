@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0330"
+  autoCollectorNumber: UZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -77,3 +77,5 @@ tags:
   - gains-haste
   - firebreathing
 baseName: Sizzle Splitter
+imageExports:
+  front: Sizzle Splitter - ff195e56.jpg

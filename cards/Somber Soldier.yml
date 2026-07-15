@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Geirrod Van Dyke
-  autoCollectorNumber: "0046"
+  autoCollectorNumber: UW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Somber Soldier
+imageExports:
+  front: Somber Soldier - d0d42281.jpg

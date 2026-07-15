@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Samuel Araya
-  autoCollectorNumber: "0224"
+  autoCollectorNumber: MG01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Ea, Forgotten Queen
+imageExports:
+  front: Ea, Forgotten Queen - 94dfa251.jpg

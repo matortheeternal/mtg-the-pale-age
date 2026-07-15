@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tatiana Tsiguleva
-  autoCollectorNumber: "0264"
+  autoCollectorNumber: CZ11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ notes: ""
 tags: []
 baseName: Abyssal Gaze
 imageExports:
-  front: Abyssal Gaze.jpg
+  front: Abyssal Gaze - 0438ecca.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Shaun Keenan
-  autoCollectorNumber: "0214"
+  autoCollectorNumber: CZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Dino Trainer
+imageExports:
+  front: Dino Trainer - c9af2d3e.jpg

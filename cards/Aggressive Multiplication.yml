@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: UG16
+  autoCollectorNumber: UG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,4 +74,4 @@ tags:
   - delayed-trigger
 baseName: Aggressive Multiplication
 imageExports:
-  front: Aggressive Multiplication - 1a5e479a.jpg
+  front: Aggressive Multiplication - bfafffd5.jpg

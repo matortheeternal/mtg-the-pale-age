@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: James Lipnickas
-  autoCollectorNumber: "0032"
+  autoCollectorNumber: UW11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,3 +59,5 @@ front:
 notes: ""
 tags: []
 baseName: Karmic Debt
+imageExports:
+  front: Karmic Debt - 9cac6b53.jpg

@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: "0275"
+  autoCollectorNumber: UZ28
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Pluck
+imageExports:
+  front: Pluck - 8587d6ae.jpg

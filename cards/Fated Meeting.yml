@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Tom Cuzor
-  autoCollectorNumber: "0190"
+  autoCollectorNumber: RG09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,3 +57,5 @@ front:
 notes: ""
 tags: []
 baseName: Fated Meeting
+imageExports:
+  front: Fated Meeting - 4a1362b1.jpg

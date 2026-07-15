@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Jaehyeon Lee
-  autoCollectorNumber: "0217"
+  autoCollectorNumber: UG11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Branching Horror
+imageExports:
+  front: Branching Horror - a173f4a6.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: "0308"
+  autoCollectorNumber: CZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ tags:
   - life-loss-matters
   - french-vanilla
 baseName: Marrow Colossus
+imageExports:
+  front: Marrow Colossus - ae921292.jpg

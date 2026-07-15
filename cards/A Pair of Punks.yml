@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: common
   illustrator: EmDee08
-  autoCollectorNumber: "0002"
+  autoCollectorNumber: CW19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: A Pair of Punks
+imageExports:
+  front: A Pair of Punks - f7449b62.jpg

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Min Tayza
-  autoCollectorNumber: "0013"
+  autoCollectorNumber: CW12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Colossal Pteradactyl
+imageExports:
+  front: Colossal Pteradactyl - 26c12dee.jpg

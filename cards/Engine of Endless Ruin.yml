@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: George Munteanu
-  autoCollectorNumber: "0356"
+  autoCollectorNumber: RA03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: Engine of Endless Ruin
+imageExports:
+  front: Engine of Endless Ruin - 7db4bd0b.jpg

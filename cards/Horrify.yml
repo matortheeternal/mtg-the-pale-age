@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RB10
+  autoCollectorNumber: RB09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,4 +73,4 @@ tags:
   - gives-castable-from-exile
 baseName: Horrify
 imageExports:
-  front: Horrify - e0d489e0.jpg
+  front: Horrify - 4249c686.jpg

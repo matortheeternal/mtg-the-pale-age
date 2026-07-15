@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Abelardo
-  autoCollectorNumber: "0303"
+  autoCollectorNumber: MZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ front:
 notes: ""
 tags: []
 baseName: Kikuki, Infinite Torment
+imageExports:
+  front: Kikuki, Infinite Torment - bba31016.jpg

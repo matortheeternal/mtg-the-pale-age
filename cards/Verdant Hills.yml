@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tanner Stahelli
-  autoCollectorNumber: "0348"
+  autoCollectorNumber: UL10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Verdant Hills
+imageExports:
+  front: Verdant Hills - fce04e86.jpg

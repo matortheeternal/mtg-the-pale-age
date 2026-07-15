@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Borislav Mitkov
-  autoCollectorNumber: "0029"
+  autoCollectorNumber: UW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Grizzled Instructor
+imageExports:
+  front: Grizzled Instructor - 962c53c1.jpg

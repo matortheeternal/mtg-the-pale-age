@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0268"
+  autoCollectorNumber: MZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Awakened Continent
+imageExports:
+  front: Awakened Continent - 759312b2.jpg

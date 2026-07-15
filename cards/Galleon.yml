@@ -71,3 +71,5 @@ tags:
   - repeatable-loot
   - repeatable-draw
 baseName: Galleon
+imageExports:
+  front: Galleon - 0471d712.jpg

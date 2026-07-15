@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Massimiliano Haematinon Nigro
-  autoCollectorNumber: "0201"
+  autoCollectorNumber: RG05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Poise
+imageExports:
+  front: Poise - 773efac4.jpg

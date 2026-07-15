@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Groeling
-  autoCollectorNumber: "0269"
+  autoCollectorNumber: UZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Beast of the Woods
+imageExports:
+  front: Beast of the Woods - ed761183.jpg

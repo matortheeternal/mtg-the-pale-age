@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: "0088"
+  autoCollectorNumber: UU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ tags:
   - repeatable-draw
   - activated-ability
 baseName: Merfolk Tidetuner
+imageExports:
+  front: Merfolk Tidetuner - add7d5e9.jpg

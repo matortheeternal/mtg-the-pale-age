@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Nicholus Stathopoulos
-  autoCollectorNumber: "0274"
+  autoCollectorNumber: UL12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Derelict Doorway
+imageExports:
+  front: Derelict Doorway - d0057bf3.jpg

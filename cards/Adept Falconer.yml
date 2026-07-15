@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Marta Sokołowska
-  autoCollectorNumber: "0057"
+  autoCollectorNumber: CU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ tags:
   - mill-self
 baseName: Adept Falconer
 imageExports:
-  front: Adept Falconer.jpg
+  front: Adept Falconer - f1241bb5.jpg

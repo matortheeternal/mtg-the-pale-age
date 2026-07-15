@@ -19,7 +19,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kevin Macio
-  autoCollectorNumber: "0004"
+  autoCollectorNumber: T05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,3 +43,5 @@ front:
 notes: ""
 tags: []
 baseName: Giant
+imageExports:
+  front: Giant - 3a9b2706.jpg

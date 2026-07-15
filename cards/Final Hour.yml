@@ -28,7 +28,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Beau Brynes
-  autoCollectorNumber: UB16
+  autoCollectorNumber: UB17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ tags:
   - sacrifice-outlet-token
   - sacrifice-outlet-creature
 baseName: Final Hour
+imageExports:
+  front: Final Hour - 4f8abe17.jpg

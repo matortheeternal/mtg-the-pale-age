@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Rachel Carpentier
-  autoCollectorNumber: "0317"
+  autoCollectorNumber: RA04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Population Regulator
+imageExports:
+  front: Population Regulator - 30694fb0.jpg

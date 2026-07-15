@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Craww
-  autoCollectorNumber: "0257"
+  autoCollectorNumber: RG08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Thrive in Adversity
+imageExports:
+  front: Thrive in Adversity - 949c3a24.jpg

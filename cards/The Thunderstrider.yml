@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Jakub Rozalski
-  autoCollectorNumber: "0340"
+  autoCollectorNumber: MZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,3 +72,5 @@ front:
 notes: ""
 tags: []
 baseName: The Thunderstrider
+imageExports:
+  front: The Thunderstrider - bacbede7.jpg

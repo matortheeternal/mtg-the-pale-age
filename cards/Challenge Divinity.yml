@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0014"
+  autoCollectorNumber: RW08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Challenge Divinity
+imageExports:
+  front: Challenge Divinity - ae2244b7.jpg

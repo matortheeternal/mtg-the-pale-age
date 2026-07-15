@@ -9,7 +9,7 @@ front:
   name: Law of the Jungle
   manaCost:
     __type: ManaCost
-    symbols: 2G
+    symbols: 3G
   artImage:
     __type: image
     imageUrl: /project/cards/Jungle.jpg
@@ -28,26 +28,24 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Amin Talebi
-  autoCollectorNumber: "0234"
+  autoCollectorNumber: UG18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flash
 
 
-    When ~ enters, create a 2/2 green Dinosaur creature token.
+    When ~ enters, target creature you control fights target creature an
+    opponent controls.
 
 
-    Swarm - Whenever one or more tokens you control enter, target creature you
-    control fights target creature an opponent controls.
+    If one or more tokens would be created under your control, those tokens plus
+    an additional 2/2 green Dinosaur creature token are created instead. 
   flavorText: null
-  chopTop: "2"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +61,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Law of the Jungle
+imageExports:
+  front: Law of the Jungle - 9fba71c4.jpg

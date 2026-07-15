@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0259"
+  autoCollectorNumber: RZ18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Electric Inspiration
+imageExports:
+  front: Electric Inspiration - 9ba4b9f5.jpg
