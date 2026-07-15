@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0215"
+  autoCollectorNumber: UG06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Bleak Survivalist
+imageExports:
+  front: Bleak Survivalist - 59b8bd6c.jpg

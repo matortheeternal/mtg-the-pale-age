@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Dmitri Burnou
-  autoCollectorNumber: "0278"
+  autoCollectorNumber: UZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Divine Duality
+imageExports:
+  front: Divine Duality - fce1bb75.jpg

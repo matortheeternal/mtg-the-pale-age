@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brian Luong
-  autoCollectorNumber: "0042"
+  autoCollectorNumber: RW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
 notes: ""
 tags: []
 baseName: Seal Within
+imageExports:
+  front: Seal Within - faf8de67.jpg

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0207"
+  autoCollectorNumber: MG03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Greener Pastures
+imageExports:
+  front: Greener Pastures - aeb076d1.jpg

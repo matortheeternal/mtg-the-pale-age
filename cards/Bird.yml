@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Dugald Stewart Walker
-  autoCollectorNumber: "0061"
+  autoCollectorNumber: T02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Bird
+imageExports:
+  front: Bird - 1b00b738.jpg

@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: common
   illustrator: ""
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: T11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Copy
+imageExports:
+  front: Copy - 0c34021a.jpg

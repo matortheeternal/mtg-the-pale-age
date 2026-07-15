@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Wren Farren
-  autoCollectorNumber: "0170"
+  autoCollectorNumber: CR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ tags:
   - potentially-free
   - chaper-than-mv
 baseName: Cinder Sprite
+imageExports:
+  front: Cinder Sprite - b94e1a59.jpg

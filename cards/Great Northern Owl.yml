@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tu Bui
-  autoCollectorNumber: "0026"
+  autoCollectorNumber: CW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Great Northern Owl
+imageExports:
+  front: Great Northern Owl - 0bd75e4a.jpg

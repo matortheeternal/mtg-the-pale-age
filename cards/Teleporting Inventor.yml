@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0099"
+  autoCollectorNumber: UU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,3 +72,5 @@ tags:
   - recursion
   - gives-castable-from-exile
 baseName: Teleporting Inventor
+imageExports:
+  front: Teleporting Inventor - be4e68d3.jpg

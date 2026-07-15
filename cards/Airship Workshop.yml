@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Georgi Karadenizov
-  autoCollectorNumber: "0003"
+  autoCollectorNumber: RL01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Airship Workshop
+imageExports:
+  front: Airship Workshop - 4743b9ae.jpg

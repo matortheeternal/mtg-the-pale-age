@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0281"
+  autoCollectorNumber: RZ15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Ember Invocation
+imageExports:
+  front: Ember Invocation - dc2b371a.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0347"
+  autoCollectorNumber: UZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,3 +69,5 @@ front:
 notes: ""
 tags: []
 baseName: Unspeakable Monstrosity
+imageExports:
+  front: Unspeakable Monstrosity - e68431bc.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rochaku
-  autoCollectorNumber: "0301"
+  autoCollectorNumber: UZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Keeper of the Pride
+imageExports:
+  front: Keeper of the Pride - 27fbdb7b.jpg

@@ -32,27 +32,21 @@ front:
   showPT: true
   rarity: common
   illustrator: Ryan Van Dongen
-  autoCollectorNumber: "0267"
+  autoCollectorNumber: CZ02
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    ~ enters with a defender counter on it.
-
-
-    ~ enters with a +1/+1 counter on it.
+    ~ enters with a defender counter and a +1/+1 counter on it.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
   flavorText: Stuck to a rock like a clam, it waits patiently to steal a means of
     locomotion.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -68,6 +62,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Armored Hybrid
+imageExports:
+  front: Armored Hybrid - 10b00b49.jpg

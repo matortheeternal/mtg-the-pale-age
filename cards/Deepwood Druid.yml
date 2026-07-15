@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Veli Nyström
-  autoCollectorNumber: "0219"
+  autoCollectorNumber: UG02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ tags:
   - ramp
   - gives-pp-counters
 baseName: Deepwood Druid
+imageExports:
+  front: Deepwood Druid - bfeb7dfd.jpg

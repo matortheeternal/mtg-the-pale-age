@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Paul Callé
-  autoCollectorNumber: "0314"
+  autoCollectorNumber: RA05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,3 +61,5 @@ front:
 notes: ""
 tags: []
 baseName: Panopticon
+imageExports:
+  front: Panopticon - 82186b6d.jpg

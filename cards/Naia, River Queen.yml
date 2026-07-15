@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Ekaterine Ejibia
-  autoCollectorNumber: "0311"
+  autoCollectorNumber: RZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -87,4 +87,4 @@ tags:
   - gives-pp-counters
 baseName: Naia, River Queen
 imageExports:
-  front: Naia, River Queen.jpg
+  front: Naia, River Queen - fd086ad6.jpg

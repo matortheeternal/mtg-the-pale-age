@@ -23,32 +23,26 @@ front:
   subType: Ooze
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "1"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Jonathan Lamantia
-  autoCollectorNumber: "0251"
+  autoCollectorNumber: CG05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
     enters with three +1/+1 counters on it.)
 
 
-    Defender
-
-
     {1}, Remove a +1/+1 counter from ~: Put a +1/+1 counter on target creature
     you control.
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gains-pp-counters
@@ -71,4 +69,4 @@ tags:
   - activated-ability
 baseName: Tangle of Teeth
 imageExports:
-  front: Jungle Tiger.jpg
+  front: Tangle of Teeth - 7c542e4a.jpg

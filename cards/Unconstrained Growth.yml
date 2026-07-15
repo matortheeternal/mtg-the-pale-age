@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0258"
+  autoCollectorNumber: RG07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Unconstrained Growth
+imageExports:
+  front: Unconstrained Growth - 093bbf58.jpg

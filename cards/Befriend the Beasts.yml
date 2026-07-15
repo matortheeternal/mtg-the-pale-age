@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lindsey Martin Gardner
-  autoCollectorNumber: "0269"
+  autoCollectorNumber: CZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ notes: |-
   buffs
 tags: []
 baseName: Befriend the Beasts
+imageExports:
+  front: Befriend the Beasts - 80cc131a.jpg

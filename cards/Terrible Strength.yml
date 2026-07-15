@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Wizard Cleave
-  autoCollectorNumber: "0334"
+  autoCollectorNumber: UZ20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ notes: ""
 tags: []
 baseName: Terrible Strength
 oldBaseName: Squeeze
+imageExports:
+  front: Terrible Strength - ee698adc.jpg

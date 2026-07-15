@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Gustave Dore
-  autoCollectorNumber: "0022"
+  autoCollectorNumber: MW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Exaltation
+imageExports:
+  front: Exaltation - 36a4dcaf.jpg

@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0212"
+  autoCollectorNumber: UG14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Behold with Awe
+imageExports:
+  front: Behold with Awe - 2d057510.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rabab Elghamry
-  autoCollectorNumber: "0240"
+  autoCollectorNumber: UZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Skeletal Screecher
+imageExports:
+  front: Skeletal Screecher - 60aadfc2.jpg

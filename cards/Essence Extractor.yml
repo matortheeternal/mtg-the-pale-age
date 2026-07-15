@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: "0357"
+  autoCollectorNumber: RA02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ notes: ""
 tags: []
 baseName: Essence Extractor
 imageExports:
-  front: Essence Extractor.jpg
+  front: Essence Extractor - c1c2c2e8.jpg

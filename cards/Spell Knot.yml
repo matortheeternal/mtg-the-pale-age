@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: "0096"
+  autoCollectorNumber: UU12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ tags:
   - counterspell
   - counterspell-soft
 baseName: Spell Knot
+imageExports:
+  front: Spell Knot - f3abdebd.jpg

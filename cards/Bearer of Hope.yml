@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0009"
+  autoCollectorNumber: UW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Bearer of Hope
+imageExports:
+  front: Bearer of Hope - c62d35e1.jpg

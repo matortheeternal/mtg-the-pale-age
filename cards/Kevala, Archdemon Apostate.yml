@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0275"
+  autoCollectorNumber: RZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,4 +74,4 @@ notes: ""
 tags: []
 baseName: Kevala, Archdemon Apostate
 imageExports:
-  front: Kevala, Archdemon Apostate.jpg
+  front: Kevala, Archdemon Apostate - d1ebc564.jpg

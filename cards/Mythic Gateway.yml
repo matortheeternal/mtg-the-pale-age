@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0074"
+  autoCollectorNumber: RG10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,3 +59,5 @@ front:
 notes: ""
 tags: []
 baseName: Mythic Gateway
+imageExports:
+  front: Mythic Gateway - 07b8559c.jpg

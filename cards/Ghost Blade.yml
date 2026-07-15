@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB15
+  autoCollectorNumber: UB16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ tags:
   - removal-creature
   - synergy-sacrifice
 baseName: Ghost Blade
+imageExports:
+  front: Ghost Blade - 8565ea73.jpg

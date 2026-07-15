@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Izabela Arsovska-Braukmann
-  autoCollectorNumber: "0040"
+  autoCollectorNumber: CW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
 notes: ""
 tags: []
 baseName: Sandswept Ace
+imageExports:
+  front: Sandswept Ace - 580b553a.jpg

@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Manuel Javier Norena Castano
-  autoCollectorNumber: "0290"
+  autoCollectorNumber: UL02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Forgotten Tributary
+imageExports:
+  front: Forgotten Tributary - 27badb09.jpg

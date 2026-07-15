@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Richard Anderson
-  autoCollectorNumber: "0053"
+  autoCollectorNumber: UW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: Veteran Chauffeur
+imageExports:
+  front: Veteran Chauffeur - 5be3d0d6.jpg

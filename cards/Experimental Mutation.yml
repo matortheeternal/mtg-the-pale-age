@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Bernard Dumaine
-  autoCollectorNumber: "0260"
+  autoCollectorNumber: RZ19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Experimental Mutation
+imageExports:
+  front: Experimental Mutation - 6098dd89.jpg

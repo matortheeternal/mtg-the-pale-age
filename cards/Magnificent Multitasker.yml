@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Marcelo Gonzalez
-  autoCollectorNumber: "0230"
+  autoCollectorNumber: CZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
 notes: ""
 tags: []
 baseName: Magnificent Multitasker
+imageExports:
+  front: Magnificent Multitasker - 178f9a39.jpg

@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: "0304"
+  autoCollectorNumber: UZ12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Turn into a Tree
+imageExports:
+  front: Turn into a Tree - 512b54e2.jpg

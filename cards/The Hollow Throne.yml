@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB13
+  autoCollectorNumber: UB14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ tags:
   - synergy-colorless
   - opponent-loses-life
 baseName: The Hollow Throne
+imageExports:
+  front: The Hollow Throne - 940713be.jpg

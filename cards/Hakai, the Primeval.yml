@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: David Lee
-  autoCollectorNumber: "0177"
+  autoCollectorNumber: MR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Hakai, the Primeval
+imageExports:
+  front: Hakai, the Primeval - 9e4b017a.jpg

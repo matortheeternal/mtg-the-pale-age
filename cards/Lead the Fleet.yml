@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Grandville
-  autoCollectorNumber: "0179"
+  autoCollectorNumber: UR16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Lead the Fleet
+imageExports:
+  front: Lead the Fleet - 6cdb68d5.jpg

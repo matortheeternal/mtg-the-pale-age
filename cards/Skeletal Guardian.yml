@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: George Brad
-  autoCollectorNumber: "0043"
+  autoCollectorNumber: CW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,3 +62,5 @@ front:
 notes: ""
 tags: []
 baseName: Skeletal Guardian
+imageExports:
+  front: Skeletal Guardian - 5072d65c.jpg

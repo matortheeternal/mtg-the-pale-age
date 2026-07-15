@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Andrei Riabovitchev
-  autoCollectorNumber: "0317"
+  autoCollectorNumber: CZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ notes: ""
 tags: []
 baseName: Professor Skellington
 imageExports:
-  front: Professor Skellington.jpg
+  front: Professor Skellington - a37e386c.jpg

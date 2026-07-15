@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: pilyeon
-  autoCollectorNumber: "0035"
+  autoCollectorNumber: CW15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Offer Salvation
+imageExports:
+  front: Offer Salvation - 59e28eb7.jpg

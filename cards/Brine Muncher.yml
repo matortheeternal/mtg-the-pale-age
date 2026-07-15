@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0271"
+  autoCollectorNumber: CZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ tags:
   - synergy-ichor
   - mana-spent-matters
 baseName: Brine Muncher
+imageExports:
+  front: Brine Muncher - 336d7165.jpg

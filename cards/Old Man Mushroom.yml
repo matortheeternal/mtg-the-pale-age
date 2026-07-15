@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0242"
+  autoCollectorNumber: UG01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ tags:
   - synergy-sacrifice
   - synergy-sacrifice-self
 baseName: Old Man Mushroom
+imageExports:
+  front: Old Man Mushroom - a5fa7146.jpg

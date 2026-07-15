@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Antonis Kalavrezos
-  autoCollectorNumber: "0288"
+  autoCollectorNumber: RZ21
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ front:
 notes: ""
 tags: []
 baseName: Rot, Spoil, and Fester
+imageExports:
+  front: Rot, Spoil, and Fester - 2ebc88a6.jpg

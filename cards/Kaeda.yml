@@ -20,7 +20,7 @@ front:
   loyalty: "6"
   rarity: mythic
   illustrator: Samuel Araya
-  autoCollectorNumber: "0001"
+  autoCollectorNumber: MC01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -51,4 +51,4 @@ notes: ""
 tags: []
 baseName: Kaeda
 imageExports:
-  front: Kaeda.jpg
+  front: Kaeda - 8b0361b8.jpg

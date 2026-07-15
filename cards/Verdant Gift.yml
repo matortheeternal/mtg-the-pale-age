@@ -9,7 +9,7 @@ front:
   name: Verdant Gift
   manaCost:
     __type: ManaCost
-    symbols: 3G
+    symbols: G
   artImage:
     __type: image
     imageUrl: /project/cards/Verdant%20Gift.jpg
@@ -34,20 +34,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Enchant creature or land
 
-    Enchanted permanent has "{T}: Add {G}{G}{G}."
+    Enchanted permanent has "{1}, {T}: Add two mana of any one color."
   flavorText: >-
     "The gift is a reminder of the peace that can be found beyond the monsters
     and mysteries, deep within the silence at the edge of memory. Perhaps there
     is hope for this broken world."
 
     —Unnamed Druidic Journal
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - ramp
@@ -73,4 +74,4 @@ tags:
   - mana-producer
 baseName: Verdant Gift
 imageExports:
-  front: Verdant Gift - [HASH].jpg
+  front: Verdant Gift - 003fd938.jpg

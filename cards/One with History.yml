@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0284"
+  autoCollectorNumber: UZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ notes: ""
 tags: []
 baseName: One with History
 imageExports:
-  front: One with History.jpg
+  front: One with History - e128dfd9.jpg

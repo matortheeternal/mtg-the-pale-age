@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Nico Delort
-  autoCollectorNumber: "0354"
+  autoCollectorNumber: MZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,3 +73,5 @@ tags:
   - draw
   - triggered-ability
 baseName: Zai, Well of Knowledge
+imageExports:
+  front: Zai, Well of Knowledge - 3d7b2e9f.jpg

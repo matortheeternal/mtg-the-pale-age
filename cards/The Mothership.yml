@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0050"
+  autoCollectorNumber: RW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,4 +72,4 @@ tags:
   - multiple-bodies
 baseName: The Mothership
 imageExports:
-  front: The Mothership.jpg
+  front: The Mothership - 25d005ea.jpg

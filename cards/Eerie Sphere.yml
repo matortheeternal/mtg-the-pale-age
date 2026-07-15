@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0355"
+  autoCollectorNumber: RA01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ notes: ""
 tags: []
 baseName: Eerie Sphere
 imageExports:
-  front: Eerie Sphere.jpg
+  front: Eerie Sphere - b0f396d3.jpg

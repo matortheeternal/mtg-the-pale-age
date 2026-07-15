@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Gustave Dore
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: UW16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ tags:
   - repeatable-lifegain
   - lifegain
 baseName: Apotheosis
+imageExports:
+  front: Apotheosis - 90f5858d.jpg

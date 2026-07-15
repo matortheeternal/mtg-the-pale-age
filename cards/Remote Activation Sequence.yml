@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Nate Hill
-  autoCollectorNumber: "0325"
+  autoCollectorNumber: UZ13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
 notes: ""
 tags: []
 baseName: Remote Activation Sequence
+imageExports:
+  front: Remote Activation Sequence - d9f7d9dd.jpg

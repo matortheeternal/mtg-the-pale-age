@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: special
   illustrator: Jeff Sheridan
-  autoCollectorNumber: "0360"
+  autoCollectorNumber: SA01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -54,3 +54,5 @@ front:
 notes: ""
 tags: []
 baseName: Ghost Bloom
+imageExports:
+  front: Ghost Bloom - ff436ba3.jpg

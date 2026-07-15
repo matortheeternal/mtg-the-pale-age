@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jesse Carpenter
-  autoCollectorNumber: "0048"
+  autoCollectorNumber: CW18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Standard Mk3 Airship
+imageExports:
+  front: Standard Mk3 Airship - 4ff4a2f7.jpg

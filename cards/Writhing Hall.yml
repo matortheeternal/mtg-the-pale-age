@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yharnam
-  autoCollectorNumber: "0158"
+  autoCollectorNumber: RL05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Writhing Hall
+imageExports:
+  front: Writhing Hall - 6dbcf5f3.jpg

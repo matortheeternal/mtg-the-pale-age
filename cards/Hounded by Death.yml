@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Sebastian Cabrol
-  autoCollectorNumber: "0296"
+  autoCollectorNumber: UZ11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ notes: ""
 tags: []
 baseName: Hounded by Death
 imageExports:
-  front: Hounded by Death.jpg
+  front: Hounded by Death - 884720b8.jpg

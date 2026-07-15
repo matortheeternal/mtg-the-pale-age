@@ -40,7 +40,7 @@ front:
   loyalty: "6"
   rarity: mythic
   illustrator: Dylan Jordan
-  autoCollectorNumber: "0285"
+  autoCollectorNumber: MZ11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Omnus
+imageExports:
+  front: Omnus - d7bf6302.jpg

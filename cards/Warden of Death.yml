@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: dustbot
-  autoCollectorNumber: "0352"
+  autoCollectorNumber: UZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: Warden of Death
+imageExports:
+  front: Warden of Death - 72744f4b.jpg

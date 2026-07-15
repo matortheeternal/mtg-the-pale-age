@@ -9,7 +9,7 @@ front:
   name: Sacrificial Lamb
   manaCost:
     __type: ManaCost
-    symbols: 1BB
+    symbols: BB
   artImage:
     __type: image
     imageUrl: /project/cards/REPLACE%20ART%20Hooded%20Wanderer.jpg
@@ -26,7 +26,7 @@ front:
   power: "0"
   toughness: "0"
   showPT: true
-  rarity: common
+  rarity: uncommon
   illustrator: Sara Baun
   autoCollectorNumber: CB05
   collectorNumber: ""
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
@@ -42,10 +43,6 @@ front:
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gives-pp-counters
@@ -70,4 +71,4 @@ tags:
   - cheat-death-self
 baseName: Sacrificial Lamb
 imageExports:
-  front: Sacrificial Lamb - [HASH].jpg
+  front: Sacrificial Lamb - 905fa37e.jpg

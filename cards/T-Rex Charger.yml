@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Richard Anderson
-  autoCollectorNumber: "0202"
+  autoCollectorNumber: CR08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ front:
 notes: ""
 tags: []
 baseName: T-Rex Charger
+imageExports:
+  front: T-Rex Charger - e75d55f5.jpg

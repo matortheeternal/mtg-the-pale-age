@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Andrew Fairclough
-  autoCollectorNumber: "0361"
+  autoCollectorNumber: CA01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +58,4 @@ notes: ""
 tags: []
 baseName: Pristine Prism
 imageExports:
-  front: Pristine Prism.jpg
+  front: Pristine Prism - e6d46a9a.jpg

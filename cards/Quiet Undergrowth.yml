@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Hayao Miyazaki
-  autoCollectorNumber: "0324"
+  autoCollectorNumber: UL04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Quiet Undergrowth
+imageExports:
+  front: Quiet Undergrowth - ca53d3db.jpg

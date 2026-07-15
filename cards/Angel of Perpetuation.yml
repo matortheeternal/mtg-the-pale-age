@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0007"
+  autoCollectorNumber: MW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Angel of Perpetuation
+imageExports:
+  front: Angel of Perpetuation - ac76e42c.jpg

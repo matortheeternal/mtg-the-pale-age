@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Longquechen
-  autoCollectorNumber: "0180"
+  autoCollectorNumber: UR14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,3 +75,5 @@ tags:
   - removal
   - removal-creature
 baseName: Heavy Crawler
+imageExports:
+  front: Heavy Crawler - 0ae27c65.jpg

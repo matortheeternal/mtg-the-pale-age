@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Wojciech Piwowarczyk
-  autoCollectorNumber: "0220"
+  autoCollectorNumber: RL06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Childhood Tree
+imageExports:
+  front: Childhood Tree - 117930fd.jpg

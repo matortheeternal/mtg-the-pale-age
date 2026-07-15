@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Karl Trewhela
-  autoCollectorNumber: "0289"
+  autoCollectorNumber: UZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,3 +70,5 @@ front:
 notes: ""
 tags: []
 baseName: Fluttergoyf
+imageExports:
+  front: Fluttergoyf - 8406df35.jpg

@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Mikael Lav
-  autoCollectorNumber: "0245"
+  autoCollectorNumber: UG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -76,3 +76,5 @@ tags:
   - triggered-ability
   - repeatable-pp-counters
 baseName: Prickly Pack Dino
+imageExports:
+  front: Prickly Pack Dino - c5edb0d7.jpg

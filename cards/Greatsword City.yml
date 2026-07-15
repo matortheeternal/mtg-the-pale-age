@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: "0343"
+  autoCollectorNumber: RL03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +60,4 @@ notes: ""
 tags: []
 baseName: Greatsword City
 imageExports:
-  front: Sword-Shaped City.jpg
+  front: Greatsword City - e9f36039.jpg

@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: "0295"
+  autoCollectorNumber: RZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +71,4 @@ notes: ""
 tags: []
 baseName: Roxanne, Queen of Feld
 imageExports:
-  front: Roxanne, Queen of Feld.jpg
+  front: Roxanne, Queen of Feld - d3054a80.jpg

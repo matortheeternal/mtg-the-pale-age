@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0192"
+  autoCollectorNumber: B02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Forest
+imageExports:
+  front: Forest - e391e0ce.jpg

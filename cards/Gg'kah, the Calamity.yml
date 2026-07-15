@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Sui Ishida
-  autoCollectorNumber: "0291"
+  autoCollectorNumber: MZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,3 +72,5 @@ notes: ""
 tags: []
 baseName: Gg'kah, the Calamity
 oldBaseName: Gg'kah, The Calamity
+imageExports:
+  front: Gg'kah, the Calamity - d0e5f83b.jpg

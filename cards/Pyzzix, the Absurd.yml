@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: "0320"
+  autoCollectorNumber: MZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: Pyzzix, the Absurd
+imageExports:
+  front: Pyzzix, the Absurd - ea2d09f3.jpg

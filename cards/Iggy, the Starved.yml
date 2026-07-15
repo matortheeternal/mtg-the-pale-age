@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Steve White
-  autoCollectorNumber: "0234"
+  autoCollectorNumber: RG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Iggy, the Starved
+imageExports:
+  front: Iggy, the Starved - 37047801.jpg

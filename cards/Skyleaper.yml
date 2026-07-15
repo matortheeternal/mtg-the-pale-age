@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0041"
+  autoCollectorNumber: CW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,3 +62,5 @@ front:
 notes: ""
 tags: []
 baseName: Skyleaper
+imageExports:
+  front: Skyleaper - 380091d8.jpg

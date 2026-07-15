@@ -23,7 +23,7 @@ front:
   showPT: false
   rarity: common
   illustrator: Joel Pernas
-  autoCollectorNumber: "0008"
+  autoCollectorNumber: T17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -47,3 +47,5 @@ front:
 notes: ""
 tags: []
 baseName: Forest-2
+imageExports:
+  front: Forest-2 - 81e4c5b4.jpg

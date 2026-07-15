@@ -19,7 +19,7 @@ front:
   showPT: false
   rarity: common
   illustrator: n_artisian
-  autoCollectorNumber: "0012"
+  autoCollectorNumber: T18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,3 +43,5 @@ front:
 notes: ""
 tags: []
 baseName: Clue
+imageExports:
+  front: Clue - 63ce5896.jpg

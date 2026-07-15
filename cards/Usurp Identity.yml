@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: "0297"
+  autoCollectorNumber: UZ30
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Usurp Identity
+imageExports:
+  front: Usurp Identity - 4520abde.jpg

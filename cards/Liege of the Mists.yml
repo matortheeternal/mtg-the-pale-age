@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Richard Ingersoll
-  autoCollectorNumber: "0224"
+  autoCollectorNumber: UG08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,6 +60,9 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: ""
+notes: could be more like ambush paratrooper and have ability that gives +1/+1
+  or more until end of turn instead of counters
 tags: []
 baseName: Liege of the Mists
+imageExports:
+  front: Liege of the Mists - 1386a795.jpg

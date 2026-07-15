@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: "0056"
+  autoCollectorNumber: T13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -50,3 +50,5 @@ notes: ""
 tags: []
 baseName: Abyss Dweller-2
 oldBaseName: Abyss Dweller
+imageExports:
+  front: Abyss Dweller-2 - 28698493.jpg

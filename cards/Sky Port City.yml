@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Milan Vasek
-  autoCollectorNumber: "0332"
+  autoCollectorNumber: UL03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Sky Port City
+imageExports:
+  front: Sky Port City - 0b19e201.jpg

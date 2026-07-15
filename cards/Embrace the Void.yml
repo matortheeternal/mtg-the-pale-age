@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Sarah Winter
-  autoCollectorNumber: "0283"
+  autoCollectorNumber: RZ14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ front:
 notes: ""
 tags: []
 baseName: Embrace the Void
+imageExports:
+  front: Embrace the Void - 1ecd215c.jpg

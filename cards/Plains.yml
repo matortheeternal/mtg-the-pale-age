@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A.Shipwright
-  autoCollectorNumber: "0036"
+  autoCollectorNumber: B05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,3 +48,5 @@ front:
 notes: ""
 tags: []
 baseName: Plains
+imageExports:
+  front: Plains - a16a85bc.jpg

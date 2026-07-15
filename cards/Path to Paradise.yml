@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Gustave Dore
-  autoCollectorNumber: "0318"
+  autoCollectorNumber: CZ13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,3 +74,5 @@ tags:
   - bounce
   - bounce-creature
 baseName: Path to Paradise
+imageExports:
+  front: Path to Paradise - cc77ea7b.jpg

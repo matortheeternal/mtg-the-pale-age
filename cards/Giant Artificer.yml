@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: elysieee
-  autoCollectorNumber: "0026"
+  autoCollectorNumber: CW07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ tags:
   - triggered-ability
   - evasion
 baseName: Giant Artificer
+imageExports:
+  front: Giant Artificer - cdc162a2.jpg

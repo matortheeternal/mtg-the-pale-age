@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Duncan Kay
-  autoCollectorNumber: "0244"
+  autoCollectorNumber: UG07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: The Old Green Guardian
+imageExports:
+  front: The Old Green Guardian - b99243dc.jpg

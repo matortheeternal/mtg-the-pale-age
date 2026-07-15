@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Jeremie Feldman
-  autoCollectorNumber: "0063"
+  autoCollectorNumber: CU10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ tags:
   - draw
 baseName: Broken Robot
 imageExports:
-  front: Broken Robot.jpg
+  front: Broken Robot - 7f2bb482.jpg

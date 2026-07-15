@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Nico Delort
-  autoCollectorNumber: "0031"
+  autoCollectorNumber: CW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ notes: ""
 tags: []
 baseName: Homestead Guardian
 imageExports:
-  front: Homestead Guardian.jpg
+  front: Homestead Guardian - e6596d82.jpg

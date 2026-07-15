@@ -32,12 +32,13 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Nico Delort
-  autoCollectorNumber: "0293"
+  autoCollectorNumber: MZ01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -48,13 +49,9 @@ front:
     ~'s power and toughness are equal to the number of creatures you control.
 
 
-    If one or more creature tokens would be created under your control, three
+    If one or more creature tokens would be created under your control, two
     times that many of those tokens are created instead.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -70,8 +67,14 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - token-multiplier
   - go-wide-matters
 baseName: Goddess of Spring
+imageExports:
+  front: Goddess of Spring - 1d3ce6bd.jpg

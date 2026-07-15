@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: RB09
+  autoCollectorNumber: RB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,3 +65,5 @@ tags:
   - tuck-self
   - tuck
 baseName: Retreat of the Third Moon
+imageExports:
+  front: Retreat of the Third Moon - 2b611fab.jpg

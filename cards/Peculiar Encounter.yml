@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Christian Williams
-  autoCollectorNumber: "0243"
+  autoCollectorNumber: CG12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ tags:
   - removal-enchantment
   - gives-pp-counters
 baseName: Peculiar Encounter
+imageExports:
+  front: Peculiar Encounter - 7514e871.jpg

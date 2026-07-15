@@ -24,7 +24,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Graham Franciose
-  autoCollectorNumber: "0343"
+  autoCollectorNumber: UL11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,3 +62,5 @@ front:
 notes: ""
 tags: []
 baseName: Floating Rock
+imageExports:
+  front: Floating Rock - cdb466e5.jpg

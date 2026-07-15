@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Todd
-  autoCollectorNumber: "0279"
+  autoCollectorNumber: UZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: ""
 tags: []
 baseName: Doctor of History
+imageExports:
+  front: Doctor of History - 29a63898.jpg

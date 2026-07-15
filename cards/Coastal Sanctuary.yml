@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: "0069"
+  autoCollectorNumber: RL02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Coastal Sanctuary
+imageExports:
+  front: Coastal Sanctuary - 73292a6e.jpg

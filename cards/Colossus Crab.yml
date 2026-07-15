@@ -71,3 +71,5 @@ tags:
   - freeze-artifact
   - tapper
 baseName: Colossus Crab
+imageExports:
+  front: Colossus Crab - 1945b9a8.jpg

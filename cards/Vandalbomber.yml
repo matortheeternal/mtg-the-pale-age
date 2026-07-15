@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: domjaro
-  autoCollectorNumber: "0350"
+  autoCollectorNumber: UZ26
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,3 +71,5 @@ front:
 notes: vehicle that crews vehicles?
 tags: []
 baseName: Vandalbomber
+imageExports:
+  front: Vandalbomber - 69327ea5.jpg

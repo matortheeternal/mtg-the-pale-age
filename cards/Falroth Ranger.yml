@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Xavier Leroux
-  autoCollectorNumber: "0226"
+  autoCollectorNumber: UG09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,3 +68,5 @@ notes: Non-human creatures you control have Saddle 1. Whenever a creature you
   control becomes saddled, it gains haste until end of turn.
 tags: []
 baseName: Falroth Ranger
+imageExports:
+  front: Falroth Ranger - 3ddd6c28.jpg

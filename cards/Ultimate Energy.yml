@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Nate Hill
-  autoCollectorNumber: "0196"
+  autoCollectorNumber: MR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,3 +60,5 @@ front:
 notes: ""
 tags: []
 baseName: Ultimate Energy
+imageExports:
+  front: Ultimate Energy - f6293989.jpg

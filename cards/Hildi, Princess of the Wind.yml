@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: "0269"
+  autoCollectorNumber: RZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +71,4 @@ notes: ""
 tags: []
 baseName: Hildi, Princess of the Wind
 imageExports:
-  front: Hildi, Princess of the Wind.jpg
+  front: Hildi, Princess of the Wind - b7091782.jpg

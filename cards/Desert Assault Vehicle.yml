@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Christian Bravery
-  autoCollectorNumber: "0016"
+  autoCollectorNumber: UW17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ notes: ""
 tags: []
 baseName: Desert Assault Vehicle
 imageExports:
-  front: Desert Assault Vehicle.jpg
+  front: Desert Assault Vehicle - 5547a8a7.jpg

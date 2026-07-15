@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Harry Clarke
-  autoCollectorNumber: "0341"
+  autoCollectorNumber: UL09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ front:
 notes: ""
 tags: []
 baseName: Toxic Jungle
+imageExports:
+  front: Toxic Jungle - ad2fcce4.jpg

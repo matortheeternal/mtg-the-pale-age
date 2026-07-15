@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Catriona Secker
-  autoCollectorNumber: "0239"
+  autoCollectorNumber: MG02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,3 +67,5 @@ front:
 notes: ""
 tags: []
 baseName: Mitosis
+imageExports:
+  front: Mitosis - 1838d980.jpg

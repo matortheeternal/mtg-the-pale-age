@@ -19,7 +19,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mateja Petkovic
-  autoCollectorNumber: "0003"
+  autoCollectorNumber: T01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,3 +44,5 @@ front:
 notes: ""
 tags: []
 baseName: Pilot
+imageExports:
+  front: Pilot - b1290ce9.jpg

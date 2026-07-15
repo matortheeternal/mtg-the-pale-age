@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tp-h
-  autoCollectorNumber: "0094"
+  autoCollectorNumber: CU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,3 +66,5 @@ tags:
   - removal-bounce
   - removal-creature
 baseName: Sea Witch
+imageExports:
+  front: Sea Witch - b52d1c5b.jpg

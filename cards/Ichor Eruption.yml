@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: "0296"
+  autoCollectorNumber: CZ19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,3 +69,5 @@ front:
 notes: ""
 tags: []
 baseName: Ichor Eruption
+imageExports:
+  front: Ichor Eruption - bc64318c.jpg

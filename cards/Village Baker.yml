@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Haren Das
-  autoCollectorNumber: "0248"
+  autoCollectorNumber: UG03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,3 +63,5 @@ front:
 notes: ""
 tags: []
 baseName: Village Baker
+imageExports:
+  front: Village Baker - c6e076cc.jpg
