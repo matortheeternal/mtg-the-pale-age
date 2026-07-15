@@ -34,18 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    Choose up to two target creatures controlled by different players. Exile
-    those creatures, then return them to the battlefield under their owner's
-    control at the beginning of the next end step.
+    Choose two target creatures controlled by different players. Exile those
+    creatures, then return them to the battlefield under their owner's control
+    at the beginning of the next end step.
 
 
     Cycling {W} ({W}, Discard this card: Draw a card.)
   flavorText: “This way!” shouted the boy, dragging Quinn to safety.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - flicker
@@ -72,4 +73,4 @@ tags:
   - activated-ability
 baseName: Escape Disaster
 imageExports:
-  front: Escape Disaster.jpg
+  front: Escape Disaster - b300946b.jpg

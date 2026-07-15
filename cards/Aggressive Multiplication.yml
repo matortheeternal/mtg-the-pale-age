@@ -9,7 +9,7 @@ front:
   name: Aggressive Multiplication
   manaCost:
     __type: ManaCost
-    symbols: XGG
+    symbols: X1GG
   artImage:
     __type: image
     imageUrl: /project/cards/Aggressive%20Multiplication.jpg
@@ -28,12 +28,13 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: "0211"
+  autoCollectorNumber: UG16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -46,10 +47,6 @@ front:
     every scrap of food for miles."
 
     —Making a Home after Disaster, vol. II
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -65,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - multiple-bodies
@@ -72,3 +73,5 @@ tags:
   - gives-haste
   - delayed-trigger
 baseName: Aggressive Multiplication
+imageExports:
+  front: Aggressive Multiplication - 1a5e479a.jpg

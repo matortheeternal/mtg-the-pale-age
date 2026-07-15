@@ -167,7 +167,7 @@ cards:
   - Armored Hybrid
   - One with History
   - Queen of Misery
-  - Mad King
+  - The Mad King
   - Orc Warlord
   - Skeletal Screecher
   - Lord of Rot
@@ -310,7 +310,7 @@ cards:
   - The Hollow Throne
   - Giant Slaying Sword
   - The Lone Forest
-  - Spirit of the Forest
+  - Hart of Falroth
   - Bleak Survivalist
   - The Old Green Guardian
   - Mythic Gateway
@@ -443,6 +443,7 @@ cards:
   - Rogue Wave
   - Disgrace
   - Abyss Dweller-2
+  - Shadow of Falroth
 skeleton:
   White:
     mythic: []

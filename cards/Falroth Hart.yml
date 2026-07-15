@@ -6,7 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Spirit of the Forest
+  name: Falroth Hart
   manaCost:
     __type: ManaCost
     symbols: 2G
@@ -63,6 +63,6 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Spirit of the Forest
+baseName: Falroth Hart
 imageExports:
   front: Spirit of the Forest - 47464b04.jpg

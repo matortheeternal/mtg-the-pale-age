@@ -6,7 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Spirit of the Forest
+  name: Hart of Falroth
   manaCost:
     __type: ManaCost
     symbols: 2G
@@ -35,13 +35,13 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >
+  rulesText: >-
     Devoid (This card has no color.)
 
 
-    When ~ dies, create an X/X black Spirit Avatar creature token, where X is
-    its power.
-  flavorText: null
+    When ~ dies, create an X/X black Spirit Avatar creature token named Shadow
+    of Falroth, where X is its power.
+  flavorText: '"When she fell, the forest cried out in pain, and darkness rose again."'
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,6 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Spirit of the Forest
+baseName: Hart of Falroth
 imageExports:
   front: Spirit of the Forest - 47464b04.jpg
