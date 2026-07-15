@@ -45,7 +45,7 @@ front:
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: Sit upon its back, and wonder.
+  flavorText: Sit upon its back and wonder.
   frame: devoid
   artSize: auto
   crownStyle: auto
