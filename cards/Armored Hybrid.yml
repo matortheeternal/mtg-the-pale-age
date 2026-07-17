@@ -67,7 +67,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - gains-defender
+  - gives-defender
+  - gains-pp-counters
+  - gives-pp-counters
+  - move-counters
 baseName: Armored Hybrid
 imageExports:
-  front: Armored Hybrid - 10b00b49.jpg
+  front: Armored Hybrid - 9e33c39c.jpg

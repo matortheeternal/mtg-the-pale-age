@@ -38,18 +38,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Devoid (This card has no color.)
 
     Enchant permanent
 
     Enchanted permanent is a basic Forest. It loses all other card types.
-  flavorText: The protectors of the forest make good use of all the biomass made
-    available to them. Even that of their adversaries.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: The tenders make good use of the biomass available to them.
+    Including that of their adversaries.
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -65,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Turn into a Tree

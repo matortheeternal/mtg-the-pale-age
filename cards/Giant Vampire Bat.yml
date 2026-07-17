@@ -34,15 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Flying
 
     Whenever ~ attacks, defending player loses 2 life and you gain 2 life.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: As the bat unfurled its massive wings, the warrior before it slowed
+    and stumbled.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +56,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "8"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - attack-trigger

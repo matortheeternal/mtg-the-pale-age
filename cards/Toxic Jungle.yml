@@ -38,16 +38,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >
     ~ enters tapped.
-    {T}: Add {C}.
+
     {T}, Pay 1 life: Add {B} or {G}.
+
+    {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
+    your hand.
   flavorText: '"If you touch it, your body will rot. If you smell it, your mind
     will go mad."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Toxic Jungle

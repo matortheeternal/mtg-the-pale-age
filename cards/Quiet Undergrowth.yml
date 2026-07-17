@@ -38,16 +38,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >
     ~ enters tapped.
-    {T}: Add {C}.
+
     {T}, Pay 1 life: Add {G} or {W}.
+
+    {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
+    your hand.
   flavorText: Beams of light speared through the dense canopy.  The pale,
     crystalline trunks like columns of marble in an ancient temple.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Quiet Undergrowth

@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Flash
 
     First strike, vigilance, lifelink
 
     When ~ enters, target creature gains hexproof until end of turn.
-  flavorText: It takes special training and a holy demeanor to wield an acursed blade.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: It takes special training and a holy demeanor to wield a cursed blade.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Bearer of the Unholy

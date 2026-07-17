@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Defender
 
@@ -43,10 +44,6 @@ front:
     Sacrifice an artifact: ~ may attack this turn as though it didn't have
     defender.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - sacrifice-outlet-artifact

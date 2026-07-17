@@ -28,16 +28,15 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: CG15
+  autoCollectorNumber: CG16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Choose target permanent card in your graveyard. If its a land card,
-    put on the battlefield. If you don't put it on the battlefield, put it into
-    your hand.
+  rulesText: Return target permanent card from your graveyard to your hand. If
+    it’s a land card, put it onto the battlefield instead.
   flavorText: >-
     "Come this way, but move with care. Though beautiful, the undergrowth hides
     many secrets—some of which were not meant for mortal eyes."
@@ -69,4 +68,4 @@ tags:
   - land-ramp
 baseName: Access the Undergrowth
 imageExports:
-  front: Access the Undergrowth - fe4c712b.jpg
+  front: Access the Undergrowth - e2250a5c.jpg

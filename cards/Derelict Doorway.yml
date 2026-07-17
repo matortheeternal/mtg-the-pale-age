@@ -38,16 +38,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >
     ~ enters tapped.
-    {T}: Add {C}.
+
     {T}, Pay 1 life: Add {B} or {W}.
+
+    {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
+    your hand.
   flavorText: Expeditions into the doorway rarely returned without some losses,
     but the rewards were consistent and profitable, so they continued.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Derelict Doorway

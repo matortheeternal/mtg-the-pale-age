@@ -67,7 +67,13 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - gives-pp-counters
+  - activate-from-hand
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-token
+  - gains-pp-counters
 baseName: Greatwurm of the Depths
 imageExports:
   front: Greatwurm of the Depths - 2079625d.jpg

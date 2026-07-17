@@ -13,7 +13,7 @@ front:
   name: Wandering Bloodseeker
   manaCost:
     __type: ManaCost
-    symbols: 1RG
+    symbols: 2RG
   artImage:
     __type: image
     imageUrl: /project/cards/Wandering%20Bloodseeker.jpg
@@ -28,7 +28,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "2"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Atramentum
@@ -70,4 +70,4 @@ notes: ""
 tags: []
 baseName: Wandering Bloodseeker
 imageExports:
-  front: Wandering Bloodseeker - 31e90ac6.jpg
+  front: Wandering Bloodseeker - 9f071c0e.jpg

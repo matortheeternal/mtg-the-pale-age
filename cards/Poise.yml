@@ -64,7 +64,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-self
+  - death-trigger
+  - gives-pp-counters
+  - triggered-ability
+  - draw
+  - hand-neutral
 baseName: Poise
 imageExports:
   front: Poise - 773efac4.jpg

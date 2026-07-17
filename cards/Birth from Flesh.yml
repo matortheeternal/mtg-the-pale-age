@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Yuri Shashiki
-  autoCollectorNumber: CZ12
+  autoCollectorNumber: CZ13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,7 +67,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - multiple-bodies
 baseName: Birth from Flesh
 imageExports:
   front: Birth from Flesh - 4746b554.jpg

@@ -32,12 +32,13 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rochaku
-  autoCollectorNumber: UZ08
+  autoCollectorNumber: UZ07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {2}{G}{W}: Create a 2/1 green and white Cat creature token.
 
@@ -45,10 +46,6 @@ front:
     Swarm - Whenever one or more tokens you control enter, creatures you control
     get +1/+1 until end of turn.
   flavorText: '"They are my family, as I am their keeper."'
-  chopTop: "2"
-  chopBottom: "10"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +61,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "4"
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Keeper of the Pride
 imageExports:
-  front: Keeper of the Pride - 27fbdb7b.jpg
+  front: Keeper of the Pride - 1812bf8f.jpg

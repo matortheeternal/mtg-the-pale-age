@@ -23,7 +23,7 @@ front:
   subType: Human Fungus
   flagLeft: ""
   flagRight: ""
-  power: "0"
+  power: "1"
   toughness: "1"
   showPT: true
   rarity: uncommon
@@ -34,18 +34,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    When you sacrifice ~, if it had no +1/+1 counters on it, return it to the
-    battlefield under its owner's control with a +1/+1 counter on it.
-
-
-    Transfuse (Whenever another creature enters, you may move a counter from
-    this creature onto it.)
-  flavorText: null
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  faceSymbol: null
+  rulesText: When you sacrifice ~, return it to the battlefield under its owner's
+    control at the beginning of the next end step.
+  flavorText: So long as his mycelium remains, he will sprout anew.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gives-pp-counters

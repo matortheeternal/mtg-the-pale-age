@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Sara Baun
-  autoCollectorNumber: CB05
+  autoCollectorNumber: UB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +71,4 @@ tags:
   - cheat-death-self
 baseName: Sacrificial Lamb
 imageExports:
-  front: Sacrificial Lamb - 905fa37e.jpg
+  front: Sacrificial Lamb - 647e0777.jpg

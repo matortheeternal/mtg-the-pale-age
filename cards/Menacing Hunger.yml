@@ -34,13 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and
     a menace counter on it.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: |-
+    "My, what sharp teeth y—"
+    —Wren's final  words
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gives-menace

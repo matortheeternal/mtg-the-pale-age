@@ -30,13 +30,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: "{T}, Sacrifice ~: Search your library for a basic land card, put it
     onto the battlefield with a stun counter on it, then shuffle."
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: |-
+    “In case of emergency, break glass.”
+    —Weathered sign
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -52,6 +51,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - tutor

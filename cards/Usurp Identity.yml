@@ -38,13 +38,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Return target nonland permanent to its owner's hand. You create a
     token that's a copy of that permanent.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: If you peer into the darkness, you may not like what you find.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Usurp Identity

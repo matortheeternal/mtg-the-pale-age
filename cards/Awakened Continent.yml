@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |
     Each land you sacrifice while casting this spell pays for {1}.
 
@@ -46,10 +47,6 @@ front:
     Indestructible
   flavorText: The continent of Cormaea rejected Omnus' magic so entirely, it
     literally got up and walked away.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,8 +62,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-land
+  - cheaper-than-mv
 baseName: Awakened Continent
 imageExports:
   front: Awakened Continent - 759312b2.jpg

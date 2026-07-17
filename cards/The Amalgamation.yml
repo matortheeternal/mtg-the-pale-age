@@ -69,7 +69,20 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - move-counters
+  - gains-flying
+  - gains-curious
+  - gains-trample
+  - keyword-counter
+  - flying-counter
+  - curious-counter
+  - trample-counter
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - activated-ability
+  - mana-sink
+  - remove-counters
 baseName: The Amalgamation
 imageExports:
-  front: The Amalgamation - 31fa0de5.jpg
+  front: The Amalgamation - 2b1597f7.jpg

@@ -37,7 +37,8 @@ front:
   faceSymbol: null
   rulesText: Destroy target creature. Create a 1/1 colorless Spirit creature token
     with "When this token dies, if it wasn't sacrificed you lose 2 life."
-  flavorText: null
+  flavorText: The blade passes through flesh without wound, severing the bond that
+    holds the spirit within.
   frame: auto
   artSize: auto
   crownStyle: auto

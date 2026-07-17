@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Enchant creature
 
     Enchanted creature gets -2/-2.
 
     {1}, Sacrifice a token: Enchanted creature gets -1/-1 until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: '"The more you eat, the more the void inside of you shall grow."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - removal

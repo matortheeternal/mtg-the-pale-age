@@ -58,7 +58,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - symmetrical
+  - sacrifice-outlet-land
+  - ramp
+  - recursion
+  - recursion-land
+  - activated-ability
 baseName: Engine of Endless Ruin
 imageExports:
   front: Engine of Endless Ruin - 7db4bd0b.jpg

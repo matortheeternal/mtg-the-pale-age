@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
@@ -48,13 +49,10 @@ front:
 
     - Tap target permanent and put a stun counter on it.
 
-    - Archive. (Exile a noncreature card from your graveyard. You may play it on
-    a later turn. If it would be put into a graveyard, exile it instead.)
+    - Archive a noncreature card. (Exile a noncreature card from your graveyard.
+    You may play it on a later turn. If it would be put into a graveyard, exile
+    it instead.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -70,6 +68,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Magical Lasso

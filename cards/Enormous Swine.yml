@@ -68,6 +68,7 @@ tags:
   - mana-sink
   - lifegain
   - triggered-ability
+  - repeatable-creature-tokens
 baseName: Enormous Swine
 imageExports:
   front: Enormous Swine - e6539793.jpg

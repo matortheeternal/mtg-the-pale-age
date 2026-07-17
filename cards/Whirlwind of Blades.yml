@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
     Target creature gains double strike until end of turn. If it's equipped, it
     gains trample until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Maximum slice 'n dice mode enabled. Annihilation of targets guaranteed.
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gives-double-strike

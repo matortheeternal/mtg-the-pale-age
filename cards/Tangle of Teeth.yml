@@ -7,9 +7,6 @@ front:
         normal: true
   colorOverride: []
   name: Tangle of Teeth
-  manaCost:
-    __type: ManaCost
-    symbols: 2G
   artImage:
     __type: image
     imageUrl: /project/cards/Tangle%20of%20Teeth.jpg
@@ -21,28 +18,31 @@ front:
     yOffset: 1063
   superType: Creature
   subType: Ooze
-  flagLeft: ""
-  flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: common
-  illustrator: Jonathan Lamantia
+  illustrator: Jonathan La Mantia
   autoCollectorNumber: CG05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
-    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
-    enters with three +1/+1 counters on it.)
+    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
+    enters with a +1/+1 counter on it.)
 
 
-    {1}, Remove a +1/+1 counter from ~: Put a +1/+1 counter on target creature
-    you control.
-  flavorText: ""
+    Whenever another creature you control dies, if it had a counter on it, put a
+    +1/+1 counter on ~.
+  flavorText: Eating is its favorite pastime.
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  flagLeft: ""
+  flagRight: ""
+  faceSymbol: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -69,4 +69,4 @@ tags:
   - activated-ability
 baseName: Tangle of Teeth
 imageExports:
-  front: Tangle of Teeth - 7c542e4a.jpg
+  front: Tangle of Teeth - da7219c5.jpg

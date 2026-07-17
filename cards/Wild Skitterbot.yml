@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     ~ enters with a deathtouch counter on it.
 
@@ -41,10 +42,6 @@ front:
     this creature onto it.)
   flavorText: After the apocalypse, machines went crazy. Most were destroyed, but
     some proved too dangerous to approach.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - keyword-counter

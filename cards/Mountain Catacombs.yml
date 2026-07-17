@@ -38,16 +38,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >
     ~ enters tapped.
-    {T}: Add {C}.
+
     {T}, Pay 1 life: Add {R} or {B}.
+
+    {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
+    your hand.
   flavorText: What was once the land of the dwarves has become a raucous den of
     corpses, some of which still move.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,8 +63,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - recursion
+  - recursion-land
+  - recursion-creature
 baseName: Mountain Catacombs
 imageExports:
   front: Mountain Catacombs - 67c1402e.jpg

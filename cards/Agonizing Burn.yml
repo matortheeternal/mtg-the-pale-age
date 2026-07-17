@@ -70,7 +70,14 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - life-loss-matters
+  - cheaper-than-mv
+  - burn
+  - burn-player
+  - life-total-matters
+  - discard
+  - hand-disruption
 baseName: Agonizing Burn
 imageExports:
   front: Agonizing Burn - 280faa00.jpg

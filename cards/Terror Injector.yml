@@ -34,15 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |
     ~ can't block.
 
     Discard a card: ~ gains menace until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: It dragged its misshapen limbs across his docile body, then sank a
+    needle deep into his mind.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +56,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - discard-outlet

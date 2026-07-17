@@ -20,7 +20,7 @@ front:
     xOffset: 68
     yOffset: 42
   superType: Creature
-  subType: Dinosaur Mount
+  subType: Dinosaur
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -34,21 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Whenever ~ becomes saddled, put your choice of a trample or +1/+1 counter on
-    it.
+    Whenever ~ attacks, put your choice of a trample or +1/+1 counter on it.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-
-
-    Saddle 2
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: It shares its spines with friends and strangers alike, albeit in
+    very different contexts.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gains-pp-counters

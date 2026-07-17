@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |
     Devoid (This card has no color.)
 
     Flying, lifelink
 
     Whenever you lose 2 or more life, put a +1/+1 counter on ~.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Her love for pain runs so deep, she heals her toys to break them again.
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - evasion

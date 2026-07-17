@@ -67,7 +67,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
+  - triggered-ability
+  - gains-pp-counters
 baseName: Tamak, the Feral Tyrant
 imageExports:
   front: Tamak, the Feral Tyrant - 43347a22.jpg

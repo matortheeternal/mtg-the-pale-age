@@ -38,17 +38,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
     Put a +1/+1 counter on each creature you control. Creatures you control gain
     menace until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: |-
+    "No wall may stand for long against the ferocity of my entourage."
+    —Agara, Barbarian
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +63,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Unrivaled Violence

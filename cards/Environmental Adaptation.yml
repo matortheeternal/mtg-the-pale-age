@@ -38,14 +38,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: "Put three counters on target creature from among: flying, curious,
     trample, and +1/+1. (Whenever a creature with a curious deals damage to an
     opponent, you may draw a card.)"
-  flavorText: "The man a menagerie: leaves, scales, and a peculiar eccentricity."
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: "The man is menagerie: leaves, scales, and a peculiar eccentricity."
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Environmental Adaptation

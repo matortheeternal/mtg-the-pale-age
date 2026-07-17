@@ -5,7 +5,7 @@ front:
   name: Pristine Prism
   manaCost:
     __type: ManaCost
-    symbols: "2"
+    symbols: "1"
   artImage:
     __type: image
     imageUrl: /project/cards/Pristine%20Prism.jpg
@@ -56,4 +56,4 @@ notes: ""
 tags: []
 baseName: Pristine Prism
 imageExports:
-  front: Pristine Prism - e6d46a9a.jpg
+  front: Pristine Prism - 3e32640b.jpg

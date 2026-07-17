@@ -58,7 +58,17 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - symmetrical
+  - repeatable-token-generator
+  - mana-rock
+  - restricted-mana
+  - cost-increaser
+  - drawback
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-artifact
+  - sacrifice-outlet-token
 baseName: Essence Extractor
 imageExports:
   front: Essence Extractor - c1c2c2e8.jpg

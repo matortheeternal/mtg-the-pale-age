@@ -61,7 +61,10 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - triggered-ability
+  - virtual-french-vanilla
+  - multiple-bodies
 baseName: Skeletal Guardian
 imageExports:
-  front: Skeletal Guardian - 5072d65c.jpg
+  front: Skeletal Guardian - 0dcaeb57.jpg

@@ -38,21 +38,18 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Enchant creature
 
 
-    Enchanted creature has lifelink and curious (Whenever a creature with
-    curious deals damage to an opponent, you may draw a card.)
+    Enchanted creature has lifelink and curious. (Whenever it deals damage to an
+    opponent, you may draw a card.)
 
 
     Whenever you cast a spell from anywhere other than your hand, put a +1/+1
     counter on enchanted creature.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -68,6 +65,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Edification

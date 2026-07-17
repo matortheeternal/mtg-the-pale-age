@@ -34,17 +34,18 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
     Untap target creature. That creature blocks this turn if able. When that
     creature dies this turn, draw a card.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: >-
+    "Sometimes you have to stand and fight, even when it is a fight you cannot
+    win."
+
+    —Derrick, former knight
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Make a Stand

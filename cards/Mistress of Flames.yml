@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: "{R}, {T}: ~ deals 1 damage to target player. If mana from an Ichor
-    was spent to activate this ability, it deals 2 damage instead."
+    was spent to activate this ability, add {R}."
   flavorText: She danced in the streets as the fire burned her hometown to the ground.
   frame: auto
   artSize: auto

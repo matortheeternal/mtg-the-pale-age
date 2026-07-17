@@ -38,17 +38,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Devoid (This card has no color.)
 
-    When ~ dies, each player mills four cards.
+    When ~ dies, each player mills three cards.
 
     {2}{B}: Return ~ from your graveyard to the battlefield tapped.
   flavorText: The professor of political theory at the university was an odd fellow.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Professor Skellington

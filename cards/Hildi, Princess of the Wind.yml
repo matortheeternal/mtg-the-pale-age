@@ -27,8 +27,8 @@ front:
   subType: Human Noble
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "3"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: Geirrod van Dyke
@@ -38,20 +38,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Swarm - Whenever one or more tokens you control enter, target creature you
-    control gains flying until end of turn.
+    Swarm - Whenever one or more tokens you control enter, put a flying counter
+    on target creature you control.
 
 
     Whenever @ becomes tapped, create a 2/2 green Dinosaur creature token.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -67,6 +64,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Hildi, Princess of the Wind

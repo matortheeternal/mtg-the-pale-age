@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Massimiliano Nigro
@@ -34,15 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: When ~ enters, archive a noncreature card. (Exile a noncreature card
     from your graveyard. You may play it on a later turn. If it would be put
     into a graveyard, exile it instead.)
   flavorText: He's quite bothersome, but no matter what we do, we can't seem to
     get rid of him.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - virtual-vanilla

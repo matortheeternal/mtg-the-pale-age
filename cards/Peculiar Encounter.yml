@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Christian Williams
-  autoCollectorNumber: CG12
+  autoCollectorNumber: CG13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ tags:
   - gives-pp-counters
 baseName: Peculiar Encounter
 imageExports:
-  front: Peculiar Encounter - 7514e871.jpg
+  front: Peculiar Encounter - 8b12421b.jpg

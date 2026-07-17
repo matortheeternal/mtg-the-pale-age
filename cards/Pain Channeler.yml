@@ -39,7 +39,8 @@ front:
     Whenever ~ is dealt damage, each player loses that much life.
 
     {T}: ~ deals 1 damage to itself.
-  flavorText: ""
+  flavorText: '"As it drives the spikes into its body, you will feel its pain in
+    your own."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -68,4 +69,4 @@ tags:
   - triggered-ability
 baseName: Pain Channeler
 imageExports:
-  front: Pain Channeler - 4a4f9332.jpg
+  front: Pain Channeler - 3cdac291.jpg

@@ -64,7 +64,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-self
+  - recursion
+  - recursion-vehicle
 baseName: Airship Workshop
 imageExports:
   front: Airship Workshop - 4743b9ae.jpg

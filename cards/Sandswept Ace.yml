@@ -62,7 +62,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - triggered-ability
 baseName: Sandswept Ace
 imageExports:
   front: Sandswept Ace - 580b553a.jpg

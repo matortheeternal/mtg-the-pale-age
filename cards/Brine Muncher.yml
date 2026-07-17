@@ -38,17 +38,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: "{U}{R}: ~ gets +1/+1 until end of turn. If mana from an Ichor was
     spent to activate this ability, it gets +2/+2 until end of turn instead."
   flavorText: >-
-    After supplying the subject with 10 gallons of ichor, it has reached a new
-    record size. Now it could eat an entire city in a single bite.
+    After supplying the subject with a hundred liters of ichor, it has reached a
+    new record size. Now it could eat an entire city in a single bite.
 
     —Experiment log, day 23
-  chopTop: "3"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "3"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - mana-sink

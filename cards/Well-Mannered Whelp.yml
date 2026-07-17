@@ -9,7 +9,7 @@ front:
   name: Well-Mannered Whelp
   manaCost:
     __type: ManaCost
-    symbols: 1R
+    symbols: 2R
   artImage:
     __type: image
     imageUrl: /project/cards/Well-Mannered%20Whelp.jpg
@@ -23,17 +23,18 @@ front:
   subType: Dragon
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: common
   illustrator: Zhelong Xu
-  autoCollectorNumber: CR04
+  autoCollectorNumber: CR05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -45,10 +46,6 @@ front:
     "{T}: Add one mana of any color. Spend this mana only to activate
     abilities.")
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - mana-rock

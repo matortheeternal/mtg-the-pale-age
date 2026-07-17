@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flash
 
@@ -47,14 +48,7 @@ front:
 
     When ~ enters, enchanted permanent or player gains protection from
     everything until end of turn.
-
-
-    Enchanted permanent or player has "Ward—Pay 2 life."
   flavorText: null
-  chopTop: "2"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -70,6 +64,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Purity of Purpose

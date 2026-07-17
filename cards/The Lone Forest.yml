@@ -58,7 +58,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - ramp
+  - land-ramp
+  - repeatable-token-generator
 baseName: The Lone Forest
 imageExports:
   front: The Lone Forest - 4b490379.jpg

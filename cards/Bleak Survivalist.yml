@@ -34,17 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Devoid (This card has no color.)
 
     Whenever a creature an opponent controls dies, create a Morsel token.
 
-    {1}, {T}, Sacrifice a Morsel: Put two +1/+1 counters on target creature.
-  flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    {2}, {T}, Sacrifice a Morsel: Put two +1/+1 counters on target creature.
+  flavorText: |-
+    "What remains, sustains."
+    —Dreadlands proverb
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,8 +59,20 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - repeatable-token-generator
+  - lifegain
+  - repeatable-lifegain
+  - gives-pp-counters
+  - sacrifice-outlet
+  - activated-ability
+  - triggered-ability
+  - death-trigger
 baseName: Bleak Survivalist
 imageExports:
   front: Bleak Survivalist - 59b8bd6c.jpg

@@ -34,17 +34,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {G}, {T}: Create a Morsel token. (It's an artifact with "When you sacrifice
     this token, gain 1 life.")
 
 
     {1}, Sacrifice a Morsel: Scry 1. Activate only as a sorcery.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: She plans for the future one meal at a time.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,8 +57,18 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "10"
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - mana-sink
+  - sacrifice-outlet
+  - repeatable-token-generator
+  - lifegain
+  - repeatable-lifegain
 baseName: Village Baker
 imageExports:
   front: Village Baker - c6e076cc.jpg
