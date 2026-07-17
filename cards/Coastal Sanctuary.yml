@@ -65,7 +65,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - activated-ability
+  - sacrifice-self
+  - draw
 baseName: Coastal Sanctuary
 imageExports:
   front: Coastal Sanctuary - 73292a6e.jpg

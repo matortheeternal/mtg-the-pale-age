@@ -37,7 +37,7 @@ front:
   faceSymbol: null
   rulesText: Gain control of target creature an opponent controls until end of
     turn. Untap that creature. It gains haste until end of turn. If that
-    creature has power 4 or greater, it gains first strike until end of turn.
+    creature has power 4 or greater, it gains menace until end of turn.
   flavorText: null
   frame: auto
   artSize: auto

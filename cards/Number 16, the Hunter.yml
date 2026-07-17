@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
     enters with two +1/+1 counters on it.)
@@ -45,10 +46,6 @@ front:
     Remove a counter from @: Target creature an opponent controls can't block
     this turn.
   flavorText: null
-  chopTop: "2"
-  chopBottom: "1"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "1"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gains-pp-counters

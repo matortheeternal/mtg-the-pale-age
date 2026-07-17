@@ -9,7 +9,7 @@ front:
   name: Behold with Awe
   manaCost:
     __type: ManaCost
-    symbols: G
+    symbols: 1G
   artImage:
     __type: image
     imageUrl: /project/cards/Behold%20with%20Awe.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     As an additional cost to cast this spell, reveal a creature card from your
     hand.
@@ -43,12 +44,8 @@ front:
     block until your next turn.
 
 
-    Scry 4.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    Scry 3.
+  flavorText: '"I see you, little mouse."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Behold with Awe

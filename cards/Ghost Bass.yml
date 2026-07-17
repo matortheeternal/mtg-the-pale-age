@@ -34,18 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {3}: Put a flying counter on ~.
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
-  flavorText: Anabelle cowered behind the tree as the giant spectral fish swam
-    amongst the branches above.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Anabelle cowered behind the tree as the spectral leviathan swam
+    between the branches above.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: "16.8"
+  centerText: never
 notes: ""
 tags:
   - gains-flying

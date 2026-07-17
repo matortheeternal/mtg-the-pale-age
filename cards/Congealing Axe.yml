@@ -39,7 +39,8 @@ front:
     Whenever equipped creature deals combat damage, put a +1/+1 counter on it.
 
     Equip {0}
-  flavorText: null
+  flavorText: With each blow, blood hardens upon its face—and something in its
+    wielder hardens with it.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,4 +66,4 @@ tags:
   - counters-matter
 baseName: Congealing Axe
 imageExports:
-  front: Bloodstained Axe - 66d49ebc.jpg
+  front: Congealing Axe - e1afa4f6.jpg

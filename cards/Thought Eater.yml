@@ -42,7 +42,7 @@ front:
     When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
     target player's library. Choose one. Put that card back on top of their
     library and the rest into their graveyard.)
-  flavorText: '"To them, thoughts are delicious."'
+  flavorText: To them, thoughts are delicious.
   frame: auto
   artSize: auto
   crownStyle: auto

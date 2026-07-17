@@ -30,12 +30,9 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: "{T}, Sacrifice ~: Add {C} for each colorless nonland permanent you control."
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -51,8 +48,16 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-self
+  - ramp
+  - ritual
+  - synergy-colorless
 baseName: Ghost Bloom
 imageExports:
   front: Ghost Bloom - ff436ba3.jpg

@@ -39,17 +39,12 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >-
+  rulesText: |-
     Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
-
     Choose one or more —
-
     - ~ deals 3 damage to any target.
-
-    - Target creature you control gets +2/+0 and gains trample until end of
-    turn.
-
+    - Put a +1/+1 counter and a trample counter on target creature you control.
     - Target creature you control fights target creature an opponent controls.
   flavorText: null
   frame: auto

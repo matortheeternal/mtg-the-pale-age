@@ -64,6 +64,8 @@ tags:
   - becomes-curious
   - keyword-counter
   - activated-ability
+  - recursion
+  - gives-castable-from-exile
 baseName: Ocean Researcher
 imageExports:
   front: Ocean Researcher - e599022f.jpg

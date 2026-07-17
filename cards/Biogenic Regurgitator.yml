@@ -64,7 +64,14 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-token
+  - activated-ability
+  - remove-counters
+  - gains-pp-counters
+  - mana-sink
 baseName: Biogenic Regurgitator
 imageExports:
   front: Biogenic Regurgitator - edd1d7bb.jpg

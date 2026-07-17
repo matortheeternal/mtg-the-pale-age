@@ -30,17 +30,14 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     {T}: Add {C}. Activate this ability only if ~ is not attached.
 
-    Equipped creature gets +5/+0 and gains reach.
+    Equipped creature gets +5/+0 and has trample.
 
     Equip {7}
   flavorText: If not sword, why sword shaped?
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "4"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Greatsword City

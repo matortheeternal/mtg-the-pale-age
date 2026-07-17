@@ -13,7 +13,7 @@ front:
   name: Terrible Strength
   manaCost:
     __type: ManaCost
-    symbols: 1RG
+    symbols: RG
   artImage:
     __type: image
     imageUrl: /project/cards/Titanic%20Reach.jpg
@@ -32,21 +32,18 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Wizard Cleave
-  autoCollectorNumber: UZ20
+  autoCollectorNumber: UZ13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Devoid (This card has no color.)
 
     Target creature gets +4/+4 and gains trample until end of turn.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: '"Squeeze until they pop."'
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Terrible Strength

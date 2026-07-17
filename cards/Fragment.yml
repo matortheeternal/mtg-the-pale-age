@@ -34,14 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Counter target creature spell. Each player mills cards equal to that
-    spell's mana value.
+  faceSymbol: null
+  rulesText: Counter target artifact or creature spell. Each player mills cards
+    equal to that spell's mana value.
   flavorText: '"Imperfect information can cause even the brilliant to make
     devastating mistakes."'
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +54,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - counterspell

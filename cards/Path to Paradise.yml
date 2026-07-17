@@ -13,7 +13,7 @@ front:
   name: Path to Paradise
   manaCost:
     __type: ManaCost
-    symbols: 2GU
+    symbols: 1GU
   artImage:
     __type: image
     imageUrl: /project/cards/Path%20to%20Paradise.jpg
@@ -23,7 +23,7 @@ front:
     cropHeight: 682
     xOffset: 0
     yOffset: 289
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -32,21 +32,18 @@ front:
   showPT: ""
   rarity: common
   illustrator: Gustave Dore
-  autoCollectorNumber: CZ13
+  autoCollectorNumber: CZ12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Return target creature to its owner's hand. Draw a card. You may put
     a land card from your hand onto the battlefield.
   flavorText: |-
     "Solitude sometimes is best society."
     ― John Milton, Paradise Lost 
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,7 +59,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: ""
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: this card is just ok.  the land rider is cute but rarely relevant.
 tags:
   - removal
   - removal-creature

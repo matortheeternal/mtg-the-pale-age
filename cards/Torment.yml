@@ -37,7 +37,8 @@ front:
   faceSymbol: null
   rulesText: Target opponent loses 1 life. You gain life equal to the amount of
     life that player lost this turn.
-  flavorText: null
+  flavorText: The hands piled on to Varen, pulling him deeper into the pit as they
+    stripped him of every device and dignity.
   frame: auto
   artSize: auto
   crownStyle: auto

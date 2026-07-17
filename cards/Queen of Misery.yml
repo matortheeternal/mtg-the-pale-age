@@ -28,23 +28,20 @@ front:
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: CB06
+  autoCollectorNumber: CB05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
     When ~ dies, each player mills cards equal to its toughness.
-  flavorText: Her life was one surrounded by death, but now that mercy is denied her.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Her life was one surrounded by death. Now that mercy is denied her.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - gains-pp-counters
@@ -67,4 +68,4 @@ tags:
   - mill-each
 baseName: Queen of Misery
 imageExports:
-  front: Queen of Misery - 3a194bf3.jpg
+  front: Queen of Misery - 7ab37252.jpg

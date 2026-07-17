@@ -61,9 +61,17 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: Originally this guy had Flying, but I removed it because the flying
-  density at common in white was too high (6 cards, 33% of all commons).
-tags: []
+notes: ""
+tags:
+  - sacrifice-self
+  - hand-neutral
+  - draw
+  - triggered-ability
+  - death-trigger
+  - gives-flying
+  - keyword-counter
+  - flying-counter
+  - evasion
 baseName: Benevolence
 imageExports:
   front: Benevolence - 2c7548a5.jpg

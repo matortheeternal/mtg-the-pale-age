@@ -65,7 +65,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-artifact
+  - sacrifice-outlet-token
 baseName: Iggy, the Starved
 imageExports:
   front: Iggy, the Starved - 37047801.jpg

@@ -9,7 +9,7 @@ front:
   name: Orc Warlord
   manaCost:
     __type: ManaCost
-    symbols: 2R
+    symbols: 1R
   artImage:
     __type: image
     imageUrl: /project/cards/Orc%20Warlord.jpg
@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "3"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Kael Ngu
@@ -40,8 +40,8 @@ front:
     +1/+1 counter on it.)
 
 
-    {1}, Remove a +1/+1 counter from ~: Target creature you control gets +2/+0
-    and gains menace until end of turn.
+    Whenever ~ deals combat damage to a player, put a +1/+1 counter on another
+    target creature you control.
   flavorText: null
   frame: auto
   artSize: auto

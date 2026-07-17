@@ -42,7 +42,7 @@ front:
     When ~ enters, put a +1/+1 counter on enchanted creature.
 
 
-    Enchanted creature has "{T}, Remove a counter from this creature: This
+    Enchanted creature has "{T}, Remove a +1/+1 counter from this creature: This
     creature deals 2 damage to any target."
   flavorText: null
   frame: auto

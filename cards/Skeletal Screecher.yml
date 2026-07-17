@@ -38,17 +38,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than
     its mana cost if an opponent lost life this turn.)
 
 
     Flying, haste, double strike
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Stories tell of bat-like creatures of blood and bone that fly faster
+    than a cyclone.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Skeletal Screecher

@@ -85,6 +85,8 @@
   variant: primary
 - text: copy-self
   variant: primary
+- text: cost-increaser
+  variant: primary
 - text: cost-reducer
   variant: warning
 - text: counters-matter
@@ -276,6 +278,8 @@
   variant: primary
 - text: life-payment
   variant: primary
+- text: life-total-matters
+  variant: primary
 - text: lifegain
   variant: primary
 - text: loot
@@ -370,6 +374,10 @@
 - text: recursion-creature
   variant: primary
   scope: project
+- text: recursion-land
+  variant: primary
+- text: recursion-vehicle
+  variant: primary
 - text: refund
   variant: warning
 - text: removal
@@ -438,6 +446,8 @@
   variant: primary
 - text: sacrifice-self
   variant: primary
+- text: scry
+  variant: primary
 - text: self-life-loss-matters
   variant: primary
 - text: shade-pump
@@ -453,6 +463,8 @@
   variant: danger
 - text: start-of-game
   variant: warning
+- text: steal-counters
+  variant: primary
 - text: sweeper
   variant: danger
 - text: sweeper-one-sided
@@ -507,6 +519,8 @@
 - text: top-deck-manipulation
   variant: warning
 - text: toughness-matters
+  variant: primary
+- text: trample-counter
   variant: primary
 - text: triggered-ability
   variant: primary

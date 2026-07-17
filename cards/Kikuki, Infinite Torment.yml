@@ -72,7 +72,12 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - repeatable-token-generator
+  - repeatable-creature-tokens
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - gives-deathtouch
 baseName: Kikuki, Infinite Torment
 imageExports:
   front: Kikuki, Infinite Torment - bba31016.jpg

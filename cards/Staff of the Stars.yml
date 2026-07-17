@@ -34,20 +34,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Equipped creature has curious. (Whenever a creature with curious deals
-    damage to an opponent, you may draw a card.)
+    Equipped creature has curious. (Whenever it deals damage to an opponent, you
+    may draw a card.)
 
 
-    {3}: Put a +1/+1 counter on equipped creature.
+    {U}{U}{U}: Put a flying counter on equipped creature.
 
 
     Equip {1}
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - draw

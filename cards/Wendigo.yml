@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Hege
-  autoCollectorNumber: UZ09
+  autoCollectorNumber: UZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,7 +71,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
-baseName: Wendigo-2
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-token
+  - drain-life
+  - gains-pp-counters
+baseName: Wendigo
 imageExports:
-  front: Wendigo - 0909fe2b.jpg
+  front: Wendigo - 6aa4a736.jpg

@@ -59,7 +59,8 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - french-vanilla
 baseName: Prowling Carnotaurus
 imageExports:
   front: Prowling Carnotaurus - a159eb26.jpg

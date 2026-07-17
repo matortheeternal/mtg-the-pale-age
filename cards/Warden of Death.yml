@@ -38,15 +38,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Flying
 
     Whenever a creature dies, each opponent loses 1 life and you gain 1 life.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: Turns out, with the right reagents, even the heavenly host can be reanimated.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Warden of Death

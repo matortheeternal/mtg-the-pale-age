@@ -61,7 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - combat-trick
+  - lifegain
+  - gives-lifelink
+  - gives-indestructible
 baseName: Offer Salvation
 imageExports:
   front: Offer Salvation - 59e28eb7.jpg

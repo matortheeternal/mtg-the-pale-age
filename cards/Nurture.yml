@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: CG16
+  autoCollectorNumber: CG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +71,4 @@ tags:
   - land-ramp
 baseName: Nurture
 imageExports:
-  front: Nurture - 6af7f69e.jpg
+  front: Nurture - a1495eba.jpg

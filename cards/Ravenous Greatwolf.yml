@@ -66,7 +66,14 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - sacrifice-outlet-token
+  - gains-pp-counters
+  - removal-fight
+  - removal
+  - removal-creature
 baseName: Ravenous Greatwolf
 imageExports:
   front: Ravenous Greatwolf - bc0ef628.jpg

@@ -60,7 +60,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - evasion
+  - tapper
+  - tapper-creature
 baseName: Skyleaper
 imageExports:
   front: Skyleaper - 380091d8.jpg

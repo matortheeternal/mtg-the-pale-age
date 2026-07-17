@@ -63,7 +63,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sacrifice-self
+  - gives-indestructible
+  - activated-ability
 baseName: Veteran Chauffeur
 imageExports:
   front: Veteran Chauffeur - 5be3d0d6.jpg

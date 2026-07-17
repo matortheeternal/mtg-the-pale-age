@@ -43,7 +43,8 @@ front:
     Enchant player
 
     At the beginning enchanted player’s upkeep, they lose 1 life.
-  flavorText: null
+  flavorText: '"My curse will follow you to the ends of the earth, wearing away at
+    your life force until you are naught but a corpse."'
   frame: auto
   artSize: auto
   crownStyle: auto

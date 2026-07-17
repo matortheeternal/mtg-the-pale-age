@@ -57,7 +57,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - ramp
+  - land-ramp
+  - tutor-land
+  - tutor-land-basic
 baseName: Sudden Germination
 imageExports:
   front: Sudden Germination - 211009ce.jpg

@@ -57,7 +57,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - freeze
+  - freeze-creature
+  - freeze-artifact
+  - toll
 baseName: Karmic Debt
 imageExports:
   front: Karmic Debt - 9cac6b53.jpg

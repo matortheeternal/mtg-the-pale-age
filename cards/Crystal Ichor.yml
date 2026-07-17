@@ -34,18 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     ~ enters tapped.
 
     {T}: Add {U}{U}. Spend this mana only to activate abilities.
 
     {X}{X}{U}, {T}, Sacrifice ~: Draw X cards.
-  flavorText: Hidden within its facets are equations and formulas key to the
-    flourish and fall of society.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: The way it radiates and scatters light has inspired generations of
+    researchers.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - mana-rock

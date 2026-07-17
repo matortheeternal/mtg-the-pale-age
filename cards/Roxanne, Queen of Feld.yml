@@ -68,7 +68,16 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - draw
+  - repeatable-draw
+  - life-payment
+  - life-for-cards
+  - triggered-ability
+  - gains-pp-counters
+  - repeatable-token-generator
+  - lifegain
+  - repeatable-lifegain
 baseName: Roxanne, Queen of Feld
 imageExports:
   front: Roxanne, Queen of Feld - d3054a80.jpg

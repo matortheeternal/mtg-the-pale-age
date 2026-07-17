@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Critter Collector
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Masked%20Troll.jpg
+    width: 3000
+    height: 3375
+    cropWidth: 2622
+    cropHeight: 3279
+    xOffset: 189
+    yOffset: 96
+  superType: Creature
+  subType: Troll
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Mathias Osland
+  autoCollectorNumber: CG01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Devoid (This card has no color.)
+
+    Swarm - Whenever one or more tokens you control enter, you may put a +1/+1
+    counter on ~.
+  flavorText: null
+  frame: devoid
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags:
+  - gains-pp-counters
+  - triggered-ability
+  - repeatable-pp-counters
+  - tokenfall
+  - synergy-token
+baseName: Critter Collector
+imageExports:
+  front: Masked Troll - 6a35fb34.jpg

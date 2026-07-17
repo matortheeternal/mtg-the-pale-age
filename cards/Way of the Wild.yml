@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Sophie Whittall
-  autoCollectorNumber: UZ15
+  autoCollectorNumber: UZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,10 +41,8 @@ front:
   faceSymbol: null
   rulesText: Swarm - Whenever one or more tokens you control enter, you may draw a
     card. This ability triggers only once each turn.
-  flavorText: >-
-    "When mother nature draws close, my mind opens to all the wonder of the
-    world."
-
+  flavorText: |-
+    "When nature draws close, my mind opens to all the wonder of the world."
     —Ea, Forgotten Queen
   frame: auto
   artSize: auto

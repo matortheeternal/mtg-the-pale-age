@@ -71,7 +71,16 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - mill
+  - mill-self
+  - recursion
+  - recursion-creature
+  - removal
+  - removal-sacrifice
+  - lifegain
+  - draw
+  - hand-neutral
 baseName: Rot, Spoil, and Fester
 imageExports:
   front: Rot, Spoil, and Fester - 2ebc88a6.jpg

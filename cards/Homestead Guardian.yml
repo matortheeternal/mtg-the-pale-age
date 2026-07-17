@@ -60,7 +60,11 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - tokenfall
+  - triggered-ability
+  - scry
+  - peek-library
 baseName: Homestead Guardian
 imageExports:
   front: Homestead Guardian - e6596d82.jpg

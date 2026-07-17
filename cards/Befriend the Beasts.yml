@@ -23,7 +23,7 @@ front:
     cropHeight: 624
     xOffset: 0
     yOffset: 201
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -38,16 +38,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Create a 1/1 white Human creature token. Put a +1/+1 counter on each
     creature you control.
   flavorText: |-
     "To ride a turtle's back and be free; what greater joy could there be?"
     —Hildi
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: |-
   tokens
   lifegain

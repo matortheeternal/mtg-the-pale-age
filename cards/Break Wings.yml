@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lane Brown
-  autoCollectorNumber: CG13
+  autoCollectorNumber: CG14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ tags:
   - draw
 baseName: Break Wings
 imageExports:
-  front: Break Wings - c5828767.jpg
+  front: Break Wings - dcbfc5b1.jpg

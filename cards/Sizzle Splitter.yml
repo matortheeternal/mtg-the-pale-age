@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UZ07
+  autoCollectorNumber: UZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -78,4 +78,4 @@ tags:
   - firebreathing
 baseName: Sizzle Splitter
 imageExports:
-  front: Sizzle Splitter - ff195e56.jpg
+  front: Sizzle Splitter - 82bc3ddc.jpg

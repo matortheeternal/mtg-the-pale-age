@@ -13,7 +13,7 @@ front:
   name: Pluck
   manaCost:
     __type: ManaCost
-    symbols: 3BG
+    symbols: 2BG
   artImage:
     __type: image
     imageUrl: /project/cards/Pluck.jpg
@@ -32,23 +32,21 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: UZ28
+  autoCollectorNumber: UZ24
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Target player sacrifices a creature.
+  faceSymbol: null
+  rulesText: Target player sacrifices a creature. Create a tapped Forest land
+    token. If the sacrificed creature had toughness 4 or greater, create two of
+    those tokens instead.
+  flavorText: >-
+    "Your friend will make for a fine harvest. All I need do is pluck the fruit
+    from his brow."
 
-
-    Create X tapped Forest land tokens, where X is the sacrificed creature's
-    toughness.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    —Deepwood witch
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +62,19 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-creature
+  - ramp
+  - land-ramp
+  - removal
+  - removal-sacrifice
+  - removal-creature
 baseName: Pluck
 imageExports:
   front: Pluck - 8587d6ae.jpg

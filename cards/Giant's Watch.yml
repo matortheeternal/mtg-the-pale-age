@@ -34,13 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: "{2}{R}, {T}: Create a 4/4 colorless Giant creature token. Activate
     this ability only if an opponent was dealt damage this turn."
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flavorText: One watches for the enemy. The other makes sure there is nothing
+    left to watch.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +54,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "10"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - repeatable-token-generator

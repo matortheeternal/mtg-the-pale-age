@@ -23,8 +23,8 @@ front:
   subType: Giant Skeleton Shaman
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: Diego Andrade
@@ -75,6 +75,7 @@ tags:
   - force-draw
   - life-for-cards
   - opponent-loses-life
+  - refund
 baseName: Marrow Pool Channeler
 imageExports:
   front: Marrow Pool Channeler - d2224b58.jpg
