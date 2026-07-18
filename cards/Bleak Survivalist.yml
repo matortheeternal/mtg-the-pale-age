@@ -40,7 +40,7 @@ front:
 
     Whenever a creature an opponent controls dies, create a Morsel token.
 
-    {2}, {T}, Sacrifice a Morsel: Put two +1/+1 counters on target creature.
+    {2}, Sacrifice an artifact: Put a +1/+1 counter on target creature.
   flavorText: |-
     "What remains, sustains."
     —Dreadlands proverb
@@ -75,4 +75,4 @@ tags:
   - death-trigger
 baseName: Bleak Survivalist
 imageExports:
-  front: Bleak Survivalist - 59b8bd6c.jpg
+  front: Bleak Survivalist - 0106bce0.jpg

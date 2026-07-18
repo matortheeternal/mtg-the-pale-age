@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {U} or {B}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Looming Towers
 imageExports:
-  front: Looming Towers - dd770e6e.jpg
+  front: Looming Towers - 07e52a6f.jpg

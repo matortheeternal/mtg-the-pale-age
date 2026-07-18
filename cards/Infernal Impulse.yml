@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -46,16 +47,12 @@ front:
     opponent lost life this turn.)
 
 
-    ~ deals 2 damage to each of your opponents and each creature they control.
+    Destroy target creature.
 
 
     Creatures you control get +X/+0 and gain trample until end of turn, where X
     is the amount of life your opponents have lost this turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -71,8 +68,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Infernal Impulse
 imageExports:
-  front: Infernal Impulse - 87a0a8cf.jpg
+  front: Infernal Impulse - 95b12681.jpg

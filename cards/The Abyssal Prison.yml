@@ -9,7 +9,7 @@ front:
   name: The Abyssal Prison
   manaCost:
     __type: ManaCost
-    symbols: 1B
+    symbols: 3B
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Abyssal%20Prison.jpg
@@ -26,7 +26,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: RB07
+  autoCollectorNumber: RB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,4 +74,4 @@ tags:
   - graveyard-fuel
 baseName: The Abyssal Prison
 imageExports:
-  front: The Abyssal Prison - 3ca7c206.jpg
+  front: The Abyssal Prison - 2038d61d.jpg

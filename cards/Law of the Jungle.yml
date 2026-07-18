@@ -9,7 +9,7 @@ front:
   name: Law of the Jungle
   manaCost:
     __type: ManaCost
-    symbols: 3G
+    symbols: 2GG
   artImage:
     __type: image
     imageUrl: /project/cards/Jungle.jpg
@@ -26,9 +26,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: mythic
   illustrator: Amin Talebi
-  autoCollectorNumber: UG18
+  autoCollectorNumber: MG02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,7 +44,7 @@ front:
 
 
     If one or more tokens would be created under your control, those tokens plus
-    an additional 2/2 green Dinosaur creature token are created instead. 
+    an additional 2/2 green Dinosaur creature token are created instead.
   flavorText: null
   frame: auto
   artSize: auto
@@ -69,4 +69,4 @@ notes: ""
 tags: []
 baseName: Law of the Jungle
 imageExports:
-  front: Law of the Jungle - 1d7dd71e.jpg
+  front: Law of the Jungle - de22cd7e.jpg

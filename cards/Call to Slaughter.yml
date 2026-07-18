@@ -36,7 +36,11 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    Creatures you control have haste.
+    Spectacle {3}{R}{R} (You may cast this spell for its spectacle cost rather
+    than its mana cost if an opponent lost life this turn.)
+
+
+    Creatures you control have first strike and haste.
 
 
     Whenever a creature you control attacks, you may pay {R}{R}. When you do,
@@ -57,7 +61,7 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
@@ -69,4 +73,4 @@ tags:
   - gives-haste
 baseName: Call to Slaughter
 imageExports:
-  front: Call to Slaughter - 67071262.jpg
+  front: Call to Slaughter - 5e951017.jpg

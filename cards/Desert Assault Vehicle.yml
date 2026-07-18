@@ -34,21 +34,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     First strike
 
 
-    Trailblaze - Whenever you crew or saddle for the first time each turn, draw
-    a card.
+    Whenever ~ attacks, draw a card.
 
 
     Crew 3 (Tap any number of creatures you control with total power 3 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: ""
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +60,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Desert Assault Vehicle
 imageExports:
-  front: Desert Assault Vehicle - 5547a8a7.jpg
+  front: Desert Assault Vehicle - c378b98a.jpg

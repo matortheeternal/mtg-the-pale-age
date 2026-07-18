@@ -9,7 +9,7 @@ front:
   name: The Portal
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 4U
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Portal.jpg
@@ -26,16 +26,17 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brendan Monroe
-  autoCollectorNumber: RU07
+  autoCollectorNumber: RU08
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   preText: null
   postText: ""
   rulesText: >-
-    I - Return a creature or artifact you control to its owner's hand.
+    I - Return target creature or artifact you control to its owner's hand.
 
 
     II - You may reveal an artifact or creature card from your hand.  If you do,
@@ -45,10 +46,6 @@ front:
     III - Search your library for a card, put that card into your hand, then
     shuffle.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   artSize: normal
   crownStyle: auto
   nyxStyle: auto
@@ -57,8 +54,12 @@ front:
   ubStyle: auto
   hybridStyle: []
   hybridBlendStyle: grey
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: The Portal
 imageExports:
-  front: The Portal - 598054ee.jpg
+  front: The Portal - e803e0c6.jpg

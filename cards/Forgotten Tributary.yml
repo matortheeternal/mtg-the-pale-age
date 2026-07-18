@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {W} or {U}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Forgotten Tributary
 imageExports:
-  front: Forgotten Tributary - 27badb09.jpg
+  front: Forgotten Tributary - daee7a88.jpg

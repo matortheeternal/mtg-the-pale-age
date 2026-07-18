@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {G} or {W}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Quiet Undergrowth
 imageExports:
-  front: Quiet Undergrowth - ca53d3db.jpg
+  front: Quiet Undergrowth - 00abe7fe.jpg

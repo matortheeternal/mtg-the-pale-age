@@ -9,7 +9,7 @@ front:
   name: The Search for Meredith
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: W
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Search%20for%20Meredith.jpg
@@ -26,12 +26,13 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Eric He
-  autoCollectorNumber: RW06
+  autoCollectorNumber: RW05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   preText: null
   postText: ""
   rulesText: >-
@@ -72,4 +73,4 @@ tags:
   - cards-in-exile-matter
 baseName: The Search for Meredith
 imageExports:
-  front: The Search for Meredith - d106fc16.jpg
+  front: The Search for Meredith - 83897bec.jpg

@@ -9,7 +9,7 @@ front:
   name: Greener Pastures
   manaCost:
     __type: ManaCost
-    symbols: 4GGG
+    symbols: 2GGG
   artImage:
     __type: image
     imageUrl: /project/cards/Greener%20Pastures.jpg
@@ -19,32 +19,29 @@ front:
     cropHeight: 1307
     xOffset: 34
     yOffset: 0
-  superType: World Enchantment
+  superType: Enchantment
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: mythic
+  rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: MG03
+  autoCollectorNumber: UG18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    Permanents and spells you control are green.
+  faceSymbol: null
+  rulesText: >-
+    Permanents and spells you control are green. You may spend green mana as if
+    it was mana of any color.
 
-    Whenever you tap a land for mana, add an additional {G}{G}.
 
     Whenever a land enters under your control, draw a card.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,8 +57,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Greener Pastures
 imageExports:
-  front: Greener Pastures - aeb076d1.jpg
+  front: Greener Pastures - 3ecf27c2.jpg

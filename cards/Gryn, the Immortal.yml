@@ -23,7 +23,7 @@ front:
   subType: Zombie Dragon
   flagLeft: ""
   flagRight: ""
-  power: "6"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: rare
@@ -40,13 +40,11 @@ front:
     for {1}. )
 
 
-    Flying, deathtouch
+    Flying, deathtouch, indestructible
 
 
-    Indestructible
-
-
-    Sacrifice a nontoken permanent: Tap @. Any player may activate this ability.
+    Sacrifice a permanent: Tap and put a +1/+1 counter on @. Any player may
+    activate this ability.
   flavorText: null
   frame: auto
   artSize: auto
@@ -77,4 +75,4 @@ tags:
   - sacrifice-outlet-artifact
 baseName: Gryn, the Immortal
 imageExports:
-  front: Gryn, the Immortal - d23917c5.jpg
+  front: Gryn, the Immortal - af14cd3e.jpg

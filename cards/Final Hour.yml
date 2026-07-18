@@ -36,11 +36,11 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    As an additional cost to cast this spell, sacrifice any number of creatures
-    and/or tokens.
+    As an additional cost to cast this spell, sacrifice any number of
+    permanents.
 
 
-    All creatures get -X/-X until end of turn, where X is the number of
+    All creatures get -X/-X until end of turn, where X is one plus the number of
     permanents sacrificed.
   flavorText: null
   frame: auto
@@ -74,4 +74,4 @@ tags:
   - sacrifice-outlet-creature
 baseName: Final Hour
 imageExports:
-  front: Final Hour - 4f8abe17.jpg
+  front: Final Hour - 9ff33a8a.jpg

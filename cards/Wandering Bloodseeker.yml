@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Atramentum
-  autoCollectorNumber: CZ05
+  autoCollectorNumber: CZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ notes: ""
 tags: []
 baseName: Wandering Bloodseeker
 imageExports:
-  front: Wandering Bloodseeker - 9f071c0e.jpg
+  front: Wandering Bloodseeker - 429a9fcf.jpg

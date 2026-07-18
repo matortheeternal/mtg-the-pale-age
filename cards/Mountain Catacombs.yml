@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {R} or {B}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -74,4 +72,4 @@ tags:
   - recursion-creature
 baseName: Mountain Catacombs
 imageExports:
-  front: Mountain Catacombs - 67c1402e.jpg
+  front: Mountain Catacombs - 33032a94.jpg
