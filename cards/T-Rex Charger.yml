@@ -34,19 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Trailblaze - Whenever you crew or saddle for the first time each turn,
     target creature you control gets +1/+0 and gains haste until end of turn.
 
 
-    Saddle 1 (Tap any number of other creatures you control with total power 3
+    Saddle 1 (Tap any number of other creatures you control with total power 1
     or more: This Mount becomes saddled until end of turn. Saddle only as a
     sorcery.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,8 +59,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: T-Rex Charger
 imageExports:
-  front: T-Rex Charger - e75d55f5.jpg
+  front: T-Rex Charger - 519275ff.jpg

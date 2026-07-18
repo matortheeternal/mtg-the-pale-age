@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {B} or {W}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Derelict Doorway
 imageExports:
-  front: Derelict Doorway - d0057bf3.jpg
+  front: Derelict Doorway - d9bdca90.jpg

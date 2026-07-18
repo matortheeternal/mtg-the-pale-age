@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {W} or {R}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Sky Port City
 imageExports:
-  front: Sky Port City - 0b19e201.jpg
+  front: Sky Port City - 3aabf62d.jpg

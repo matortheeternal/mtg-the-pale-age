@@ -27,8 +27,8 @@ front:
   subType: Human Shaman
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "3"
+  power: "2"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Rochaku
@@ -69,4 +69,4 @@ notes: ""
 tags: []
 baseName: Keeper of the Pride
 imageExports:
-  front: Keeper of the Pride - 1812bf8f.jpg
+  front: Keeper of the Pride - 7e048f07.jpg

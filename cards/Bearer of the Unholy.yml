@@ -40,7 +40,7 @@ front:
 
     First strike, vigilance, lifelink
 
-    When ~ enters, target creature gains hexproof until end of turn.
+    When ~ enters, you may attach target equipment you control to ~.
   flavorText: It takes special training and a holy demeanor to wield a cursed blade.
   frame: auto
   artSize: auto
@@ -57,7 +57,7 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
@@ -65,4 +65,4 @@ notes: ""
 tags: []
 baseName: Bearer of the Unholy
 imageExports:
-  front: Bearer of the Unholy - f24b38b7.jpg
+  front: Bearer of the Unholy - 3021b8fa.jpg

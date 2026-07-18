@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {U} or {R}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Bubbling Springs
 imageExports:
-  front: Bubbling Springs - a4c9b7b3.jpg
+  front: Bubbling Springs - d19b4c63.jpg

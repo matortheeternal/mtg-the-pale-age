@@ -9,7 +9,7 @@ front:
   name: Ghost Company
   manaCost:
     __type: ManaCost
-    symbols: 3WW
+    symbols: 4W
   artImage:
     __type: image
     imageUrl: /project/cards/Dusk%20Arcus.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Reach
 
@@ -41,10 +42,6 @@ front:
     {1}{W}, {T}: ~ deals X damage to target blocking creature, where X is the
     number of creatures you control.
   flavorText: Long ago, giants were conscripted to fight in the empire's war.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - hate-blocker
@@ -75,4 +76,4 @@ tags:
 baseName: Ghost Company
 oldBaseName: Greatbow Platoon
 imageExports:
-  front: Ghost Company - 0d134187.jpg
+  front: Ghost Company - 1cf9208d.jpg

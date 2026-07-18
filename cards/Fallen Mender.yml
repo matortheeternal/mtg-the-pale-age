@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: CZ06
+  autoCollectorNumber: CZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ notes: ""
 tags: []
 baseName: Fallen Mender
 imageExports:
-  front: Fallen Mender - e0063cc9.jpg
+  front: Fallen Mender - 900b3331.jpg

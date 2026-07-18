@@ -32,7 +32,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: CZ09
+  autoCollectorNumber: CZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ notes: ""
 tags: []
 baseName: Knowledge Warden
 imageExports:
-  front: Knowledge Warden - e8d62b13.jpg
+  front: Knowledge Warden - 98e5b014.jpg

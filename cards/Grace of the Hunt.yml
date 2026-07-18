@@ -32,7 +32,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Constelar
-  autoCollectorNumber: UZ19
+  autoCollectorNumber: UZ21
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ notes: ""
 tags: []
 baseName: Grace of the Hunt
 imageExports:
-  front: Grace of the Hunt - 854969d0.jpg
+  front: Grace of the Hunt - 5ca43fd7.jpg

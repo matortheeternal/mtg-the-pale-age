@@ -40,8 +40,6 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    ~ enters tapped.
-
     {T}, Pay 1 life: Add {B} or {G}.
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
@@ -71,4 +69,4 @@ notes: ""
 tags: []
 baseName: Toxic Jungle
 imageExports:
-  front: Toxic Jungle - ad2fcce4.jpg
+  front: Toxic Jungle - 4088dbef.jpg

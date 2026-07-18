@@ -9,7 +9,7 @@ front:
   name: Exaltation
   manaCost:
     __type: ManaCost
-    symbols: 3WW
+    symbols: 2WWW
   artImage:
     __type: image
     imageUrl: /project/cards/Mythic%20Bomb%20Spell.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -44,10 +45,6 @@ front:
     Whenever you gain life, distribute that many +1/+1 counters among creatures
     you control. This ability triggers only once each turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -63,8 +60,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Exaltation
 imageExports:
-  front: Exaltation - 36a4dcaf.jpg
+  front: Exaltation - d96c08b3.jpg

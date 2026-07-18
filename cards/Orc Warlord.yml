@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: CR05
+  autoCollectorNumber: CR03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ tags:
   - remove-counters
 baseName: Orc Warlord
 imageExports:
-  front: Orc Warlord - 5edd65f0.jpg
+  front: Orc Warlord - 18c2a34a.jpg
