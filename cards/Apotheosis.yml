@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
@@ -41,14 +42,10 @@ front:
     Enchant nontoken creature
 
 
-    Enchanted creature is a white Angel with base power and toughness 5/5, and
+    Enchanted creature is a white Angel with base power and toughness 4/4, and
     has flying, first strike, and lifelink. (It loses all other colors and all
     other creature types.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - shapechange

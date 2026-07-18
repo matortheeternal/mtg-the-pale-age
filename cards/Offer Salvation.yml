@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: pilyeon
-  autoCollectorNumber: CW15
+  autoCollectorNumber: CW16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ tags:
   - gives-indestructible
 baseName: Offer Salvation
 imageExports:
-  front: Offer Salvation - 59e28eb7.jpg
+  front: Offer Salvation - e8cf87a5.jpg

@@ -13,7 +13,7 @@ front:
   name: Nyxie, the Nurturer
   manaCost:
     __type: ManaCost
-    symbols: 5BBWW
+    symbols: 7BW
   artImage:
     __type: image
     imageUrl: /project/cards/Nyxie%2C%20the%20Nurturer.jpg
@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flying, vigilance, lifelink
 
@@ -50,10 +51,6 @@ front:
     battlefield under your control, where X is the amount of life you gained
     this turn.
   flavorText: null
-  chopTop: ""
-  chopBottom: "15"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -69,6 +66,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Nyxie, the Nurturer

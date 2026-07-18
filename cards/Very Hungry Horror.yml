@@ -23,7 +23,7 @@ front:
   subType: Horror
   flagLeft: ""
   flagRight: ""
-  power: "2"
+  power: "3"
   toughness: "1"
   showPT: true
   rarity: common

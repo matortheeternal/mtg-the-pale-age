@@ -41,7 +41,8 @@ front:
   faceSymbol: null
   rulesText: Return target nonland permanent to its owner's hand. You create a
     token that's a copy of that permanent.
-  flavorText: If you peer into the darkness, you may not like what you find.
+  flavorText: If you peer into the darkness to find answers, you may lose yourself
+    in the process.
   frame: auto
   artSize: auto
   crownStyle: auto

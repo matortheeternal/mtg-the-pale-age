@@ -37,7 +37,7 @@ front:
   faceSymbol: null
   rulesText: >-
     Each player creates a 1/1 colorless Spirit creature token with "When this
-    token dies, if it wasn't sacrificed you lose 2 life."
+    token dies, if it wasn't sacrificed, you lose 2 life."
 
 
     Flashback {B}{B} (You may cast this card from your graveyard for its
@@ -69,4 +69,4 @@ tags:
   - donate-token
 baseName: Spirit Summoning
 imageExports:
-  front: Spirit Summoning - 20ce698d.jpg
+  front: Spirit Summoning - 163b822e.jpg

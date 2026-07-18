@@ -29,7 +29,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tu Bui
-  autoCollectorNumber: T09
+  autoCollectorNumber: T08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -55,4 +55,4 @@ notes: ""
 tags: []
 baseName: Cat
 imageExports:
-  front: Cat - 220bbd18.jpg
+  front: Cat - 364b5dac.jpg

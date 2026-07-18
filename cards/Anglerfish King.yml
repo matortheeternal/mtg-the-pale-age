@@ -9,7 +9,7 @@ front:
   name: Anglerfish King
   manaCost:
     __type: ManaCost
-    symbols: 9U
+    symbols: 8UU
   artImage:
     __type: image
     imageUrl: /project/cards/Astronomical%20Angler.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Delve (Each card you exile from your graveyard while casting this spell pays
     for {1}.)
@@ -50,10 +51,6 @@ front:
 
     {W}: ~ gains first strike until end of turn.
   flavorText: '"The only light in the abyss . . . and the last you will ever see."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: "13"
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -69,6 +66,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "13"
+  centerText: never
 notes: ""
 tags:
   - activated-ability

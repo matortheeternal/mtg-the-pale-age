@@ -43,7 +43,7 @@ front:
     target creature an opponent controls.
 
 
-    Crew 3 (Tap any number of creatures you control with total power 3 or more:
+    Crew 4 (Tap any number of creatures you control with total power 4 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: null
   frame: auto
@@ -76,4 +76,4 @@ tags:
   - virtual-french-vanilla
 baseName: Spider Tank
 imageExports:
-  front: Spider Tank - 7dfa5609.jpg
+  front: Spider Tank - 01c223d7.jpg

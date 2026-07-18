@@ -1,0 +1,76 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Vorax, Devourer of Souls
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Crovax%2C%20Devourer%20of%20Souls.jpg
+    width: 2872
+    height: 3431
+    cropWidth: 2872
+    cropHeight: 2027
+    xOffset: 0
+    yOffset: 702
+  superType: Legendary Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Vladimir Matyukhin
+  autoCollectorNumber: RB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+
+
+    When @ enters, suppress X, where X is the one plus @'s power. (To suppress
+    X, look at the top X cards of target player's library and choose one. Put
+    that card on top of their library and the rest into their graveyard.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "16.5"
+  centerText: never
+notes: ""
+tags:
+  - sacrifice-outlet
+  - sacrifice-outlet-token
+  - sacrifice-outlet-creature
+  - peek-library
+  - mill
+baseName: Vorax, Devourer of Souls
+imageExports:
+  front: Crovax, Devourer of Souls - 4ffb7a42.jpg

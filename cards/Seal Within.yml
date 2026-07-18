@@ -34,18 +34,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Split second (As long as this spell is on the stack, players can’t cast
-    spells or activate abilities that aren’t mana abilities.)
-
-
-    Exile X target cards from graveyards. Put X +1/+1 counters on target
+  faceSymbol: null
+  rulesText: Exile X target cards from graveyards. Put X +1/+1 counters on target
     permanent.
   flavorText: ""
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Seal Within

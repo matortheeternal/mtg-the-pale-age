@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Take Root
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Take%20Root.jpg
+    width: 934
+    height: 800
+    cropWidth: 934
+    cropHeight: 659
+    xOffset: 0
+    yOffset: 28
+  superType: Enchantment
+  subType: Aura
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: David Alvarez
+  autoCollectorNumber: CG18
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    Enchant creature you control
+
+    When ~ enters, you may destroy target artifact or enchantment.
+
+    Enchanted creature gets +1/+2 and has vigilance.
+  flavorText: ""
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "18"
+  centerText: never
+notes: ""
+tags:
+  - removal
+  - removal-artifact
+  - removal-enchantment
+  - gives-vigilance
+  - triggered-ability
+baseName: Take Root
+imageExports:
+  front: Take Root - fd98480a.jpg

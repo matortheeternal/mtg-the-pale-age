@@ -37,7 +37,7 @@ front:
   faceSymbol: null
   rulesText: Whenever a nontoken creature dies, its controller creates a 1/1
     colorless Spirit creature token with "When this token dies, if it wasn't
-    sacrificed you lose 2 life."
+    sacrificed, you lose 2 life."
   flavorText: It's a village tradition to give your dead to the ferryman. They say
     he takes them to the afterlife—wherever that is.
   frame: auto
@@ -69,4 +69,4 @@ tags:
   - synergy-sacrifice
 baseName: The Ferryman
 imageExports:
-  front: The Ferryman - 07f48584.jpg
+  front: The Ferryman - 6bc41e6f.jpg

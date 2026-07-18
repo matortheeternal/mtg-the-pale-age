@@ -230,6 +230,8 @@
   variant: primary
 - text: gives-undying
   variant: primary
+- text: gives-vigilance
+  variant: primary
 - text: go-wide-matters
   variant: primary
   scope: project

@@ -34,18 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Other creatures you control have transfuse (Whenever another creature
-    enters, you may move a counter from them onto that creature.)
+    Other creatures you control have transfuse (A creature with transfuse has
+    "Whenever another creature enters, you may move a counter from this creature
+    onto it.")
 
 
     Whenever a counter is removed from a creature you control, untap target
     permanent.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,8 +59,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Falroth Integrator
 imageExports:
-  front: Falroth Integrator - 2e22646c.jpg
+  front: Falroth Integrator - b9239943.jpg

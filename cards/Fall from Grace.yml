@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: CW16
+  autoCollectorNumber: CW13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,7 +37,7 @@ front:
   faceSymbol: null
   rulesText: Destroy target tapped creature. Its controller creates a 1/1
     colorless Spirit creature token with "When this token dies, if it wasn't
-    sacrificed you lose 2 life."
+    sacrificed, you lose 2 life."
   flavorText: Even legends may fall victim to hubris.
   frame: auto
   artSize: auto
@@ -69,4 +69,4 @@ tags:
   - synergy-sacrifice
 baseName: Fall from Grace
 imageExports:
-  front: Fall from Grace - 36110ade.jpg
+  front: Fall from Grace - 11f39d40.jpg

@@ -35,10 +35,12 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: |-
+  rulesText: >-
     When @ enters, gain control of target artifact for as long as you control @.
 
-    {1}, Sacrifice an artifact: Put a +1/+1 counter on @ and gain 1 life.
+
+    When @ attacks, you may sacrifice an artifact. If you do, put a +1/+1
+    counter on @ and draw a card.
   flavorText: Filibus was rather fond of trinkets.
   frame: auto
   artSize: auto

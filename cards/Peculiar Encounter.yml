@@ -19,7 +19,7 @@ front:
     cropHeight: 846
     xOffset: 0
     yOffset: 198
-  superType: Sorcery
+  superType: Instant
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Choose one:
     - Destroy target artifact or enchantment.
@@ -41,10 +42,6 @@ front:
   flavorText: The skeletal giant crouched down before the trembling warrior and
     reached forward a finger of bone. The warrior's blade, once sharp and
     gleaming, crumbled to ash.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: "18"
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "18"
+  centerText: never
 notes: ""
 tags:
   - removal

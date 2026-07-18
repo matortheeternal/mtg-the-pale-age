@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: kidswithghosts
-  autoCollectorNumber: CW14
+  autoCollectorNumber: CW15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ tags:
   - prevent-activation
 baseName: Overexposure
 imageExports:
-  front: Overexposure - bcb8187e.jpg
+  front: Overexposure - d4a423bc.jpg

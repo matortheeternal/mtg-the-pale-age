@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Spectacle {1}{B}{B} (You may cast this spell for its spectacle cost rather
     than its mana cost if an opponent lost life this turn.)
@@ -42,10 +43,6 @@ front:
     Undying (When this creature dies, if it had no +1/+1 counters on it, return
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - cheat-death-self
@@ -70,4 +71,4 @@ tags:
   - cheaper-than-mv
 baseName: Sinew Spawn
 imageExports:
-  front: Sinew Spawn - 16a6a6f1.jpg
+  front: Sinew Spawn - 55a43ff2.jpg
