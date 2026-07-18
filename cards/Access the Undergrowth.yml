@@ -19,7 +19,7 @@ front:
     cropHeight: 1355
     xOffset: 0
     yOffset: 312
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
@@ -28,15 +28,16 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: CG16
+  autoCollectorNumber: CG15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Return target permanent card from your graveyard to your hand. If
-    it’s a land card, put it onto the battlefield instead.
+  rulesText: Mill two cards. You may return a permanent card from your graveyard
+    to your hand. If you returned a land card to your hand this way, you may put
+    it onto the battlefield tapped.
   flavorText: >-
     "Come this way, but move with care. Though beautiful, the undergrowth hides
     many secrets—some of which were not meant for mortal eyes."
@@ -68,4 +69,4 @@ tags:
   - land-ramp
 baseName: Access the Undergrowth
 imageExports:
-  front: Access the Undergrowth - b774e93b.jpg
+  front: Access the Undergrowth - 1a603683.jpg

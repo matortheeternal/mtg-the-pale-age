@@ -9,7 +9,7 @@ front:
   name: Bend Reality
   manaCost:
     __type: ManaCost
-    symbols: 8UUU
+    symbols: UUU
   artImage:
     __type: image
     imageUrl: /project/cards/Bend%20Reality.jpg
@@ -28,20 +28,15 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RU10
+  autoCollectorNumber: RU07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >-
-    This spell costs {2} less to cast for each other spell and ability on the
-    stack.
-
-
-    You may choose new targets for any number of other spells and abilities on
-    the stack. Then you may reorder all other spells and abilities on the stack.
+  rulesText: You may choose new targets for any number of other spells and
+    abilities. Then you may reorder all other spells and abilities on the stack.
   flavorText: null
   frame: auto
   artSize: auto

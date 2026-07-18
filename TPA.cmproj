@@ -60,7 +60,7 @@ export:
 cards:
   - The Mothership
   - The Ferryman
-  - Peculiar Encounter
+  - Take Root
   - Glowing Revival
   - Fields of Gold
   - Cataclysmic Wake
@@ -154,7 +154,7 @@ cards:
   - Bearer of the Unholy
   - Fall from Grace
   - Fated Meeting
-  - Clash of the Strong
+  - Might Makes Right
   - Devour the Weak
   - Colossal Pteradactyl
   - Access the Undergrowth
@@ -216,7 +216,7 @@ cards:
   - Master of Agonies
   - Angel of Obliteration
   - Ghost Blade
-  - Crovax, Devourer of Souls
+  - Vorax, Devourer of Souls
   - Pass into Eternity
   - Psychic Agony
   - Horrify
@@ -391,7 +391,6 @@ cards:
   - Colossus Crab
   - Hakai, the Primeval
   - Treefolk Horror
-  - Boar
   - Writhing Hall
   - Childhood Tree
   - Absorbing Reception

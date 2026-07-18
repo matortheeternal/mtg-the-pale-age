@@ -28,25 +28,22 @@ front:
   showPT: ""
   rarity: common
   illustrator: Abelardo
-  autoCollectorNumber: CG15
+  autoCollectorNumber: CG14
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Choose one —
 
     - Target creature you control fights target creature you don't control.
     (Each deals damage equal to its power to the other.)
 
-    - Target creature you control gets +3/+3 and gains trample until end of
+    - Target creature you control gets +3/+3 and gains hexproof until end of
     turn.
   flavorText: null
-  chopTop: "2"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - enlarge
@@ -74,4 +75,4 @@ tags:
   - removal
 baseName: Clash of the Strong
 imageExports:
-  front: Clash of the Strong - d4125915.jpg
+  front: Clash of the Strong - e6449259.jpg

@@ -25,7 +25,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When this token dies, if it wasn't sacrificed you lose 2 life.
+  rulesText: When this token dies, if it wasn't sacrificed, you lose 2 life.
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -44,4 +44,4 @@ notes: ""
 tags: []
 baseName: Spirit
 imageExports:
-  front: Spirit - b1bc9cd6.jpg
+  front: Spirit - 7237d7ee.jpg

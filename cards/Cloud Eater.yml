@@ -41,7 +41,7 @@ front:
 
     Whenever ~ enters, exile up to one target enchantment, then create a 1/1
     colorless Spirit creature token with "When this token dies, if it wasn't
-    sacrificed you lose 2 life."
+    sacrificed, you lose 2 life."
   flavorText: There is not a cloud in the sky, for they have eaten them all.
   frame: auto
   artSize: auto
@@ -74,4 +74,4 @@ tags:
   - multiple-bodies
 baseName: Cloud Eater
 imageExports:
-  front: Cloud Eater - 56215fa9.jpg
+  front: Cloud Eater - 516b0637.jpg

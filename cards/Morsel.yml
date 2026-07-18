@@ -19,7 +19,7 @@ front:
   showPT: false
   rarity: common
   illustrator: pawlovearts
-  autoCollectorNumber: T16
+  autoCollectorNumber: T15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,4 +44,4 @@ notes: ""
 tags: []
 baseName: Morsel
 imageExports:
-  front: Morsel - 15d033e2.jpg
+  front: Morsel - 4805f3cc.jpg

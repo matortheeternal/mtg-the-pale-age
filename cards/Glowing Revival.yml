@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Zuha
-  autoCollectorNumber: CW13
+  autoCollectorNumber: CW14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ tags:
   - recursion-creature
 baseName: Glowing Revival
 imageExports:
-  front: Glowing Revival - 88763259.jpg
+  front: Glowing Revival - 483bc24f.jpg

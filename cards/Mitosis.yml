@@ -9,7 +9,7 @@ front:
   name: Mitosis
   manaCost:
     __type: ManaCost
-    symbols: 1GGGG
+    symbols: 2GGG
   artImage:
     __type: image
     imageUrl: /project/cards/Mitosis.jpg
@@ -34,21 +34,18 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Devoid (This card has no color.)
 
 
-    Choose one:
+    Choose one or both —
 
     - Create a token copy of each creature you control. The copies lose all
     abilities and are green Shapeshifters with changeling.
 
-    - Double the number of counters on each creature you control.
+    - Double the number of counters on any number of target creatures.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Mitosis

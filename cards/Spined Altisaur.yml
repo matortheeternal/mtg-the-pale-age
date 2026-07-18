@@ -34,10 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Vigilance
 
-    ~ has first strike while blocking.
+    ~ has first strike while attacking.
 
     Whenever you cast a spell from exile, ~ gets +2/+0 until end of turn.
   flavorText: >-
@@ -45,10 +46,6 @@ front:
     and sharpen. Fascinating."
 
     —Field researcher
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - cast-trigger

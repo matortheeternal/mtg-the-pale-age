@@ -37,7 +37,7 @@ front:
   faceSymbol: null
   rulesText: >-
     When ~ enters, each player creates a 1/1 colorless Spirit creature token
-    with "When this token dies, if it wasn't sacrificed you lose 2 life."
+    with "When this token dies, if it wasn't sacrificed, you lose 2 life."
 
 
     Whenever you cast a colorless spell or sacrifice a token, each player mills
@@ -75,4 +75,4 @@ tags:
   - opponent-loses-life
 baseName: The Hollow Throne
 imageExports:
-  front: The Hollow Throne - 940713be.jpg
+  front: The Hollow Throne - 0bdba3a3.jpg

@@ -34,16 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     Devoid (This card has no color.)
 
-    When ~ leaves the battlefield, mill 2 cards.
+    When ~ leaves the battlefield, mill two cards.
   flavorText: '"The dune priests are a fearsome lot. My friend got in a scuffle
     with one awhile back. They broke both his arms."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -59,6 +56,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - mill

@@ -34,18 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     At the beginning of each end step, if a creature died this turn, create an
-    ichor token.
+    ichor token. (They are artifacts with "{T}: Add one mana of any color. Spend
+    this mana only to activate abilities.")
 
 
     {6}, Exile a card from your graveyard: Create a token copy of ~, except it
-    loses this ability.
+    loses all abilities.
   flavorText: What lives in the depths evades any attempt at understanding.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - restricted-mana

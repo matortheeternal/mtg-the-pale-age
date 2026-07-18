@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: Destroy target creature. Create a 1/1 colorless Spirit creature token
-    with "When this token dies, if it wasn't sacrificed you lose 2 life."
+    with "When this token dies, if it wasn't sacrificed, you lose 2 life."
   flavorText: The blade passes through flesh without wound, severing the bond that
     holds the spirit within.
   frame: auto
@@ -65,4 +65,4 @@ tags:
   - synergy-sacrifice
 baseName: Ghost Blade
 imageExports:
-  front: Ghost Blade - f027edc0.jpg
+  front: Ghost Blade - 70fa6c6d.jpg

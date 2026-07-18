@@ -23,8 +23,8 @@ front:
   subType: Dinosaur
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "3"
+  power: "5"
+  toughness: "4"
   showPT: true
   rarity: common
   illustrator: Andrzej Sych
@@ -34,15 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    Bloodthirst 4 (If an opponent was dealt damage this turn, this creature
-    enters with four +1/+1 counters on it)
+    Bloodthirst 3 (If an opponent was dealt damage this turn, this creature
+    enters with three +1/+1 counters on it)
   flavorText: There's nothing quite as terrifying as a Carnotaurus that's
     caught  your scent.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - french-vanilla

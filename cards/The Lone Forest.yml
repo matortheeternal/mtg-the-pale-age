@@ -34,14 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
     {2}, {T}: Create a Forest land token.
-    When ~ dies, sacrifice all Forest land tokens you control.
+    Sacrifice a Forest: Draw a card.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,11 +54,20 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - ramp
   - land-ramp
   - repeatable-token-generator
+  - draw
+  - repeatable-draw
+  - draw-engine
+  - sacrifice-outlet
+  - sacrifice-outlet-land
 baseName: The Lone Forest
 imageExports:
   front: The Lone Forest - 4b490379.jpg

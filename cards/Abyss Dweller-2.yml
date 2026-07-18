@@ -24,14 +24,13 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: T13
+  autoCollectorNumber: T12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: At the beginning of each end step, if a creature died this turn,
-    create an ichor token.
+  rulesText: ""
   flavorText: null
   chopTop: ""
   chopBottom: ""
@@ -51,4 +50,4 @@ tags: []
 baseName: Abyss Dweller-2
 oldBaseName: Abyss Dweller
 imageExports:
-  front: Abyss Dweller-2 - 28698493.jpg
+  front: Abyss Dweller-2 - de521e0a.jpg

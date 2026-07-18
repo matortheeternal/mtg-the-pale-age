@@ -24,7 +24,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Reuben Horn
-  autoCollectorNumber: T10
+  autoCollectorNumber: T09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -49,4 +49,4 @@ notes: ""
 tags: []
 baseName: Insect
 imageExports:
-  front: Insect - bbcd8442.jpg
+  front: Insect - 15315ecf.jpg

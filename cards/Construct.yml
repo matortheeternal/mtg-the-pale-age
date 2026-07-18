@@ -19,7 +19,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Isac Galvão
-  autoCollectorNumber: T12
+  autoCollectorNumber: T11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -44,4 +44,4 @@ notes: ""
 tags: []
 baseName: Construct
 imageExports:
-  front: Construct - 87958eca.jpg
+  front: Construct - 78b0c985.jpg

@@ -42,7 +42,7 @@ front:
 
 
     {1}, Remove a counter from ~: Target player creates a 1/1 colorless Spirit
-    creature token with "When this token dies, if it wasn't sacrificed you lose
+    creature token with "When this token dies, if it wasn't sacrificed, you lose
     2 life."
   flavorText: null
   frame: auto
@@ -76,4 +76,4 @@ tags:
   - remove-counters
 baseName: Basement Fleshgorger
 imageExports:
-  front: Basement Fleshgorger - 1e0dcbeb.jpg
+  front: Basement Fleshgorger - 350fca7c.jpg
