@@ -34,13 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Remove all counters from target creature. Create X Morsel tokens,
-    where X is the number of counters removed this way.
+    where X is the number of counters removed this way. (They are artifacts with
+    "When you sacrifice this token, gain 1 life.")
   flavorText: The hands take everything from you. Your hair, your eyes, even your heart.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +54,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - lifegain
@@ -64,4 +66,4 @@ tags:
   - synergy-sacrifice
 baseName: Nibble
 imageExports:
-  front: Nibble - c392dd13.jpg
+  front: Nibble - 5a27804d.jpg

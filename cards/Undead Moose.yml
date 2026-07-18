@@ -40,7 +40,8 @@ front:
     it to the battlefield under its owner’s control with a +1/+1 counter on it.)
 
 
-    When ~ dies, create a Morsel token.
+    When ~ dies, create a Morsel token. (It's an artifact with "When you
+    sacrifice this token, gain 1 life.")
   flavorText: ""
   frame: auto
   artSize: auto
@@ -69,4 +70,4 @@ tags:
   - triggered-ability
 baseName: Undead Moose
 imageExports:
-  front: Undead Moose - ed85cb68.jpg
+  front: Undead Moose - 4d081c2b.jpg

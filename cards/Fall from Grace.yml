@@ -9,7 +9,7 @@ front:
   name: Fall from Grace
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: W
   artImage:
     __type: image
     imageUrl: /project/cards/Fall%20from%20Grace.jpg

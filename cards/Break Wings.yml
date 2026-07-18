@@ -34,16 +34,15 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
-    Destroy target creature with flying. Create a Morsel token.
+  faceSymbol: null
+  rulesText: >-
+    Destroy target creature with flying. Create a Morsel token. (It's an
+    artifact with "When you sacrifice this token, gain 1 life.")
+
 
     Cycling {G} ({G}, Discard this card: Draw a card.)
   flavorText: It is only natural for a bird that can no longer fly to meet its end
     in the jaws of a hungry creature.
-  chopTop: "2"
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - removal-creature
@@ -69,4 +72,4 @@ tags:
   - draw
 baseName: Break Wings
 imageExports:
-  front: Break Wings - dcbfc5b1.jpg
+  front: Break Wings - d03763e7.jpg
