@@ -38,6 +38,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Escalate {2} (Pay this cost for each mode chosen beyond the first.)
 
@@ -49,12 +50,9 @@ front:
 
     - Proliferate, then draw a card.
 
-    - Target player sacrifices a creature. Create a Morsel token.
+    - Target player sacrifices a creature. Create a Morsel token. (It's an
+    artifact with "When you sacrifice this token, gain 1 life.")
   flavorText: null
-  chopTop: "1"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -70,6 +68,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "1"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - mill
@@ -83,4 +85,4 @@ tags:
   - hand-neutral
 baseName: Rot, Spoil, and Fester
 imageExports:
-  front: Rot, Spoil, and Fester - 2ebc88a6.jpg
+  front: Rot, Spoil, and Fester - 204111b6.jpg

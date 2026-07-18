@@ -34,18 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    {G}, {T}: Create a green 0/1 Boar creature token with "When you sacrifice
-    this token, gain 1 life."
-
-
-    When you sacrifice ~, gain 2 life.
+  faceSymbol: null
+  rulesText: When ~ enters, create two Morsel tokens. (They are artifacts with
+    "When you sacrifice this token, gain 1 life.")
   flavorText: '"Have you heard of the sow the size of three men? They say she gave
     birth to forty swine in a single night!"'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +54,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - repeatable-token-generator
@@ -71,4 +68,4 @@ tags:
   - repeatable-creature-tokens
 baseName: Enormous Swine
 imageExports:
-  front: Enormous Swine - e6539793.jpg
+  front: Enormous Swine - 79b3ef97.jpg

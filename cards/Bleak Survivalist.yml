@@ -35,10 +35,13 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: |-
+  rulesText: >-
     Devoid (This card has no color.)
 
-    Whenever a creature an opponent controls dies, create a Morsel token.
+
+    Whenever a creature an opponent controls dies, create a Morsel token. (It's
+    an artifact with "When you sacrifice this token, gain 1 life.")
+
 
     {2}, Sacrifice an artifact: Put a +1/+1 counter on target creature.
   flavorText: |-
@@ -75,4 +78,4 @@ tags:
   - death-trigger
 baseName: Bleak Survivalist
 imageExports:
-  front: Bleak Survivalist - 0106bce0.jpg
+  front: Bleak Survivalist - d9b3d98d.jpg
