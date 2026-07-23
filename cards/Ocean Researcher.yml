@@ -34,16 +34,12 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "Exhaust — {1}{U}, {T}: Archive a noncreature card. Put a curious
-    counter on ~. (Exile a noncreature card from your graveyard. You may play it
-    on a later turn. If it would be put into a graveyard, exile it instead.
-    Whenever a curious creature deals damage to an opponent, you may draw a
-    card.)"
+  faceSymbol: null
+  rulesText: "Exhaust — {T}: Archive a noncreature card. Put a curious counter on
+    ~. (Exile a noncreature card from your graveyard. You may play it on a later
+    turn. If it would be put into a graveyard, exile it instead. Whenever a
+    curious creature deals damage to an opponent, you may draw a card.)"
   flavorText: Off to the sea, to study thee.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - becomes-curious

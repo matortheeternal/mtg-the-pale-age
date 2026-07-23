@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: UG15
+  autoCollectorNumber: UG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,7 +66,11 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - top-deck-manipulation
+  - peek-library
+  - prevent-attack
+  - prevent-blocker
 baseName: Behold with Awe
 imageExports:
   front: Behold with Awe - f24180f1.jpg

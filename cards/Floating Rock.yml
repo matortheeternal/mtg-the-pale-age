@@ -30,20 +30,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {T}: Add {C}.
 
 
-    {1}, {T}, Sacrifice ~: Destroy target nonbasic land an opponent controls.
-    That player may search their library for a basic land card, put it onto the
-    battlefield, then shuffle. You create an Ichor token. (It's an artifact with
-    "{T}: Add one mana of any color. Spend this mana only to activate
-    abilities.")
+    {1}, {T}, Sacrifice ~: Destroy target nonbasic land. It's controller may
+    search their library for a basic land card, put it onto the battlefield,
+    then shuffle. You create an Ichor token. (It's an artifact with "{T}: Add
+    one mana of any color. Spend this mana only to activate abilities.")
   flavorText: null
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +55,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Floating Rock

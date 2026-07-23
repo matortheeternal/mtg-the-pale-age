@@ -9,7 +9,7 @@ front:
   name: The Lone Forest
   manaCost:
     __type: ManaCost
-    symbols: G
+    symbols: 1G
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Lone%20Forest.jpg
@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "0"
-  toughness: "2"
+  toughness: "3"
   showPT: true
   rarity: rare
   illustrator: A Shipwright
@@ -36,9 +36,12 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: |-
-    {2}, {T}: Create a Forest land token.
-    Sacrifice a Forest: Draw a card.
-  flavorText: null
+    Reach
+
+    At the beginning of your upkeep, create a Forest land token.
+
+    When ~ dies, sacrifice a Forest token.
+  flavorText: It carries the shade of a thousand trees.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,11 +66,6 @@ tags:
   - ramp
   - land-ramp
   - repeatable-token-generator
-  - draw
-  - repeatable-draw
-  - draw-engine
-  - sacrifice-outlet
-  - sacrifice-outlet-land
 baseName: The Lone Forest
 imageExports:
-  front: The Lone Forest - 4b490379.jpg
+  front: The Lone Forest - 6a465c35.jpg

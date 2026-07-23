@@ -9,7 +9,7 @@ front:
   name: Undead Moose
   manaCost:
     __type: ManaCost
-    symbols: 1GG
+    symbols: 2G
   artImage:
     __type: image
     imageUrl: /project/cards/Undead%20Moose.jpg

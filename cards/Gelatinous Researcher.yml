@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     {U}, {T}: Move a counter from target creature onto ~.
 
@@ -42,10 +43,6 @@ front:
     once each turn. (An Ichor token is an artifact with "{T}: Add one mana of
     any color. Spend this mana only to activate abilities.")
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - move-counters

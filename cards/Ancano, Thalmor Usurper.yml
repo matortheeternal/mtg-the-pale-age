@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ancano, Thalmor Usurper
+  manaCost:
+    __type: ManaCost
+    symbols: 3UB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ancano%2C%20Thalmor%20Usurper.jpg
+    width: 1200
+    height: 1200
+    cropWidth: 948
+    cropHeight: 669
+    xOffset: 138
+    yOffset: 125
+  superType: Legendary Creature
+  subType: Elf Wizard
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Bethesda Softworks
+  autoCollectorNumber: ""
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    When @ enters, gain control of target artifact.
+
+    @ has hexproof while you control an artifact you don't own.
+
+    Exhaust - {4}, {T}: Destroy target legendary creature.
+  flavorText: '"I have the power to destroy the world at my fingertips."'
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Ancano, Thalmor Usurper

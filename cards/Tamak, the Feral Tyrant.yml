@@ -23,8 +23,8 @@ front:
   subType: Fox God
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: rare
   illustrator: Rabab Elghamry
@@ -41,11 +41,11 @@ front:
     they had.)
 
 
-    Ward {3}
+    Trample, ward {2}
 
 
-    Whenever one or more counters are put on another creature, put that many
-    +1/+1 counters on @.
+    Whenever one or more +1/+1 counters are put on another creature, put that
+    many +1/+1 counters on @.
   flavorText: null
   frame: auto
   artSize: auto

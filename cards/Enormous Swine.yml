@@ -35,8 +35,9 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: When ~ enters, create two Morsel tokens. (They are artifacts with
-    "When you sacrifice this token, gain 1 life.")
+  rulesText: >
+    When ~ enters, create a Morsel token. (It is an artifact with "When you
+    sacrifice this token, gain 1 life.")
   flavorText: '"Have you heard of the sow the size of three men? They say she gave
     birth to forty swine in a single night!"'
   frame: auto
@@ -60,12 +61,8 @@ front:
   centerText: never
 notes: ""
 tags:
-  - repeatable-token-generator
-  - activated-ability
-  - mana-sink
   - lifegain
   - triggered-ability
-  - repeatable-creature-tokens
 baseName: Enormous Swine
 imageExports:
   front: Enormous Swine - 79b3ef97.jpg

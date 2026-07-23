@@ -9,7 +9,7 @@ front:
   name: Cephalopodization
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: 1U
   artImage:
     __type: image
     imageUrl: /project/cards/Cephalopodization.jpg
@@ -26,9 +26,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: CU12
+  autoCollectorNumber: UU13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -37,6 +37,9 @@ front:
   faceSymbol: null
   rulesText: >-
     Enchant artifact
+
+
+    When ~ enters, draw a card.
 
 
     Enchanted artifact loses all abilities and is a blue Octopus creature with

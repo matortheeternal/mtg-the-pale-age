@@ -41,7 +41,7 @@ front:
 
 
     All creatures get -X/-X until end of turn, where X is one plus the number of
-    permanents sacrificed.
+    permanents sacrificed this way.
   flavorText: null
   frame: auto
   artSize: auto

@@ -63,7 +63,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal-bounce
+  - bounce
+  - removal-artifact
+  - removal-creature
+  - removal-enchantment
 baseName: Usurp Identity
 imageExports:
-  front: Usurp Identity - 5eec8ec8.jpg
+  front: Usurp Identity - 1efc9501.jpg

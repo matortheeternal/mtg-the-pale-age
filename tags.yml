@@ -404,6 +404,8 @@
   variant: danger
 - text: removal-fight
   variant: danger
+- text: removal-land
+  variant: danger
 - text: removal-nonland
   variant: danger
 - text: removal-planeswalker

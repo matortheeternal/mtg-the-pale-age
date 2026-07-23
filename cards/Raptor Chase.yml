@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Raptor Chase
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Raptor%20Ambush.jpg
+    width: 1200
+    height: 900
+    cropWidth: 1200
+    cropHeight: 847
+    xOffset: 0
+    yOffset: 27
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Goysan Dariya
+  autoCollectorNumber: CG13
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Create a 2/2 green Dinosaur creature token. If an opponent was dealt damage
+    this turn, it enters with a +1/+1 counter on it.
+
+
+    Flashback {2}{G}{G} (You may cast this card from your graveyard for its
+    flashback cost. Then exile it.)
+  flavorText: ""
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags:
+  - castable-from-graveyard
+  - gives-pp-counters
+baseName: Raptor Chase
+imageExports:
+  front: Raptor Ambush - be06556f.jpg

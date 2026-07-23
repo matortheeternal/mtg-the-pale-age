@@ -9,7 +9,7 @@ front:
   name: Industrial Blimp
   manaCost:
     __type: ManaCost
-    symbols: 2RRR
+    symbols: 3RR
   artImage:
     __type: image
     imageUrl: /project/cards/Industrial%20Blimp.jpg
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flying, trample
 
@@ -46,10 +47,6 @@ front:
     Crew 5 (Tap any number of creatures you control with total power 5 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - impulsive-draw

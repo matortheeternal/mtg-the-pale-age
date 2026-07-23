@@ -28,27 +28,24 @@ front:
   showPT: true
   rarity: rare
   illustrator: Steve White
-  autoCollectorNumber: RG04
+  autoCollectorNumber: RG03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: |-
-    Trample, haste
+    Haste
 
     Ward—Sacrifice a nonland permanent.
 
-    @ enters with three hunger counters on it.
+    @ enters with four hunger counters on it.
 
     @ cannot attack or block while it has a hunger counter.
 
     Sacrifice a nonland permanent: Remove a counter from @.
   flavorText: null
-  chopTop: ""
-  chopBottom: "2"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +61,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - sacrifice-outlet

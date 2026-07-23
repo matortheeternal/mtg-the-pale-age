@@ -9,7 +9,7 @@ front:
   name: Branching Horror
   manaCost:
     __type: ManaCost
-    symbols: 4GGG
+    symbols: 4GG
   artImage:
     __type: image
     imageUrl: /project/cards/Branching%20Horror.jpg
@@ -23,32 +23,30 @@ front:
   subType: Treefolk Horror
   flagLeft: ""
   flagRight: ""
-  power: "8"
-  toughness: "6"
+  power: "6"
+  toughness: "4"
   showPT: true
   rarity: uncommon
   illustrator: Jaehyeon Lee
-  autoCollectorNumber: UG11
+  autoCollectorNumber: UG10
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |-
+  faceSymbol: null
+  rulesText: >-
     Devoid (This card has no color.)
+
 
     Reach
 
-    When ~ dies, create two 4/3 green Dryad Horror creature tokens with reach.
-  flavorText: >-
-    "I saw it. The thing in the woods. It was a tree with a maw of a hundred
-    needle-sharp teeth.  It ate an entire flock of crows. It was horrible."
 
-    —Village lumberjack
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    Whenever ~ attacks, you may sacrifice two forests. If you do, create a 4/3
+    green Treefolk Horror creature token.
+  flavorText: '"I saw it. The thing in the woods. It was a tree with a maw of a
+    hundred needle-sharp teeth. It ate an entire flock of crows. It was
+    horrible."'
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,6 +62,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Branching Horror

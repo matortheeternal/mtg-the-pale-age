@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "4"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Bogdan Rezunenko
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Menace
 
@@ -42,10 +43,6 @@ front:
     draw a card. This ability triggers only once each turn.
   flavorText: One head will threaten you while the other cries and apologizes,
     begging for you to be its one and only friend.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - rummage

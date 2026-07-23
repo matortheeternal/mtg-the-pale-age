@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Each creature or vehicle you tap while casting this spell pays for {1} or
     one mana of that card's color.
@@ -42,16 +43,12 @@ front:
     Flying
 
 
-    Whenever ~ attacks, create three 2/2 colorless Construct artifact creature
-    tokens with flying tapped and attacking.
+    Whenever ~ attacks, create a 2/2 colorless Construct artifact creature token
+    with flying tapped and attacking.
 
 
     Crew 8
   flavorText: null
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -67,6 +64,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - multiple-bodies

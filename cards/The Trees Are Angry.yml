@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: The Trees Are Angry
+  manaCost:
+    __type: ManaCost
+    symbols: 5GGG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/The%20Trees%20Are%20Angry.jpg
+    width: 800
+    height: 800
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 86
+  superType: Instant
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: dreamphaser
+  autoCollectorNumber: RG10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Sacrifice all Forests you control. For each Forest sacrificed this way,
+    create a 4/3 green Treefolk Horror creature token.
+  flavorText: |-
+    “The trees are marching again.”
+    “What was it this time?”
+    “Someone left a campfire smoldering.”
+    “Of course they did.”
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: The Trees Are Angry
+imageExports:
+  front: Thrive in Adversity - 949c3a24.jpg

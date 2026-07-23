@@ -19,16 +19,16 @@ front:
     cropHeight: 1323
     xOffset: 431
     yOffset: 604
-  superType: Instant
+  superType: Sorcery
   subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: common
   illustrator: Kirill Khafizov
-  autoCollectorNumber: UU13
+  autoCollectorNumber: CU12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,12 +39,9 @@ front:
     Devoid (This card has no color.)
 
 
-    Draw three cards, discard a card, then put one card from your hand on top of
-    your library.
-
-
-    Create an Ichor token. (It is an artifact with "{T}: Add one mana of any
-    color. Spend this mana only to activate abilities.")
+    Draw two cards, then discard a card and create an Ichor token. (It is an
+    artifact with "{T}: Add one mana of any color. Spend this mana only to
+    activate abilities.")
   flavorText: null
   frame: devoid
   artSize: auto

@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Staff of Magnus
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Staff%20of%20Magnus.jpg
+    width: 1192
+    height: 670
+    cropWidth: 1192
+    cropHeight: 670
+    xOffset: 0
+    yOffset: 0
+  superType: Legendary Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RA06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    {T}: Add {C}.
+
+
+    {1}, {T}: Gain control of all permanents you own.
+
+
+    {1}{B}, {T}: Target player may pay {3}. If they don’t, they lose 3 life and
+    you gain 3 life.
+
+
+    {2}{U}, {T}: Exile target creature, then return it to the battlefield under
+    its owner's control.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Staff of Magnus

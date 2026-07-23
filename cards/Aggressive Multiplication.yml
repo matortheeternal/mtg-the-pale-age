@@ -9,7 +9,7 @@ front:
   name: Aggressive Multiplication
   manaCost:
     __type: ManaCost
-    symbols: X1GG
+    symbols: XXXG
   artImage:
     __type: image
     imageUrl: /project/cards/Aggressive%20Multiplication.jpg
@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tapwing
-  autoCollectorNumber: UG17
+  autoCollectorNumber: UG13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,9 +39,8 @@ front:
     Devoid (This card has no color.)
 
 
-    Create X 2/2 green Dinosaur creature tokens. They gain haste until end of
-    turn. Sacrifice half of them at the beginning of the next end step, rounded
-    up.
+    Create 2ˣ 2/2 green Dinosaur creature tokens. (2⁰ = 1, 2¹ = 2, 2² = 4, 2³ =
+    8, 2⁴ = 16, 2⁵ = 32, and so on.)
   flavorText: >-
     "Raptors are challenging. Left unchecked, they will multiply and devour
     every scrap of food for miles."
@@ -69,9 +68,6 @@ front:
 notes: ""
 tags:
   - multiple-bodies
-  - temporary-token
-  - gives-haste
-  - delayed-trigger
 baseName: Aggressive Multiplication
 imageExports:
   front: Aggressive Multiplication - bfafffd5.jpg

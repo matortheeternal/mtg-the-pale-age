@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Flying
 
@@ -41,13 +42,9 @@ front:
     When ~ enters, choose a player.
 
 
-    Whenever the chosen player casts a spell, that player mills cards equal to
-    ~'s toughness.
+    Whenever the chosen player casts a spell, that player mills cards equal half
+    ~'s toughness, rounded up.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - evasion

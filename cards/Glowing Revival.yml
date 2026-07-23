@@ -9,7 +9,7 @@ front:
   name: Glowing Revival
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: W
   artImage:
     __type: image
     imageUrl: /project/cards/Glowing%20Revival.jpg
@@ -28,16 +28,17 @@ front:
   showPT: ""
   rarity: common
   illustrator: Zuha
-  autoCollectorNumber: CW14
+  autoCollectorNumber: CW13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: true
   faceSymbol: null
-  rulesText: Return target creature card with mana value 4 or less from your
-    graveyard to the battlefield tapped.
-  flavorText: '"Lam, lam, lalalam lam lam, lam, lam, lalala."'
+  rulesText: Return target creature card with mana value 3 or less from your
+    graveyard to the battlefield tapped. If you cast this spell from anywhere
+    other than your hand, untap that creature.
+  flavorText: She rose upon a field of gold.
   frame: auto
   artSize: auto
   crownStyle: auto
