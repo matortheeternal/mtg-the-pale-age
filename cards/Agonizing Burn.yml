@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: CZ13
+  autoCollectorNumber: CZ14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -80,4 +80,4 @@ tags:
   - hand-disruption
 baseName: Agonizing Burn
 imageExports:
-  front: Agonizing Burn - 280faa00.jpg
+  front: Agonizing Burn - 2fd5f542.jpg

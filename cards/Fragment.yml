@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Eric He
-  autoCollectorNumber: CU14
+  autoCollectorNumber: CU13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ tags:
   - mana-value-matters
 baseName: Fragment
 imageExports:
-  front: Fragment - 05b8b8fa.jpg
+  front: Fragment - e75860f8.jpg

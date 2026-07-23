@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Sam Wolfe Connelly
-  autoCollectorNumber: CZ16
+  autoCollectorNumber: CZ17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +64,4 @@ tags: []
 baseName: Disgrace
 oldBaseName: Pillory
 imageExports:
-  front: Disgrace - b274d5be.jpg
+  front: Disgrace - c0f34df2.jpg

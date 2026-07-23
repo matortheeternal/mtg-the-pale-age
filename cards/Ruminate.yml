@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Kirill Khafizov
-  autoCollectorNumber: CU12
+  autoCollectorNumber: CU14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ tags:
   - discard-outlet
 baseName: Ruminate
 imageExports:
-  front: Ruminate - 2a56e807.jpg
+  front: Ruminate - 73597ff1.jpg
