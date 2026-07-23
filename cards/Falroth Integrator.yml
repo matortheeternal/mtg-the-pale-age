@@ -28,7 +28,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: John Walker
-  autoCollectorNumber: RG03
+  autoCollectorNumber: RG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ notes: "old: Whenever a counter is removed from a creature you control, untap
 tags: []
 baseName: Falroth Integrator
 imageExports:
-  front: Falroth Integrator - b9239943.jpg
+  front: Falroth Integrator - d594f0be.jpg

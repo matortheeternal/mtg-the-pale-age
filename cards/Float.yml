@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: CU13
+  autoCollectorNumber: CU12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -76,4 +76,4 @@ tags:
   - flying-counter
 baseName: Float
 imageExports:
-  front: Float - a950c7cf.jpg
+  front: Float - c01491d5.jpg

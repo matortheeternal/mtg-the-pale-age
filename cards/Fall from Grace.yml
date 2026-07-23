@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Karl Alexander Wilke
-  autoCollectorNumber: CW13
+  autoCollectorNumber: CW14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ tags:
   - synergy-sacrifice
 baseName: Fall from Grace
 imageExports:
-  front: Fall from Grace - 11f39d40.jpg
+  front: Fall from Grace - 9a151d4c.jpg

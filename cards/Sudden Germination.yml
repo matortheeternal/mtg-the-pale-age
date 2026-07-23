@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Song Kang
-  autoCollectorNumber: UG14
+  autoCollectorNumber: UG15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +64,4 @@ tags:
   - tutor-land-basic
 baseName: Sudden Germination
 imageExports:
-  front: Sudden Germination - 2ff7d692.jpg
+  front: Sudden Germination - 9f50e08b.jpg
