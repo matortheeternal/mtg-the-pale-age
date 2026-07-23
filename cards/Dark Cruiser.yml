@@ -34,20 +34,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Menace
 
 
-    Pay 2 life: ~ becomes crewed. Active only once each turn.
+    Pay 2 life: ~ becomes crewed. Activate only once each turn.
 
 
-    Crew 2 (Tap any number of creatures you control with total power 2 or more:
+    Crew 1 (Tap any number of creatures you control with total power 1 or more:
     This Vehicle becomes an artifact creature until end of turn.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: "17"
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "17"
+  centerText: never
 notes: ""
 tags:
   - life-payment

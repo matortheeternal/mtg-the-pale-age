@@ -36,7 +36,7 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: When you sacrifice ~, return it to the battlefield under its owner's
-    control at the beginning of the next end step.
+    control at the beginning of the next end step with a +1/+1 counter on it.
   flavorText: So long as his mycelium remains, he will sprout anew.
   frame: auto
   artSize: auto

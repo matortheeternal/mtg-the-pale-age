@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     Each artifact you tap while casting this spell pays for {1} or one mana of
     that artifact's color.
@@ -41,10 +42,6 @@ front:
 
     Counter target spell unless its controller pays {X}.
   flavorText: '"Whatever magic you have brought here, it is not nearly enough."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - discount-self

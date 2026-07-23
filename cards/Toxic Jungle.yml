@@ -40,7 +40,11 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
+    {T}: Add {C}.
+
+
     {T}, Pay 1 life: Add {B} or {G}.
+
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
     your hand.
@@ -61,7 +65,7 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never

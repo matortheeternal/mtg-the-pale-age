@@ -23,8 +23,8 @@ front:
   subType: Treefolk
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "5"
+  power: "1"
+  toughness: "4"
   showPT: true
   rarity: uncommon
   illustrator: Duncan Kay
@@ -39,9 +39,12 @@ front:
     Devoid (This card has no color.)
 
 
-    Swarm - Whenever one or more tokens you control enter, ~ gains
-    indestructible and hexproof until end of turn.
-  flavorText: His bark is a fair bit worse than his bite—it is impenetrable, after all.
+    When Old Green Guardian enters, you may destroy target artifact.
+
+
+    Swarm - Whenever one or more tokens you control enter, untap target Forest
+    or creature you control.
+  flavorText: Axes break upon his bark.
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -62,7 +65,11 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-artifact
+  - tokenfall
+  - untapper
 baseName: Old Green Guardian
 imageExports:
   front: Old Green Guardian - 40a8c562.jpg

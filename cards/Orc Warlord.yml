@@ -36,8 +36,8 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    Bloodthirst 1 (If an opponent was dealt damage this turn, ~ enters with a
-    +1/+1 counter on it.)
+    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
+    enters with a +1/+1 counter on it.)
 
 
     Whenever ~ deals combat damage to a player, put a +1/+1 counter on another

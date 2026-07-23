@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Threads of Grace
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Glowing%20Revival.jpg
+    width: 736
+    height: 919
+    cropWidth: 736
+    cropHeight: 519
+    xOffset: 0
+    yOffset: 306
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Zuha
+  autoCollectorNumber: CW13
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: true
+  faceSymbol: null
+  rulesText: Return target creature card with mana value 3 or less from your
+    graveyard to the battlefield tapped. If you cast this spell from anywhere
+    other than your hand, untap that creature.
+  flavorText: The threads descended, and she rose.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags:
+  - recursion
+  - recursion-creature
+baseName: Threads of Grace
+imageExports:
+  front: Glowing Revival - 483bc24f.jpg

@@ -40,17 +40,15 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    Flying, vigilance, lifelink
+    Flying, lifelink
 
 
-    ~ costs {1} less to cast for each creature that died this turn.
+    @ costs {1} less to cast for each creature that died this turn.
 
 
-    At the beginning of each player's end step, you may return target creature
-    card with mana value X or less from that player's graveyard to the
-    battlefield under your control, where X is the amount of life you gained
-    this turn.
-  flavorText: null
+    When Nyxie enters, return target creature card with mana value 3 or less
+    from your graveyard to the battlefield with an indestructible counter on it.
+  flavorText: Immortality is both a gift, and a curse.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -67,11 +65,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: "15"
+  chopBottom: ""
   maxFontSize: ""
   centerText: never
 notes: ""
 tags: []
 baseName: Nyxie, the Nurturer
 imageExports:
-  front: Nyxie, the Nurturer - 5afa64d8.jpg
+  front: Nyxie, the Nurturer - a7642fec.jpg

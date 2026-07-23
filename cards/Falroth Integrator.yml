@@ -9,7 +9,7 @@ front:
   name: Falroth Integrator
   manaCost:
     __type: ManaCost
-    symbols: 1GG
+    symbols: 2GG
   artImage:
     __type: image
     imageUrl: /project/cards/The%20Integrator.jpg
@@ -41,8 +41,8 @@ front:
     onto it.")
 
 
-    Whenever a counter is removed from a creature you control, untap target
-    permanent.
+    When ~ enters, put your choice of a +1/+1, deathtouch, reach, or trample
+    counter on each creature you control.
   flavorText: null
   frame: auto
   artSize: auto
@@ -63,7 +63,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-notes: ""
+notes: "old: Whenever a counter is removed from a creature you control, untap
+  target permanent."
 tags: []
 baseName: Falroth Integrator
 imageExports:

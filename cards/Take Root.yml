@@ -41,7 +41,7 @@ front:
     When ~ enters, you may destroy target artifact or enchantment.
 
     Enchanted creature gets +1/+2 and has vigilance.
-  flavorText: ""
+  flavorText: The bark closed over his wounds as the roots tore through his doubts.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -70,4 +70,4 @@ tags:
   - triggered-ability
 baseName: Take Root
 imageExports:
-  front: Take Root - fd98480a.jpg
+  front: Take Root - 447960fe.jpg

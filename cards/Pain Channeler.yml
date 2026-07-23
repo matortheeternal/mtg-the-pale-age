@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "0"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Kevin Kupari

@@ -34,14 +34,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: Whenever ~ enters or attacks, create a 2/2 green Dinosaur creature token.
   flavorText: Raptors have a tenuous relationship with larger carnivores. They
-    like to be close, so they can scavenge meat from the hunt, but not too
-    close, lest they become a snack themselves.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+    like to be close to scavenge food, but not too close, lest they become a
+    snack themselves.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +54,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - triggered-ability

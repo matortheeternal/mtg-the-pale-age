@@ -9,7 +9,7 @@ front:
   name: Ravenous Greatwolf
   manaCost:
     __type: ManaCost
-    symbols: 3GGG
+    symbols: 5G
   artImage:
     __type: image
     imageUrl: /project/cards/Prowling%20Greatwolf.jpg
@@ -23,12 +23,12 @@ front:
   subType: Wolf Beast
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "6"
+  power: "5"
+  toughness: "5"
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: UG10
+  autoCollectorNumber: UG11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -39,13 +39,12 @@ front:
     Devoid (This card has no color.)
 
 
-    Consume (As this enters, you may sacrifice any number of creatures and/or
-    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
-    they had.)
+    Bloodthirst 2 (If an opponent was dealt damage this turn, this creature
+    enters with two +1/+1 counters on it.)
 
 
     When ~ enters, you may have it fight target creature you don't control.
-  flavorText: null
+  flavorText: ""
   frame: devoid
   artSize: auto
   crownStyle: auto

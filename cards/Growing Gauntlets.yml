@@ -28,15 +28,16 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Morten Christiansen
-  autoCollectorNumber: UG16
+  autoCollectorNumber: UG17
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
-    Equipped creature gets "{T}: Put a +1/+1 counter on this creature and a
-    +1/+1 counter on ~."
+    Equipped creature has "{T}: Put a +1/+1 counter on this creature and a +1/+1
+    counter on ~."
 
 
     Transfuse (Whenever another creature enters, you may move a counter from
@@ -45,10 +46,6 @@ front:
 
     Equip {1}
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +61,15 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
-tags: []
+tags:
+  - gains-pp-counters
+  - gives-pp-counters
+  - move-counters
 baseName: Growing Gauntlets
 imageExports:
   front: Growing Gauntlets - 441fdcc0.jpg

@@ -66,6 +66,9 @@ tags:
   - cycling
   - draw
   - tuck
+  - removal-artifact
+  - removal-creature
+  - removal-enchantment
 baseName: Waterspout
 imageExports:
   front: Waterspout - 1ba2f39c.jpg

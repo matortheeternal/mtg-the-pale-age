@@ -62,7 +62,16 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
 notes: ""
-tags: []
+tags:
+  - sweeper
+  - hate-flying
+  - removal
+  - removal-creature
+  - removal-burn
+  - synergy-mill
+  - draw
+  - discard
+  - discard-outlet
 baseName: Spontaneous Collapse
 imageExports:
   front: Spontaneous Collapse - 9728a640.jpg

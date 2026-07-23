@@ -34,21 +34,13 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
+  faceSymbol: null
+  rulesText: |-
     When ~ enters, create two 2/2 green Dinosaur creature tokens.
 
-
-    Dinosaur creatures you control are mounts in addition to their other types
-    and have Saddle 1.
-
-
-    Whenever a creature you control becomes saddled, it gains trample until end
-    of turn.
-  flavorText: null
-  chopTop: "2"
-  chopBottom: "15"
-  maxFontSize: ""
-  centerText: never
+    Mounts and dinosaurs you control have trample.
+  flavorText: She has learned through experience that raptors are much easier to
+    aim than they are to tame.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,8 +56,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: Non-human creatures you control have Saddle 1. Whenever a creature you
-  control becomes saddled, it gains haste until end of turn.
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
 tags: []
 baseName: Falroth Ranger
 imageExports:

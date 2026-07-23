@@ -40,7 +40,11 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
+    {T}: Add {C}.
+
+
     {T}, Pay 1 life: Add {R} or {B}.
+
 
     {3}, {T}, Sacrifice ~: Return target colorless card from your graveyard to
     your hand.

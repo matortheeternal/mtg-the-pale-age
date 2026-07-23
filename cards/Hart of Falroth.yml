@@ -41,7 +41,7 @@ front:
 
     When ~ dies, create an X/X black Spirit Avatar creature token named Shadow
     of Falroth, where X is its power.
-  flavorText: '"When she fell, the forest cried out in pain, and darkness rose again."'
+  flavorText: When she fell, the forest cried out in pain, and darkness rose again.
   frame: devoid
   artSize: auto
   crownStyle: auto

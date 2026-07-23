@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Rafael Kayanan
-  autoCollectorNumber: UG13
+  autoCollectorNumber: UG14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,7 +66,12 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags: []
+tags:
+  - removal
+  - removal-creature
+  - cantrip
+  - draw
+  - hand-neutral
 baseName: Make a Stand
 imageExports:
   front: Make a Stand - b174b5e5.jpg

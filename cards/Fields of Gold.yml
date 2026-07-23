@@ -75,6 +75,8 @@ tags:
   - removal-exile
   - triggered-ability
   - activated-ability
+  - removal-artifact
+  - removal-enchantment
 baseName: Fields of Gold
 imageExports:
   front: Fields of Gold - 0cc62fe1.jpg

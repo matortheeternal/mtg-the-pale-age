@@ -37,10 +37,10 @@ front:
   faceSymbol: null
   rulesText: >-
     Create a 2/2 green Dinosaur creature token. If you cast this spell from
-    anywhere other than your hand, put two +1/+1 counters on it.
+    anywhere other than your hand, put a +1/+1 counter on it.
 
 
-    Flashback {2}{G}{G} (You may cast this card from your graveyard for its
+    Flashback {1}{G}{G} (You may cast this card from your graveyard for its
     flashback cost. Then exile it.)
   flavorText: ""
   frame: auto
@@ -68,4 +68,4 @@ tags:
   - gives-pp-counters
 baseName: Raptor Ambush
 imageExports:
-  front: Raptor Ambush - e8796c80.jpg
+  front: Raptor Ambush - be06556f.jpg

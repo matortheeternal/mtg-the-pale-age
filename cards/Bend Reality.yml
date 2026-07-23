@@ -9,7 +9,7 @@ front:
   name: Bend Reality
   manaCost:
     __type: ManaCost
-    symbols: UUU
+    symbols: 1UUU
   artImage:
     __type: image
     imageUrl: /project/cards/Bend%20Reality.jpg
@@ -35,8 +35,7 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: You may choose new targets for any number of other spells and
-    abilities. Then you may reorder all other spells and abilities on the stack.
+  rulesText: You may counter or choose new targets for any number of spells and abilities.
   flavorText: null
   frame: auto
   artSize: auto
@@ -66,4 +65,4 @@ tags:
   - change-target
 baseName: Bend Reality
 imageExports:
-  front: Bend Reality - d90403cf.jpg
+  front: Bend Reality - d03888e8.jpg
