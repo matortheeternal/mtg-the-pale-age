@@ -40,8 +40,7 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: Vehicles you control become crewed and mounts you control become
-    saddled. Creatures you control get +1/+0 and gain lifelink until end of
-    turn.
+    saddled. Creatures you control get +1/+0 and gain trample until end of turn.
   flavorText: Boom! Bang! Crash! The manic menagerie arrives, in a flash.
   frame: auto
   artSize: auto

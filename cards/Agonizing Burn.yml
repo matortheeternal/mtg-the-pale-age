@@ -48,7 +48,7 @@ front:
 
 
     ~ deals 4 damage to target player. Then, if that player's life total is 10
-    or less, they discard a card at random.
+    or less, they discard a card.
   flavorText: null
   frame: devoid
   artSize: auto

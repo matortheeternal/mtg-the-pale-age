@@ -30,18 +30,17 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: common
   illustrator: Myriam Tillson
-  autoCollectorNumber: UZ21
+  autoCollectorNumber: CZ13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Target player sacrifices. a creature. Create a tapped Forest land
-    token. If the sacrificed creature had toughness 4 or greater, create two of
-    those tokens instead.
+  rulesText: Target player sacrifices a creature. Create a tapped Forest land
+    token. If that creature’s toughness was 4 or greater, you gain 3 life.
   flavorText: >-
     "Your friend will make for a fine harvest. All I need do is pluck the fruit
     from his brow."

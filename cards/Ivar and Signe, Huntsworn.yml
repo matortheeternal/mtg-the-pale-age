@@ -27,8 +27,8 @@ front:
   subType: Human Barbarian
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "3"
+  power: "3"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: Lewis LaRosa
@@ -43,12 +43,15 @@ front:
     Devoid (This card has no color.)
 
 
+    Bloodthirst 1
+
+
     Whenever a creature you control deals combat damage to a player, put a +1/+1
     counter on it.
 
 
-    Remove a counter from @: Target creature you control gets +2/+0 and gains
-    haste until end of turn. Activate only as a sorcery.
+    Remove a +1/+1 counter from @: Target creature you control gets +2/+0 and
+    gains haste until end of turn. Activate only as a sorcery.
   flavorText: null
   frame: devoid
   artSize: auto

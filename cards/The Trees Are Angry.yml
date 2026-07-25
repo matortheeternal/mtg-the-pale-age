@@ -36,8 +36,8 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    Sacrifice all Forests you control. For each Forest sacrificed this way,
-    create a 4/3 green Treefolk Horror creature token.
+    Sacrifice any number of Forests. Create that many 4/3 green Treefolk Horror
+    creature tokens with reach.
   flavorText: |-
     “The trees are marching again.”
     “What was it this time?”

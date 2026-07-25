@@ -1,49 +1,52 @@
 front:
   template: magic/M15/Main
   colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
     - char: b
       name: black
       sources:
         normal: true
   colorOverride: []
-  name: Terror Injector
+  name: Tenured Professor
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 1UB
   artImage:
     __type: image
-    imageUrl: /project/cards/UB02%20Placeholder.jpg
-    width: 1080
-    height: 1080
-    cropWidth: 1080
-    cropHeight: 762
+    imageUrl: /project/cards/Professor%20Skellington.jpg
+    width: 2572
+    height: 3738
+    cropWidth: 2572
+    cropHeight: 3597
     xOffset: 0
-    yOffset: 20
+    yOffset: 86
   superType: Creature
-  subType: Nightmare
+  subType: Skeleton Advisor
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "1"
+  toughness: "2"
   showPT: true
-  rarity: uncommon
-  illustrator: Samuel Araya
-  autoCollectorNumber: UB02
+  rarity: common
+  illustrator: Andrei Riabovitchev
+  autoCollectorNumber: CZ04
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >
-    ~ can't block.
+  rulesText: |-
+    Devoid (This card has no color.)
 
+    When ~ enters, each player mills three cards.
 
-    Discard a card: ~ gains first strike and deathtouch until end of turn.
-    Activate only as a sorcery.
-  flavorText: It dragged its misshapen limbs across his docile body, then sank a
-    needle deep into his mind.
-  frame: auto
+    {2}{B}: Return ~ from your graveyard to the battlefield tapped.
+  flavorText: The professor of political theory at the university was an odd fellow.
+  frame: devoid
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -63,11 +66,7 @@ front:
   maxFontSize: ""
   centerText: never
 notes: ""
-tags:
-  - discard-outlet
-  - gains-menace
-  - evasion
-  - free-discard-outlet
-baseName: Terror Injector
+tags: []
+baseName: Tenured Professor
 imageExports:
-  front: Terror Injector - a59ca60c.jpg
+  front: Professor Skellington - a317c8b9.jpg
