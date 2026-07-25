@@ -57,6 +57,39 @@ export:
   WebExporter:
     Test: ""
     test: ""
+pack:
+  - label: Common
+    count: "10"
+    pool:
+      - expression: r:c -t:emblem -t:token -t:land
+        weight: 1
+    collation: runs
+  - label: Uncommon
+    count: "4"
+    pool:
+      - expression: r:u -t:emblem -t:token -t:land
+        weight: 1
+    collation: runs
+  - label: Rare/Mythic Rare
+    count: 1
+    pool:
+      - expression: r:r -t:emblem -t:token -t:land
+        weight: "2"
+      - expression: r:m -t:emblem -t:token -t:land
+        weight: 1
+    collation: sheet
+  - label: Land
+    count: 1
+    pool:
+      - expression: r:c t:land -t:token -t:basic
+        weight: "13"
+      - expression: r:u t:land -t:token -t:basic
+        weight: "6"
+      - expression: r:r t:land -t:token -t:basic
+        weight: "2"
+      - expression: r:Special
+        weight: 1
+    collation: sheet
 cards:
   - The Mothership
   - The Ferryman
@@ -254,7 +287,7 @@ cards:
   - Remorseless
   - Conjure Ichor
   - Dino Trainer
-  - Professor Skellington
+  - Tenured Professor
   - Wandering Bloodseeker
   - Fallen Mender
   - Roach Chef

@@ -13,7 +13,7 @@ front:
   name: Environmental Adaptation
   manaCost:
     __type: ManaCost
-    symbols: 1GU
+    symbols: GU
   artImage:
     __type: image
     imageUrl: /project/cards/Placeholder%20Simic%20Spell.jpg
@@ -39,7 +39,7 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: "Put three different counters on target creature from among: flying,
+  rulesText: "Put two different counters on target creature from among: flying,
     curious, trample, and +1/+1. (Whenever a creature with a curious deals
     damage to an opponent, you may draw a card.)"
   flavorText: "The man is menagerie: leaves, scales, and a peculiar eccentricity."

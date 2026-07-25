@@ -34,19 +34,16 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Ward—Tap four untapped permanents you control. (Whenever this creature
     becomes the target of a spell or ability an opponent controls, counter it
-    unless that player taps four untappepd permanents they control.)
+    unless that player taps four untapped permanents they control.)
 
 
     Whenever ~ enters or attacks, put a stun counter on each of up to four
     target permanents.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - non-mana-ward

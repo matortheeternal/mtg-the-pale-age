@@ -35,10 +35,12 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: |
+  rulesText: >
     ~ can't block.
 
-    Discard a card: ~ gains menace until end of turn.
+
+    Discard a card: ~ gains first strike and deathtouch until end of turn.
+    Activate only as a sorcery.
   flavorText: It dragged its misshapen limbs across his docile body, then sank a
     needle deep into his mind.
   frame: auto
