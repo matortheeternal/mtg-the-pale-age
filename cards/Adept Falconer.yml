@@ -9,7 +9,7 @@ front:
   name: Adept Falconer
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 2U
   artImage:
     __type: image
     imageUrl: /project/cards/Adept%20Falconer.jpg
@@ -34,13 +34,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When ~ leaves the battlefield, mill a card and create a 1/1 blue Bird
-    creature token with flying.
+  faceSymbol: null
+  rulesText: When ~ enters, mill three cards and create a 1/1 blue Bird creature
+    token with flying.
   flavorText: The falconers of the towers of mist know many forgotten histories.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - multiple-bodies

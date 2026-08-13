@@ -35,13 +35,10 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >-
+  rulesText: |-
     Devoid (This card has no color.)
 
-
-    Put a flying counter on target creature. That creature cannot attack or
-    block creatures without flying this turn.
-
+    Put a flying counter on target creature.
 
     Draw a card.
   flavorText: Sometimes, gravity gets tired of holding you down.

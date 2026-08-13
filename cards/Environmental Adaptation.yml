@@ -32,7 +32,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: dzoolivier
-  autoCollectorNumber: CZ13
+  autoCollectorNumber: CZ12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ notes: ""
 tags: []
 baseName: Environmental Adaptation
 imageExports:
-  front: Environmental Adaptation - 3e56c122.jpg
+  front: Environmental Adaptation - b38b24e0.jpg

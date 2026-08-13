@@ -13,7 +13,7 @@ front:
   name: Awakened Continent
   manaCost:
     __type: ManaCost
-    symbols: 8GGRR
+    symbols: 6GGRR
   artImage:
     __type: image
     imageUrl: /project/cards/Awakened%20Continent.jpg
@@ -27,8 +27,8 @@ front:
   subType: Elemental
   flagLeft: ""
   flagRight: ""
-  power: "16"
-  toughness: "16"
+  power: "14"
+  toughness: "14"
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright

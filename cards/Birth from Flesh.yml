@@ -30,7 +30,7 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: common
   illustrator: Yuri Shashiki
   autoCollectorNumber: CZ13
   collectorNumber: ""
@@ -74,4 +74,4 @@ tags:
   - multiple-bodies
 baseName: Birth from Flesh
 imageExports:
-  front: Birth from Flesh - ad6698f1.jpg
+  front: Birth from Flesh - 81d06d6b.jpg

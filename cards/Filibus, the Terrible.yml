@@ -39,7 +39,7 @@ front:
     When @ enters, gain control of target artifact for as long as you control @.
 
 
-    When @ attacks, you may sacrifice an artifact. If you do, put a +1/+1
+    Whenever @ attacks, you may sacrifice an artifact. If you do, put a +1/+1
     counter on @ and draw a card.
   flavorText: Filibus was rather fond of trinkets.
   frame: auto
