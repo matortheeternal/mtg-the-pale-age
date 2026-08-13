@@ -23,7 +23,7 @@ front:
   subType: Goblin Noble
   flagLeft: ""
   flagRight: ""
-  power: "2"
+  power: "3"
   toughness: "1"
   showPT: true
   rarity: uncommon
@@ -36,14 +36,14 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than
+    Spectacle {2}{R} (You may cast this spell for its spectacle cost rather than
     its mana cost if an opponent lost life this turn.)
 
 
     Haste, menace
 
 
-    Whenever ~ attacks, exile the top three cards of your library. You may play
+    Whenever ~ attacks, exile the top two cards of your library. You may play
     those cards on your next turn.
   flavorText: null
   frame: auto

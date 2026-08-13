@@ -28,7 +28,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: CG16
+  autoCollectorNumber: CG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,7 +43,7 @@ front:
 
     - Put a +1/+1 counter on target permanent.
 
-    - Create a morsel tokens. (It is an artifact with "When you sacrifice this
+    - Create a morsel token. (It is an artifact with "When you sacrifice this
     token, gain 1 life.")
   flavorText: |-
     "Having something to protect makes me stronger."
@@ -67,11 +67,11 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - gives-pp-counters
   - ramp
   - land-ramp
-baseName: Nurture
 imageExports:
-  front: Nurture - 9045633b.jpg
+  front: Nurture - 953e9bce.jpg

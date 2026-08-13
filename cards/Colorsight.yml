@@ -38,9 +38,10 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
-    When ~ enters, create two Ichor tokens. (They are artifacts with "{T}: Add
-    one mana of any color. Spend this mana only to activate abilities.")
+    When ~ enters, create an Ichor token. (They are artifacts with "{T}: Add one
+    mana of any color. Spend this mana only to activate abilities.")
 
 
     {1}: Add one mana of any color.
@@ -48,10 +49,6 @@ front:
 
     {3}: Scry 1.
   flavorText: null
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -67,6 +64,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags: []
 baseName: Colorsight

@@ -24,7 +24,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
@@ -34,6 +34,7 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >-
     When ~ enters, investigate. (Create a Clue token. It’s an artifact with
     “{2}, Sacrifice this token: Draw a card.”)
@@ -42,10 +43,6 @@ front:
     Whenever you sacrifice an artifact, ~ deals 1 damage to target player or
     planeswalker.
   flavorText: His methods are crass at best, but the results are undeniable.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - burn

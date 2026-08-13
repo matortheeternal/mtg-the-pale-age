@@ -23,7 +23,7 @@ front:
   subType: Elk Spirit
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "2"
   toughness: "3"
   showPT: true
   rarity: uncommon

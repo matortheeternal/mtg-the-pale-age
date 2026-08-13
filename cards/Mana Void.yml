@@ -9,7 +9,7 @@ front:
   name: Mana Void
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: 3U
   artImage:
     __type: image
     imageUrl: /project/cards/Mana%20Void.jpg
@@ -34,20 +34,17 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: >
     Devoid (This card has no color.)
 
 
-    Counter target noncreature spell, triggered ability, or activated ability.
+    Counter target spell,
 
 
     Create an Ichor token. (It is an artifact with "{T}: Add one mana of any
     color. Spend this mana only to activate abilities.")
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
 notes: ""
 tags:
   - counterspell

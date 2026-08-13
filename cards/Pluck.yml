@@ -30,17 +30,16 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: CZ13
+  autoCollectorNumber: UZ21
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Target player sacrifices a creature. Create a tapped Forest land
-    token. If that creature’s toughness was 4 or greater, you gain 3 life.
+  rulesText: Target player sacrifices a creature. Create a tapped Forest land token.
   flavorText: >-
     "Your friend will make for a fine harvest. All I need do is pluck the fruit
     from his brow."
@@ -76,4 +75,4 @@ tags:
   - removal-creature
 baseName: Pluck
 imageExports:
-  front: Pluck - fe542533.jpg
+  front: Pluck - 350d190a.jpg

@@ -19,8 +19,8 @@ front:
     cropHeight: 813
     xOffset: 0
     yOffset: 345
-  superType: Enchantment
-  subType: Aura
+  superType: Sorcery
+  subType: ""
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -35,19 +35,9 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: >-
-    Enchant creature
-
-
-    When ~ enters, tap enchanted creature.
-
-
-    Enchanted creature doesn't untap during its controller's untap step.
-
-
-    When enchanted creature dies, create an Ichor token. (It's an artifact with
-    "{T}: Add one mana of any color. Spend this mana only to activate
-    abilities.")
+  rulesText: 'Tap target creature. Put two stun counters on it. Create an ichor
+    token. (It is an artifact with "{T}: Add one mana of any color. Spend this
+    mana only to activate abilities.")'
   flavorText: null
   frame: auto
   artSize: auto

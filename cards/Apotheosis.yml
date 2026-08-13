@@ -43,7 +43,7 @@ front:
 
 
     Enchanted creature is a white Angel with base power and toughness 4/4, and
-    has flying, first strike, and lifelink. (It loses all other colors and all
+    has flying, vigilance, and lifelink. (It loses all other colors and all
     other creature types.)
   flavorText: null
   frame: devoid
