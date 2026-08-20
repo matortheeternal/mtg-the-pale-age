@@ -12,7 +12,6 @@ front:
     symbols: XW
   artImage:
     __type: image
-    imageUrl: /project/cards/Seal%20Within.jpg
     width: 700
     height: 700
     cropWidth: 700
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Brian Luong
-  autoCollectorNumber: RW06
+  autoCollectorNumber: RW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Seal Within
 imageExports:
   front: Seal Within - 8d574ce6.jpg

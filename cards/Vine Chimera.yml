@@ -12,7 +12,6 @@ front:
     symbols: 3G
   artImage:
     __type: image
-    imageUrl: /project/cards/Vine%20Chimera.jpg
     width: 1527
     height: 2160
     cropWidth: 1420
@@ -68,6 +67,5 @@ tags:
   - multiple-targets
   - move-counters
   - triggered-ability
-baseName: Vine Chimera
 imageExports:
   front: Vine Chimera - f449e03c.jpg

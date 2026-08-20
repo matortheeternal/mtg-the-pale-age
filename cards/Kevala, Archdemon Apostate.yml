@@ -16,7 +16,6 @@ front:
     symbols: BW
   artImage:
     __type: image
-    imageUrl: /project/cards/Kevala%2C%20Archdemon%20Apostate.jpg
     width: 1152
     height: 1440
     cropWidth: 1023
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: RZ04
+  autoCollectorNumber: RZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Kevala, Archdemon Apostate
 imageExports:
   front: Kevala, Archdemon Apostate - 383fe51f.jpg

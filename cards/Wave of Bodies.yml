@@ -12,7 +12,6 @@ front:
     symbols: BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Wave%20of%20Bodies.jpg
     width: 1080
     height: 1345
     cropWidth: 1080
@@ -65,6 +64,5 @@ tags:
   - life-loss-matters
   - synergy-sacrifice
   - draw
-baseName: Wave of Bodies
 imageExports:
   front: Wave of Bodies - a5e8a1e9.jpg

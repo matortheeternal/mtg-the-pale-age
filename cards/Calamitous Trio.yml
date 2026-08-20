@@ -12,7 +12,6 @@ front:
     symbols: 5R
   artImage:
     __type: image
-    imageUrl: /project/cards/Calamitous%20Trio.jpg
     width: 2132
     height: 2741
     cropWidth: 2132
@@ -69,6 +68,5 @@ tags:
   - discard-outlet
   - sacrifice-outlet
   - sacrifice-outlet-artifact
-baseName: Calamitous Trio
 imageExports:
   front: Calamitous Trio - 7d8ddf8f.jpg

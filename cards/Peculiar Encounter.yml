@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Peculiar%20Encounter.jpg
     width: 1199
     height: 1191
     cropWidth: 1199
@@ -67,6 +66,5 @@ tags:
   - removal-artifact
   - removal-enchantment
   - gives-pp-counters
-baseName: Peculiar Encounter
 imageExports:
   front: Peculiar Encounter - 8b12421b.jpg

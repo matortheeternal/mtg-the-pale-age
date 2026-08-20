@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/T-Rex%20Charger.jpg
     width: 3500
     height: 3500
     cropWidth: 3500
@@ -65,6 +64,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: T-Rex Charger
 imageExports:
   front: T-Rex Charger - ba563177.jpg

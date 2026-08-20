@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/u.jpg
     width: 800
     height: 1082
     cropWidth: 800
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sam Araya
-  autoCollectorNumber: CB04
+  autoCollectorNumber: CB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ tags:
   - spot-removal
   - virtual-vanilla
   - triggered-ability
-baseName: Mad Bonemuncher
 imageExports:
   front: Mad Bonemuncher - 71f5792b.jpg

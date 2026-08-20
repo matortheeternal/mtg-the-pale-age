@@ -16,7 +16,6 @@ front:
     symbols: 1RG
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Beast%20in%20the%20Woods.jpg
     width: 876
     height: 911
     cropWidth: 876
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Groeling
-  autoCollectorNumber: UZ02
+  autoCollectorNumber: UZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Beast of the Woods
 imageExports:
   front: Beast of the Woods - 2221ba0f.jpg

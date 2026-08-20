@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Skittering%20Deathbot.jpg
     width: 1920
     height: 1280
     cropWidth: 1120
@@ -65,6 +64,5 @@ tags:
   - synergy-sacrifice
   - triggered-ability
   - death-trigger-self
-baseName: Skittering Deathbot
 imageExports:
   front: Skittering Deathbot - 4bbf718b.jpg

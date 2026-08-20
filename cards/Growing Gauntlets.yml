@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Growing%20Gauntlets.jpg
     width: 1211
     height: 630
     cropWidth: 1211
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Morten Christiansen
-  autoCollectorNumber: UG17
+  autoCollectorNumber: UG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ tags:
   - gains-pp-counters
   - gives-pp-counters
   - move-counters
-baseName: Growing Gauntlets
 imageExports:
   front: Growing Gauntlets - cdc96b97.jpg

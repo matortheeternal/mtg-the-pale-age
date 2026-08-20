@@ -16,7 +16,6 @@ front:
     symbols: 4UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Color%20Eruption.jpg
     width: 1920
     height: 1527
     cropWidth: 1675
@@ -32,7 +31,7 @@ front:
   showPT: false
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: CZ19
+  autoCollectorNumber: CZ20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Ichor Eruption
 imageExports:
   front: Ichor Eruption - ea1d677e.jpg

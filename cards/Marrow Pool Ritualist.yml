@@ -12,7 +12,6 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/UB09%20Placeholder.jpg
     width: 800
     height: 1187
     cropWidth: 686
@@ -75,4 +74,3 @@ tags:
   - force-draw
   - life-for-cards
   - opponent-loses-life
-baseName: Marrow Pool Ritualist

@@ -12,7 +12,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-2.jpg
     width: 1920
     height: 1920
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Catriona Barclay
-  autoCollectorNumber: RL07
+  autoCollectorNumber: RL03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ front:
 notes: ""
 tags:
   - ritual
-baseName: Seething Summit
 imageExports:
   front: Seething Summit - 9ccea2b4.jpg

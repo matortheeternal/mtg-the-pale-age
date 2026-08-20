@@ -12,7 +12,6 @@ front:
     symbols: 2RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Mountain%20Crusher.jpg
     width: 921
     height: 1226
     cropWidth: 921
@@ -66,6 +65,5 @@ notes: ""
 tags:
   - sacrifice-outlet
   - sacrifice-outlet-land
-baseName: Mountain Crusher
 imageExports:
   front: Mountain Crusher - 754ab233.jpg

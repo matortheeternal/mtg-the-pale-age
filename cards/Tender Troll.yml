@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Masked%20Troll.jpg
     width: 3000
     height: 3375
     cropWidth: 2622
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mathias Osland
-  autoCollectorNumber: CG01
+  autoCollectorNumber: CG02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - repeatable-pp-counters
   - tokenfall
   - synergy-token
-baseName: Tender Troll
 imageExports:
   front: Tender Troll - 4baed6c8.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 2B
   artImage:
     __type: image
-    imageUrl: /project/cards/Covenant%20Sanguinis.jpg
     width: 640
     height: 640
     cropWidth: 640
@@ -72,6 +71,5 @@ tags:
   - force-draw
   - opponent-loses-life
   - life-payment
-baseName: Covenant Sanguinis
 imageExports:
   front: Covenant Sanguinis - c752f8da.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Backwater%20Banshee.jpg
     width: 800
     height: 1036
     cropWidth: 800
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Xavier Ortiz
-  autoCollectorNumber: CB02
+  autoCollectorNumber: CB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ notes: ""
 tags:
   - lifegain
   - repeatable-lifegain
-baseName: Soul Parasite
 imageExports:
   front: Soul Parasite - 011209c2.jpg

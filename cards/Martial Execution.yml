@@ -12,7 +12,6 @@ front:
     symbols: 2WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Martial%20Execution.jpg
     width: 1920
     height: 1332
     cropWidth: 1543
@@ -65,6 +64,5 @@ tags:
   - spot-removal
   - hate-attacker
   - hate-blocker
-baseName: Martial Execution
 imageExports:
   front: Martial Execution - e860e50a.jpg

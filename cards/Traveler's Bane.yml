@@ -12,7 +12,6 @@ front:
     symbols: 2RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Traveler's%20Bane.jpg
     width: 735
     height: 511
     cropWidth: 724
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Bogdan Rezunenko
-  autoCollectorNumber: UR06
+  autoCollectorNumber: UR08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - discard-outlet
   - untaps-self
   - untapper
-baseName: Traveler's Bane
 imageExports:
   front: Traveler's Bane - 66df8640.jpg

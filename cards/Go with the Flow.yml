@@ -16,7 +16,6 @@ front:
     symbols: 2WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Go%20with%20the%20Flow.jpg
     width: 1920
     height: 1920
     cropWidth: 1535
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Valentina Bianconi
-  autoCollectorNumber: CZ15
+  autoCollectorNumber: CZ17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - lifegain
   - mill
   - mill-self
-baseName: Go with the Flow
 imageExports:
   front: Go with the Flow - 3e4836f3.jpg

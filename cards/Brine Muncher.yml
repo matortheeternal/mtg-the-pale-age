@@ -16,7 +16,6 @@ front:
     symbols: 1UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Brine%20Muncher.jpg
     width: 1920
     height: 1947
     cropWidth: 1518
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: CZ01
+  autoCollectorNumber: CZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ tags:
   - bottomless-mana-sink
   - synergy-ichor
   - mana-spent-matters
-baseName: Brine Muncher
 imageExports:
   front: Brine Muncher - 9052cea6.jpg

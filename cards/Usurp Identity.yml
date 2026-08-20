@@ -16,7 +16,6 @@ front:
     symbols: 4UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Usurp%20Identity.jpg
     width: 561
     height: 800
     cropWidth: 561
@@ -69,6 +68,5 @@ tags:
   - removal-artifact
   - removal-creature
   - removal-enchantment
-baseName: Usurp Identity
 imageExports:
   front: Usurp Identity - da34d541.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Fated%20Meeting.jpg
     width: 1200
     height: 928
     cropWidth: 361
@@ -56,6 +55,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Fated Meeting
 imageExports:
   front: Fated Meeting - c054d6f9.jpg

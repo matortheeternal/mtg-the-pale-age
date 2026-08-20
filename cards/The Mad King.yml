@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Mad%20King.jpg
     width: 2007
     height: 2160
     cropWidth: 2007
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Srem V
-  autoCollectorNumber: UR07
+  autoCollectorNumber: UR06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - impulsive-draw
   - gives-castable-from-exile
   - card-advantage
-baseName: The Mad King
 imageExports:
   front: The Mad King - 0ae71b3f.jpg

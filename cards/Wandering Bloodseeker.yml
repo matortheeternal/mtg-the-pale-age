@@ -16,7 +16,6 @@ front:
     symbols: 2RG
   artImage:
     __type: image
-    imageUrl: /project/cards/Wandering%20Bloodseeker.jpg
     width: 1654
     height: 1980
     cropWidth: 1654
@@ -68,6 +67,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Wandering Bloodseeker
 imageExports:
   front: Wandering Bloodseeker - 6c155437.jpg

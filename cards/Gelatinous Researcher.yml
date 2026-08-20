@@ -12,7 +12,6 @@ front:
     symbols: 1UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Gelatinous%20Researcher.jpg
     width: 1920
     height: 2458
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: UU06
+  autoCollectorNumber: UU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - mana-rock
   - repeatable-token-generator
   - activated-ability
-baseName: Gelatinous Researcher
 imageExports:
   front: Gelatinous Researcher - c116e8ef.jpg

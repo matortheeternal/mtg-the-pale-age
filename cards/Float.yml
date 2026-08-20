@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Float.jpg
     width: 726
     height: 1200
     cropWidth: 726
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: CU12
+  autoCollectorNumber: CU13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - prevent-attack
   - gives-flying
   - flying-counter
-baseName: Float
 imageExports:
   front: Float - c01491d5.jpg

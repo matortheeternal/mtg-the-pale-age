@@ -12,7 +12,6 @@ front:
     symbols: WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Bearer%20of%20Hope.jpg
     width: 2872
     height: 3431
     cropWidth: 2743
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UW02
+  autoCollectorNumber: UW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Bearer of Hope
 imageExports:
   front: Bearer of Hope - 9cc18386.jpg

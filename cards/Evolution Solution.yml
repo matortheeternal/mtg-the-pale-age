@@ -16,7 +16,6 @@ front:
     symbols: 1GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Rapid%20Evolution.jpg
     width: 1920
     height: 1896
     cropWidth: 1920
@@ -32,7 +31,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Libby Schaffer
-  autoCollectorNumber: UZ23
+  autoCollectorNumber: UZ20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,6 +68,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Evolution Solution
 imageExports:
   front: Evolution Solution - 6b7a4a0f.jpg

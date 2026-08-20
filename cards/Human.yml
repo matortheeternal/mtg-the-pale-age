@@ -10,7 +10,6 @@ front:
   name: Human
   artImage:
     __type: image
-    imageUrl: /project/cards/Human.jpg
     width: 662
     height: 1000
     cropWidth: 662
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Human
+  rulesText: ""
+  flavorText: null
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Dianita
-  autoCollectorNumber: T07
+  autoCollectorNumber: T12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Human
 imageExports:
   front: Human - e5d98909.jpg

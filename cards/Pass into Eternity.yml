@@ -12,7 +12,6 @@ front:
     symbols: 2BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Pass%20into%20Eternity.jpg
     width: 2391
     height: 1666
     cropWidth: 2361
@@ -70,7 +69,6 @@ tags:
   - start-of-game
   - mill
   - mill-self
-baseName: Pass into Eternity
 oldBaseName: Leyline of Eternity
 imageExports:
   front: Pass into Eternity - 18e601a4.jpg

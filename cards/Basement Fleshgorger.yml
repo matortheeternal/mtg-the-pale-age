@@ -12,7 +12,6 @@ front:
     symbols: 2B
   artImage:
     __type: image
-    imageUrl: /project/cards/UB06%20Placeholder.jpg
     width: 1092
     height: 732
     cropWidth: 1037
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Asya Yordanova
-  autoCollectorNumber: UB06
+  autoCollectorNumber: UB05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ tags:
   - sacrifice-outlet-token
   - gains-pp-counters
   - remove-counters
-baseName: Basement Fleshgorger
 imageExports:
   front: Basement Fleshgorger - 674e502f.jpg

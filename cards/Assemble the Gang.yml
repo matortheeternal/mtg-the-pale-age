@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Assemble%20the%20Gang.jpg
     width: 1080
     height: 760
     cropWidth: 1080
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tsutomu Takahashi
-  autoCollectorNumber: CR17
+  autoCollectorNumber: CR16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +60,5 @@ front:
 notes: ""
 tags:
   - power-boost-to-all
-baseName: Assemble the Gang
 imageExports:
   front: Assemble the Gang - 0bbf1b2d.jpg

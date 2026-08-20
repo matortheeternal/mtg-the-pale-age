@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Sandswept%20Ace.jpg
     width: 1200
     height: 849
     cropWidth: 1200
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Izabela Arsovska-Braukmann
-  autoCollectorNumber: CW06
+  autoCollectorNumber: CW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,6 +63,5 @@ front:
 notes: ""
 tags:
   - triggered-ability
-baseName: Sandswept Ace
 imageExports:
   front: Sandswept Ace - 8d1dae24.jpg

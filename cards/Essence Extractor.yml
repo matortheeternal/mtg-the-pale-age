@@ -8,7 +8,6 @@ front:
     symbols: "3"
   artImage:
     __type: image
-    imageUrl: /project/cards/Essence%20Extractor.jpg
     width: 640
     height: 640
     cropWidth: 640
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: RA02
+  autoCollectorNumber: RA04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,6 +68,5 @@ tags:
   - sacrifice-outlet-creature
   - sacrifice-outlet-artifact
   - sacrifice-outlet-token
-baseName: Essence Extractor
 imageExports:
   front: Essence Extractor - c5676c0e.jpg

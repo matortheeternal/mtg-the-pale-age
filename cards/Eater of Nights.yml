@@ -12,7 +12,6 @@ front:
     symbols: 4BBB
   artImage:
     __type: image
-    imageUrl: /project/cards/Thythulos.jpg
     width: 1920
     height: 1292
     cropWidth: 1831
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RB05
+  autoCollectorNumber: RB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - mill
   - ramp
   - self-life-loss-matters
-baseName: Eater of Nights
 imageExports:
   front: Eater of Nights - 9b44a554.jpg

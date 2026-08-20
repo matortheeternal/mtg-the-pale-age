@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Tangle%20of%20Teeth.jpg
     width: 1440
     height: 1920
     cropWidth: 982
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jonathan La Mantia
-  autoCollectorNumber: CG05
+  autoCollectorNumber: CG06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - gains-pp-counters
   - gives-pp-counters
   - activated-ability
-baseName: Tangle of Teeth
 imageExports:
   front: Tangle of Teeth - 9fe22357.jpg

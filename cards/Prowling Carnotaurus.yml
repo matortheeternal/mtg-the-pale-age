@@ -12,7 +12,6 @@ front:
     symbols: 4R
   artImage:
     __type: image
-    imageUrl: /project/cards/Prowling%20Carnotaurus.jpg
     width: 1399
     height: 1103
     cropWidth: 1399
@@ -62,6 +61,5 @@ front:
 notes: ""
 tags:
   - french-vanilla
-baseName: Prowling Carnotaurus
 imageExports:
   front: Prowling Carnotaurus - b9977950.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 3URR
   artImage:
     __type: image
-    imageUrl: /project/cards/Pyzzix%2C%20the%20Absurd.jpg
     width: 1920
     height: 2145
     cropWidth: 1538
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: MZ03
+  autoCollectorNumber: MZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Pyzzix, the Absurd
 imageExports:
   front: Pyzzix, the Absurd - 93d5a02c.jpg

@@ -10,7 +10,6 @@ front:
   name: Mountain
   artImage:
     __type: image
-    imageUrl: /project/cards/Mountain.jpg
     width: 1920
     height: 2365
     cropWidth: 1722
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Mountain
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: Tanner Staheli
-  autoCollectorNumber: B04
+  autoCollectorNumber: B03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -46,8 +41,13 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Mountain
 imageExports:
-  front: Mountain - 30605eba.jpg
+  front: Mountain - 5dc2ea4a.jpg
+dirty: true

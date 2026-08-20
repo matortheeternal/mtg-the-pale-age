@@ -16,7 +16,6 @@ front:
     symbols: 1RG
   artImage:
     __type: image
-    imageUrl: /project/cards/Ivar%20and%20Signe%2C%20Huntsworn.jpg
     width: 726
     height: 1024
     cropWidth: 726
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Lewis LaRosa
-  autoCollectorNumber: RZ06
+  autoCollectorNumber: RZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ front:
 notes: ""
 tags:
   - gives-pp-counters
-baseName: Ivar and Signe, Huntsworn
 imageExports:
   front: Ivar and Signe, Huntsworn - 09a4ed85.jpg

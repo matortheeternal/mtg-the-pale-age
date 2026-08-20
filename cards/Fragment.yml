@@ -12,7 +12,6 @@ front:
     symbols: UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Shatter%20Magic.jpg
     width: 1920
     height: 3093
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Eric He
-  autoCollectorNumber: CU13
+  autoCollectorNumber: CU16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,6 +63,5 @@ tags:
   - mill
   - mill-each
   - mana-value-matters
-baseName: Fragment
 imageExports:
   front: Fragment - e75860f8.jpg

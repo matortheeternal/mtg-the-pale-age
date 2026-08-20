@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Mystic%20Revelation.jpg
     width: 800
     height: 1144
     cropWidth: 800
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Marina Mika
-  autoCollectorNumber: UU17
+  autoCollectorNumber: UU16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ notes: ""
 tags:
   - draw
   - castable-from-graveyard
-baseName: Mystic Revelation
 imageExports:
   front: Mystic Revelation - 5661b07f.jpg

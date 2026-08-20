@@ -16,7 +16,6 @@ front:
     symbols: 2GGUU
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Amalgamation.jpg
     width: 1920
     height: 2151
     cropWidth: 1612
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: A. Shipwright
-  autoCollectorNumber: MZ04
+  autoCollectorNumber: MZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -83,6 +82,5 @@ tags:
   - activated-ability
   - mana-sink
   - remove-counters
-baseName: The Amalgamation
 imageExports:
   front: The Amalgamation - 4d03e3ad.jpg

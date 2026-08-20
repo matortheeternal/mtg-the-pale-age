@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Glowing%20Revival.jpg
     width: 736
     height: 919
     cropWidth: 736
@@ -62,6 +61,5 @@ notes: ""
 tags:
   - recursion
   - recursion-creature
-baseName: Threads of Grace
 imageExports:
   front: Threads of Grace - c6db8c14.jpg

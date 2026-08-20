@@ -12,7 +12,6 @@ front:
     symbols: 3W
   artImage:
     __type: image
-    imageUrl: /project/cards/Bone%20Bow.jpg
     width: 1920
     height: 2273
     cropWidth: 1877
@@ -69,6 +68,5 @@ tags:
   - hate-high-pt
   - power-matters
   - removal-destroy
-baseName: Giant Slaying Sword
 imageExports:
   front: Giant Slaying Sword - fa2524ad.jpg

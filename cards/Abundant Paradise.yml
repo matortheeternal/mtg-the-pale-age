@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Abundant%20Paradise.jpg
     width: 800
     height: 1054
     cropWidth: 800
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Gustave Carlier
-  autoCollectorNumber: UL07
+  autoCollectorNumber: UL11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Abundant Paradise
 imageExports:
   front: Abundant Paradise - daceecd3.jpg

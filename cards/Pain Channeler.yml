@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Pain%20Channeler.jpg
     width: 1920
     height: 2683
     cropWidth: 1920
@@ -67,6 +66,5 @@ tags:
   - spite-damage
   - symmetrical
   - triggered-ability
-baseName: Pain Channeler
 imageExports:
   front: Pain Channeler - 6067121b.jpg

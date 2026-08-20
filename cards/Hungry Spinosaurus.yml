@@ -12,7 +12,6 @@ front:
     symbols: 4GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Hungry%20Spinosaurus.jpg
     width: 731
     height: 1093
     cropWidth: 731
@@ -72,6 +71,5 @@ tags:
   - sacrifice-outlet-token
   - sacrifice-outlet-creature
   - gains-pp-counters
-baseName: Hungry Spinosaurus
 imageExports:
   front: Hungry Spinosaurus - 1e648900.jpg

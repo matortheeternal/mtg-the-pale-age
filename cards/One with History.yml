@@ -16,7 +16,6 @@ front:
     symbols: 1WU
   artImage:
     __type: image
-    imageUrl: /project/cards/One%20with%20History.jpg
     width: 827
     height: 1242
     cropWidth: 827
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: UZ18
+  autoCollectorNumber: UZ23
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: One with History
 imageExports:
   front: One with History - 60adc452.jpg

@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Spirit%20Summoning.jpg
     width: 1446
     height: 1920
     cropWidth: 1446
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: CB12
+  autoCollectorNumber: CB13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - symmetrical
   - multiple-bodies
   - donate-token
-baseName: Spirit Summoning
 imageExports:
   front: Spirit Summoning - 9d3537f6.jpg

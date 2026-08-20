@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Restless%20Revival.jpg
     width: 800
     height: 1062
     cropWidth: 800
@@ -70,6 +69,5 @@ tags:
   - freeze-creature
   - mana-value-matters
   - reanimate-creature
-baseName: Death to Dream
 imageExports:
   front: Death to Dream - 450604a9.jpg

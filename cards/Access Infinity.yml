@@ -12,7 +12,6 @@ front:
     symbols: 4UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Access%20Infinity.jpg
     width: 1920
     height: 2126
     cropWidth: 1920
@@ -67,6 +66,5 @@ tags:
   - bottomless-mana-sink
   - repeatable-draw
   - draw-engine
-baseName: Access Infinity
 imageExports:
   front: Access Infinity - 307cda63.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1UUU
   artImage:
     __type: image
-    imageUrl: /project/cards/Bend%20Reality.jpg
     width: 1920
     height: 1449
     cropWidth: 1716
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RU07
+  autoCollectorNumber: RU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ tags:
   - counterspell-ability
   - discount-self
   - change-target
-baseName: Bend Reality
 imageExports:
   front: Bend Reality - c90b1833.jpg

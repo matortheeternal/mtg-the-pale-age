@@ -10,7 +10,6 @@ front:
   name: Swamp
   artImage:
     __type: image
-    imageUrl: /project/cards/Swamp.jpg
     width: 725
     height: 1102
     cropWidth: 725
@@ -19,23 +18,19 @@ front:
     yOffset: 13
   superType: Basic Land
   subType: Swamp
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: M. Grant Kellermeyer
-  autoCollectorNumber: B01
+  autoCollectorNumber: B04
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,13 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Swamp
 imageExports:
-  front: Swamp - 39021eeb.jpg
+  front: Swamp - 5fa902d1.jpg
+dirty: true

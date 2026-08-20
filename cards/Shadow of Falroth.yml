@@ -10,7 +10,6 @@ front:
   name: Shadow of Falroth
   artImage:
     __type: image
-    imageUrl: /project/cards/Beast%20Spirit.jpg
     width: 1080
     height: 1350
     cropWidth: 983
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Spirit Avatar
+  rulesText: ""
+  flavorText: null
   power: X
   toughness: X
   showPT: true
-  rarity: uncommon
+  rarity: token
   illustrator: ""
-  autoCollectorNumber: T13
+  autoCollectorNumber: T09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Shadow of Falroth
 imageExports:
   front: Shadow of Falroth - 08a34f83.jpg

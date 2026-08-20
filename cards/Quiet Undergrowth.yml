@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Quiet%20Undergrowth.jpg
     width: 409
     height: 768
     cropWidth: 409
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Hayao Miyazaki
-  autoCollectorNumber: UL04
+  autoCollectorNumber: UL05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Quiet Undergrowth
 imageExports:
   front: Quiet Undergrowth - c35742b5.jpg

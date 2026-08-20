@@ -5,7 +5,6 @@ front:
   name: Giant
   artImage:
     __type: image
-    imageUrl: /project/cards/Giant.jpg
     width: 850
     height: 1200
     cropWidth: 850
@@ -14,10 +13,12 @@ front:
     yOffset: 16
   superType: Token Creature
   subType: Giant
+  rulesText: ""
+  flavorText: null
   power: "4"
   toughness: "4"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Kevin Macio
   autoCollectorNumber: T05
   collectorNumber: ""
@@ -25,12 +26,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Giant
 imageExports:
   front: Giant - f448d070.jpg

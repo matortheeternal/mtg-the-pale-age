@@ -12,7 +12,6 @@ front:
     symbols: BBB
   artImage:
     __type: image
-    imageUrl: /project/cards/Angel%20of%20Obliteration.jpg
     width: 2718
     height: 1883
     cropWidth: 1506
@@ -71,6 +70,5 @@ tags:
   - repeatable-draw
   - life-for-cards
   - evasion
-baseName: Angel of Obliteration
 imageExports:
   front: Angel of Obliteration - 8b4d8cd4.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Psychic%20Agony.jpg
     width: 1754
     height: 2481
     cropWidth: 1754
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Marcus Gabriel Fors
-  autoCollectorNumber: CB14
+  autoCollectorNumber: CB16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - top-deck-manipulation
   - peek-library
   - mill
-baseName: Psychic Agony
 imageExports:
   front: Psychic Agony - 61e3a8ab.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 3GU
   artImage:
     __type: image
-    imageUrl: /project/cards/REPLACE%20ART%20Unspeakable%20Monstrosity.jpg
     width: 1500
     height: 2114
     cropWidth: 1500
@@ -68,6 +67,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Unspeakable Monstrosity
 imageExports:
   front: Unspeakable Monstrosity - 4074258a.jpg

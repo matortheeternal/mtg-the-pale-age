@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Cephalopodization.jpg
     width: 1920
     height: 1319
     cropWidth: 1869
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: UU13
+  autoCollectorNumber: UU14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - shapechange
   - removal-creature
   - spot-removal
-baseName: Cephalopodization
 imageExports:
   front: Cephalopodization - d92e0045.jpg

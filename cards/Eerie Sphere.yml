@@ -8,7 +8,6 @@ front:
     symbols: "3"
   artImage:
     __type: image
-    imageUrl: /project/cards/Eerie%20Sphere.jpg
     width: 1920
     height: 2335
     cropWidth: 1611
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RA01
+  autoCollectorNumber: RA03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Eerie Sphere
 imageExports:
   front: Eerie Sphere - 8d10f27c.jpg

@@ -16,7 +16,6 @@ front:
     symbols: UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Snuff%2C%20Silence%2C%20and%20Subdue.jpg
     width: 1920
     height: 2652
     cropWidth: 1920
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Leo Rose
-  autoCollectorNumber: RZ17
+  autoCollectorNumber: RZ14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Snuff, Silence, and Subdue
 imageExports:
   front: Snuff, Silence, and Subdue - e35b71c5.jpg

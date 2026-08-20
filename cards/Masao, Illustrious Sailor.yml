@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Masao%2C%20Legendary%20Sailor.jpg
     width: 700
     height: 964
     cropWidth: 653
@@ -71,6 +70,5 @@ tags:
   - hate-target
   - toll
   - draw
-baseName: Masao, Illustrious Sailor
 imageExports:
   front: Masao, Illustrious Sailor - f1f938a1.jpg

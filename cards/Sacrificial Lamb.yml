@@ -12,7 +12,6 @@ front:
     symbols: BB
   artImage:
     __type: image
-    imageUrl: /project/cards/REPLACE%20ART%20Hooded%20Wanderer.jpg
     width: 800
     height: 1112
     cropWidth: 800
@@ -69,6 +68,5 @@ tags:
   - triggered-ability
   - death-trigger-self
   - cheat-death-self
-baseName: Sacrificial Lamb
 imageExports:
   front: Sacrificial Lamb - 00ea7ef4.jpg

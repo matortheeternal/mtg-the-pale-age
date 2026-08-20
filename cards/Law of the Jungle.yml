@@ -9,10 +9,9 @@ front:
   name: Law of the Jungle
   manaCost:
     __type: ManaCost
-    symbols: 2GG
+    symbols: 3GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Jungle.jpg
     width: 1080
     height: 1350
     cropWidth: 1080
@@ -65,8 +64,8 @@ front:
   chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Law of the Jungle
 imageExports:
   front: Law of the Jungle - 21efd957.jpg

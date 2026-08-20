@@ -12,7 +12,6 @@ front:
     symbols: 2WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Challenge%20Divinity.jpg
     width: 1424
     height: 1424
     cropWidth: 1139
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Challenge Divinity
 imageExports:
   front: Challenge Divinity - c1ae6819.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 4B
   artImage:
     __type: image
-    imageUrl: /project/cards/Depravity.jpg
     width: 1080
     height: 1350
     cropWidth: 740
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Nekromold
-  autoCollectorNumber: RB04
+  autoCollectorNumber: RB03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ tags:
   - hand-neutral
   - draw
   - sacrifice-self
-baseName: Depravity
 imageExports:
   front: Depravity - 84f28275.jpg

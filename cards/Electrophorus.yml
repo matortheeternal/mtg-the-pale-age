@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Electrophorus.jpg
     width: 457
     height: 720
     cropWidth: 392
@@ -66,6 +65,5 @@ tags:
   - freeze
   - freeze-creature
   - move-counters
-baseName: Electrophorus
 imageExports:
   front: Electrophorus - 3d838c9c.jpg

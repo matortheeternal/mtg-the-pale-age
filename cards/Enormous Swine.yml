@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Village%20Swine.jpg
     width: 1770
     height: 615
     cropWidth: 872
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Sandra Delgado
-  autoCollectorNumber: CG02
+  autoCollectorNumber: CG01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ notes: ""
 tags:
   - lifegain
   - triggered-ability
-baseName: Enormous Swine
 imageExports:
   front: Enormous Swine - c2f9135c.jpg

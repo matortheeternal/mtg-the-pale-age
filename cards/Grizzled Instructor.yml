@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Grizzled%20Instructor.jpg
     width: 720
     height: 899
     cropWidth: 688
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Borislav Mitkov
-  autoCollectorNumber: UW06
+  autoCollectorNumber: UW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Grizzled Instructor
 imageExports:
   front: Grizzled Instructor - a7224ffc.jpg

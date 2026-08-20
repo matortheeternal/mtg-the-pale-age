@@ -16,7 +16,6 @@ front:
     symbols: 1GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Armored%20Hybrid.jpg
     width: 2862
     height: 3770
     cropWidth: 2862
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Ryan Van Dongen
-  autoCollectorNumber: CZ02
+  autoCollectorNumber: CZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - gains-pp-counters
   - gives-pp-counters
   - move-counters
-baseName: Armored Hybrid
 imageExports:
   front: Armored Hybrid - 39d409b1.jpg

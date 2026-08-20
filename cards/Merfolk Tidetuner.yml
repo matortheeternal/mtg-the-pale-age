@@ -12,7 +12,6 @@ front:
     symbols: UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Merfolk%20Tidetuner.jpg
     width: 950
     height: 1267
     cropWidth: 950
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Natalia Sklencarova
-  autoCollectorNumber: UU03
+  autoCollectorNumber: UU02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ tags:
   - draw
   - repeatable-draw
   - activated-ability
-baseName: Merfolk Tidetuner
 imageExports:
   front: Merfolk Tidetuner - 705e48d8.jpg

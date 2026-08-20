@@ -28,7 +28,6 @@ front:
     symbols: 1WUBRG
   artImage:
     __type: image
-    imageUrl: /project/cards/Omnus.jpg
     width: 1920
     height: 1920
     cropWidth: 1228
@@ -67,6 +66,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Omnus
 imageExports:
   front: Omnus - 483e4f3d.jpg

@@ -5,7 +5,6 @@ front:
   name: Clue
   artImage:
     __type: image
-    imageUrl: /project/cards/Clue.jpg
     width: 893
     height: 1191
     cropWidth: 867
@@ -14,23 +13,19 @@ front:
     yOffset: 0
   superType: Token Artifact
   subType: Clue
+  rulesText: "{2}, Sacrifice this token: Draw a card."
+  flavorText: null
   power: ""
   toughness: ""
   showPT: false
-  rarity: common
+  rarity: token
   illustrator: n_artisian
-  autoCollectorNumber: T17
+  autoCollectorNumber: T14
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{2}, Sacrifice this token: Draw a card."
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Clue
 imageExports:
   front: Clue - 351d5dc3.jpg

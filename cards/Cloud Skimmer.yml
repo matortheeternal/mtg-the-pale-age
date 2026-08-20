@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Cloud%20Skimmer.jpg
     width: 2112
     height: 2513
     cropWidth: 2112
@@ -69,6 +68,5 @@ front:
 notes: +maybe create a 1/1 white human creature token on etb, and then change
   stats to 1/2 and scry to scry 1?
 tags: []
-baseName: Cloud Skimmer
 imageExports:
   front: Cloud Skimmer - 59270451.jpg

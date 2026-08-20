@@ -12,7 +12,6 @@ front:
     symbols: 10R
   artImage:
     __type: image
-    imageUrl: /project/cards/Hakai%2C%20the%20Primeval.jpg
     width: 1920
     height: 2237
     cropWidth: 1574
@@ -69,6 +68,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Hakai, the Primeval
 imageExports:
   front: Hakai, the Primeval - 9ffdfd99.jpg

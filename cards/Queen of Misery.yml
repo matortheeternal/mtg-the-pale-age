@@ -12,7 +12,6 @@ front:
     symbols: 2B
   artImage:
     __type: image
-    imageUrl: /project/cards/Queen%20of%20Misery.jpg
     width: 1200
     height: 1854
     cropWidth: 1200
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vassilios Bayiokos
-  autoCollectorNumber: CB05
+  autoCollectorNumber: CB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,11 +60,11 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - gains-pp-counters
   - cheat-death-self
   - mill-each
-baseName: Queen of Misery
 imageExports:
   front: Queen of Misery - edf7c427.jpg

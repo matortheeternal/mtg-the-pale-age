@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Bloodstained%20Axe.jpg
     width: 1920
     height: 2002
     cropWidth: 1229
@@ -64,6 +63,5 @@ notes: ""
 tags:
   - activated-ability
   - counters-matter
-baseName: Congealing Axe
 imageExports:
   front: Congealing Axe - 37dba621.jpg

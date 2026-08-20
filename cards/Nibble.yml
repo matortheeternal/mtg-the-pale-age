@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Nibble.jpg
     width: 800
     height: 1165
     cropWidth: 800
@@ -64,6 +63,5 @@ tags:
   - remove-counters
   - hate-counters
   - synergy-sacrifice
-baseName: Nibble
 imageExports:
   front: Nibble - 39eefe81.jpg

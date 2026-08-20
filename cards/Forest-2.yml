@@ -4,12 +4,12 @@ front:
     - char: g
       name: green
       sources:
-        normal: true
-  colorOverride: []
+        override: true
+  colorOverride:
+    - g
   name: Forest
   artImage:
     __type: image
-    imageUrl: /project/cards/Forest-2.jpg
     width: 640
     height: 948
     cropWidth: 640
@@ -18,23 +18,19 @@ front:
     yOffset: 35
   superType: Token Basic Land
   subType: Forest
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
-  showPT: false
-  rarity: common
+  showPT: ""
+  rarity: token
   illustrator: Joel Pernas
-  autoCollectorNumber: T16
+  autoCollectorNumber: CC01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{T}: Add {G}."
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -44,8 +40,10 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Forest-2
-imageExports:
-  front: Forest-2 - dc041ae0.jpg

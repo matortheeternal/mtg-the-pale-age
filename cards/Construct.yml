@@ -5,7 +5,6 @@ front:
   name: Construct
   artImage:
     __type: image
-    imageUrl: /project/cards/Construct.jpg
     width: 1024
     height: 1369
     cropWidth: 892
@@ -14,23 +13,19 @@ front:
     yOffset: 143
   superType: Token Artifact Creature
   subType: Construct
+  rulesText: Flying
+  flavorText: null
   power: "2"
   toughness: "2"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Isac Galvão
-  autoCollectorNumber: T11
+  autoCollectorNumber: T03
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Flying
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Construct
 imageExports:
   front: Construct - b69c14c1.jpg

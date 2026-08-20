@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Ocean%20Researcher.jpg
     width: 439
     height: 640
     cropWidth: 404
@@ -66,6 +65,5 @@ tags:
   - activated-ability
   - recursion
   - gives-castable-from-exile
-baseName: Ocean Researcher
 imageExports:
   front: Ocean Researcher - f3911e0e.jpg

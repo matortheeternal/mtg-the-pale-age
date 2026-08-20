@@ -12,7 +12,6 @@ front:
     symbols: 1RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Abaddon%2C%20Fist%20of%20Suns.jpg
     width: 1920
     height: 2269
     cropWidth: 1470
@@ -69,6 +68,5 @@ tags:
   - activated-ability
   - mana-sink
   - repeatable-removal
-baseName: Abaddon, Fist of Suns
 imageExports:
   front: Abaddon, Fist of Suns - 82dc431c.jpg

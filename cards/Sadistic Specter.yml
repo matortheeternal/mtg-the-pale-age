@@ -12,7 +12,6 @@ front:
     symbols: 1BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Specter%20of%20Doubt.jpg
     width: 1860
     height: 2310
     cropWidth: 1847
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB05
+  autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ tags:
   - self-life-loss-matters
   - life-loss-matters
   - gains-pp-counters
-baseName: Sadistic Specter
 imageExports:
   front: Sadistic Specter - 15480e96.jpg

@@ -12,7 +12,6 @@ front:
     symbols: WWW
   artImage:
     __type: image
-    imageUrl: /project/cards/Angel%20of%20Process.jpg
     width: 1920
     height: 2458
     cropWidth: 1920
@@ -69,6 +68,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Angel of Perpetuation
 imageExports:
   front: Angel of Perpetuation - dc1d28cc.jpg

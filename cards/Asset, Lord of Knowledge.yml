@@ -12,7 +12,6 @@ front:
     symbols: UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Asset%2C%20Lord%20of%20Knowledge.jpg
     width: 2569
     height: 3720
     cropWidth: 2303
@@ -73,6 +72,5 @@ tags:
   - synergy-noncreature
   - mana-sink
   - bottomless-mana-sink
-baseName: Asset, Lord of Knowledge
 imageExports:
   front: Asset, Lord of Knowledge - b63b5f42.jpg

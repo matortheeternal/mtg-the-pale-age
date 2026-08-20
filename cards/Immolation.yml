@@ -16,7 +16,6 @@ front:
     symbols: BR
   artImage:
     __type: image
-    imageUrl: /project/cards/Immolation.jpg
     width: 1860
     height: 2310
     cropWidth: 1860
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: RZ20
+  autoCollectorNumber: RZ15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Immolation
 imageExports:
   front: Immolation - c8e15af7.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Ruminate.jpg
     width: 1920
     height: 1927
     cropWidth: 1058
@@ -66,6 +65,5 @@ notes: ""
 tags:
   - draw
   - discard-outlet
-baseName: Ruminate
 imageExports:
   front: Ruminate - 73597ff1.jpg

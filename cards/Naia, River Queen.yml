@@ -16,7 +16,6 @@ front:
     symbols: 1GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Naia%2C%20River%20Queen.jpg
     width: 1920
     height: 2608
     cropWidth: 1920
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Ekaterine Ejibia
-  autoCollectorNumber: RZ07
+  autoCollectorNumber: RZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -85,6 +84,5 @@ tags:
   - gives-flying
   - gives-curious
   - gives-pp-counters
-baseName: Naia, River Queen
 imageExports:
   front: Naia, River Queen - c82f378d.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 2BR
   artImage:
     __type: image
-    imageUrl: /project/cards/Skeletal%20Screecher.jpg
     width: 1200
     height: 800
     cropWidth: 1134
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Rabab Elghamry
-  autoCollectorNumber: UZ04
+  autoCollectorNumber: UZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Skeletal Screecher
 imageExports:
   front: Skeletal Screecher - 3999e58d.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 9W
   artImage:
     __type: image
-    imageUrl: /project/cards/Solemn%20Act.jpg
     width: 1920
     height: 2185
     cropWidth: 1539
@@ -71,6 +70,5 @@ tags:
   - token-count-matters
   - discount-self
   - removal-creature
-baseName: Solemn Act
 imageExports:
   front: Solemn Act - d75b1590.jpg

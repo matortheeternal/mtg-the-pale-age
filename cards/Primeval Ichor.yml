@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Primeval%20Ichor.jpg
     width: 3508
     height: 2480
     cropWidth: 3508
@@ -68,6 +67,5 @@ tags:
   - activated-ability
   - mana-sink
   - bottomless-mana-sink
-baseName: Primeval Ichor
 imageExports:
   front: Primeval Ichor - 9b5ce364.jpg

@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Mountain%20Catacombs.jpg
     width: 1170
     height: 2048
     cropWidth: 1170
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Russ Nicholson
-  autoCollectorNumber: UL08
+  autoCollectorNumber: UL02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ tags:
   - recursion
   - recursion-land
   - recursion-creature
-baseName: Mountain Catacombs
 imageExports:
   front: Mountain Catacombs - 9701c193.jpg

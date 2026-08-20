@@ -12,7 +12,6 @@ front:
     symbols: 3U
   artImage:
     __type: image
-    imageUrl: /project/cards/Ancient%20Whale.jpg
     width: 483
     height: 750
     cropWidth: 439
@@ -70,6 +69,5 @@ tags:
   - move-counters
   - gains-curious
   - gives-curious
-baseName: Ancient Whale
 imageExports:
   front: Ancient Whale - a4327a83.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Access%20the%20Undergrowth.jpg
     width: 1920
     height: 1922
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: CG15
+  autoCollectorNumber: CG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - recursion
   - ramp
   - land-ramp
-baseName: Access the Undergrowth
 imageExports:
   front: Access the Undergrowth - c8bcf978.jpg

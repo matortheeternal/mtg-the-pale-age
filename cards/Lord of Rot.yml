@@ -12,7 +12,6 @@ front:
     symbols: 3BBB
   artImage:
     __type: image
-    imageUrl: /project/cards/Lord%20of%20Rot.jpg
     width: 1500
     height: 2250
     cropWidth: 1500
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: UB09
+  autoCollectorNumber: UB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -77,6 +76,5 @@ tags:
   - removal-toughness
   - repeatable-removal
   - sweeper
-baseName: Lord of Rot
 imageExports:
   front: Lord of Rot - ac28a64d.jpg

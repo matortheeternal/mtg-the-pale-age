@@ -12,7 +12,6 @@ front:
     symbols: 4RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Endless%20Explosion.jpg
     width: 1920
     height: 2000
     cropWidth: 1630
@@ -68,6 +67,5 @@ tags:
   - burn
   - burn-creature
   - death-trigger
-baseName: Endless Explosion
 imageExports:
   front: Endless Explosion - a67aaadb.jpg

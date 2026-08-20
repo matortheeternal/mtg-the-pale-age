@@ -12,7 +12,6 @@ front:
     symbols: 3RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Morwen%2C%20The%20Gladiator.jpg
     width: 2160
     height: 1499
     cropWidth: 2124
@@ -70,6 +69,5 @@ tags:
   - cheaper-than-mv
   - cost-reducer
   - synergy-equipment
-baseName: Morwen, the Gladiator
 imageExports:
   front: Morwen, the Gladiator - 4033aa8e.jpg

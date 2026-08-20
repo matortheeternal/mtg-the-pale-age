@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Nurture.jpg
     width: 1134
     height: 1600
     cropWidth: 998
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: CG17
+  autoCollectorNumber: CG15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,8 +62,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "1"
+  chopBottom: "-5"
   maxFontSize: ""
   centerText: never
   citationStyle: italic

@@ -12,7 +12,6 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/Retreat%20of%20the%20Third%20Moon.jpg
     width: 640
     height: 1136
     cropWidth: 640
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Justin Estcourt
-  autoCollectorNumber: RB10
+  autoCollectorNumber: RB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,6 +63,5 @@ tags:
   - alternate-win-condition
   - tuck-self
   - tuck
-baseName: Retreat of the Third Moon
 imageExports:
   front: Retreat of the Third Moon - d3df5bc1.jpg

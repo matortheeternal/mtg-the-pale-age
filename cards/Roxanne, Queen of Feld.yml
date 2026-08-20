@@ -16,7 +16,6 @@ front:
     symbols: BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Roxanne%2C%20Queen%20of%20Feld.jpg
     width: 1920
     height: 2560
     cropWidth: 1690
@@ -80,6 +79,5 @@ tags:
   - repeatable-token-generator
   - lifegain
   - repeatable-lifegain
-baseName: Roxanne, Queen of Feld
 imageExports:
   front: Roxanne, Queen of Feld - e2ebb0e9.jpg

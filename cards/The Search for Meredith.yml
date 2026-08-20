@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Search%20for%20Meredith.jpg
     width: 1200
     height: 1896
     cropWidth: 672
@@ -26,7 +25,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Eric He
-  autoCollectorNumber: RW05
+  autoCollectorNumber: RW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - cost-reducer
   - gives-castable-from-exile
   - cards-in-exile-matter
-baseName: The Search for Meredith
 imageExports:
   front: The Search for Meredith - 0ec0a016.jpg

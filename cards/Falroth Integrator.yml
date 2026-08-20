@@ -12,7 +12,6 @@ front:
     symbols: 2GG
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Integrator.jpg
     width: 800
     height: 909
     cropWidth: 800
@@ -66,6 +65,5 @@ front:
 notes: "old: Whenever a counter is removed from a creature you control, untap
   target permanent."
 tags: []
-baseName: Falroth Integrator
 imageExports:
   front: Falroth Integrator - d594f0be.jpg

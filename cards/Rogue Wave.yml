@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Rogue%20Wave.jpg
     width: 1080
     height: 1080
     cropWidth: 1080
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Olivia Rampaige
-  autoCollectorNumber: UU15
+  autoCollectorNumber: UU13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - removal-artifact
   - potentially-free
   - cheaper-than-mv
-baseName: Rogue Wave
 imageExports:
   front: Rogue Wave - 19e64061.jpg

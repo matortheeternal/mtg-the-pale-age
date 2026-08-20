@@ -12,7 +12,6 @@ front:
     symbols: 5G
   artImage:
     __type: image
-    imageUrl: /project/cards/Tarbosaurus%20Alpha.jpg
     width: 484
     height: 570
     cropWidth: 484
@@ -63,6 +62,5 @@ tags:
   - triggered-ability
   - attack-trigger
   - repeatable-token-generator
-baseName: Tarbosaurus Alpha
 imageExports:
   front: Tarbosaurus Alpha - 27b43272.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 4WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Call%20of%20Destiny.jpg
     width: 1080
     height: 1349
     cropWidth: 1080
@@ -62,6 +61,5 @@ notes: ""
 tags:
   - tutor
   - tutor-artifact
-baseName: Call of Destiny
 imageExports:
   front: Call of Destiny - 6c4bbdbd.jpg

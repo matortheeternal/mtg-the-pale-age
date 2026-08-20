@@ -12,7 +12,6 @@ front:
     symbols: 3BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Sinew%20Slicer.jpg
     width: 828
     height: 1109
     cropWidth: 828
@@ -69,6 +68,5 @@ tags:
   - life-loss-matters
   - triggered-ability
   - cheaper-than-mv
-baseName: Sinew Spawn
 imageExports:
   front: Sinew Spawn - 6ef30813.jpg

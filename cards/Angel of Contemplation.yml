@@ -12,7 +12,6 @@ front:
     symbols: 4WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Angel%20of%20Contemplation.jpg
     width: 771
     height: 1280
     cropWidth: 752
@@ -63,6 +62,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Angel of Contemplation
 imageExports:
   front: Angel of Contemplation - badba364.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/Giant%20Vampire%20Bat.jpg
     width: 1024
     height: 683
     cropWidth: 968
@@ -68,6 +67,5 @@ tags:
   - triggered-ability
   - lifegain
   - evasion
-baseName: Giant Vampire Bat
 imageExports:
   front: Giant Vampire Bat - 84f7d6a1.jpg

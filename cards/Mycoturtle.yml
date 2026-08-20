@@ -12,7 +12,6 @@ front:
     symbols: 2GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Mycoturtle.jpg
     width: 736
     height: 748
     cropWidth: 736
@@ -72,6 +71,5 @@ tags:
   - ramp
   - land-ramp
   - repeatable-token-generator
-baseName: Mycoturtle
 imageExports:
   front: Mycoturtle - f8c74d5e.jpg

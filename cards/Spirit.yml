@@ -5,7 +5,6 @@ front:
   name: Spirit
   artImage:
     __type: image
-    imageUrl: /project/cards/Spirit.jpg
     width: 797
     height: 1066
     cropWidth: 797
@@ -14,23 +13,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Spirit
+  rulesText: When this token dies, if it wasn't sacrificed, you lose 2 life.
+  flavorText: null
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: T03
+  autoCollectorNumber: T02
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When this token dies, if it wasn't sacrificed, you lose 2 life.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Spirit
 imageExports:
   front: Spirit - e6fecd3c.jpg

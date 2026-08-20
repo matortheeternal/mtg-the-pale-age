@@ -12,7 +12,6 @@ front:
     symbols: 2GGG
   artImage:
     __type: image
-    imageUrl: /project/cards/Greener%20Pastures.jpg
     width: 1920
     height: 1307
     cropWidth: 1852
@@ -63,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Greener Pastures
 imageExports:
   front: Greener Pastures - 9e913f71.jpg

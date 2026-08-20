@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/A%20Pair%20of%20Punks.jpg
     width: 828
     height: 1061
     cropWidth: 828
@@ -59,6 +58,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: A Pair of Punks
 imageExports:
   front: A Pair of Punks - 83ec3ae6.jpg

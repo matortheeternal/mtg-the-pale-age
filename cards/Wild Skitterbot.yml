@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Assassin's%20Skitterbot.jpg
     width: 1700
     height: 1265
     cropWidth: 1700
@@ -68,7 +67,6 @@ tags:
   - move-counters
   - bear-with-set-mechanic
   - gains-deathtouch
-baseName: Wild Skitterbot
 oldBaseName: Rogue Skitterbot
 imageExports:
   front: Wild Skitterbot - dc3cc3ab.jpg

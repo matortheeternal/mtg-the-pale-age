@@ -16,7 +16,6 @@ front:
     symbols: 3GGW
   artImage:
     __type: image
-    imageUrl: /project/cards/Goddess%20of%20Spring.jpg
     width: 564
     height: 789
     cropWidth: 564
@@ -75,6 +74,5 @@ notes: ""
 tags:
   - token-multiplier
   - go-wide-matters
-baseName: Goddess of Spring
 imageExports:
   front: Goddess of Spring - 4b8c7fc1.jpg

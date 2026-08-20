@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Make%20a%20Stand.jpg
     width: 821
     height: 1233
     cropWidth: 821
@@ -72,6 +71,5 @@ tags:
   - cantrip
   - draw
   - hand-neutral
-baseName: Make a Stand
 imageExports:
   front: Make a Stand - 95d3de13.jpg

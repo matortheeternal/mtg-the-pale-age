@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Mistress%20of%20Flames.jpg
     width: 736
     height: 925
     cropWidth: 736
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tom Cuzor
-  autoCollectorNumber: CR02
+  autoCollectorNumber: CR03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ tags:
   - burn-player
   - activated-ability
   - pinger
-baseName: Mistress of Flames
 imageExports:
   front: Mistress of Flames - 3cfc9265.jpg

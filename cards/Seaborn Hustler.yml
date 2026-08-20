@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Seaborn%20Hustler.jpg
     width: 1412
     height: 2000
     cropWidth: 1162
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Roberto Ricci
-  autoCollectorNumber: CU05
+  autoCollectorNumber: CU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - mana-rock
   - restricted-mana
   - repeatable-token-generator
-baseName: Seaborn Hustler
 imageExports:
   front: Seaborn Hustler - 51bc3e2a.jpg

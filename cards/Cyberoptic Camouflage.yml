@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Cyberoptic%20Camouflage.jpg
     width: 1200
     height: 1498
     cropWidth: 1200
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Vladimir Matyukhin
-  autoCollectorNumber: CU16
+  autoCollectorNumber: CU12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ front:
 notes: ""
 tags:
   - protects-creature
-baseName: Cyberoptic Camouflage
 imageExports:
   front: Cyberoptic Camouflage - 52248e1b.jpg

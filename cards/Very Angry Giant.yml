@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Very%20Angry%20Giant.jpg
     width: 3600
     height: 3600
     cropWidth: 2408
@@ -74,6 +73,5 @@ tags:
   - burn-you
   - group-slug
   - pinger
-baseName: Very Angry Giant
 imageExports:
   front: Very Angry Giant - 7d35a759.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 6GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Prowling%20Greatwolf-2.jpg
     width: 446
     height: 657
     cropWidth: 446
@@ -74,6 +73,5 @@ tags:
   - sacrifice-outlet-creature
   - sacrifice-outlet-token
   - gains-pp-counters
-baseName: Greatwurm of the Depths
 imageExports:
   front: Greatwurm of the Depths - aa92d6e3.jpg

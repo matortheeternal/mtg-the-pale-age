@@ -12,7 +12,6 @@ front:
     symbols: 3U
   artImage:
     __type: image
-    imageUrl: /project/cards/Falling%20Thoughts.jpg
     width: 1000
     height: 1000
     cropWidth: 800
@@ -66,6 +65,5 @@ tags:
   - mill
   - symmetrical
   - cost-reducer
-baseName: Falling Thoughts
 imageExports:
   front: Falling Thoughts - f2b08052.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Wall%20of%20Faces.jpg
     width: 1200
     height: 1680
     cropWidth: 1200
@@ -68,6 +67,5 @@ tags:
   - mill
   - mill-self
   - damage-prevention
-baseName: Wall of Faces
 imageExports:
   front: Wall of Faces - a7412c8c.jpg

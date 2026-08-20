@@ -16,7 +16,6 @@ front:
     symbols: BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Rot%2C%20Spoil%2C%20and%20Fester.jpg
     width: 1920
     height: 2400
     cropWidth: 1920
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Antonis Kalavrezos
-  autoCollectorNumber: RZ21
+  autoCollectorNumber: RZ13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -83,6 +82,5 @@ tags:
   - lifegain
   - draw
   - hand-neutral
-baseName: Rot, Spoil, and Fester
 imageExports:
   front: Rot, Spoil, and Fester - 3c9620c4.jpg

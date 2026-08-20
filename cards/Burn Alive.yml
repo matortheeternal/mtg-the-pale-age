@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Burn%20Alive.jpg
     width: 545
     height: 794
     cropWidth: 545
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Xiong Yan
-  autoCollectorNumber: CR11
+  autoCollectorNumber: CR10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - spot-removal
   - ritual
   - ramp
-baseName: Burn Alive
 imageExports:
   front: Burn Alive - c27926cf.jpg

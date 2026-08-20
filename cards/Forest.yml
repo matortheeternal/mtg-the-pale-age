@@ -10,7 +10,6 @@ front:
   name: Forest
   artImage:
     __type: image
-    imageUrl: /project/cards/Forest.jpg
     width: 1920
     height: 1779
     cropWidth: 1163
@@ -19,23 +18,19 @@ front:
     yOffset: 61
   superType: Basic Land
   subType: Forest
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: A. Shipwright
-  autoCollectorNumber: B02
+  autoCollectorNumber: B05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,13 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Forest
 imageExports:
-  front: Forest - 6762cbb0.jpg
+  front: Forest - abb07342.jpg
+dirty: true

@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Teleporting%20Inventor.jpg
     width: 1920
     height: 2499
     cropWidth: 1424
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UU05
+  autoCollectorNumber: UU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - bounce-self
   - recursion
   - gives-castable-from-exile
-baseName: Teleporting Inventor
 imageExports:
   front: Teleporting Inventor - 4ea809dc.jpg

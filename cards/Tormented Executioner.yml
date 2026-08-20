@@ -12,7 +12,6 @@ front:
     symbols: 2BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Tormented%20Executioner.jpg
     width: 2718
     height: 1883
     cropWidth: 2668
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB07
+  autoCollectorNumber: UB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - synergy-mill
   - death-trigger
   - death-trigger-self
-baseName: Tormented Executioner
 imageExports:
   front: Tormented Executioner - 2eae4783.jpg

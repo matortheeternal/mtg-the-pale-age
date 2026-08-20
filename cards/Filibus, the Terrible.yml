@@ -12,7 +12,6 @@ front:
     symbols: 4UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Filibus%2C%20the%20Terrible.jpg
     width: 1290
     height: 1097
     cropWidth: 1241
@@ -36,7 +35,8 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    When @ enters, gain control of target artifact for as long as you control @.
+    When @ enters, gain control of target artifact with mana value 3 or less for
+    as long as you control @.
 
 
     Whenever @ attacks, you may sacrifice an artifact. If you do, put a +1/+1
@@ -61,6 +61,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - theft
@@ -70,6 +71,5 @@ tags:
   - sacrifice-outlet
   - sacrifice-outlet-artifact
   - activated-ability
-baseName: Filibus, the Terrible
 imageExports:
   front: Filibus, the Terrible - dce0723d.jpg

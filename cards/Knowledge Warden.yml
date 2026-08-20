@@ -16,7 +16,6 @@ front:
     symbols: 1WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Knowledge%20Warden.jpg
     width: 1920
     height: 1644
     cropWidth: 1720
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: CZ08
+  autoCollectorNumber: CZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Knowledge Warden
 imageExports:
   front: Knowledge Warden - d31849b5.jpg

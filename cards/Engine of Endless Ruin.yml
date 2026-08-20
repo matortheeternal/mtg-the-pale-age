@@ -8,7 +8,6 @@ front:
     symbols: "3"
   artImage:
     __type: image
-    imageUrl: /project/cards/Engine%20of%20Endless%20Ruin.jpg
     width: 600
     height: 936
     cropWidth: 600
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: George Munteanu
-  autoCollectorNumber: RA03
+  autoCollectorNumber: RA01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ tags:
   - recursion
   - recursion-land
   - activated-ability
-baseName: Engine of Endless Ruin
 imageExports:
   front: Engine of Endless Ruin - 21475dbc.jpg

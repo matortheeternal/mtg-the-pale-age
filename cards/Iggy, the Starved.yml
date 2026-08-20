@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Iggy%2C%20the%20Starved.jpg
     width: 1440
     height: 1920
     cropWidth: 1440
@@ -40,7 +39,7 @@ front:
 
     Ward—Sacrifice a nonland permanent.
 
-    @ enters with four hunger counters on it.
+    @ enters with three hunger counters on it.
 
     @ cannot attack or block while it has a hunger counter.
 
@@ -65,12 +64,12 @@ front:
   chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - sacrifice-outlet
   - sacrifice-outlet-creature
   - sacrifice-outlet-artifact
   - sacrifice-outlet-token
-baseName: Iggy, the Starved
 imageExports:
   front: Iggy, the Starved - 0a232049.jpg

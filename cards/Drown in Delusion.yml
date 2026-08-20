@@ -16,7 +16,6 @@ front:
     symbols: 1UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Drown%20in%20Delusion.jpg
     width: 736
     height: 1308
     cropWidth: 736
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Trajedi
-  autoCollectorNumber: UZ20
+  autoCollectorNumber: UZ17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Drown in Delusion
 imageExports:
   front: Drown in Delusion - 1dd8f79a.jpg

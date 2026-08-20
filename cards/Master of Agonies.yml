@@ -12,7 +12,6 @@ front:
     symbols: 2B
   artImage:
     __type: image
-    imageUrl: /project/cards/Master%20of%20Agonies.jpg
     width: 2718
     height: 1883
     cropWidth: 2668
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: CB06
+  autoCollectorNumber: CB05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - death-trigger-self
   - cheat-death-self
   - gains-pp-counters
-baseName: Master of Agonies
 imageExports:
   front: Master of Agonies - 3a1a24a2.jpg

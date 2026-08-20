@@ -16,7 +16,6 @@ front:
     symbols: 2WB
   artImage:
     __type: image
-    imageUrl: /project/cards/Stagnate.jpg
     width: 800
     height: 800
     cropWidth: 800
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Sam Wolfe Connelly
-  autoCollectorNumber: CZ17
+  autoCollectorNumber: CZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,7 +60,6 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Disgrace
 oldBaseName: Pillory
 imageExports:
   front: Disgrace - c0f34df2.jpg

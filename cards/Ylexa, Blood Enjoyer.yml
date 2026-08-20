@@ -16,7 +16,6 @@ front:
     symbols: 1BR
   artImage:
     __type: image
-    imageUrl: /project/cards/%2C%20Shadow.jpg
     width: 1500
     height: 2246
     cropWidth: 1500
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Abelardo
-  autoCollectorNumber: RZ10
+  autoCollectorNumber: RZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Ylexa, Blood Enjoyer
 imageExports:
   front: Ylexa, Blood Enjoyer - cb32932d.jpg

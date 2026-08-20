@@ -16,7 +16,6 @@ front:
     symbols: 1UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Devourer%20of%20Dreams.jpg
     width: 3000
     height: 3000
     cropWidth: 2123
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Maks Trofimov
-  autoCollectorNumber: RZ09
+  autoCollectorNumber: RZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Shima, Devourer of Dreams
 imageExports:
   front: Shima, Devourer of Dreams - eb7b3ed1.jpg

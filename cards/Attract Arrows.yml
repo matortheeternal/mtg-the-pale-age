@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Attract%20Arrows.jpg
     width: 1920
     height: 1951
     cropWidth: 1491
@@ -66,6 +65,5 @@ tags:
   - fog
   - combat-trick
   - gives-indestructible
-baseName: Attract Arrows
 imageExports:
   front: Attract Arrows - 9d6c382f.jpg

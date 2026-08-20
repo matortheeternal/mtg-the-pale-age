@@ -12,7 +12,6 @@ front:
     symbols: 4RRR
   artImage:
     __type: image
-    imageUrl: /project/cards/Absorbing%20Reception.jpg
     width: 1200
     height: 1697
     cropWidth: 1146
@@ -73,6 +72,5 @@ tags:
   - theft
   - untapper
   - gives-haste
-baseName: Absorbing Reception
 imageExports:
   front: Absorbing Reception - dfcb98e5.jpg

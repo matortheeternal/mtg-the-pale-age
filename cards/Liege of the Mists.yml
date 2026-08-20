@@ -12,7 +12,6 @@ front:
     symbols: 2GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Liege%20of%20the%20Mists.jpg
     width: 800
     height: 1075
     cropWidth: 800
@@ -42,8 +41,8 @@ front:
     When ~ enters, prevent all combat damage that would be dealt this turn.
 
 
-    {3}{G}{G}: Put a +1/+1 counter on each of up to three target creatures you
-    control.
+    {3}{G}{G}, {T}: Put a +1/+1 counter on each of up to three target creatures
+    you control.
   flavorText: The mist was thick, suffocating.
   frame: auto
   artSize: auto
@@ -64,8 +63,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Liege of the Mists
 imageExports:
   front: Liege of the Mists - 7be272d6.jpg

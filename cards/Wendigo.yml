@@ -16,7 +16,6 @@ front:
     symbols: 2BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Wendigo.jpg
     width: 1200
     height: 1638
     cropWidth: 1200
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Hege
-  autoCollectorNumber: UZ08
+  autoCollectorNumber: UZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -77,6 +76,5 @@ tags:
   - sacrifice-outlet-token
   - drain-life
   - gains-pp-counters
-baseName: Wendigo
 imageExports:
   front: Wendigo - ef60265a.jpg

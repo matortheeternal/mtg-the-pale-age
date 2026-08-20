@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Regurgitator.jpg
     width: 1035
     height: 800
     cropWidth: 1035
@@ -72,6 +71,5 @@ tags:
   - remove-counters
   - gains-pp-counters
   - mana-sink
-baseName: Biogenic Regurgitator
 imageExports:
   front: Biogenic Regurgitator - d08ccc0d.jpg
