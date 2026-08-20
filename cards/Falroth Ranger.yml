@@ -12,7 +12,6 @@ front:
     symbols: 3GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Falroth%20Beastmaster.jpg
     width: 1920
     height: 927
     cropWidth: 1314
@@ -62,6 +61,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Falroth Ranger
 imageExports:
   front: Falroth Ranger - 3aa62603.jpg

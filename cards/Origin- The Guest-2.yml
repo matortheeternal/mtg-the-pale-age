@@ -1,31 +1,26 @@
 front:
   template: magic/M20/Emblem
   name: "Origin: The Guest"
-  superType: Emblem
-  subType: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: T18
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
   artImage:
     __type: image
-    imageUrl: /project/cards/Origin-%20The%20Guest-2.jpg
     width: 1000
     height: 1200
     cropWidth: 744
     cropHeight: 1038
     xOffset: 120
     yOffset: 110
+  superType: Emblem
+  subType: ""
   rulesText: You may spend mana as though it was mana of any color.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  rarity: emblem
+  illustrator: ""
+  autoCollectorNumber: T17
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -35,8 +30,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Origin- The Guest-2
 imageExports:
   front: Origin- The Guest-2 - 567da2b1.jpg

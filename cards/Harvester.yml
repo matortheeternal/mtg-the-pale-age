@@ -12,7 +12,6 @@ front:
     symbols: 7U
   artImage:
     __type: image
-    imageUrl: /project/cards/Harvester.jpg
     width: 1400
     height: 2100
     cropWidth: 1400
@@ -70,6 +69,5 @@ tags:
   - mill
   - mill-each
   - gains-indestructible
-baseName: Harvester
 imageExports:
   front: Harvester - 63d25f6a.jpg

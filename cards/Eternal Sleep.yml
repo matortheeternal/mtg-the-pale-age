@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Eternal%20Sleep.jpg
     width: 1152
     height: 1440
     cropWidth: 1152
@@ -65,6 +64,5 @@ tags:
   - triggered-ability
   - tapper
   - tapper-creature
-baseName: Eternal Sleep
 imageExports:
   front: Eternal Sleep - 84d2d119.jpg

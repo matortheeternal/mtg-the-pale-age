@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Toxic%20Jungle.jpg
     width: 1053
     height: 1418
     cropWidth: 1053
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Harry Clarke
-  autoCollectorNumber: UL09
+  autoCollectorNumber: UL07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Toxic Jungle
 imageExports:
   front: Toxic Jungle - 2b640c8f.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 2GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Mythic%20Gateway.jpg
     width: 1920
     height: 1571
     cropWidth: 1723
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Gateway to Myth
 imageExports:
   front: Gateway to Myth - 480a0e53.jpg

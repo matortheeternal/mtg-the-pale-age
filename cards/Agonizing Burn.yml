@@ -16,7 +16,6 @@ front:
     symbols: 2BR
   artImage:
     __type: image
-    imageUrl: /project/cards/Agonizing%20Burn.jpg
     width: 1504
     height: 1920
     cropWidth: 1347
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Nadide Öçba
-  autoCollectorNumber: CZ14
+  autoCollectorNumber: CZ15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -78,6 +77,5 @@ tags:
   - life-total-matters
   - discard
   - hand-disruption
-baseName: Agonizing Burn
 imageExports:
   front: Agonizing Burn - 795c7a8d.jpg

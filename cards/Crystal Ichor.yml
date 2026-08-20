@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Placeholder%20Blue%20Artifact.jpg
     width: 1200
     height: 1200
     cropWidth: 1200
@@ -68,6 +67,5 @@ tags:
   - restricted-mana
   - activated-ability
   - draw
-baseName: Crystal Ichor
 imageExports:
   front: Crystal Ichor - c2e511a5.jpg

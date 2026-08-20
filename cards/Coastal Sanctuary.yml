@@ -12,7 +12,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Coastal%20Sanctuary.jpg
     width: 758
     height: 1000
     cropWidth: 758
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Nico Delort
-  autoCollectorNumber: RL02
+  autoCollectorNumber: RL05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,6 +68,5 @@ tags:
   - activated-ability
   - sacrifice-self
   - draw
-baseName: Coastal Sanctuary
 imageExports:
   front: Coastal Sanctuary - c598bb8e.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Nurturing%20Satyr.jpg
     width: 3000
     height: 3375
     cropWidth: 2698
@@ -66,6 +65,5 @@ tags:
   - mana-dork
   - ramp
   - mana-producer
-baseName: Nurturing Satyr
 imageExports:
   front: Nurturing Satyr - f3b73f51.jpg

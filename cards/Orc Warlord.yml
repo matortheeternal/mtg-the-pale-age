@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Orc%20Warlord.jpg
     width: 1000
     height: 1333
     cropWidth: 884
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: CR03
+  autoCollectorNumber: CR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - gives-menace
   - gains-pp-counters
   - remove-counters
-baseName: Orc Warlord
 imageExports:
   front: Orc Warlord - c4dd6c51.jpg

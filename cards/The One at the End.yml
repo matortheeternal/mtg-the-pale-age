@@ -16,7 +16,6 @@ front:
     symbols: 10UUUB
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20One%20at%20the%20End.jpg
     width: 1920
     height: 2268
     cropWidth: 1382
@@ -76,6 +75,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: The One at the End
 imageExports:
   front: The One at the End - d0cd0112.jpg

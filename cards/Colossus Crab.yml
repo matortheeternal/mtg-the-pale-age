@@ -12,7 +12,6 @@ front:
     symbols: 6UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Colossus%20Crab.jpg
     width: 800
     height: 817
     cropWidth: 800
@@ -71,6 +70,5 @@ tags:
   - freeze-creature
   - freeze-artifact
   - tapper
-baseName: Colossus Crab
 imageExports:
   front: Colossus Crab - 59f8876f.jpg

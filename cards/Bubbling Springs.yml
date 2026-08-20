@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Bubbling%20Springs.jpg
     width: 1517
     height: 1800
     cropWidth: 1517
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Pia Hansen
-  autoCollectorNumber: UL06
+  autoCollectorNumber: UL12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Bubbling Springs
 imageExports:
   front: Bubbling Springs - 51bce3ce.jpg

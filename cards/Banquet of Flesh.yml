@@ -12,7 +12,6 @@ front:
     symbols: XBB
   artImage:
     __type: image
-    imageUrl: /project/cards/Banquet%20of%20Flesh.jpg
     width: 728
     height: 1008
     cropWidth: 607
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Akira Hiramoto
-  autoCollectorNumber: RB07
+  autoCollectorNumber: RB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,6 +68,5 @@ tags:
   - sacrifice-outlet-creature
   - lifegain
   - mutual-sacrifice
-baseName: Banquet of Flesh
 imageExports:
   front: Banquet of Flesh - 3a36fb60.jpg

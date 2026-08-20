@@ -12,7 +12,6 @@ front:
     symbols: 6BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Gryn%2C%20the%20Immortal.jpg
     width: 1920
     height: 1978
     cropWidth: 1588
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RB06
+  autoCollectorNumber: RB05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - sacrifice-outlet-land
   - sacrifice-outlet-creature
   - sacrifice-outlet-artifact
-baseName: Gryn, the Immortal
 imageExports:
   front: Gryn, the Immortal - e5d9c5c5.jpg

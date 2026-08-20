@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Skyleaper.jpg
     width: 1920
     height: 1506
     cropWidth: 1571
@@ -64,6 +63,5 @@ tags:
   - evasion
   - tapper
   - tapper-creature
-baseName: Skyleaper
 imageExports:
   front: Skyleaper - b8113fd1.jpg

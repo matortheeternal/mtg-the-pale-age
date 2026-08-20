@@ -10,7 +10,6 @@ front:
   name: Bird
   artImage:
     __type: image
-    imageUrl: /project/cards/Bird.jpg
     width: 953
     height: 1308
     cropWidth: 754
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Bird
+  rulesText: Flying
+  flavorText: null
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Dugald Stewart Walker
-  autoCollectorNumber: T02
+  autoCollectorNumber: T10
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Flying
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Bird
 imageExports:
   front: Bird - 7b2fa793.jpg

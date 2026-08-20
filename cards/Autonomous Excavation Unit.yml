@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Autonomous%20Excavation%20Unit.jpg
     width: 1080
     height: 795
     cropWidth: 1042
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Longquechen
-  autoCollectorNumber: RR07
+  autoCollectorNumber: RR06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ tags:
   - ramp
   - repeatable-pp-counters
   - activated-ability
-baseName: Autonomous Excavation Unit
 imageExports:
   front: Autonomous Excavation Unit - 9e2f7826.jpg

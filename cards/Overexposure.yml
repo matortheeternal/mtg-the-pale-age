@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Overexposure.jpg
     width: 1440
     height: 1776
     cropWidth: 1440
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: kidswithghosts
-  autoCollectorNumber: CW15
+  autoCollectorNumber: CW17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - prevent-attack
   - prevent-blocker
   - prevent-activation
-baseName: Overexposure
 imageExports:
   front: Overexposure - c6df4b8d.jpg

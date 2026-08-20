@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Maintenance%20Shaft.jpg
     width: 1600
     height: 2133
     cropWidth: 1600
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Axel Sauerwald
-  autoCollectorNumber: UU16
+  autoCollectorNumber: UU17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,6 +63,5 @@ tags:
   - combat-arbiter
   - combat-manipulation
   - pillowfort
-baseName: Maintenance Shaft
 imageExports:
   front: Maintenance Shaft - c4430c06.jpg

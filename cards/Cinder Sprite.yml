@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Cinder%20Sprite.jpg
     width: 1200
     height: 1871
     cropWidth: 1200
@@ -69,6 +68,5 @@ tags:
   - burn-player
   - potentially-free
   - chaper-than-mv
-baseName: Cinder Sprite
 imageExports:
   front: Cinder Sprite - ac5b953f.jpg

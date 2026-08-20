@@ -16,7 +16,6 @@ front:
     symbols: 1BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Pluck.jpg
     width: 750
     height: 1002
     cropWidth: 750
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Myriam Tillson
-  autoCollectorNumber: UZ21
+  autoCollectorNumber: UZ19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - removal
   - removal-sacrifice
   - removal-creature
-baseName: Pluck
 imageExports:
   front: Pluck - 350d190a.jpg

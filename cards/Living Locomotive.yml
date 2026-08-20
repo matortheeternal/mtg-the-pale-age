@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Demonic%20Train.jpg
     width: 800
     height: 984
     cropWidth: 800
@@ -71,6 +70,5 @@ tags:
   - mana-sink
   - animate-self
   - activated-ability
-baseName: Living Locomotive
 imageExports:
   front: Living Locomotive - 9aa6bbfa.jpg

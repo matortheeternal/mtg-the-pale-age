@@ -8,7 +8,6 @@ front:
     symbols: "0"
   artImage:
     __type: image
-    imageUrl: /project/cards/Ghost%20Bloom.jpg
     width: 800
     height: 801
     cropWidth: 761
@@ -58,6 +57,5 @@ tags:
   - ramp
   - ritual
   - synergy-colorless
-baseName: Ghost Bloom
 imageExports:
   front: Ghost Bloom - 0061a290.jpg

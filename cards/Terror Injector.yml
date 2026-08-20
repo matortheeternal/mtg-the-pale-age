@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/UB02%20Placeholder.jpg
     width: 1080
     height: 1080
     cropWidth: 1080
@@ -68,6 +67,5 @@ tags:
   - gains-menace
   - evasion
   - free-discard-outlet
-baseName: Terror Injector
 imageExports:
   front: Terror Injector - 0466154f.jpg

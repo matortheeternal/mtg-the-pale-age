@@ -8,7 +8,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/REPLACE%20ART%20Walking%20Castle.jpg
     width: 1080
     height: 1080
     cropWidth: 1080
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Longquechen
-  autoCollectorNumber: UL01
+  autoCollectorNumber: UL10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,6 +63,5 @@ tags:
   - indefinte-effect
   - activated-ability
   - utility-land
-baseName: Walking Castle
 imageExports:
   front: Walking Castle - 2f300a18.jpg

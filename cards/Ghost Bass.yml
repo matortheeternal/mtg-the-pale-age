@@ -12,7 +12,6 @@ front:
     symbols: 4U
   artImage:
     __type: image
-    imageUrl: /project/cards/Ghost%20Bass.jpg
     width: 564
     height: 566
     cropWidth: 564
@@ -69,6 +68,5 @@ tags:
   - move-counters
   - flying-counter
   - evasion
-baseName: Ghost Bass
 imageExports:
   front: Ghost Bass - 41dd72a1.jpg

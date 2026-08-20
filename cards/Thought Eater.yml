@@ -12,7 +12,6 @@ front:
     symbols: 5U
   artImage:
     __type: image
-    imageUrl: /project/cards/Thought%20Eater.jpg
     width: 736
     height: 552
     cropWidth: 736
@@ -66,6 +65,5 @@ notes: ""
 tags:
   - peek-library
   - mill
-baseName: Thought Eater
 imageExports:
   front: Thought Eater - c41d0ecc.jpg

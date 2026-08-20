@@ -12,7 +12,6 @@ front:
     symbols: XXGG
   artImage:
     __type: image
-    imageUrl: /project/cards/Unconstrained%20Growth.jpg
     width: 1920
     height: 2136
     cropWidth: 1920
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Unconstrained Growth
 imageExports:
   front: Unconstrained Growth - b283ec13.jpg

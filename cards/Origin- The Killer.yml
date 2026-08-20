@@ -20,7 +20,6 @@ front:
     symbols: 1UBR
   artImage:
     __type: image
-    imageUrl: /project/cards/Original%20Trauma.jpg
     width: 720
     height: 909
     cropWidth: 504
@@ -34,7 +33,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Samuel Araya
-  autoCollectorNumber: RZ12
+  autoCollectorNumber: RZ11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Origin- The Killer
 imageExports:
   front: Origin- The Killer - 8a83e948.jpg

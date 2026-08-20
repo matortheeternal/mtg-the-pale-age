@@ -20,7 +20,6 @@ front:
     symbols: 1WBG
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Guest.jpg
     width: 800
     height: 1131
     cropWidth: 416
@@ -34,7 +33,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Garis Edelweiss
-  autoCollectorNumber: RZ11
+  autoCollectorNumber: RZ12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Origin- The Guest
 imageExports:
   front: Origin- The Guest - 9b74a99e.jpg

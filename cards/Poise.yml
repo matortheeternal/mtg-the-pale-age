@@ -12,7 +12,6 @@ front:
     symbols: 4G
   artImage:
     __type: image
-    imageUrl: /project/cards/Poise.jpg
     width: 2000
     height: 1047
     cropWidth: 1484
@@ -72,6 +71,5 @@ tags:
   - triggered-ability
   - draw
   - hand-neutral
-baseName: Poise
 imageExports:
   front: Poise - 38981d62.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Knight%20of%20Desolate%20Lands.jpg
     width: 1080
     height: 725
     cropWidth: 1027
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Richard Anderson
-  autoCollectorNumber: CW04
+  autoCollectorNumber: CW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ notes: playtest first strike on opponent's turn
 tags:
   - triggered-ability
   - bear-with-set-mechanic
-baseName: Knight of Desolate Lands
 imageExports:
   front: Knight of Desolate Lands - 9dee1c28.jpg

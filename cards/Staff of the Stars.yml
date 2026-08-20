@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Staff%20of%20the%20Stars.jpg
     width: 1920
     height: 2294
     cropWidth: 1622
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UU14
+  autoCollectorNumber: UU15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ tags:
   - combat-neutral-damage-trigger
   - triggered-ability
   - activated-ability
-baseName: Staff of the Stars
 imageExports:
   front: Staff of the Stars - 1235068b.jpg

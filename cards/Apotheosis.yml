@@ -12,7 +12,6 @@ front:
     symbols: 3WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Apotheosis.jpg
     width: 906
     height: 1134
     cropWidth: 891
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Gustave Dore
-  autoCollectorNumber: UW16
+  autoCollectorNumber: UW17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ tags:
   - gives-lifelink
   - repeatable-lifegain
   - lifegain
-baseName: Apotheosis
 imageExports:
   front: Apotheosis - 844d2256.jpg

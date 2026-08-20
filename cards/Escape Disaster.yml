@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Escape%20Disaster.jpg
     width: 1425
     height: 1425
     cropWidth: 1425
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: CW17
+  autoCollectorNumber: CW16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - hand-neutral
   - activate-from-hand
   - activated-ability
-baseName: Escape Disaster
 imageExports:
   front: Escape Disaster - 286e1d78.jpg

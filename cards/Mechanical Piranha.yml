@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Fish%20Construct.jpg
     width: 1200
     height: 884
     cropWidth: 1200
@@ -71,6 +70,5 @@ tags:
   - bottomless-mana-sink
   - gives-pp-counters
   - move-counters
-baseName: Mechanical Piranha
 imageExports:
   front: Mechanical Piranha - d220436f.jpg

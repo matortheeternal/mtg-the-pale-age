@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/Act%20of%20Intimidation.jpg
     width: 1920
     height: 1407
     cropWidth: 1603
@@ -66,6 +65,5 @@ tags:
   - prevent-blocker
   - gives-first-strike
   - threaten
-baseName: Act of Intimidation
 imageExports:
   front: Act of Intimidation - 44e06ee5.jpg

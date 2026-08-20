@@ -1,31 +1,26 @@
 front:
   template: magic/M20/Emblem
   name: "Origin: The Killer"
-  superType: Emblem
-  subType: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: T19
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
   artImage:
     __type: image
-    imageUrl: /project/cards/Origin-%20The%20Killer-2.jpg
     width: 1000
     height: 1200
     cropWidth: 492
     cropHeight: 686
     xOffset: 258
     yOffset: 130
+  superType: Emblem
+  subType: ""
   rulesText: All spells and permanents are colorless.
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  rarity: emblem
+  illustrator: ""
+  autoCollectorNumber: T16
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -35,8 +30,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Origin- The Killer-2
 imageExports:
   front: Origin- The Killer-2 - 3c72d255.jpg

@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Bloodprint.jpg
     width: 1920
     height: 1375
     cropWidth: 1467
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: A. Shipwright
-  autoCollectorNumber: CR10
+  autoCollectorNumber: CR11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -76,6 +75,5 @@ tags:
   - repeatable-removal
   - removal-creature
   - pinger
-baseName: Bloodprint
 imageExports:
   front: Bloodprint - 2a3ad5f0.jpg

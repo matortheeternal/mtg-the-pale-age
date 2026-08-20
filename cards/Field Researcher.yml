@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Field%20Researcher.jpg
     width: 1440
     height: 1800
     cropWidth: 1440
@@ -71,6 +70,5 @@ tags:
   - shapechange
   - animate
   - animate-artifact
-baseName: Field Researcher
 imageExports:
   front: Field Researcher - 203907ab.jpg

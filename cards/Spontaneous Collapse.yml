@@ -16,7 +16,6 @@ front:
     symbols: 2UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Spontaneous%20Collapse.jpg
     width: 1440
     height: 1800
     cropWidth: 1440
@@ -72,6 +71,5 @@ tags:
   - draw
   - discard
   - discard-outlet
-baseName: Spontaneous Collapse
 imageExports:
   front: Spontaneous Collapse - 119e8ffb.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Raptor%20Ambush.jpg
     width: 1200
     height: 900
     cropWidth: 1200
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: CG17
+  autoCollectorNumber: CG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ notes: ""
 tags:
   - castable-from-graveyard
   - gives-pp-counters
-baseName: Raptor Chase
 imageExports:
   front: Raptor Chase - fa51eefc.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Marrow%20Guardian.jpg
     width: 679
     height: 960
     cropWidth: 679
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: George Brad
-  autoCollectorNumber: CW05
+  autoCollectorNumber: CW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ tags:
   - triggered-ability
   - virtual-french-vanilla
   - multiple-bodies
-baseName: Skeletal Guardian
 imageExports:
   front: Skeletal Guardian - fbb92424.jpg

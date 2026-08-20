@@ -12,7 +12,6 @@ front:
     symbols: 2WWW
   artImage:
     __type: image
-    imageUrl: /project/cards/Mythic%20Bomb%20Spell.jpg
     width: 600
     height: 743
     cropWidth: 493
@@ -66,6 +65,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Exaltation
 imageExports:
   front: Exaltation - 0958a4f7.jpg

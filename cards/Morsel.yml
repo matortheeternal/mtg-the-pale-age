@@ -5,7 +5,6 @@ front:
   name: Morsel
   artImage:
     __type: image
-    imageUrl: /project/cards/Morsel.jpg
     width: 1107
     height: 1431
     cropWidth: 916
@@ -14,10 +13,12 @@ front:
     yOffset: 174
   superType: Token Artifact
   subType: Morsel
+  rulesText: When this token is sacrificed, gain 1 life.
+  flavorText: null
   power: ""
   toughness: ""
   showPT: false
-  rarity: common
+  rarity: token
   illustrator: pawlovearts
   autoCollectorNumber: T15
   collectorNumber: ""
@@ -25,12 +26,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: When this token is sacrificed, gain 1 life.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Morsel
 imageExports:
   front: Morsel - f3fe5c07.jpg

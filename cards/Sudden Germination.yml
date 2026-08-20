@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Seedling.jpg
     width: 800
     height: 928
     cropWidth: 800
@@ -62,6 +61,5 @@ tags:
   - land-ramp
   - tutor-land
   - tutor-land-basic
-baseName: Sudden Germination
 imageExports:
   front: Sudden Germination - 9f50e08b.jpg

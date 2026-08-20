@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Fall%20from%20Grace.jpg
     width: 1920
     height: 2304
     cropWidth: 1920
@@ -65,6 +64,5 @@ tags:
   - triggered-ability
   - death-trigger
   - synergy-sacrifice
-baseName: Fall from Grace
 imageExports:
   front: Fall from Grace - 9a151d4c.jpg

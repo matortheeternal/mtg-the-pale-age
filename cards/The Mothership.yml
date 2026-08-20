@@ -12,7 +12,6 @@ front:
     symbols: 7W
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Mothership.jpg
     width: 1200
     height: 856
     cropWidth: 1200
@@ -71,6 +70,5 @@ front:
 notes: ""
 tags:
   - multiple-bodies
-baseName: The Mothership
 imageExports:
   front: The Mothership - 2a77021d.jpg

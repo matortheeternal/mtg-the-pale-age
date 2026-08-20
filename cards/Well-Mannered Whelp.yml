@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Well-Mannered%20Whelp.jpg
     width: 2100
     height: 2600
     cropWidth: 1975
@@ -72,6 +71,5 @@ tags:
   - evasion
   - leaves-battlefield-trigger
   - triggered-ability
-baseName: Well-Mannered Whelp
 imageExports:
   front: Well-Mannered Whelp - 3303ae76.jpg

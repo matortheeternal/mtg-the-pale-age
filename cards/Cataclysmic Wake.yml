@@ -12,7 +12,6 @@ front:
     symbols: 1WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Cataclysmic%20Wake.jpg
     width: 600
     height: 900
     cropWidth: 600
@@ -67,6 +66,5 @@ tags:
   - removal
   - removal-artifact
   - removal-enchantment
-baseName: Cataclysmic Wake
 imageExports:
   front: Cataclysmic Wake - 2d211e02.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Offer%20Salvation.jpg
     width: 1148
     height: 2048
     cropWidth: 1148
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: pilyeon
-  autoCollectorNumber: CW16
+  autoCollectorNumber: CW15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ tags:
   - lifegain
   - gives-lifelink
   - gives-indestructible
-baseName: Offer Salvation
 imageExports:
   front: Offer Salvation - 5b198a54.jpg

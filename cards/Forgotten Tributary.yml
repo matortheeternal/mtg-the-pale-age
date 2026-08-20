@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Forgotten%20Tributary.jpg
     width: 3840
     height: 2688
     cropWidth: 3840
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Manuel Javier Norena Castano
-  autoCollectorNumber: UL02
+  autoCollectorNumber: UL03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Forgotten Tributary
 imageExports:
   front: Forgotten Tributary - 2852d938.jpg

@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Looming%20Towers.jpg
     width: 1400
     height: 2100
     cropWidth: 1400
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Alejandro Mendez
-  autoCollectorNumber: UL05
+  autoCollectorNumber: UL04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Looming Towers
 imageExports:
   front: Looming Towers - 2787ba61.jpg

@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Old%20Man%20Mushroom.jpg
     width: 2480
     height: 3508
     cropWidth: 2480
@@ -62,6 +61,5 @@ tags:
   - gives-pp-counters
   - synergy-sacrifice
   - synergy-sacrifice-self
-baseName: Old Man Mushroom
 imageExports:
   front: Old Man Mushroom - edb488c2.jpg

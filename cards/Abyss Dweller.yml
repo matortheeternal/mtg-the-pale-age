@@ -12,7 +12,6 @@ front:
     symbols: 2UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Abyss%20Dweller.jpg
     width: 3298
     height: 4096
     cropWidth: 3298
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Abelardo
-  autoCollectorNumber: UU08
+  autoCollectorNumber: UU09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ tags:
   - morbid
   - repeatable-token-generator
   - bottomless-mana-sink
-baseName: Abyss Dweller
 imageExports:
   front: Abyss Dweller - 45859bd3.jpg

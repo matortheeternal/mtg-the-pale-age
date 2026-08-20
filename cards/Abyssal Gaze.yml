@@ -16,7 +16,6 @@ front:
     symbols: UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Abyssal%20Gaze.jpg
     width: 736
     height: 1104
     cropWidth: 611
@@ -67,6 +66,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Abyssal Gaze
 imageExports:
   front: Abyssal Gaze - cfc1e3d9.jpg

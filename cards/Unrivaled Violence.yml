@@ -16,7 +16,6 @@ front:
     symbols: 3RG
   artImage:
     __type: image
-    imageUrl: /project/cards/Unrivaled%20Violence.jpg
     width: 800
     height: 1333
     cropWidth: 800
@@ -69,6 +68,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Unrivaled Violence
 imageExports:
   front: Unrivaled Violence - bf1a1b81.jpg

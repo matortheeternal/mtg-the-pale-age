@@ -16,7 +16,6 @@ front:
     symbols: GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Pure%20Intent.jpg
     width: 1200
     height: 1676
     cropWidth: 1200
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Riyu008
-  autoCollectorNumber: RZ16
+  autoCollectorNumber: RZ22
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - removal-enchantment
   - gives-lifelink
   - lifegain
-baseName: Pure Intent
 imageExports:
   front: Pure Intent - e15f0483.jpg

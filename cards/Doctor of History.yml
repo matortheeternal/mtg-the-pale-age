@@ -16,7 +16,6 @@ front:
     symbols: 2WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Doctor%20of%20History.jpg
     width: 800
     height: 743
     cropWidth: 739
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: James Todd
-  autoCollectorNumber: UZ05
+  autoCollectorNumber: UZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Doctor of History
 imageExports:
   front: Doctor of History - 866fe9e0.jpg

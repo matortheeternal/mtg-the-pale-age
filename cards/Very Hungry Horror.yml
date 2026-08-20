@@ -12,7 +12,6 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/REPLACE%20ART%20The%20Very%20Hungry%20Horror.jpg
     width: 900
     height: 1238
     cropWidth: 900
@@ -71,7 +70,6 @@ tags:
   - gains-pp-counters
   - french-vanilla
   - sacrifice-outlet-token
-baseName: Very Hungry Horror
 oldBaseName: The Very Hungry Horror
 imageExports:
   front: Very Hungry Horror - 7c6e0b88.jpg

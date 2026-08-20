@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Dune%20Priest.jpg
     width: 1354
     height: 1834
     cropWidth: 1354
@@ -64,6 +63,5 @@ notes: ""
 tags:
   - mill
   - mill-self
-baseName: Dune Priest
 imageExports:
   front: Dune Priest - bebce052.jpg

@@ -16,7 +16,6 @@ front:
     symbols: WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Magical%20Lasso.jpg
     width: 1920
     height: 1261
     cropWidth: 1501
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RZ13
+  autoCollectorNumber: RZ21
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -74,6 +73,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Magical Lasso
 imageExports:
   front: Magical Lasso - f362ce0d.jpg

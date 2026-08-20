@@ -12,7 +12,6 @@ front:
     symbols: 4WWW
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Major%20Arcana.jpg
     width: 1945
     height: 2600
     cropWidth: 1945
@@ -66,7 +65,6 @@ tags:
   - removal-exile
   - removal-creature
   - lifegain
-baseName: Absolute Judgment
 oldBaseName: Absolute Judgement
 imageExports:
   front: Absolute Judgment - e5b98a6e.jpg

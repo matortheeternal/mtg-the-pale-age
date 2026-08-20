@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/Frenzied%20Giant.jpg
     width: 778
     height: 1102
     cropWidth: 778
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Petar Meseldzija
-  autoCollectorNumber: UR08
+  autoCollectorNumber: UR07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -73,6 +72,5 @@ tags:
   - activated-ability
   - mana-sink
   - gives-menace
-baseName: Frenzied Giant
 imageExports:
   front: Frenzied Giant - ded64a4f.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 5W
   artImage:
     __type: image
-    imageUrl: /project/cards/Colossal%20Pteradactyl.jpg
     width: 1200
     height: 1727
     cropWidth: 1200
@@ -70,6 +69,5 @@ tags:
   - triggered-ability
   - evasion
   - gives-flying
-baseName: Colossal Pteradactyl
 imageExports:
   front: Colossal Pteradactyl - 2654bbbf.jpg

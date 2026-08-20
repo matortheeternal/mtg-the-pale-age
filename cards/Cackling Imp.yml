@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Cackling%20Imp.jpg
     width: 1024
     height: 1024
     cropWidth: 1024
@@ -65,6 +64,5 @@ tags:
   - evasion
   - freeze
   - drawback
-baseName: Cackling Imp
 imageExports:
   front: Cackling Imp - a26617e9.jpg

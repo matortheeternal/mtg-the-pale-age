@@ -5,7 +5,6 @@ front:
   name: Pilot
   artImage:
     __type: image
-    imageUrl: /project/cards/Pilot.jpg
     width: 798
     height: 1200
     cropWidth: 798
@@ -14,24 +13,20 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Pilot
+  rulesText: This token saddles Mounts and crews Vehicles as though its power were
+    2 greater.
+  flavorText: null
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Mateja Petkovic
-  autoCollectorNumber: T01
+  autoCollectorNumber: T06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: This token saddles Mounts and crews Vehicles as though its power were
-    2 greater.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -41,8 +36,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Pilot
 imageExports:
   front: Pilot - 113871ac.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 4R
   artImage:
     __type: image
-    imageUrl: /project/cards/Passion.jpg
     width: 575
     height: 898
     cropWidth: 575
@@ -73,6 +72,5 @@ tags:
   - death-trigger
   - death-trigger-self
   - untapper
-baseName: Passion
 imageExports:
   front: Passion - 690b64a4.jpg

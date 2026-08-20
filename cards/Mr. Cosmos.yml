@@ -16,7 +16,6 @@ front:
     symbols: UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Mr.%20Cosmos.jpg
     width: 1920
     height: 2713
     cropWidth: 1920
@@ -70,6 +69,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Mr. Cosmos
 imageExports:
   front: Mr. Cosmos - 537cf65d.jpg

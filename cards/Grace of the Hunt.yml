@@ -16,7 +16,6 @@ front:
     symbols: 1RG
   artImage:
     __type: image
-    imageUrl: /project/cards/Grace%20of%20the%20Hunt.jpg
     width: 1748
     height: 2480
     cropWidth: 1748
@@ -32,7 +31,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Constelar
-  autoCollectorNumber: UZ22
+  autoCollectorNumber: UZ24
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Grace of the Hunt
 imageExports:
   front: Grace of the Hunt - 8de55c05.jpg

@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Verdant%20Hills.jpg
     width: 1870
     height: 1301
     cropWidth: 1870
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Tanner Stahelli
-  autoCollectorNumber: UL10
+  autoCollectorNumber: UL08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Verdant Hills
 imageExports:
   front: Verdant Hills - 22c5b89a.jpg

@@ -15,7 +15,6 @@ front:
   name: Cat
   artImage:
     __type: image
-    imageUrl: /project/cards/Cat.jpg
     width: 2415
     height: 3440
     cropWidth: 2244
@@ -24,23 +23,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Cat
+  rulesText: ""
+  flavorText: null
   power: "2"
   toughness: "1"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Tu Bui
-  autoCollectorNumber: T08
+  autoCollectorNumber: T04
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -51,8 +46,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Cat
 imageExports:
   front: Cat - 5dfd95f0.jpg

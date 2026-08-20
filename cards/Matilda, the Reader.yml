@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Reader.jpg
     width: 736
     height: 981
     cropWidth: 651
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: tp-h
-  autoCollectorNumber: UW03
+  autoCollectorNumber: UW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - synergy-noncreature
   - recursion
   - graveyard-fuel
-baseName: Matilda, the Reader
 imageExports:
   front: Matilda, the Reader - 251eb37b.jpg

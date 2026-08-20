@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Dark%20Cruiser.jpg
     width: 736
     height: 1104
     cropWidth: 736
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: UB12
+  autoCollectorNumber: UB14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - activated-ability
   - alternative-crewing
   - animate-self
-baseName: Dark Cruiser
 imageExports:
   front: Dark Cruiser - ebb6d371.jpg

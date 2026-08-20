@@ -10,7 +10,6 @@ front:
   name: Abyss Dweller
   artImage:
     __type: image
-    imageUrl: /project/cards/Abyss%20Dweller.jpg
     width: 3298
     height: 4096
     cropWidth: 3298
@@ -19,23 +18,19 @@ front:
     yOffset: 1769
   superType: Token Creature
   subType: Fish Horror
+  rulesText: ""
+  flavorText: null
   power: "3"
   toughness: "4"
   showPT: true
-  rarity: uncommon
+  rarity: token
   illustrator: Abelardo
-  autoCollectorNumber: T12
+  autoCollectorNumber: T11
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,9 +40,13 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Abyss Dweller-2
 oldBaseName: Abyss Dweller
 imageExports:
   front: Abyss Dweller-2 - 654d0d88.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 3BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Unholy%20Blade.jpg
     width: 1920
     height: 1206
     cropWidth: 1319
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UB18
+  autoCollectorNumber: UB19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,7 +70,6 @@ tags:
   - triggered-ability
   - life-payment
   - removal-destroy
-baseName: Cursed Blade
 oldBaseName: Unholy Blade
 imageExports:
   front: Cursed Blade - e1fd8e2c.jpg

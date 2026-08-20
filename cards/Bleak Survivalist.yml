@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Bleak%20Survivalist.jpg
     width: 1920
     height: 2560
     cropWidth: 1457
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UG06
+  autoCollectorNumber: UG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -76,6 +75,5 @@ tags:
   - activated-ability
   - triggered-ability
   - death-trigger
-baseName: Bleak Survivalist
 imageExports:
   front: Bleak Survivalist - f0d973e7.jpg

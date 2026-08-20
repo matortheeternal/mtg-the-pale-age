@@ -12,7 +12,6 @@ front:
     symbols: 4U
   artImage:
     __type: image
-    imageUrl: /project/cards/Clarity.jpg
     width: 900
     height: 900
     cropWidth: 900
@@ -76,6 +75,5 @@ tags:
   - death-trigger
   - death-trigger-self
   - untracked-indefinite-effect
-baseName: Clarity
 imageExports:
   front: Clarity - f2de36a5.jpg

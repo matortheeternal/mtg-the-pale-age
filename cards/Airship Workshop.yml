@@ -12,7 +12,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Airship%20Workshop.jpg
     width: 3732
     height: 2099
     cropWidth: 2975
@@ -68,6 +67,5 @@ tags:
   - sacrifice-self
   - recursion
   - recursion-vehicle
-baseName: Airship Workshop
 imageExports:
   front: Airship Workshop - 978e306e.jpg

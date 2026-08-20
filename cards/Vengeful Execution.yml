@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Vengeful%20Execution.jpg
     width: 1920
     height: 2533
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Kal Du
-  autoCollectorNumber: UB10
+  autoCollectorNumber: UB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ tags:
   - spot-removal
   - life-payment
   - removal-destroy
-baseName: Vengeful Execution
 imageExports:
   front: Vengeful Execution - df96ea90.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Sabotage%20Their%20Systems.jpg
     width: 736
     height: 1025
     cropWidth: 736
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Tōru Fujisawa
-  autoCollectorNumber: CR15
+  autoCollectorNumber: CR13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - removal
   - draw
   - cantrip
-baseName: Sabotage Their Systems
 imageExports:
   front: Sabotage Their Systems - 27f3d6fe.jpg

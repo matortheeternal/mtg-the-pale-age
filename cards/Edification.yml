@@ -16,7 +16,6 @@ front:
     symbols: WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Placeholder%20Azorious%20Enchantment.jpg
     width: 800
     height: 800
     cropWidth: 685
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Edification
 imageExports:
   front: Edification - 3ebb1b21.jpg

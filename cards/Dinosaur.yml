@@ -10,7 +10,6 @@ front:
   name: Dinosaur
   artImage:
     __type: image
-    imageUrl: /project/cards/Dinosaur.jpg
     width: 1080
     height: 1350
     cropWidth: 983
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Dinosaur
+  rulesText: ""
+  flavorText: null
   power: "2"
   toughness: "2"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: Brian Serway
-  autoCollectorNumber: T04
+  autoCollectorNumber: T08
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Dinosaur
 imageExports:
   front: Dinosaur - 88de39fe.jpg

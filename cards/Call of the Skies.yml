@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Call%20of%20the%20Skies.jpg
     width: 2425
     height: 2425
     cropWidth: 2425
@@ -65,6 +64,5 @@ notes: ""
 tags:
   - multiple-bodies
   - evasion
-baseName: Call of the Skies
 imageExports:
   front: Call of the Skies - 0c2fc495.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 3RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Industrial%20Blimp.jpg
     width: 1440
     height: 1016
     cropWidth: 1440
@@ -74,6 +73,5 @@ tags:
   - activated-ability
   - tap-outlet
   - triggered-ability
-baseName: Industrial Blimp
 imageExports:
   front: Industrial Blimp - e651ec86.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 1BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Roach%20Chef.jpg
     width: 736
     height: 1308
     cropWidth: 736
@@ -67,6 +66,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Roach Chef
 imageExports:
   front: Roach Chef - 35dd53af.jpg

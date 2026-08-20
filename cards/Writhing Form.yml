@@ -12,7 +12,6 @@ front:
     symbols: 2UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Writhing%20Form.jpg
     width: 2718
     height: 1883
     cropWidth: 2718
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UU09
+  autoCollectorNumber: UU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +65,5 @@ tags:
   - peek-library
   - mill
   - triggered-ability
-baseName: Writhing Form
 imageExports:
   front: Writhing Form - 4883a4a1.jpg

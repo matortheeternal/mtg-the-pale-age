@@ -12,7 +12,6 @@ front:
     symbols: 3B
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Abyssal%20Prison.jpg
     width: 736
     height: 1042
     cropWidth: 369
@@ -26,7 +25,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Tsutomu Nihei
-  autoCollectorNumber: RB08
+  autoCollectorNumber: RB07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - reanimate-from-any
   - removal-toughness
   - graveyard-fuel
-baseName: The Abyssal Prison
 imageExports:
   front: The Abyssal Prison - 04f1af16.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 1WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Bearer%20of%20the%20Unholy.jpg
     width: 1920
     height: 2117
     cropWidth: 1340
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UW04
+  autoCollectorNumber: UW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Bearer of the Unholy
 imageExports:
   front: Bearer of the Unholy - 4d6db3e7.jpg

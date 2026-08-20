@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Assault%20Chopper.jpg
     width: 1920
     height: 1257
     cropWidth: 1221
@@ -66,6 +65,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Assault Chopper
 imageExports:
   front: Assault Chopper - 2c6f4b1f.jpg

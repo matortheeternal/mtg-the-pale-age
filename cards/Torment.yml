@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Torment.jpg
     width: 700
     height: 700
     cropWidth: 700
@@ -62,6 +61,5 @@ notes: ""
 tags:
   - life-loss-matters
   - lifegain
-baseName: Torment
 imageExports:
   front: Torment - 0fb9e590.jpg

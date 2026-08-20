@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Great%20Northern%20Owl.jpg
     width: 2416
     height: 3440
     cropWidth: 2416
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Tu Bui
-  autoCollectorNumber: CW03
+  autoCollectorNumber: CW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Great Northern Owl
 imageExports:
   front: Great Northern Owl - cf198d63.jpg

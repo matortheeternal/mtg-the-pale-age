@@ -16,7 +16,6 @@ front:
     symbols: GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Experimental%20Mutation.jpg
     width: 900
     height: 1100
     cropWidth: 876
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Bernard Dumaine
-  autoCollectorNumber: RZ19
+  autoCollectorNumber: RZ16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Experimental Mutation
 imageExports:
   front: Experimental Mutation - cd53efb1.jpg

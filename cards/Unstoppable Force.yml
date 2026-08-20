@@ -16,7 +16,6 @@ front:
     symbols: 3WB
   artImage:
     __type: image
-    imageUrl: /project/cards/Unstoppable%20Force.jpg
     width: 1920
     height: 1402
     cropWidth: 1707
@@ -64,6 +63,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Unstoppable Force
 imageExports:
   front: Unstoppable Force - 50c50b85.jpg

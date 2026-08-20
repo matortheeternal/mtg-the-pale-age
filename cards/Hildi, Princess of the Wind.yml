@@ -16,7 +16,6 @@ front:
     symbols: 1GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Hildi%2C%20Princess%20of%20the%20Wind.jpg
     width: 1427
     height: 1427
     cropWidth: 920
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: RZ08
+  autoCollectorNumber: RZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Hildi, Princess of the Wind
 imageExports:
   front: Hildi, Princess of the Wind - a58b92ac.jpg

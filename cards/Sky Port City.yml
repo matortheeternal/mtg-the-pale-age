@@ -16,7 +16,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Sky%20Port%20City.jpg
     width: 2000
     height: 1200
     cropWidth: 1700
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Milan Vasek
-  autoCollectorNumber: UL03
+  autoCollectorNumber: UL09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Sky Port City
 imageExports:
   front: Sky Port City - 8155cbac.jpg

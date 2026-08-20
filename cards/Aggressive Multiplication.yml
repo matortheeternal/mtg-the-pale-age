@@ -12,7 +12,6 @@ front:
     symbols: XXXG
   artImage:
     __type: image
-    imageUrl: /project/cards/Aggressive%20Multiplication.jpg
     width: 702
     height: 965
     cropWidth: 702
@@ -68,6 +67,5 @@ front:
 notes: ""
 tags:
   - multiple-bodies
-baseName: Aggressive Multiplication
 imageExports:
   front: Aggressive Multiplication - 96724570.jpg

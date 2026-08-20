@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/Broken%20Robot.jpg
     width: 3400
     height: 4760
     cropWidth: 3400
@@ -67,6 +66,5 @@ tags:
   - restricted-mana
   - mana-rock
   - draw
-baseName: Broken Robot
 imageExports:
   front: Broken Robot - ef5f53f4.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 3BBR
   artImage:
     __type: image
-    imageUrl: /project/cards/Gg'kah%2C%20The%20Calamity.jpg
     width: 674
     height: 1035
     cropWidth: 674
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: mythic
   illustrator: Sui Ishida
-  autoCollectorNumber: MZ02
+  autoCollectorNumber: MZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,7 +69,6 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Gg'kah, the Calamity
 oldBaseName: Gg'kah, The Calamity
 imageExports:
   front: Gg'kah, the Calamity - 9190c494.jpg

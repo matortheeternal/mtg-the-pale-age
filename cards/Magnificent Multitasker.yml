@@ -16,7 +16,6 @@ front:
     symbols: 1RW
   artImage:
     __type: image
-    imageUrl: /project/cards/Magnificent%20Multitasker.jpg
     width: 1200
     height: 1540
     cropWidth: 1200
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Marcelo Gonzalez
-  autoCollectorNumber: CZ07
+  autoCollectorNumber: CZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Magnificent Multitasker
 imageExports:
   front: Magnificent Multitasker - b0d0b0b9.jpg

@@ -16,7 +16,6 @@ front:
     symbols: UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Electric%20Inspiration.jpg
     width: 1920
     height: 1383
     cropWidth: 1551
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RZ18
+  autoCollectorNumber: RZ20
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Electric Inspiration
 imageExports:
   front: Electric Inspiration - dc42bb51.jpg

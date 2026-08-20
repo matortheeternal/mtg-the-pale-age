@@ -16,7 +16,6 @@ front:
     symbols: RW
   artImage:
     __type: image
-    imageUrl: /project/cards/Adja%20and%20Danica.jpg
     width: 2275
     height: 1440
     cropWidth: 1793
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Jan Wessbecher
-  autoCollectorNumber: RZ02
+  autoCollectorNumber: RZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Adja and Danica
 imageExports:
   front: Adja and Danica - c9b51235.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 1GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Path%20to%20Paradise.jpg
     width: 966
     height: 1199
     cropWidth: 966
@@ -74,6 +73,5 @@ tags:
   - hand-neutral
   - bounce
   - bounce-creature
-baseName: Path to Paradise
 imageExports:
   front: Path to Paradise - 99578e1a.jpg

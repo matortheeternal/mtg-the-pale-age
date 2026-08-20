@@ -16,7 +16,6 @@ front:
     symbols: RRWW
   artImage:
     __type: image
-    imageUrl: /project/cards/Mobile%20Thunder.jpg
     width: 1890
     height: 2643
     cropWidth: 1890
@@ -71,6 +70,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: The Thunderstrider
 imageExports:
   front: The Thunderstrider - 55dd770d.jpg

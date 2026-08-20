@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Ferocious%20Leap.jpg
     width: 1200
     height: 1809
     cropWidth: 1200
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Kael Ngu
-  autoCollectorNumber: CR13
+  autoCollectorNumber: CR15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Ferocious Leap
 imageExports:
   front: Ferocious Leap - bd7cfb74.jpg

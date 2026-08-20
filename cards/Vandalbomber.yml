@@ -16,7 +16,6 @@ front:
     symbols: 2RW
   artImage:
     __type: image
-    imageUrl: /project/cards/Gunship.jpg
     width: 1920
     height: 1505
     cropWidth: 1671
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: domjaro
-  autoCollectorNumber: UZ27
+  autoCollectorNumber: UZ25
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ front:
     avoidCoveringDevoid: true
 notes: vehicle that crews vehicles?
 tags: []
-baseName: Vandalbomber
 imageExports:
   front: Vandalbomber - 8a893515.jpg

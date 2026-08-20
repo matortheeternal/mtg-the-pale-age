@@ -16,7 +16,6 @@ front:
     symbols: 4RW
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Gang's%20All%20Here.jpg
     width: 720
     height: 900
     cropWidth: 720
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Kim Jung Gi
-  autoCollectorNumber: CZ20
+  autoCollectorNumber: CZ19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: The Gang's All Here
 imageExports:
   front: The Gang's All Here - d8b35aa7.jpg

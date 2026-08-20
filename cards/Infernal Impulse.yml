@@ -16,7 +16,6 @@ front:
     symbols: 3BR
   artImage:
     __type: image
-    imageUrl: /project/cards/Infernal%20Impulse.jpg
     width: 1500
     height: 2078
     cropWidth: 1500
@@ -74,6 +73,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Infernal Impulse
 imageExports:
   front: Infernal Impulse - 6fc76127.jpg

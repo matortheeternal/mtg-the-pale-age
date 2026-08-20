@@ -12,7 +12,6 @@ front:
     symbols: 4W
   artImage:
     __type: image
-    imageUrl: /project/cards/Benevolence.jpg
     width: 3840
     height: 1733
     cropWidth: 1830
@@ -72,6 +71,5 @@ tags:
   - keyword-counter
   - flying-counter
   - evasion
-baseName: Benevolence
 imageExports:
   front: Benevolence - 254365bf.jpg

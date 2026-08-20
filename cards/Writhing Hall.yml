@@ -12,7 +12,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Writhing%20Halls.jpg
     width: 1274
     height: 1372
     cropWidth: 1274
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yharnam
-  autoCollectorNumber: RL05
+  autoCollectorNumber: RL06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Writhing Hall
 imageExports:
   front: Writhing Hall - c78a86e5.jpg

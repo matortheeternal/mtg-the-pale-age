@@ -12,7 +12,6 @@ front:
     symbols: 2BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Final%20Hour.jpg
     width: 800
     height: 800
     cropWidth: 800
@@ -28,7 +27,7 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Beau Brynes
-  autoCollectorNumber: UB17
+  autoCollectorNumber: UB18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - sacrifice-outlet
   - sacrifice-outlet-token
   - sacrifice-outlet-creature
-baseName: Final Hour
 imageExports:
   front: Final Hour - 34ce7068.jpg

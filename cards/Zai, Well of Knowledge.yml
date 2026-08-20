@@ -16,7 +16,6 @@ front:
     symbols: 5WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Zai%2C%20Well%20of%20Knowledge.jpg
     width: 1006
     height: 1258
     cropWidth: 1006
@@ -72,6 +71,5 @@ tags:
   - exile-matters
   - draw
   - triggered-ability
-baseName: Zai, Well of Knowledge
 imageExports:
   front: Zai, Well of Knowledge - 38c70c27.jpg

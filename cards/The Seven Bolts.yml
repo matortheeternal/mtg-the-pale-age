@@ -12,7 +12,6 @@ front:
     symbols: 4RRR
   artImage:
     __type: image
-    imageUrl: /project/cards/The%20Seven%20Bolts.jpg
     width: 1920
     height: 1421
     cropWidth: 1675
@@ -69,6 +68,5 @@ tags:
   - spot-removal
   - mana-rock
   - restricted-mana
-baseName: The Seven Bolts
 imageExports:
   front: The Seven Bolts - 0cc8cac2.jpg

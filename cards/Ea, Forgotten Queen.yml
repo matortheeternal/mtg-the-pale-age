@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Placeholder%20Green%20Creature.jpg
     width: 2363
     height: 3150
     cropWidth: 2363
@@ -66,6 +65,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Ea, Forgotten Queen
 imageExports:
   front: Ea, Forgotten Queen - 274f9afa.jpg

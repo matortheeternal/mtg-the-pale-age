@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Take%20Root.jpg
     width: 934
     height: 800
     cropWidth: 934
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: David Alvarez
-  autoCollectorNumber: CG18
+  autoCollectorNumber: CG19
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ tags:
   - removal-enchantment
   - gives-vigilance
   - triggered-ability
-baseName: Take Root
 imageExports:
   front: Take Root - 238b6803.jpg

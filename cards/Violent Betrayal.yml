@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Violent%20Betrayal.jpg
     width: 1920
     height: 1482
     cropWidth: 1920
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Isaac Ornelas Gama
-  autoCollectorNumber: CR16
+  autoCollectorNumber: CR17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - burn-creature
   - one-sided-fight
   - power-matters
-baseName: Violent Betrayal
 imageExports:
   front: Violent Betrayal - ec93d4db.jpg

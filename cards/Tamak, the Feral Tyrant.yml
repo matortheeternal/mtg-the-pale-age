@@ -12,7 +12,6 @@ front:
     symbols: 3GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Tamak%2C%20the%20Feral%20Tyrant.jpg
     width: 1080
     height: 1350
     cropWidth: 1080
@@ -73,6 +72,5 @@ tags:
   - sacrifice-outlet-creature
   - triggered-ability
   - gains-pp-counters
-baseName: Tamak, the Feral Tyrant
 imageExports:
   front: Tamak, the Feral Tyrant - 0066b522.jpg

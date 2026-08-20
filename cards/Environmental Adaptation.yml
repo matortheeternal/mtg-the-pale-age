@@ -16,7 +16,6 @@ front:
     symbols: GU
   artImage:
     __type: image
-    imageUrl: /project/cards/Placeholder%20Simic%20Spell.jpg
     width: 1440
     height: 1799
     cropWidth: 1355
@@ -39,9 +38,9 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: "Put two different counters on target creature from among: flying,
-    curious, trample, and +1/+1. (Whenever a creature with a curious deals
-    damage to an opponent, you may draw a card.)"
+  rulesText: "Put two counters on target creature from among: reach, curious,
+    trample, and +1/+1. (Whenever a creature with curious deals damage to an
+    opponent, you may draw a card.)"
   flavorText: "The man is menagerie: leaves, scales, and a peculiar eccentricity."
   frame: auto
   artSize: auto
@@ -62,8 +61,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Environmental Adaptation
 imageExports:
   front: Environmental Adaptation - b38b24e0.jpg

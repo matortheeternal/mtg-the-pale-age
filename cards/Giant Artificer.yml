@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Giant%20Artificer.jpg
     width: 1920
     height: 1397
     cropWidth: 1816
@@ -24,7 +23,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: elysieee
@@ -34,14 +33,11 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
+  faceSymbol: null
   rulesText: When ~ enters, create a tapped 2/2 colorless Construct artifact
     creature token with flying.
   flavorText: His workshop was a warehouse within which there was an entire town,
     carefully built and maintained. It seems even giants can have hobbies.
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +53,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - multiple-bodies
@@ -64,6 +65,5 @@ tags:
   - enters-in-company
   - triggered-ability
   - evasion
-baseName: Giant Artificer
 imageExports:
   front: Giant Artificer - b7862185.jpg

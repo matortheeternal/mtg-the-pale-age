@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Behold%20with%20Awe.jpg
     width: 1425
     height: 1425
     cropWidth: 1425
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Geirrod van Dyke
-  autoCollectorNumber: UG16
+  autoCollectorNumber: UG17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,6 +70,5 @@ tags:
   - peek-library
   - prevent-attack
   - prevent-blocker
-baseName: Behold with Awe
 imageExports:
   front: Behold with Awe - 3c8ac15b.jpg

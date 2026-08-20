@@ -12,7 +12,6 @@ front:
     symbols: 1BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Bury%20the%20Masses.jpg
     width: 750
     height: 750
     cropWidth: 600
@@ -66,6 +65,5 @@ tags:
   - removal-sacrifice
   - multi-removal
   - synergy-sacrifice
-baseName: Bury the Masses
 imageExports:
   front: Bury the Masses - 13d08a99.jpg

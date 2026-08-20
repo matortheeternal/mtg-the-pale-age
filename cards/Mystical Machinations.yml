@@ -12,7 +12,6 @@ front:
     symbols: 2UUUU
   artImage:
     __type: image
-    imageUrl: /project/cards/Magnificent%20Machinations.jpg
     width: 750
     height: 750
     cropWidth: 750
@@ -67,6 +66,5 @@ notes: ""
 tags:
   - theft
   - cards-in-graveyard-matter
-baseName: Mystical Machinations
 imageExports:
   front: Mystical Machinations - 0cbb4e96.jpg

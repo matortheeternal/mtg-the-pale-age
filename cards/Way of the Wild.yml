@@ -16,7 +16,6 @@ front:
     symbols: 1GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Way%20of%20the%20Wild.jpg
     width: 1200
     height: 1500
     cropWidth: 1200
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Sophie Whittall
-  autoCollectorNumber: UZ17
+  autoCollectorNumber: UZ22
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Way of the Wild
 imageExports:
   front: Way of the Wild - d5c45c7e.jpg

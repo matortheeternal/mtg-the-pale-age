@@ -16,7 +16,6 @@ front:
     symbols: 7BW
   artImage:
     __type: image
-    imageUrl: /project/cards/Nyxie%2C%20the%20Nurturer.jpg
     width: 2200
     height: 1513
     cropWidth: 2200
@@ -70,6 +69,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Nyxie, the Nurturer
 imageExports:
   front: Nyxie, the Nurturer - 0ff17166.jpg

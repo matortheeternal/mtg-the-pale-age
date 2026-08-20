@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Adept%20Falconer.jpg
     width: 748
     height: 993
     cropWidth: 748
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Marta Sokołowska
-  autoCollectorNumber: CU03
+  autoCollectorNumber: CU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ tags:
   - multiple-bodies
   - mill
   - mill-self
-baseName: Adept Falconer
 imageExports:
   front: Adept Falconer - 7b5de394.jpg

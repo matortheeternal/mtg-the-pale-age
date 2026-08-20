@@ -12,7 +12,6 @@ front:
     symbols: 2RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Reality-Warping%20Blow.jpg
     width: 1920
     height: 1218
     cropWidth: 1726
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UR15
+  autoCollectorNumber: UR16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,6 +71,5 @@ tags:
   - power-doubler
   - power-matters
   - removal-creature
-baseName: Reality-Warping Blow
 imageExports:
   front: Reality-Warping Blow - 505c112b.jpg

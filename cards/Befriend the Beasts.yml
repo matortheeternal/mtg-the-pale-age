@@ -16,7 +16,6 @@ front:
     symbols: 2GW
   artImage:
     __type: image
-    imageUrl: /project/cards/Befriend%20the%20Beasts.jpg
     width: 800
     height: 1018
     cropWidth: 800
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lindsey Martin Gardner
-  autoCollectorNumber: CZ16
+  autoCollectorNumber: CZ14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,6 +69,5 @@ notes: |-
   protection
   buffs
 tags: []
-baseName: Befriend the Beasts
 imageExports:
   front: Befriend the Beasts - 5dafa26f.jpg

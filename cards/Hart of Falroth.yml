@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Spirit%20of%20the%20Forest.jpg
     width: 900
     height: 1250
     cropWidth: 777
@@ -63,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Hart of Falroth
 imageExports:
   front: Hart of Falroth - 91440481.jpg

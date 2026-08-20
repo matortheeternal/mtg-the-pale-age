@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Conjure%20Chroma.jpg
     width: 1920
     height: 2238
     cropWidth: 1920
@@ -67,6 +66,5 @@ tags:
   - discard-outlet
   - rummage
   - restricted-mana
-baseName: Conjure Ichor
 imageExports:
   front: Conjure Ichor - ed466f5f.jpg

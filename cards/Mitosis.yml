@@ -12,7 +12,6 @@ front:
     symbols: 2GGG
   artImage:
     __type: image
-    imageUrl: /project/cards/Mitosis.jpg
     width: 800
     height: 1169
     cropWidth: 800
@@ -67,6 +66,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Mitosis
 imageExports:
   front: Mitosis - d4905e25.jpg

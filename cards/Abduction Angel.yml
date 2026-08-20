@@ -12,7 +12,6 @@ front:
     symbols: 6W
   artImage:
     __type: image
-    imageUrl: /project/cards/Abduction%20Angel.jpg
     width: 1000
     height: 1200
     cropWidth: 911
@@ -72,6 +71,5 @@ tags:
   - attack-trigger
   - flicker-slow
   - evasion
-baseName: Abduction Angel
 imageExports:
   front: Abduction Angel - 69bb3e1b.jpg

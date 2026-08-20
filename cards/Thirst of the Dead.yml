@@ -12,7 +12,6 @@ front:
     symbols: 4B
   artImage:
     __type: image
-    imageUrl: /project/cards/Return%20from%20Darkness.jpg
     width: 1199
     height: 1707
     cropWidth: 1199
@@ -68,6 +67,5 @@ tags:
   - recursion
   - gives-lifelink
   - keyword-counter
-baseName: Thirst of the Dead
 imageExports:
   front: Thirst of the Dead - 110abb34.jpg

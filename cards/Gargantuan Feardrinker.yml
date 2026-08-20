@@ -12,7 +12,6 @@ front:
     symbols: 5BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Gargantuan%20Feardrinker.jpg
     width: 550
     height: 778
     cropWidth: 550
@@ -65,6 +64,5 @@ tags:
   - life-loss-matters
   - repeatable-pp-counters
   - triggered-ability
-baseName: Gargantuan Feardrinker
 imageExports:
   front: Gargantuan Feardrinker - 8f1347ea.jpg

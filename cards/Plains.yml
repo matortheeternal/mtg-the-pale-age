@@ -10,7 +10,6 @@ front:
   name: Plains
   artImage:
     __type: image
-    imageUrl: /project/cards/Plains.jpg
     width: 1920
     height: 1405
     cropWidth: 648
@@ -19,23 +18,19 @@ front:
     yOffset: 486
   superType: Basic Land
   subType: Plains
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: A.Shipwright
-  autoCollectorNumber: B05
+  autoCollectorNumber: B02
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,13 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Plains
 imageExports:
-  front: Plains - d036d917.jpg
+  front: Plains - e8d164bd.jpg
+dirty: true

@@ -12,7 +12,6 @@ front:
     symbols: 4B
   artImage:
     __type: image
-    imageUrl: /project/cards/UB08%20Placeholder.jpg
     width: 750
     height: 1007
     cropWidth: 750
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Boris Groh
-  autoCollectorNumber: UB08
+  autoCollectorNumber: UB09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ tags:
   - discard-outlet
   - triggered-ability
   - virtual-french-vanilla
-baseName: Uninvited Hexakosipede
 imageExports:
   front: Uninvited Hexakosipede - 03d50ef7.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 3UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Placeholder%20Blue%20Instant.jpg
     width: 2328
     height: 1830
     cropWidth: 2328
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Yuriy Mazurkin
-  autoCollectorNumber: RU10
+  autoCollectorNumber: RU09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ tags:
   - bounce-creature
   - mill
   - mill-each
-baseName: Haunted Retreat
 imageExports:
   front: Haunted Retreat - d8c280b8.jpg

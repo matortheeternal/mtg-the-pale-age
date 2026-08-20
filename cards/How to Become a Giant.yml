@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/How%20to%20Become%20a%20Giant.jpg
     width: 1080
     height: 1440
     cropWidth: 486
@@ -26,7 +25,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: dirtyiron18
-  autoCollectorNumber: RR06
+  autoCollectorNumber: RR07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,6 +59,5 @@ tags:
   - burn-creature
   - discard-outlet
   - sacrifice-outlet
-baseName: How to Become a Giant
 imageExports:
   front: How to Become a Giant - 95aba0f0.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 1UB
   artImage:
     __type: image
-    imageUrl: /project/cards/Fluttergoyf.jpg
     width: 800
     height: 800
     cropWidth: 800
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Karl Trewhela
-  autoCollectorNumber: UZ03
+  autoCollectorNumber: UZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,6 +68,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Fluttergoyf
 imageExports:
   front: Fluttergoyf - 4b58b209.jpg

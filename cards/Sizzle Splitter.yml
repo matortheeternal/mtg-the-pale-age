@@ -16,7 +16,6 @@ front:
     symbols: 2UR
   artImage:
     __type: image
-    imageUrl: /project/cards/Brine%20Muncher-2.jpg
     width: 1920
     height: 2022
     cropWidth: 1248
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: A. Shipwright
-  autoCollectorNumber: UZ06
+  autoCollectorNumber: UZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -76,6 +75,5 @@ tags:
   - gains-flying
   - gains-haste
   - firebreathing
-baseName: Sizzle Splitter
 imageExports:
   front: Sizzle Splitter - fe4cb588.jpg

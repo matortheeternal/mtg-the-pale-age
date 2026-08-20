@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Consistent%20Burn.jpg
     width: 1920
     height: 1555
     cropWidth: 1748
@@ -69,6 +68,5 @@ tags:
   - pinger
   - removal-creature
   - removal-burn
-baseName: Consistent Burn
 imageExports:
   front: Consistent Burn - 47f6809a.jpg

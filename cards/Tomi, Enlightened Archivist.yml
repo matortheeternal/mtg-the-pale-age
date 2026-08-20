@@ -16,7 +16,6 @@ front:
     symbols: WU
   artImage:
     __type: image
-    imageUrl: /project/cards/Tomi%2C%20Enlightened%20Archivist.jpg
     width: 1700
     height: 1293
     cropWidth: 1700
@@ -32,7 +31,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Eldar Zakirov
-  autoCollectorNumber: RZ01
+  autoCollectorNumber: RZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,6 +67,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Tomi, Enlightened Archivist
 imageExports:
   front: Tomi, Enlightened Archivist - 0e51fcd9.jpg

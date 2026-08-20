@@ -8,7 +8,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Ugr%2C%20Northern%20Sanctum.jpg
     width: 3000
     height: 2400
     cropWidth: 3000
@@ -61,6 +60,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Ugr, Northern Sanctum
 imageExports:
   front: Ugr, Northern Sanctum - 7855ebed.jpg

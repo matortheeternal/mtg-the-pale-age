@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Somber%20Philosopher.jpg
     width: 736
     height: 977
     cropWidth: 736
@@ -71,6 +70,5 @@ tags:
   - mana-sink
   - sacrifice-self
   - removal-creature
-baseName: Somber Philosopher
 imageExports:
   front: Somber Philosopher - f05594bb.jpg

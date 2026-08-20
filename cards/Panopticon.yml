@@ -8,7 +8,6 @@ front:
     symbols: "3"
   artImage:
     __type: image
-    imageUrl: /project/cards/Panopticon.jpg
     width: 479
     height: 750
     cropWidth: 479
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Paul Callé
-  autoCollectorNumber: RA05
+  autoCollectorNumber: RA02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,6 +59,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Panopticon
 imageExports:
   front: Panopticon - 6bb71be3.jpg

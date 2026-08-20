@@ -10,7 +10,6 @@ front:
   name: Copy
   artImage:
     __type: image
-    imageUrl: /project/cards/Copy.jpg
     width: 800
     height: 1018
     cropWidth: 699
@@ -19,23 +18,19 @@ front:
     yOffset: 58
   superType: Token Creature
   subType: Shapeshifter
+  rulesText: Changeling (This token has all creature types.)
+  flavorText: null
   power: "*"
   toughness: "*"
   showPT: true
-  rarity: common
+  rarity: token
   illustrator: ""
-  autoCollectorNumber: T10
+  autoCollectorNumber: T13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: Changeling (This token has all creature types.)
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Copy
 imageExports:
   front: Copy - 1cf31de0.jpg

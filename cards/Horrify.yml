@@ -12,7 +12,6 @@ front:
     symbols: 1BBB
   artImage:
     __type: image
-    imageUrl: /project/cards/Horrify.jpg
     width: 1920
     height: 1745
     cropWidth: 1920
@@ -71,6 +70,5 @@ tags:
   - theft
   - theft-cast
   - gives-castable-from-exile
-baseName: Horrify
 imageExports:
   front: Horrify - 5d5638d7.jpg

@@ -8,7 +8,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Sword-Shaped%20City.jpg
     width: 1920
     height: 2327
     cropWidth: 1920
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RL03
+  autoCollectorNumber: RL02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Greatsword City
 imageExports:
   front: Greatsword City - 13ba6fd8.jpg

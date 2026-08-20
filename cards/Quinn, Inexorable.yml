@@ -12,7 +12,6 @@ front:
     symbols: 2WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Quinn%2C%20Inexorable.jpg
     width: 1500
     height: 1907
     cropWidth: 1500
@@ -75,6 +74,5 @@ tags:
   - removal-enchantment
   - removal-artifact
   - spot-removal
-baseName: Quinn, Inexorable
 imageExports:
   front: Quinn, Inexorable - 9278414d.jpg

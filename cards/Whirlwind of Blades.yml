@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Whirlwind%20of%20Blades.jpg
     width: 1920
     height: 1999
     cropWidth: 1031
@@ -67,6 +66,5 @@ tags:
   - gives-trample
   - synergy-equipment
   - combat-trick
-baseName: Whirlwind of Blades
 imageExports:
   front: Whirlwind of Blades - b449047f.jpg

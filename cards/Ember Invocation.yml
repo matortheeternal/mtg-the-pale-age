@@ -16,7 +16,6 @@ front:
     symbols: RW
   artImage:
     __type: image
-    imageUrl: /project/cards/Ember%20Invocation.jpg
     width: 1920
     height: 1855
     cropWidth: 1420
@@ -32,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: A. Shipwright
-  autoCollectorNumber: RZ15
+  autoCollectorNumber: RZ17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Ember Invocation
 imageExports:
   front: Ember Invocation - 2e13d201.jpg

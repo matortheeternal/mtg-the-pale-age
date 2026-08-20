@@ -12,7 +12,6 @@ front:
     symbols: 1BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Ghost%20Blade.jpg
     width: 2718
     height: 1883
     cropWidth: 2668
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB16
+  autoCollectorNumber: UB17
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,6 +62,5 @@ tags:
   - removal
   - removal-creature
   - synergy-sacrifice
-baseName: Ghost Blade
 imageExports:
   front: Ghost Blade - 44a6834a.jpg

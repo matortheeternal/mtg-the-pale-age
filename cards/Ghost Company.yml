@@ -12,7 +12,6 @@ front:
     symbols: 4W
   artImage:
     __type: image
-    imageUrl: /project/cards/Dusk%20Arcus.jpg
     width: 1024
     height: 1560
     cropWidth: 1024
@@ -73,7 +72,6 @@ tags:
   - removal-burn
   - removal-creature
   - repeatable-removal
-baseName: Ghost Company
 oldBaseName: Greatbow Platoon
 imageExports:
   front: Ghost Company - a9fd5c4c.jpg

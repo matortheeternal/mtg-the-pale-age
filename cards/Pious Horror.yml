@@ -12,7 +12,6 @@ front:
     symbols: 3W
   artImage:
     __type: image
-    imageUrl: /project/cards/Pious%20Horror.jpg
     width: 1920
     height: 2485
     cropWidth: 1691
@@ -68,6 +67,5 @@ tags:
   - repeatable-draw
   - activated-ability
   - mana-sink
-baseName: Pious Horror
 imageExports:
   front: Pious Horror - c6c11191.jpg

@@ -12,7 +12,6 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: /project/cards/Childhood%20Tree.jpg
     width: 2400
     height: 1339
     cropWidth: 2400
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Wojciech Piwowarczyk
-  autoCollectorNumber: RL06
+  autoCollectorNumber: RL07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Childhood Tree
 imageExports:
   front: Childhood Tree - d4ec257b.jpg

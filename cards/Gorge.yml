@@ -12,7 +12,6 @@ front:
     symbols: 3RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Gorge.jpg
     width: 800
     height: 1128
     cropWidth: 800
@@ -72,6 +71,5 @@ tags:
   - removal-creature
   - gives-pp-counters
   - death-trigger
-baseName: Gorge
 imageExports:
   front: Gorge - c9778634.jpg

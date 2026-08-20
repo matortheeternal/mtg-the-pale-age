@@ -12,7 +12,6 @@ front:
     symbols: X1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Spell%20Knot.jpg
     width: 1920
     height: 2089
     cropWidth: 1402
@@ -71,6 +70,5 @@ tags:
   - synergy-artifact
   - counterspell
   - counterspell-soft
-baseName: Spell Knot
 imageExports:
   front: Spell Knot - 8db86890.jpg

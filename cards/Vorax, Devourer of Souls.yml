@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Crovax%2C%20Devourer%20of%20Souls.jpg
     width: 2872
     height: 3431
     cropWidth: 2872
@@ -71,6 +70,5 @@ tags:
   - sacrifice-outlet-creature
   - peek-library
   - mill
-baseName: Vorax, Devourer of Souls
 imageExports:
   front: Vorax, Devourer of Souls - 3b480bb9.jpg

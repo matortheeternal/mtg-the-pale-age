@@ -12,7 +12,6 @@ front:
     symbols: 2UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Waterspout.jpg
     width: 3698
     height: 2080
     cropWidth: 2948
@@ -69,6 +68,5 @@ tags:
   - removal-artifact
   - removal-creature
   - removal-enchantment
-baseName: Waterspout
 imageExports:
   front: Waterspout - 987d51ed.jpg

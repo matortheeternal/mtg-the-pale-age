@@ -16,7 +16,6 @@ front:
     symbols: 3BR
   artImage:
     __type: image
-    imageUrl: /project/cards/Marrow%20Colossus.jpg
     width: 600
     height: 776
     cropWidth: 600
@@ -74,6 +73,5 @@ tags:
   - chaper-than-mv
   - life-loss-matters
   - french-vanilla
-baseName: Marrow Colossus
 imageExports:
   front: Marrow Colossus - b0fe3f4e.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Galleon.jpg
     width: 3840
     height: 1733
     cropWidth: 1567
@@ -36,7 +35,7 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    {1}{U}{U}{U}: Draw a card, then discard a card.
+    {1}{U}{U}: Draw a card, then discard a card.
 
 
     Crew 2 (Tap any number of creatures you control with total power 2 or more:
@@ -61,6 +60,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - activated-ability
@@ -70,6 +70,5 @@ tags:
   - loot
   - repeatable-loot
   - repeatable-draw
-baseName: Galleon
 imageExports:
   front: Galleon - 95f330d3.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 4RR
   artImage:
     __type: image
-    imageUrl: /project/cards/Endless%20Slaughter.jpg
     width: 1920
     height: 2169
     cropWidth: 1699
@@ -71,6 +70,5 @@ tags:
   - removal-fight
   - repeatable-removal
   - gives-haste
-baseName: Call to Slaughter
 imageExports:
   front: Call to Slaughter - d92829c3.jpg

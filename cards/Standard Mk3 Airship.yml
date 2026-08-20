@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Standard%20Mk3%20Airship.jpg
     width: 1920
     height: 1311
     cropWidth: 1920
@@ -70,6 +69,5 @@ tags:
   - repeatable-creature-tokens
   - mana-sink
   - bottomless-mana-sink
-baseName: Standard Mk3 Airship
 imageExports:
   front: Standard Mk3 Airship - 32293991.jpg

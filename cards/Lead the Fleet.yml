@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/Lead%20the%20Fleet.jpg
     width: 1165
     height: 1260
     cropWidth: 1075
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Grandville
-  autoCollectorNumber: UR16
+  autoCollectorNumber: UR15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,6 +61,5 @@ front:
     avoidCoveringDevoid: true
 notes: ""
 tags: []
-baseName: Lead the Fleet
 imageExports:
   front: Lead the Fleet - 41684d03.jpg

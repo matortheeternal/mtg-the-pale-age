@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Sphinx%20of%20the%20Wall.jpg
     width: 1561
     height: 1200
     cropWidth: 1561
@@ -68,6 +67,5 @@ tags:
   - sacrifice-outlet-artifact
   - sacrifice-outlet
   - evasion
-baseName: Sphinx of the Wall
 imageExports:
   front: Sphinx of the Wall - b2007d2b.jpg

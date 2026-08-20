@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Sea%20Witch.jpg
     width: 736
     height: 974
     cropWidth: 736
@@ -65,6 +64,5 @@ tags:
   - triggered-ability
   - removal-bounce
   - removal-creature
-baseName: Sea Witch
 imageExports:
   front: Sea Witch - ee3f9003.jpg

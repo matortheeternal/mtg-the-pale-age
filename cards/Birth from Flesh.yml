@@ -16,7 +16,6 @@ front:
     symbols: 1BG
   artImage:
     __type: image
-    imageUrl: /project/cards/Birth%20from%20Flesh.jpg
     width: 509
     height: 715
     cropWidth: 509
@@ -72,6 +71,5 @@ tags:
   - sacrifice-outlet
   - sacrifice-outlet-creature
   - multiple-bodies
-baseName: Birth from Flesh
 imageExports:
   front: Birth from Flesh - 81d06d6b.jpg

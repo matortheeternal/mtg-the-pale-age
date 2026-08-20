@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Veteran%20Chauffeur.jpg
     width: 3500
     height: 3500
     cropWidth: 3500
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Richard Anderson
-  autoCollectorNumber: UW05
+  autoCollectorNumber: UW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,6 +66,5 @@ tags:
   - sacrifice-self
   - gives-indestructible
   - activated-ability
-baseName: Veteran Chauffeur
 imageExports:
   front: Veteran Chauffeur - c530fcf5.jpg

@@ -16,7 +16,6 @@ front:
     symbols: 6GGRR
   artImage:
     __type: image
-    imageUrl: /project/cards/Awakened%20Continent.jpg
     width: 1920
     height: 2024
     cropWidth: 1643
@@ -71,6 +70,5 @@ tags:
   - sacrifice-outlet
   - sacrifice-outlet-land
   - cheaper-than-mv
-baseName: Awakened Continent
 imageExports:
   front: Awakened Continent - b4882959.jpg

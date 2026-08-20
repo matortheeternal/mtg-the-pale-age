@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Heavy%20Crawler.jpg
     width: 1440
     height: 1125
     cropWidth: 1440
@@ -74,6 +73,5 @@ tags:
   - repeatable-removal
   - removal
   - removal-creature
-baseName: Heavy Crawler
 imageExports:
   front: Heavy Crawler - d212cf9d.jpg

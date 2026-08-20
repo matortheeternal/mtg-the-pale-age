@@ -12,7 +12,6 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Lunar%20Manta.jpg
     width: 3840
     height: 5431
     cropWidth: 3840
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Sevan Selvadjian
-  autoCollectorNumber: UU02
+  autoCollectorNumber: UU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -75,6 +74,5 @@ tags:
   - move-counters
   - gains-pp-counters
   - evasion
-baseName: Lunar Manta
 imageExports:
   front: Lunar Manta - 052f316c.jpg

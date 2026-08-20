@@ -10,7 +10,6 @@ front:
   name: Insect
   artImage:
     __type: image
-    imageUrl: /project/cards/Insect.jpg
     width: 1440
     height: 1080
     cropWidth: 786
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Token Creature
   subType: Insect
+  rulesText: ""
+  flavorText: null
   power: "1"
   toughness: "1"
   showPT: true
-  rarity: mythic
+  rarity: token
   illustrator: Reuben Horn
-  autoCollectorNumber: T09
+  autoCollectorNumber: T07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Insect
 imageExports:
   front: Insect - cc9d9b65.jpg

@@ -10,7 +10,6 @@ front:
   name: Island
   artImage:
     __type: image
-    imageUrl: /project/cards/Island.jpg
     width: 1440
     height: 1440
     cropWidth: 1049
@@ -19,23 +18,19 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Island
+  rulesText: ""
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: Abhinav Kumar
-  autoCollectorNumber: B03
+  autoCollectorNumber: B01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: ""
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -45,8 +40,13 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Island
 imageExports:
-  front: Island - d524250a.jpg
+  front: Island - 203f7f01.jpg
+dirty: true

@@ -12,7 +12,6 @@ front:
     symbols: 3U
   artImage:
     __type: image
-    imageUrl: /project/cards/Mana%20Void.jpg
     width: 960
     height: 1280
     cropWidth: 919
@@ -70,6 +69,5 @@ tags:
   - mana-rock
   - restricted-mana
   - counterspell-ability
-baseName: Mana Void
 imageExports:
   front: Mana Void - 0a6d1145.jpg

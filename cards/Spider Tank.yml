@@ -12,7 +12,6 @@ front:
     symbols: 4R
   artImage:
     __type: image
-    imageUrl: /project/cards/Spider%20Tank.jpg
     width: 500
     height: 355
     cropWidth: 500
@@ -74,6 +73,5 @@ tags:
   - burn
   - burn-creature
   - virtual-french-vanilla
-baseName: Spider Tank
 imageExports:
   front: Spider Tank - 8dcf83a3.jpg

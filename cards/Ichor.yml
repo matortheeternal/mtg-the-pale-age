@@ -5,7 +5,6 @@ front:
   name: Ichor
   artImage:
     __type: image
-    imageUrl: /project/cards/Pigment.jpg
     width: 600
     height: 809
     cropWidth: 589
@@ -14,23 +13,19 @@ front:
     yOffset: 0
   superType: Token Artifact
   subType: Ichor
+  rulesText: "{T}: Add one mana of any color. Spend this mana only to activate abilities."
+  flavorText: null
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: token
   illustrator: Nico Delort
-  autoCollectorNumber: T14
+  autoCollectorNumber: T17
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: "{T}: Add one mana of any color. Spend this mana only to activate abilities."
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: normal
   crownStyle: auto
   nyxStyle: auto
@@ -40,8 +35,12 @@ front:
   hybridBlendStyle: grey
   otherFrameOptions:
     tall: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Ichor
 imageExports:
   front: Ichor - 4dbee9d6.jpg

@@ -12,7 +12,6 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
     width: 1920
     height: 1716
     cropWidth: 1859
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Agustin M. Talaveron
-  autoCollectorNumber: CB13
+  autoCollectorNumber: CB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,6 +64,5 @@ tags:
   - gives-pp-counters
   - keyword-counter
   - enlarge
-baseName: Menacing Hunger
 imageExports:
   front: Menacing Hunger - e0f1fd43.jpg

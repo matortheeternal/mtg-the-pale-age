@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Scholarly%20Apparition.jpg
     width: 2362
     height: 1181
     cropWidth: 1674
@@ -66,6 +65,5 @@ tags:
   - gives-castable-from-exile
   - recursion
   - graveyard-fuel
-baseName: Scholarly Apparition
 imageExports:
   front: Scholarly Apparition - 76970e8f.jpg

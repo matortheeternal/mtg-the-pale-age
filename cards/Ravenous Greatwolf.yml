@@ -12,7 +12,6 @@ front:
     symbols: 5G
   artImage:
     __type: image
-    imageUrl: /project/cards/Prowling%20Greatwolf.jpg
     width: 540
     height: 721
     cropWidth: 540
@@ -73,6 +72,5 @@ tags:
   - removal-fight
   - removal
   - removal-creature
-baseName: Ravenous Greatwolf
 imageExports:
   front: Ravenous Greatwolf - cb85e673.jpg
