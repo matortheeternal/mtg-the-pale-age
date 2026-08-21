@@ -55,6 +55,7 @@ export:
     bleed: "0"
   TTSExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/images
+    ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/tts
   WebExporter:
     Test: ""
     test: ""
