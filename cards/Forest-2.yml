@@ -25,7 +25,7 @@ front:
   showPT: ""
   rarity: token
   illustrator: Joel Pernas
-  autoCollectorNumber: CC01
+  autoCollectorNumber: T15
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -47,3 +47,5 @@ front:
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Forest-2 - 65ad90f9.jpg

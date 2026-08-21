@@ -20,7 +20,7 @@ front:
   showPT: false
   rarity: token
   illustrator: pawlovearts
-  autoCollectorNumber: T15
+  autoCollectorNumber: T16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -43,4 +43,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Morsel - f3fe5c07.jpg
+  front: Morsel - f90d8966.jpg

@@ -43,7 +43,7 @@ front:
   flavorText: null
   rarity: ad
   illustrator: ""
-  autoCollectorNumber: AC01
+  autoCollectorNumber: A01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -56,3 +56,5 @@ front:
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: TPA Draft Archetypes - 8ecb0fab.jpg

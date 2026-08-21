@@ -23,7 +23,7 @@ front:
   showPT: ""
   rarity: special
   illustrator: Jeff Sheridan
-  autoCollectorNumber: SA01
+  autoCollectorNumber: S01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +58,4 @@ tags:
   - ritual
   - synergy-colorless
 imageExports:
-  front: Ghost Bloom - 0061a290.jpg
+  front: Ghost Bloom - 5391bd1b.jpg
