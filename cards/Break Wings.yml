@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Break Wings
   manaCost:
     __type: ManaCost
@@ -20,6 +21,14 @@ front:
     yOffset: 77
   superType: Instant
   subType: ""
+  rulesText: >-
+    Destroy up to one target creature with flying. Create two Morsel tokens.
+    (They are artifacts with "When you sacrifice this token, gain 1 life.")
+
+
+    Cycling {G} ({G}, Discard this card: Draw a card.)
+  flavorText: It is only natural for a bird that can no longer fly to meet its end
+    in the jaws of a hungry creature.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,21 +36,12 @@ front:
   showPT: ""
   rarity: common
   illustrator: Lane Brown
-  autoCollectorNumber: CG18
+  autoCollectorNumber: CG17
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Destroy target creature with flying. Create a Morsel token. (It's an
-    artifact with "When you sacrifice this token, gain 1 life.")
-
-
-    Cycling {G} ({G}, Discard this card: Draw a card.)
-  flavorText: It is only natural for a bird that can no longer fly to meet its end
-    in the jaws of a hungry creature.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +61,7 @@ front:
   chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal-creature
@@ -70,4 +71,4 @@ tags:
   - hand-neutral
   - draw
 imageExports:
-  front: Break Wings - 1d0454d6.jpg
+  front: Break Wings - 7ddeeb34.jpg

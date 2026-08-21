@@ -10,6 +10,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Pluck
   manaCost:
     __type: ManaCost
@@ -24,6 +25,13 @@ front:
     yOffset: 0
   superType: Sorcery
   subType: ""
+  rulesText: Target player sacrifices a nontoken creature. Create a tapped Forest
+    land token.
+  flavorText: >-
+    "Your friend will make for a fine harvest. All I need do is pluck the fruit
+    from his brow."
+
+    —Deepwood witch
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -37,13 +45,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Target player sacrifices a creature. Create a tapped Forest land token.
-  flavorText: >-
-    "Your friend will make for a fine harvest. All I need do is pluck the fruit
-    from his brow."
-
-    —Deepwood witch
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +64,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - sacrifice-outlet
@@ -73,4 +75,4 @@ tags:
   - removal-sacrifice
   - removal-creature
 imageExports:
-  front: Pluck - 6248fbbb.jpg
+  front: Pluck - ddbaa3f1.jpg

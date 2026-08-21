@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Dan Hillier
-  autoCollectorNumber: CG12
+  autoCollectorNumber: CG13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -72,4 +72,4 @@ tags:
   - gives-tap-ability
   - mana-producer
 imageExports:
-  front: Verdant Gift - 5fb6e3cb.jpg
+  front: Verdant Gift - a2d103e8.jpg

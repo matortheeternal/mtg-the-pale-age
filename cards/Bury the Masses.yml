@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Bury the Masses
   manaCost:
     __type: ManaCost
-    symbols: 1BB
+    symbols: BB
   artImage:
     __type: image
     width: 750
@@ -20,6 +21,13 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Until end of turn, you may sacrifice creatures your opponents control as
+    though you controlled them.
+  flavorText: We have gathered here today for your funeral. Please enjoy the proceedings.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,17 +41,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    Until end of turn, you may sacrifice creatures your opponents control as
-    though you controlled them.
-  flavorText: We have gathered here today for your funeral. Please enjoy the proceedings.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -59,6 +56,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal
@@ -66,4 +68,4 @@ tags:
   - multi-removal
   - synergy-sacrifice
 imageExports:
-  front: Bury the Masses - 13d08a99.jpg
+  front: Bury the Masses - 5bfc3cc6.jpg

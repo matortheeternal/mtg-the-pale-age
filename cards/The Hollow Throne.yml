@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: The Hollow Throne
   manaCost:
     __type: ManaCost
@@ -18,8 +19,12 @@ front:
     cropHeight: 1355
     xOffset: 0
     yOffset: 649
-  superType: Artifact
+  superType: Legendary Artifact
   subType: ""
+  rulesText: Whenever a player casts a colorless spell or sacrifices a token, that
+    player mills a card, then draws a card. This ability triggers only once each
+    turn.
+  flavorText: “He rested like a corpse on his throne of stone.”
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,21 +32,12 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: UB16
+  autoCollectorNumber: UB15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    When ~ enters, each player creates a 1/1 colorless Spirit creature token
-    with "When this token dies, if it wasn't sacrificed, you lose 2 life."
-
-
-    Whenever you cast a colorless spell or sacrifice a token, each player mills
-    a card, then draws a card.
-  flavorText: “He rested like a corpse on his throne of stone.”
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - symmetrical
@@ -73,4 +70,4 @@ tags:
   - synergy-colorless
   - opponent-loses-life
 imageExports:
-  front: The Hollow Throne - 1501513b.jpg
+  front: The Hollow Throne - 61dcb415.jpg

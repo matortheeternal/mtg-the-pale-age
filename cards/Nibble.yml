@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Nibble
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 2BB
   artImage:
     __type: image
     width: 800
@@ -20,6 +21,10 @@ front:
     yOffset: 440
   superType: Instant
   subType: ""
+  rulesText: Destroy target creature. Create a number of morsel tokens equal to
+    half that creature's toughness, rounded up. (They are artifact tokens with
+    "When you sacrifice this token, you gain 1 life.")
+  flavorText: The hands take everything from you. Your hair, your eyes, even your heart.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,17 +32,12 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Paperobott
-  autoCollectorNumber: UB11
+  autoCollectorNumber: UB17
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Remove all counters from target creature. Create X Morsel tokens,
-    where X is the number of counters removed this way. (They are artifacts with
-    "When you sacrifice this token, gain 1 life.")
-  flavorText: The hands take everything from you. Your hair, your eyes, even your heart.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - lifegain
@@ -64,4 +65,4 @@ tags:
   - hate-counters
   - synergy-sacrifice
 imageExports:
-  front: Nibble - 39eefe81.jpg
+  front: Nibble - 39a6792d.jpg

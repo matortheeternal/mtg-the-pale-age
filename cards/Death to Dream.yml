@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: David Daniel Alvarez
-  autoCollectorNumber: UB15
+  autoCollectorNumber: UB14
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ tags:
   - mana-value-matters
   - reanimate-creature
 imageExports:
-  front: Death to Dream - 450604a9.jpg
+  front: Death to Dream - f00b1a4e.jpg

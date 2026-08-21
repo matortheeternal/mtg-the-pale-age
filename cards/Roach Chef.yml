@@ -10,6 +10,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Roach Chef
   manaCost:
     __type: ManaCost
@@ -24,10 +25,15 @@ front:
     yOffset: 65
   superType: Creature
   subType: Insect
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    {1}{B}, Sacrifice another artifact or creature: Draw a card.
+  flavorText: "\"Nothing he makes is edible, but I haven't the heart to tell him.\""
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "1"
+  power: "2"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Thomas Ott
@@ -37,14 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    When ~ dies, create two Morsel tokens. (They are artifacts with "When you
-    sacrifice this token, gain 1 life.")
-  flavorText: "\"Nothing he makes is edible, but I haven't the heart to tell him.\""
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -64,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Roach Chef - 35dd53af.jpg
+  front: Roach Chef - 7b5397ea.jpg

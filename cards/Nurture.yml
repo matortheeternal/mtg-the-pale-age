@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Nurture
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: G
   artImage:
     __type: image
     width: 1134
@@ -18,8 +19,17 @@ front:
     cropHeight: 1247
     xOffset: 68
     yOffset: 353
-  superType: Sorcery
+  superType: Instant
   subType: ""
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Put a +1/+1 counter on target creature. If that creature's power is 1 or
+    less, put two +1/+1 counters on it instead.
+  flavorText: |-
+    "Having something to protect makes me stronger."
+    —Arin, Dryad Princess
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,26 +37,12 @@ front:
   showPT: ""
   rarity: common
   illustrator: Simon Kim
-  autoCollectorNumber: CG15
+  autoCollectorNumber: CG12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    Choose two. You may choose the same mode more than once.
-
-    - Put a +1/+1 counter on target permanent.
-
-    - Create a morsel token. (It is an artifact with "When you sacrifice this
-    token, gain 1 life.")
-  flavorText: |-
-    "Having something to protect makes me stronger."
-    —Arin, Dryad Princess
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -73,4 +69,4 @@ tags:
   - ramp
   - land-ramp
 imageExports:
-  front: Nurture - 1e77ce8d.jpg
+  front: Nurture - 4393a90f.jpg
