@@ -25,7 +25,7 @@ front:
   showPT: ""
   rarity: land
   illustrator: Abhinav Kumar
-  autoCollectorNumber: B01
+  autoCollectorNumber: L01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,5 +48,5 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Island - 203f7f01.jpg
+  front: Island - 0d5062df.jpg
 dirty: true

@@ -25,7 +25,7 @@ front:
   showPT: ""
   rarity: land
   illustrator: A.Shipwright
-  autoCollectorNumber: B02
+  autoCollectorNumber: L02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -48,5 +48,5 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Plains - e8d164bd.jpg
+  front: Plains - 87fcbb12.jpg
 dirty: true
