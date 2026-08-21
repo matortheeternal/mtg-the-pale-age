@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Goysan Dariya
-  autoCollectorNumber: CG17
+  autoCollectorNumber: CG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ tags:
   - ramp
   - land-ramp
 imageExports:
-  front: Access the Undergrowth - e903022e.jpg
+  front: Access the Undergrowth - bd06b6be.jpg

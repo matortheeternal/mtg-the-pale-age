@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Tarbosaurus Alpha
   manaCost:
     __type: ManaCost
@@ -20,9 +21,13 @@ front:
     yOffset: 188
   superType: Creature
   subType: Dinosaur
+  rulesText: Whenever ~ attacks, create a 2/2 green Dinosaur creature token.
+  flavorText: Raptors have a tenuous relationship with larger carnivores. They
+    like to be close to scavenge food, but not too close, lest they become a
+    snack themselves.
   flagLeft: ""
   flagRight: ""
-  power: "5"
+  power: "4"
   toughness: "5"
   showPT: true
   rarity: common
@@ -33,11 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Whenever ~ enters or attacks, create a 2/2 green Dinosaur creature token.
-  flavorText: Raptors have a tenuous relationship with larger carnivores. They
-    like to be close to scavenge food, but not too close, lest they become a
-    snack themselves.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,10 +57,11 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - triggered-ability
   - attack-trigger
   - repeatable-token-generator
 imageExports:
-  front: Tarbosaurus Alpha - 27b43272.jpg
+  front: Tarbosaurus Alpha - df00c618.jpg

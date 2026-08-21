@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Raptor Chase
   manaCost:
     __type: ManaCost
@@ -20,20 +21,6 @@ front:
     yOffset: 27
   superType: Sorcery
   subType: ""
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: Goysan Dariya
-  autoCollectorNumber: CG16
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     Create a 2/2 green Dinosaur creature token. If an opponent was dealt damage
     this turn, it enters with a +1/+1 counter on it.
@@ -42,6 +29,19 @@ front:
     Flashback {2}{G}{G} (You may cast this card from your graveyard for its
     flashback cost. Then exile it.)
   flavorText: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Goysan Dariya
+  autoCollectorNumber: CG15
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,9 +61,10 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - castable-from-graveyard
   - gives-pp-counters
 imageExports:
-  front: Raptor Chase - 1092f427.jpg
+  front: Raptor Chase - 2ab7bd47.jpg

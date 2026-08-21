@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: David Alvarez
-  autoCollectorNumber: CG19
+  autoCollectorNumber: CG18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ tags:
   - gives-vigilance
   - triggered-ability
 imageExports:
-  front: Take Root - 7426d21c.jpg
+  front: Take Root - 238b6803.jpg

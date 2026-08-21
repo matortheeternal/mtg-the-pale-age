@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Corran Brownlee
-  autoCollectorNumber: UB13
+  autoCollectorNumber: UB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ tags:
   - synergy-sacrifice
   - draw
 imageExports:
-  front: Wave of Bodies - a5e8a1e9.jpg
+  front: Wave of Bodies - fa0961ae.jpg

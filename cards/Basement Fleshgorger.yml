@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Basement Fleshgorger
   manaCost:
     __type: ManaCost
@@ -20,10 +21,20 @@ front:
     yOffset: 0
   superType: Creature
   subType: Horror
+  rulesText: >-
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+
+
+    At the beginning of your end step, remove a +1/+1 counter from ~. When you
+    do, create two 1/1 colorless Spirit creature tokens with "When this token
+    dies, if it wasn't sacrificed you lose 2 life."
+  flavorText: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "1"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: Asya Yordanova
@@ -33,17 +44,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Consume (As this enters, you may sacrifice any number of creatures and/or
-    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
-    they had.)
-
-
-    {1}, Remove a counter from ~: Target player creates a 1/1 colorless Spirit
-    creature token with "When this token dies, if it wasn't sacrificed, you lose
-    2 life."
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - sacrifice-outlet
@@ -74,4 +75,4 @@ tags:
   - gains-pp-counters
   - remove-counters
 imageExports:
-  front: Basement Fleshgorger - 686b1413.jpg
+  front: Basement Fleshgorger - f39f31d9.jpg

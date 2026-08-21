@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Greatwurm of the Depths
   manaCost:
     __type: ManaCost
@@ -20,6 +21,13 @@ front:
     yOffset: 151
   superType: Creature
   subType: Wurm
+  rulesText: >-
+    Each creature and/or token you sacrifice while casting this spell pays for
+    {1}.
+
+
+    Trample, ward {2}
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: "8"
@@ -33,19 +41,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Consume (As this enters, you may sacrifice any number of creatures and/or
-    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
-    they had.)
-
-
-    Trample, ward {3}
-
-
-    {2}{G}{G}, Reveal ~ from your hand: Put a +1/+1 counter on target creature
-    you control.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,6 +60,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - gives-pp-counters
@@ -74,4 +70,4 @@ tags:
   - sacrifice-outlet-token
   - gains-pp-counters
 imageExports:
-  front: Greatwurm of the Depths - aa92d6e3.jpg
+  front: Greatwurm of the Depths - 00452e41.jpg

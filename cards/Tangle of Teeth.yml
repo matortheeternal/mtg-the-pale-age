@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Tangle of Teeth
   manaCost:
     __type: ManaCost
@@ -20,9 +21,17 @@ front:
     yOffset: 1063
   superType: Creature
   subType: Ooze
+  rulesText: >-
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+
+
+    Haste
+  flavorText: Eating is its favorite pastime.
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "2"
   toughness: "1"
   showPT: true
   rarity: common
@@ -33,15 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Bloodthirst 1 (If an opponent was dealt damage this turn, this creature
-    enters with a +1/+1 counter on it.)
-
-
-    Whenever another creature you control dies, if it had a counter on it, put a
-    +1/+1 counter on ~.
-  flavorText: Eating is its favorite pastime.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,10 +61,11 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - gains-pp-counters
   - gives-pp-counters
   - activated-ability
 imageExports:
-  front: Tangle of Teeth - 8129d029.jpg
+  front: Tangle of Teeth - a3f1bb1e.jpg

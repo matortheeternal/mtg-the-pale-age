@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Gargantuan Feardrinker
   manaCost:
     __type: ManaCost
-    symbols: 5BB
+    symbols: 4BB
   artImage:
     __type: image
     width: 550
@@ -20,6 +21,14 @@ front:
     yOffset: 325
   superType: Creature
   subType: Nightmare
+  rulesText: >-
+    Consume (As this enters, you may sacrifice any number of creatures and/or
+    tokens. Put a +1/+1 counter on this for each sacrificed and each counter
+    they had.)
+
+
+    Ward—Pay 1 life for each counter on ~.
+  flavorText: It can taste your fear.
   flagLeft: ""
   flagRight: ""
   power: "6"
@@ -33,12 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    Trample
-
-    Whenever an opponent loses life, put a +1/+1 counter on ~.
-  flavorText: It can taste your fear, and it is very thirsty.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,9 +58,10 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - gains-pp-counters
@@ -65,4 +69,4 @@ tags:
   - repeatable-pp-counters
   - triggered-ability
 imageExports:
-  front: Gargantuan Feardrinker - 8f1347ea.jpg
+  front: Gargantuan Feardrinker - 5b5b0e75.jpg

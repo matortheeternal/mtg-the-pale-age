@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Might Makes Right
   manaCost:
     __type: ManaCost
@@ -20,6 +21,16 @@ front:
     yOffset: 106
   superType: Instant
   subType: ""
+  rulesText: >-
+    Choose one —
+
+    - Target creature you control fights target creature you don't control.
+    (Each deals damage equal to its power to the other.)
+
+    - Target creature you control gets +3/+3 and gains hexproof until end of
+    turn. (It can’t be the target of spells or abilities your opponents
+    control.)
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,17 +44,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Choose one —
-
-    - Target creature you control fights target creature you don't control.
-    (Each deals damage equal to its power to the other.)
-
-    - Target creature you control gets +3/+3 and gains hexproof until end of
-    turn. (It can’t be the target of spells or abilities your opponents
-    control.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +63,7 @@ front:
   chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - enlarge

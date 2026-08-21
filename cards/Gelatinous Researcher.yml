@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Gelatinous Researcher
   manaCost:
     __type: ManaCost
@@ -20,6 +21,14 @@ front:
     yOffset: 23
   superType: Creature
   subType: Ooze Scientist
+  rulesText: >-
+    {U}, {T}: Move a counter from target creature onto ~.
+
+
+    {T}, Remove a counter from ~: Create an Ichor token.  Activate this ability
+    only once each turn. (An Ichor token is an artifact with "{T}: Add one mana
+    of any color. Spend this mana only to activate abilities.")
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,15 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    {U}, {T}: Move a counter from target creature onto ~.
-
-
-    Remove a counter from ~: Create an Ichor token.  Activate this ability only
-    once each turn. (An Ichor token is an artifact with "{T}: Add one mana of
-    any color. Spend this mana only to activate abilities.")
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +61,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - move-counters
@@ -68,4 +69,4 @@ tags:
   - repeatable-token-generator
   - activated-ability
 imageExports:
-  front: Gelatinous Researcher - 674de575.jpg
+  front: Gelatinous Researcher - 3f7621bb.jpg
