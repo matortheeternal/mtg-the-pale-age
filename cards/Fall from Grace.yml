@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Fall from Grace
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 475
   superType: Instant
   subType: ""
+  rulesText: "Destroy target tapped creature. Its controller investigates. (They
+    create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw
+    a card.”)"
+  flavorText: Even legends may fall victim to hubris.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Destroy target tapped creature. Its controller gains 4 life.
-  flavorText: Even legends may fall victim to hubris.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal

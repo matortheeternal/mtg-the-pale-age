@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Mechanical Piranha
   manaCost:
     __type: ManaCost
@@ -20,19 +21,6 @@ front:
     yOffset: 19
   superType: Artifact Creature
   subType: Fish Construct
-  flagLeft: ""
-  flagRight: ""
-  power: "0"
-  toughness: "1"
-  showPT: true
-  rarity: common
-  illustrator: Isac Galvão
-  autoCollectorNumber: CU02
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
   rulesText: >-
     ~ enters with a +1/+1 counter on it.
 
@@ -43,10 +31,19 @@ front:
     Transfuse (Whenever another creature enters, you may move a counter from
     this creature onto it.)
   flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "0"
+  showPT: true
+  rarity: common
+  illustrator: Isac Galvão
+  autoCollectorNumber: CU02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +59,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - activated-ability

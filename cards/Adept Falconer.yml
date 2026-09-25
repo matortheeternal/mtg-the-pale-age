@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Adept Falconer
   manaCost:
     __type: ManaCost
@@ -20,10 +21,13 @@ front:
     yOffset: 254
   superType: Creature
   subType: Human Wizard
+  rulesText: When ~ enters, mill two cards and create a 1/1 blue Bird creature
+    token with flying.
+  flavorText: The falconers of the towers of mist know many forgotten histories.
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Marta Sokołowska
@@ -33,10 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: When ~ enters, mill three cards and create a 1/1 blue Bird creature
-    token with flying.
-  flavorText: The falconers of the towers of mist know many forgotten histories.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +56,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - multiple-bodies

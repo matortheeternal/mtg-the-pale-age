@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Field Researcher
   manaCost:
     __type: ManaCost
@@ -20,6 +21,14 @@ front:
     yOffset: 392
   superType: Creature
   subType: Human Scientist
+  rulesText: >-
+    When ~ enters, up to one target artifact you control becomes a 1/1 Robot
+    creature in addition to its other types.
+
+
+    {R}: Target artifact creature gets +1/+0 until end of turn. Activate only as
+    a sorcery.
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,18 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    When ~ enters, target artifact you control becomes a 1/1 Robot creature in
-    addition to its other types.
-
-
-    {R}: Target artifact creature gets +1/+0 until end of turn. Activate only as
-    a sorcery.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - firebreathing

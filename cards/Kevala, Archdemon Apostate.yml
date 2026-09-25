@@ -10,6 +10,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Kevala, Archdemon Apostate
   manaCost:
     __type: ManaCost
@@ -24,6 +25,19 @@ front:
     yOffset: 151
   superType: Legendary Creature
   subType: Demon Angel
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
+
+    When @ enters, put a lifelink counter on target creature.
+
+
+    If a player would gain life, they lose that much life instead.
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -37,23 +51,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    Undying (When this creature dies, if it had no +1/+1 counters on it, return
-    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
-
-
-    If a player would gain life, they lose that much life instead.
-
-
-    When @ enters, put a lifelink counter on target creature.
-  flavorText: null
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -69,6 +66,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: "15"
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

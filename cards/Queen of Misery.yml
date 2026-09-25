@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Queen of Misery
   manaCost:
     __type: ManaCost
@@ -20,6 +21,13 @@ front:
     yOffset: 232
   superType: Creature
   subType: Human Noble
+  rulesText: >-
+    Undying (When this creature dies, if it had no +1/+1 counters on it, return
+    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+
+
+    When ~ dies, each player mills cards equal to her toughness.
+  flavorText: Her life was one surrounded by death. Now that mercy is denied her.
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,14 +41,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Undying (When this creature dies, if it had no +1/+1 counters on it, return
-    it to the battlefield under its owner’s control with a +1/+1 counter on it.)
-
-
-    When ~ dies, each player mills cards equal to its toughness.
-  flavorText: Her life was one surrounded by death. Now that mercy is denied her.
   frame: auto
   artSize: auto
   crownStyle: auto

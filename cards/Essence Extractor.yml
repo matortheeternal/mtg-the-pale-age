@@ -2,6 +2,7 @@ front:
   template: magic/M15/Main
   colors: []
   colorOverride: []
+  faceSymbol: null
   name: Essence Extractor
   manaCost:
     __type: ManaCost
@@ -16,6 +17,14 @@ front:
     yOffset: 141
   superType: Artifact
   subType: ""
+  rulesText: >-
+    {1}: Add one mana of any color.
+
+
+    Sacrifice a colored permanent: Create two Ichor tokens. Any player may
+    activate this ability. (Ichor tokens are artifacts with "{T}: Add one mana
+    of any color. Spend this mana only to activate abilities.")
+  flavorText: He went into the cube, and out of the cube came a dark fluid, thick as paint.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -29,18 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Colored spells cost {1} more to cast.
-
-
-    Sacrifice a colored permanent: Create two Ichor tokens. Any player may
-    activate this ability. (Ichor tokens are artifacts with "{T}: Add one mana
-    of any color. Spend this mana only to activate abilities.")
-  flavorText: He went into the cube, and out of the cube came a dark fluid, thick as paint.
-  chopTop: "5"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "5"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - sacrifice-outlet

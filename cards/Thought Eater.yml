@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Thought Eater
   manaCost:
     __type: ManaCost
-    symbols: 5U
+    symbols: 3UU
   artImage:
     __type: image
     width: 736
@@ -20,6 +21,14 @@ front:
     yOffset: 16
   superType: Creature
   subType: Illusion
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, suppress 4. (Look at the top four cards of target player's
+    library. Choose one. Put that card back on top of their library and the rest
+    into their graveyard.)
+  flavorText: To them, thoughts are delicious.
   flagLeft: ""
   flagRight: ""
   power: "6"
@@ -33,15 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Flash
-
-
-    When ~ enters, suppress 4. (To suppress 4, look at the top four cards of
-    target player's library. Choose one. Put that card back on top of their
-    library and the rest into their graveyard.)
-  flavorText: To them, thoughts are delicious.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +61,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - peek-library

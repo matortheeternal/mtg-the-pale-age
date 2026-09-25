@@ -2,6 +2,7 @@ front:
   template: magic/M15/Main
   colors: []
   colorOverride: []
+  faceSymbol: null
   name: Engine of Endless Ruin
   manaCost:
     __type: ManaCost
@@ -16,6 +17,14 @@ front:
     yOffset: 167
   superType: Artifact
   subType: ""
+  rulesText: >-
+    All lands have "{T}, Sacrifice this land: Add {C}{C}{C}."
+
+
+    Discard a card: Return a land card from your graveyard to your hand. Any
+    player may activate this ability.
+  flavorText: '"When we unlocked the technology to regrow entire worlds, we began
+    to destroy them just as quickly."'
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -29,18 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    All lands have "{T}, Sacrifice this land: Add {C}{C}{C}."
-
-
-    {1}: Return a land card from your graveyard to your hand. Any player may
-    activate this ability.
-  flavorText: '"When we unlocked the technology to regrow entire worlds, we began
-    to destroy them just as quickly."'
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +53,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - symmetrical
