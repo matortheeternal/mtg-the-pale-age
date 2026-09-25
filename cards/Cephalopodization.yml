@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Cephalopodization
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: U
   artImage:
     __type: image
     width: 1920
@@ -20,6 +21,18 @@ front:
     yOffset: 0
   superType: Enchantment
   subType: Aura
+  rulesText: >-
+    Enchant artifact
+
+
+    When ~ enters, investigate. (Create a Clue token. It’s an artifact with
+    “{2}, Sacrifice this token: Draw a card.”)
+
+
+    Enchanted artifact loses all abilities and is a blue Octopus creature with
+    base power and toughness 3/3. (It loses all other card types and creature
+    types.)
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,24 +40,12 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Atramentum
-  autoCollectorNumber: UU14
+  autoCollectorNumber: UU12
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Enchant artifact
-
-
-    When ~ enters, draw a card.
-
-
-    Enchanted artifact loses all abilities and is a blue Octopus creature with
-    base power and toughness 3/3. (It loses all other card types and creature
-    types.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,6 +65,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal-artifact

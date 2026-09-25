@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Teleporting Inventor
   manaCost:
     __type: ManaCost
@@ -20,6 +21,17 @@ front:
     yOffset: 1363
   superType: Creature
   subType: Human Artificer
+  rulesText: >-
+    Flash
+
+
+    When ~ enters, archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
+
+
+    {U}{U}{U}: Return another target creature you control to its owner's hand.
+  flavorText: ""
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,21 +45,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Flash
-
-
-    When ~ enters, archive a noncreature card. (Exile a noncreature card from
-    your graveyard. You may play it on a later turn. If it would be put into a
-    graveyard, exile it instead.)
-
-
-    {U}{U}{U}: Return ~ to its owner's hand.
-  flavorText: ""
-  chopTop: "4"
-  chopBottom: "4"
-  maxFontSize: ""
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,6 +60,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: "4"
+  chopBottom: "4"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - mana-sink

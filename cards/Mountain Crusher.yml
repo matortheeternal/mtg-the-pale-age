@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Mountain Crusher
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 47
   superType: Artifact Creature
   subType: Golem
+  rulesText: |
+    Devoid (This card has no color.)
+
+    Trample
+    Whenever ~ enters or attacks, sacrifice an artifact or a mountain.
+  flavorText: |-
+    "They call it the mountain crusher."
+    "A little on the nose isn't it?"
+    "I'd worry more about the feet."
   flagLeft: ""
   flagRight: ""
   power: "6"
@@ -33,19 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: |
-    Devoid (This card has no color.)
-
-    Trample
-    Whenever ~ enters or attacks, sacrifice a mountain.
-  flavorText: |-
-    "They call it the mountain crusher."
-    "A little on the nose isn't it?"
-    "I'd worry more about the feet."
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -61,6 +58,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - sacrifice-outlet

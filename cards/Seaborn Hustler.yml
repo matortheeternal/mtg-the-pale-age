@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Seaborn Hustler
   manaCost:
     __type: ManaCost
@@ -20,10 +21,18 @@ front:
     yOffset: 120
   superType: Creature
   subType: Human Pirate
+  rulesText: >-
+    Devoid (This card has no color.)
+
+
+    Whenever ~ deals combat damage to a player, that player mills that many
+    cards and you create an Ichor token. (It is an artifact with "{T}: Add one
+    mana of any color. Spend this mana only to activate abilities.")
+  flavorText: '"Arr, ye be giving me all yer precious belongings now, me hearty."'
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Roberto Ricci
@@ -33,18 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >-
-    Devoid (This card has no color.)
-
-
-    Whenever ~ deals combat damage to a player, mill a card and create an Ichor
-    token. (It is an artifact with "{T}: Add one mana of any color. Spend this
-    mana only to activate abilities.")
-  flavorText: '"Arr, ye be giving me all yer precious belongings now, me hearty."'
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -60,6 +57,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - mill

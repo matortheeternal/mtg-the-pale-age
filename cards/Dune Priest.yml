@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Dune Priest
   manaCost:
     __type: ManaCost
@@ -20,6 +21,12 @@ front:
     yOffset: 89
   superType: Creature
   subType: Human Monk
+  rulesText: |-
+    Devoid (This card has no color.)
+
+    When ~ leaves the battlefield, draw a card, then discard a card.
+  flavorText: '"The dune priests are a fearsome lot. My friend got in a scuffle
+    with one awhile back. They broke both his arms."'
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,13 +40,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    Devoid (This card has no color.)
-
-    When ~ leaves the battlefield, mill two cards.
-  flavorText: '"The dune priests are a fearsome lot. My friend got in a scuffle
-    with one awhile back. They broke both his arms."'
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -59,6 +59,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - mill

@@ -25,9 +25,9 @@ front:
     {U}, {T}: Move a counter from target creature onto ~.
 
 
-    {T}, Remove a counter from ~: Create an Ichor token.  Activate this ability
-    only once each turn. (An Ichor token is an artifact with "{T}: Add one mana
-    of any color. Spend this mana only to activate abilities.")
+    {T}, Remove a counter from ~: Create an Ichor token.  (It is an artifact
+    with "{T}: Add one mana of any color. Spend this mana only to activate
+    abilities.")
   flavorText: null
   flagLeft: ""
   flagRight: ""

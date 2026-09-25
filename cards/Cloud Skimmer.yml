@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Cloud Skimmer
   manaCost:
     __type: ManaCost
@@ -20,6 +21,19 @@ front:
     yOffset: 804
   superType: Artifact
   subType: Vehicle
+  rulesText: >
+    Flying
+
+
+    When ~ enters, create a 1/1 white Human creature token.
+
+
+    Trailblaze - Whenever you crew or saddle for the first time each turn, each
+    player mills a card.
+
+
+    Crew 1
+  flavorText: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,23 +47,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  rulesText: >
-    Flying
-
-
-    When ~ enters, create a 1/1 white Human creature token.
-
-
-    Trailblaze - Whenever you crew or saddle for the first time each turn, scry
-    1.
-
-
-    Crew 1
-  flavorText: null
-  chopTop: "2"
-  chopBottom: ""
-  maxFontSize: "17.5"
-  centerText: never
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,8 +62,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-notes: +maybe create a 1/1 white human creature token on etb, and then change
-  stats to 1/2 and scry to scry 1?
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: "17.5"
+  centerText: never
+  citationStyle: italic
+notes: ""
 tags: []
 imageExports:
   front: Cloud Skimmer - 59270451.jpg

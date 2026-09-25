@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Threads of Grace
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 1W
   artImage:
     __type: image
     width: 736
@@ -20,6 +21,10 @@ front:
     yOffset: 306
   superType: Sorcery
   subType: ""
+  rulesText: Return target creature card with mana value 3 or less from your
+    graveyard to the battlefield tapped. If you cast this spell from anywhere
+    other than your hand, untap that creature.
+  flavorText: The threads descended, and she rose.
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,17 +32,12 @@ front:
   showPT: ""
   rarity: common
   illustrator: Zuha
-  autoCollectorNumber: CW13
+  autoCollectorNumber: CW15
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: true
-  faceSymbol: null
-  rulesText: Return target creature card with mana value 3 or less from your
-    graveyard to the battlefield tapped. If you cast this spell from anywhere
-    other than your hand, untap that creature.
-  flavorText: The threads descended, and she rose.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - recursion
