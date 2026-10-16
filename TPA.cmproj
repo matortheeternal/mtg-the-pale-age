@@ -47,9 +47,7 @@ symbol: >+
 
 export:
   CardImagesExporter:
-    imageType:
-      id: jpg
-      name: JPG
+    imageType: png
     quality: "0.92"
     scale: "2"
     bleed: "0"
@@ -60,6 +58,9 @@ export:
     Test: ""
     test: ""
     baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master
+  TTSSpawnerExporter:
+    basePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/
+    ttsBasePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/dist/tts
 pack:
   - label: Common
     count: "10"
