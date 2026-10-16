@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Yudho
-  autoCollectorNumber: CU09
+  autoCollectorNumber: CU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ tags:
   - peek-library
   - mill
 imageExports:
-  front: Thought Eater - c41d0ecc.jpg
+  front: Thought Eater - 34fb3a7e.png
