@@ -27,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Chris Odgers
-  autoCollectorNumber: CU08
+  autoCollectorNumber: CU09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ tags:
   - flying-counter
   - evasion
 imageExports:
-  front: Ghost Bass - 41dd72a1.jpg
+  front: Ghost Bass - 9c91cde1.png
