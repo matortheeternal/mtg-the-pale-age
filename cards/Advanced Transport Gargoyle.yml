@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Advanced Transport Gargoyle
   manaCost:
     __type: ManaCost
@@ -20,20 +21,6 @@ front:
     yOffset: 141
   superType: Artifact Creature
   subType: Gargoyle
-  flagLeft: ""
-  flagRight: ""
-  power: "4"
-  toughness: "3"
-  showPT: true
-  rarity: uncommon
-  illustrator: Massimiliano Haematinon Nigro
-  autoCollectorNumber: UU07
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     Flying
 
@@ -44,6 +31,20 @@ front:
     {1}{U}{U}{U}: Put a +1/+1 counter on ~. It can attack this turn as if it
     didn't have defender.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: Massimiliano Haematinon Nigro
+  autoCollectorNumber: UU05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto

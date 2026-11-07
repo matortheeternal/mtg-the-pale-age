@@ -13,7 +13,7 @@ front:
   name: Nyxie, the Nurturer
   manaCost:
     __type: ManaCost
-    symbols: 7BW
+    symbols: 7WB
   artImage:
     __type: image
     width: 2200

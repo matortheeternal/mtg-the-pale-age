@@ -10,6 +10,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Grace of the Hunt
   manaCost:
     __type: ManaCost
@@ -24,6 +25,15 @@ front:
     yOffset: 239
   superType: Enchantment
   subType: ""
+  rulesText: >-
+    Creatures you control have bloodthirst 1. (If an opponent was dealt damage
+    this turn, that creature enters with an additional +1/+1 counter on it.)
+
+
+    Whenever a creature you control attacks, you may remove a +1/+1 counter from
+    it. If you do, draw a card.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -31,21 +41,12 @@ front:
   showPT: false
   rarity: uncommon
   illustrator: Constelar
-  autoCollectorNumber: UZ24
+  autoCollectorNumber: UZ18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Creature spells you control have bloodthirst 1. (They enter with an
-    additional +1/+1 counter on them if an opponent was dealt damage this turn.)
-
-
-    Whenever a creature you control attacks, you may remove a +1/+1 counter from
-    it. If you do, draw a card.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -65,6 +66,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

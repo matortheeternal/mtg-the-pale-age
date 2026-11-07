@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Overexposure
   manaCost:
     __type: ManaCost
@@ -20,6 +21,13 @@ front:
     yOffset: 105
   superType: Enchantment
   subType: Aura
+  rulesText: |-
+    Enchant artifact, creature, or planeswalker
+
+    Enchanted permanent cannot attack, block, or activate abilities.
+  flavorText: Light suffused his face and upper body like a pale flame. He
+    screamed, but no matter how he struggled, the light remained.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,19 +35,12 @@ front:
   showPT: ""
   rarity: common
   illustrator: kidswithghosts
-  autoCollectorNumber: CW17
+  autoCollectorNumber: CW16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    Enchant artifact, creature, or planeswalker
-
-    Enchanted permanent loses all abilities and can't attack or block.
-  flavorText: Light suffused his face and upper body like a pale flame. He
-    screamed, but no matter how he struggled, the light remained.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,6 +60,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal

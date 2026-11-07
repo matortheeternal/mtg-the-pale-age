@@ -13,7 +13,7 @@ front:
   name: Awakened Continent
   manaCost:
     __type: ManaCost
-    symbols: 6GGRR
+    symbols: 6RRGG
   artImage:
     __type: image
     width: 1920

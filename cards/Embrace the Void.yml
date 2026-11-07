@@ -13,7 +13,7 @@ front:
   name: Embrace the Void
   manaCost:
     __type: ManaCost
-    symbols: BW
+    symbols: WB
   artImage:
     __type: image
     width: 735
@@ -31,7 +31,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Sarah Winter
-  autoCollectorNumber: RZ19
+  autoCollectorNumber: RZ15
   collectorNumber: ""
   setCode: ""
   language: ""

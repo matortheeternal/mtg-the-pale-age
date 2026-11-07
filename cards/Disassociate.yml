@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Disassociate
   manaCost:
     __type: ManaCost
@@ -20,19 +21,6 @@ front:
     yOffset: 91
   superType: Instant
   subType: ""
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: Éric Lacombe
-  autoCollectorNumber: CB18
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
   rulesText: >
     Devoid (This card has no color.)
 
@@ -43,10 +31,20 @@ front:
 
     Exile target creature or planeswalker.
   flavorText: His mind unspooled, then evaporated.
-  chopTop: ""
-  chopBottom: ""
-  maxFontSize: ""
-  centerText: never
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Éric Lacombe
+  autoCollectorNumber: UB17
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: devoid
   artSize: auto
   crownStyle: auto
@@ -62,6 +60,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - removal

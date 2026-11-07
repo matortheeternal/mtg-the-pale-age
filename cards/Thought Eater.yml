@@ -29,6 +29,7 @@ front:
     library. Choose one. Put that card back on top of their library and the rest
     into their graveyard.)
   flavorText: To them, thoughts are delicious.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "6"
@@ -36,7 +37,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Yudho
-  autoCollectorNumber: CU08
+  autoCollectorNumber: CU09
   collectorNumber: ""
   setCode: ""
   language: ""

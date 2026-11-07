@@ -14,7 +14,7 @@ front:
   name: Kevala, Archdemon Apostate
   manaCost:
     __type: ManaCost
-    symbols: BW
+    symbols: WB
   artImage:
     __type: image
     width: 1152
@@ -45,7 +45,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Vladimir Matyukin
-  autoCollectorNumber: RZ01
+  autoCollectorNumber: RZ02
   collectorNumber: ""
   setCode: ""
   language: ""

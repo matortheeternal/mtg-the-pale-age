@@ -13,7 +13,7 @@ front:
   name: Warden of Death
   manaCost:
     __type: ManaCost
-    symbols: 1BW
+    symbols: 1WB
   artImage:
     __type: image
     width: 3840

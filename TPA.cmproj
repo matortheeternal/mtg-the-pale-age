@@ -1,66 +1,6 @@
 game: magic
 version: 1
 defaultBackImage: games/magic/assets/back.png
-title: The Pale Age
-author: ""
-description: ""
-illustrator: ""
-legalText: ""
-setCode: TPA
-language: EN
-collectorNumberFormat: cardCodes
-rarityOrder: after
-symbol: >+
-  <svg class="set-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100
-  100">
-      <defs>
-          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop class="g1" offset="0%" stop-color="black" />
-              <stop class="g2" offset="45%" stop-color="black" />
-              <stop class="g3" offset="55%" stop-color="black" />
-              <stop class="g4" offset="100%" stop-color="black" />
-          </linearGradient>
-          <path id="layer-5" d="M 77.3859 55.3942 C 77.3859 36.9465 65.0784 21.9917 49.8963 21.9917 C 34.7142 21.9917 22.4066 36.9465 22.4066 55.3942 C 22.4066 73.8419 34.7142 88.7967 49.8963 88.7967 C 65.0784 88.7967 77.3859 73.8419 77.3859 55.3942 Z" />
-          <path id="layer-4" d="M 13.278 11.6183 L 88.7967 11.6183 L 88.7967 27.8008 L 13.278 27.8008 L 13.278 11.6183 Z" />
-          <path id="layer-3" d="M 65.7676 59.1286 C 65.7676 47.4413 58.7547 37.9668 50.1037 37.9668 C 41.4528 37.9668 34.4398 47.4413 34.4398 59.1286 C 34.4398 70.816 41.4528 80.2905 50.1037 80.2905 C 58.7547 80.2905 65.7676 70.816 65.7676 59.1286 Z" />
-          <path id="layer-2" d="M 36.722 84.4398 L 63.4855 84.4398 L 63.4855 94.1909 L 36.722 94.1909 L 36.722 84.4398 Z" />
-          <path id="layer-1" d="M 52.5887 5.8833 L 57.72 27.6687 L 67.5494 6.417 L 69.6095 28.6561 L 82.3174 5.7054 L 75.2413 46.0114 L 48.3335 35.4167 L 24.1791 42.4532 L 16.8527 6.0612 L 32.5643 25.8095 L 36.3765 6.0612 L 43.7029 27.3128 L 52.5887 5.8833 Z" />
-          <mask id="group-1">
-              <use href="#layer-5" fill="white" />
-              <use href="#layer-4" fill="black" />
-              <use href="#layer-3" fill="black" />
-              <use href="#layer-2" fill="white" />
-              <use href="#layer-1" fill="white" />
-          </mask>
-          <filter id="outline-filter" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
-              <feMorphology operator="dilate" radius="3" in="SourceAlpha" result="expanded"/>
-              <feFlood class="outline" flood-color="white" result="outline-color"/>
-              <feComposite operator="in" in="outline-color" in2="expanded" result="outline-full"/>
-              <feComposite operator="out" in="outline-full" in2="SourceAlpha" result="outline"/>
-              <feComposite operator="over" in="outline" in2="SourceGraphic"/>
-          </filter>
-      </defs>
-      <g filter="url(#outline-filter)">
-          <rect height="100" width="100" mask="url(#group-1)" fill="url(#grad)" />
-      </g>
-  </svg>
-
-export:
-  CardImagesExporter:
-    imageType: png
-    quality: "0.92"
-    scale: "2"
-    bleed: "0"
-  TTSExporter:
-    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/images
-    ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/tts
-  WebExporter:
-    Test: ""
-    test: ""
-    baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master
-  TTSSpawnerExporter:
-    basePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/
-    ttsBasePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/dist/tts
 pack:
   - label: Common
     count: "10"
@@ -94,6 +34,32 @@ pack:
       - expression: r:Special
         weight: 1
     collation: sheet
+title: The Pale Age
+author: ""
+description: The Pale Age tells the story of a plane wrought by disaster and
+  drained of color.
+illustrator: ""
+legalText: ""
+setCode: TPA
+language: EN
+collectorNumberFormat: cardCodes
+rarityOrder: after
+export:
+  CardImagesExporter:
+    imageType: png
+    quality: "0.92"
+    scale: "2"
+    bleed: "0"
+  TTSExporter:
+    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/images
+    ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/tts
+  WebExporter:
+    Test: ""
+    test: ""
+    baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master
+  TTSSpawnerExporter:
+    basePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/
+    ttsBasePath: https://raw.githubusercontent.com/matortheeternal/mtg-the-pale-age/refs/heads/master/dist/tts
 skeleton:
   White:
     mythic: []

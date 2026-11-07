@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Asset, Lord of Knowledge
   manaCost:
     __type: ManaCost
@@ -20,6 +21,18 @@ front:
     yOffset: 433
   superType: Legendary Artifact Creature
   subType: Robot
+  rulesText: >-
+    Ward {1}
+
+
+    Whenever @ enters or you cast a spell from exile, draw a card.
+
+
+    {1}{U}{U}{U}: Archive a noncreature card. (Exile a noncreature card from
+    your graveyard. You may play it on a later turn. If it would be put into a
+    graveyard, exile it instead.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,15 +46,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Whenever @ enters or you cast a spell from exile, draw a card.
-
-
-    {1}{U}{U}{U}: Archive a noncreature card. (Exile a noncreature card from
-    your graveyard. You may play it on a later turn. If it would be put into a
-    graveyard, exile it instead.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +65,7 @@ front:
   chopBottom: "2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - draw

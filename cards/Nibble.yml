@@ -25,14 +25,15 @@ front:
     half that creature's toughness, rounded up. (They are artifact tokens with
     "When you sacrifice this token, you gain 1 life.")
   flavorText: The hands take everything from you. Your hair, your eyes, even your heart.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: false
-  rarity: uncommon
+  rarity: common
   illustrator: Paperobott
-  autoCollectorNumber: UB17
+  autoCollectorNumber: CB18
   collectorNumber: ""
   setCode: ""
   language: ""
