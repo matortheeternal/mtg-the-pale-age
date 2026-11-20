@@ -46,7 +46,7 @@ collectorNumberFormat: cardCodes
 rarityOrder: after
 export:
   CardImagesExporter:
-    imageType: png
+    imageType: jpg
     quality: "0.92"
     scale: "2"
     bleed: "0"
